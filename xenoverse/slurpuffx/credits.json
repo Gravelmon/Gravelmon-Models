@@ -1,0 +1,37 @@
+{
+  "game": "pokemon",
+  "pokemon": "slurpuff",
+  "entries": [
+    {
+      "formAspects": [
+        "x"
+      ],
+      "inheritsFrom": {
+        "pokemon": "slurpuff",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DigitalRaikan"
+      },
+      "contributors": [
+        {
+          "login": "DigitalRaikan"
+        }
+      ],
+      "submittedAt": "2026-10-08T19:37:07.686Z",
+      "models": [
+        "xenoverse/slurpuffx/xenoverse_slurpuffx.geo.json"
+      ],
+      "animations": [
+        "xenoverse/slurpuffx/xenoverse_slurpuffx.animation.json"
+      ],
+      "textures": [
+        "xenoverse/slurpuffx/slurpuff_x.png",
+        "xenoverse/slurpuffx/slurpuff_x_alpha.png",
+        "xenoverse/slurpuffx/slurpuff_x_shiny.png",
+        "xenoverse/slurpuffx/slurpuffx.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

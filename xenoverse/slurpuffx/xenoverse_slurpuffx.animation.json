@@ -1,0 +1,187 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.xenoverse_slurpuffx.blink": {
+      "animation_length": 0.1667,
+      "bones": {
+        "eyelid_right": {
+          "position": {
+            "0.0": [
+              0,
+              0,
+              -0.1
+            ],
+            "0.125": [
+              0,
+              0,
+              -0.1
+            ],
+            "0.1667": [
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "eyelid_left": {
+          "position": {
+            "0.0": [
+              0,
+              0,
+              -0.1
+            ],
+            "0.125": [
+              0,
+              0,
+              -0.1
+            ],
+            "0.1667": [
+              0,
+              0,
+              0
+            ]
+          }
+        }
+      }
+    },
+    "animation.xenoverse_slurpuffx.ground_idle": {
+      "loop": true,
+      "bones": {
+        "torso": {
+          "rotation": [
+            5,
+            0,
+            0
+          ]
+        },
+        "head": {
+          "rotation": [
+            -5,
+            0,
+            0
+          ]
+        },
+        "hair_right": {
+          "rotation": [
+            0,
+            0,
+            5
+          ]
+        },
+        "arm_right": {
+          "rotation": [
+            0,
+            -30,
+            0
+          ]
+        },
+        "tounge": {
+          "rotation": [
+            35,
+            0,
+            0
+          ],
+          "position": [
+            3.5,
+            0.25,
+            0
+          ]
+        },
+        "arm_left": {
+          "rotation": [
+            0,
+            30,
+            0
+          ]
+        },
+        "hair_right_ball": {
+          "rotation": [
+            -3.4511,
+            -9.3913,
+            20.2836
+          ],
+          "position": [
+            2,
+            0,
+            0
+          ]
+        },
+        "mouth_open": {
+          "position": [
+            0,
+            0.25,
+            0
+          ]
+        },
+        "hair_ball_tag": {
+          "rotation": [
+            0,
+            35,
+            0
+          ]
+        },
+        "hair_left": {
+          "rotation": [
+            0,
+            0,
+            -5
+          ]
+        },
+        "hair_left_ball": {
+          "rotation": [
+            -3.4512,
+            9.3913,
+            -20.2835
+          ],
+          "position": [
+            -2,
+            0,
+            0
+          ]
+        },
+        "eye_right": {
+          "rotation": [
+            0,
+            0,
+            2.5
+          ]
+        },
+        "eye_left": {
+          "rotation": [
+            0,
+            0,
+            -2.5
+          ]
+        },
+        "eye_right_overlay": {
+          "position": [
+            0,
+            0,
+            -0.1
+          ]
+        },
+        "eye_left_overlay": {
+          "position": [
+            0,
+            0,
+            -0.1
+          ]
+        },
+        "hair_ball_tag2": {
+          "rotation": [
+            0,
+            35,
+            0
+          ]
+        },
+        "hair_ball_tag3": {
+          "rotation": [
+            0,
+            35,
+            0
+          ]
+        }
+      }
+    }
+  }
+}
