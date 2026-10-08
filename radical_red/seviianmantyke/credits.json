@@ -1,0 +1,39 @@
+{
+  "game": "pokemon",
+  "pokemon": "mantyke",
+  "entries": [
+    {
+      "formAspects": [
+        "seviian"
+      ],
+      "inheritsFrom": {
+        "pokemon": "mantyke",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "elpgeon"
+      },
+      "contributors": [
+        {
+          "login": "elpgeon"
+        }
+      ],
+      "submittedAt": "2026-10-08T21:23:52.136Z",
+      "models": [
+        "radical_red/seviianmantyke/radical_red_seviianmantyke.geo.json"
+      ],
+      "animations": [
+        "radical_red/seviianmantyke/radical_red_seviianmantyke.animation.json"
+      ],
+      "textures": [
+        "radical_red/seviianmantyke/texture__seviianmantyke.png",
+        "radical_red/seviianmantyke/seviianmantyke_alpha.png",
+        "radical_red/seviianmantyke/seviianmantyke_emissive.png",
+        "radical_red/seviianmantyke/seviianmantyke_shiny.png",
+        "radical_red/seviianmantyke/seviianmantyke_shiny_emissive.png",
+        "radical_red/seviianmantyke/seviianmantyke.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
