@@ -1,0 +1,71 @@
+{
+  "portraitScale": 1.82,
+  "portraitTranslation": [
+    -0.12,
+    -0.53,
+    0
+  ],
+  "profileScale": 0.88,
+  "profileTranslation": [
+    0,
+    0.39,
+    0
+  ],
+  "rootBone": "swirlix",
+  "poses": {
+    "standing": {
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "swim",
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('swirlix_x', 'blink')"
+      ],
+      "animations": [
+        "q.look('torso', 1, 1, 10, -10, 30, -30)",
+        "q.bedrock('swirlix_x', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "walk"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('swirlix_x', 'blink')"
+      ],
+      "animations": [
+        "q.look('torso', 1, 1, 10, -10, 30, -30)",
+        "q.bedrock('swirlix_x', 'ground_idle')",
+        "q.biped_walk(0.66, 1.4, 'leg_left', 'leg_right')"
+      ]
+    },
+    "hover": {
+      "poseTypes": [
+        "hover"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('swirlix_x', 'blink')"
+      ],
+      "animations": [
+        "q.look('torso_only', 1, 1, 20, -20, 30, -30)",
+        "q.bedrock('swirlix_x', 'air_idle')"
+      ]
+    },
+    "fly": {
+      "poseTypes": [
+        "fly"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('swirlix_x', 'blink')"
+      ],
+      "animations": [
+        "q.look('torso_only', 1, 1, 20, -20, 30, -30)",
+        "q.bedrock('swirlix_x', 'air_idle')"
+      ]
+    }
+  }
+}
