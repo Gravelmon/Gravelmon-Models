@@ -1,0 +1,39 @@
+name: Validate tree
+
+# Checks every pull request's tree with the same validators the migration and `tag-version.yml` use:
+# every form folder (`<game>/<name>/`) has a valid install.json; every file has an entry and every
+# entry a file; every `uses` target exists; no two folders install to the same path (a shared file is
+# stored once, in its owner's folder).
+#
+# The validator comes from the BASE branch (checked out beside the PR's tree), so a PR cannot weaken
+# the rules it is checked against. No secrets are needed.
+
+on:
+  pull_request:
+    branches:
+      - holding/holding-branch
+      - "[0-9]*.[0-9]*.[0-9]*"
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the validator (base branch)
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.base.sha }}
+          path: trusted
+          sparse-checkout: scripts
+          sparse-checkout-cone-mode: true
+
+      - name: Check out the pull request's tree
+        uses: actions/checkout@v4
+        with:
+          path: tree
+
+      - name: Validate the tree
+        run: node trusted/scripts/validate-tree.mjs tree

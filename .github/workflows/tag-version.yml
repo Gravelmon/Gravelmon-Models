@@ -1,0 +1,53 @@
+name: Tag version
+
+# A version branch (`x.y.z`) is merged into `main` by pull request. That merge:
+#
+#   1. checks the tree (every form folder has a valid install.json; every file has an entry and every
+#      entry a file; every `uses` target exists; no two folders install to the same path);
+#   2. creates the tag `v<x.y.z>` on the merge commit. The client downloads GitHub's archive of that
+#      tag, so nothing is built or uploaded. A tag NEVER moves: an existing tag on another commit stops
+#      the run, and there is no force option;
+#   3. records the tag with POST /api/internal/publish, so the status route can answer without GitHub.
+#
+# Mod releases are gated on this tag: `publish-release.yml` in the Mod repo refuses to run until
+# `v<version>` exists here. To re-run after a failure (for example the API was down after the tag was
+# created), use "Run workflow" on `main` with the version: it finds the tag on this very commit and
+# carries on to the publish call, which is idempotent.
+#
+# Recommended repository settings: a tag ruleset on `v*` that blocks deletion and updates, so the tag
+# stays immutable even for admins.
+#
+# Required repository configuration (Settings -> Secrets and variables -> Actions):
+#   secrets:   POKEMON_STATUS_INTERNAL_TOKEN
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "Version to (re)tag, e.g. 4.1.0. Tags the commit this run is on, so run it on main."
+        required: true
+
+permissions:
+  contents: write
+  pull-requests: read
+
+concurrency:
+  group: tag-version
+  cancel-in-progress: false
+
+jobs:
+  tag:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate the tree, create the tag, record it
+        env:
+          GRAVELMON_API_DOMAIN: https://submit.gravelmon.com
+          POKEMON_STATUS_INTERNAL_TOKEN: ${{ secrets.POKEMON_STATUS_INTERNAL_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
+          VERSION_INPUT: ${{ github.event.inputs.version }}
+        run: node scripts/tag-version.mjs .

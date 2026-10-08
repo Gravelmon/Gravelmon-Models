@@ -1,0 +1,49 @@
+name: Validate data tags
+
+# A model submission carries its species patch (`<!-- gravelmon-data v1 ... -->`) and the Mod's
+# change log / todo lines (`<!-- gravelmon-notes v1 ... -->`) as hidden tags in the pull request
+# description. This check reads them while the author can still fix them (plan, section 5):
+#
+#   - schema, allowed paths (baseScale, hitbox, remove the not_modeled label) and size, locally;
+#   - then POST /api/internal/validate-data-changes (read only): every form exists, is editable, and
+#     every `from` still holds. A stale tag fails here, not after the merge.
+#
+# A PR without tags passes. A PR with tags that the Gravelmon GitHub App did not open fails: nothing
+# would apply those tags after the merge, so they must not look as if they will.
+#
+# Required repository configuration (Settings -> Secrets and variables -> Actions):
+#   secrets:   POKEMON_STATUS_INTERNAL_TOKEN
+#   variables: GRAVELMON_APP_LOGIN   the App's bot login, for example `gravelmon-submissions[bot]`
+#
+# The scripts are taken from the BASE branch, not from the pull request, so a PR cannot change the
+# rules it is checked against. (Fork PRs get no secrets; submissions are same-repo branches.)
+
+on:
+  pull_request:
+    types: [opened, edited, synchronize, reopened]
+    branches:
+      - holding/holding-branch
+
+permissions:
+  contents: read
+
+concurrency:
+  group: validate-data-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.base.sha }}
+          sparse-checkout: scripts
+          sparse-checkout-cone-mode: true
+
+      - name: Validate the description's tags
+        env:
+          GRAVELMON_API_DOMAIN: https://submit.gravelmon.com
+          POKEMON_STATUS_INTERNAL_TOKEN: ${{ secrets.POKEMON_STATUS_INTERNAL_TOKEN }}
+          GRAVELMON_APP_LOGIN: ${{ vars.GRAVELMON_APP_LOGIN }}
+        run: node scripts/validate-data.mjs

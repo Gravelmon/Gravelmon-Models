@@ -1,0 +1,16 @@
+# The tree is installed byte for byte into the game (the migration's round trip is a byte for byte
+# diff), so git must never convert line endings or treat anything as text.
+* -text
+*.png binary
+*.ogg binary
+
+# Not runtime files: GitHub's archive of a version tag (what the client downloads) honours
+# export-ignore, so none of these is in the zip.
+credits.json export-ignore
+/_unreferenced export-ignore
+# `<game>/.mismatched/` holds sprites no form claims; it is not in the zip (any game, any depth).
+.mismatched/ export-ignore
+/.github export-ignore
+/scripts export-ignore
+/.gitattributes export-ignore
+/MIGRATION.md export-ignore

@@ -1,0 +1,56 @@
+name: Apply data
+
+# When a model PR first lands in the holding branch (the "initial hop", the same test the credit sync
+# uses to award points), apply its hidden tags (plan, sections 3 and 5):
+#
+#   - POST /api/internal/apply-data-changes   the species patch, as conditional field writes
+#   - POST /api/internal/apply-mod-notes      one commit to the Mod repo's holding branch
+#
+# Later hops (holding -> version branch -> main) carry the same description and apply nothing.
+# Only a PR the Gravelmon GitHub App opened is applied. Both calls are idempotent per PR, retry only
+# answers that mean "not processed" (429, 503) with backoff, and are never blindly repeated after an
+# ambiguous failure. Every item of the answer is checked: a partly applied tag fails this workflow and
+# comments on the PR with the form and the field.
+#
+# Re-run safely with "Run workflow" and the PR number: applied changes are skipped.
+#
+# Required repository configuration (Settings -> Secrets and variables -> Actions):
+#   secrets:   POKEMON_STATUS_INTERNAL_TOKEN
+#   variables: GRAVELMON_APP_LOGIN   the App's bot login, for example `gravelmon-submissions[bot]`
+
+on:
+  push:
+    branches:
+      - holding/holding-branch
+  workflow_dispatch:
+    inputs:
+      pr_number:
+        description: "Merged PR (into the holding branch) whose tags to apply"
+        required: true
+
+permissions:
+  contents: read
+  pull-requests: write
+
+# One at a time: the Mod notes commit serialises on the Mod's branch anyway, this keeps the logs readable.
+concurrency:
+  group: apply-data
+  cancel-in-progress: false
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: scripts
+          sparse-checkout-cone-mode: true
+
+      - name: Apply the tags of the merged PR
+        env:
+          GRAVELMON_API_DOMAIN: https://submit.gravelmon.com
+          POKEMON_STATUS_INTERNAL_TOKEN: ${{ secrets.POKEMON_STATUS_INTERNAL_TOKEN }}
+          GRAVELMON_APP_LOGIN: ${{ vars.GRAVELMON_APP_LOGIN }}
+          GITHUB_TOKEN: ${{ github.token }}
+          PR_NUMBER: ${{ github.event.inputs.pr_number }}
+        run: node scripts/apply-data.mjs
