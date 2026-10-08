@@ -1,0 +1,13 @@
+{
+  "files": {
+    "0_cubbug_base.json": "assets/cobblemon/bedrock/species/uranium/0_cubbug_base.json",
+    "cubbug.png": "assets/cobblemon/textures/pokemon/uranium/cubbug.png",
+    "cubbug_alpha.png": "assets/cobblemon/textures/pokemon/uranium/cubbug/cubbug_alpha.png",
+    "cubbug_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/cubbug_cry.ogg",
+    "cubbug_shiny.png": "assets/cobblemon/textures/pokemon/uranium/cubbug/cubbug_shiny.png",
+    "texture__cubbug.png": "assets/cobblemon/textures/pokemon/uranium/cubbug/cubbug.png",
+    "uranium_cubbug.animation.json": "assets/cobblemon/bedrock/pokemon/animations/uranium_cubbug.animation.json",
+    "uranium_cubbug.geo.json": "assets/cobblemon/bedrock/pokemon/models/uranium_cubbug.geo.json",
+    "uranium_cubbug.json": "assets/cobblemon/bedrock/pokemon/posers/uranium_cubbug.json"
+  }
+}

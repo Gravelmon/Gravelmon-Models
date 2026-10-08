@@ -1,0 +1,12 @@
+{
+  "files": {
+    "25_gastly_x.json": "assets/cobblemon/bedrock/species/additional_forms/25_gastly_x.json",
+    "gastly_x_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/gastly_x_cry.ogg",
+    "gastlyx.png": "assets/cobblemon/textures/pokemon/xenoverse/gastlyx.png",
+    "gastlyx_form.png": "assets/cobblemon/textures/pokemon/xenoverse/gastlyx/gastlyx_form.png",
+    "gastlyx_form_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/gastlyx/gastlyx_form_shiny.png",
+    "xenoverse_gastlyx.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_gastlyx.animation.json",
+    "xenoverse_gastlyx.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_gastlyx.geo.json",
+    "xenoverse_gastlyx.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_gastlyx.json"
+  }
+}

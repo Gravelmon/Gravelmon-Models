@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_dragoyle_base.json": "assets/cobblemon/bedrock/species/infinity/0_dragoyle_base.json",
+    "dragoyle.png": "assets/cobblemon/textures/pokemon/infinity/dragoyle.png",
+    "dragoyle_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/dragoyle_cry.ogg"
+  }
+}

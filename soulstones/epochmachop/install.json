@@ -1,0 +1,12 @@
+{
+  "files": {
+    "164_machop_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_machop_epoch.json",
+    "epochmachop.png": "assets/cobblemon/textures/pokemon/soulstones/epochmachop.png",
+    "machop_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochmachop/machop_epoch.png",
+    "machop_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochmachop/machop_epoch_alpha.png",
+    "machop_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochmachop/machop_epoch_shiny.png",
+    "soulstones_epochmachop.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochmachop.animation.json",
+    "soulstones_epochmachop.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochmachop.geo.json",
+    "soulstones_epochmachop.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochmachop.json"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_skullarva_base.json": "assets/cobblemon/bedrock/species/sage/0_skullarva_base.json",
+    "skullarva.png": "assets/cobblemon/textures/pokemon/sage/skullarva.png",
+    "skullarva_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/skullarva_cry.ogg"
+  }
+}

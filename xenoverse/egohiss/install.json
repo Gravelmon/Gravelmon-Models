@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_egohiss_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_egohiss_base.json",
+    "egohiss.png": "assets/cobblemon/textures/pokemon/xenoverse/egohiss.png",
+    "egohiss_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/egohiss_cry.ogg"
+  }
+}

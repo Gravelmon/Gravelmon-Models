@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_electruxo_base.json": "assets/cobblemon/bedrock/species/uranium/0_electruxo_base.json",
+    "electruxo.png": "assets/cobblemon/textures/pokemon/uranium/electruxo.png",
+    "electruxo_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/electruxo_cry.ogg"
+  }
+}

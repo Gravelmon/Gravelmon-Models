@@ -1,0 +1,11 @@
+{
+  "files": {
+    "164_infernape_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_infernape_epoch.json",
+    "epochinfernape.png": "assets/cobblemon/textures/pokemon/soulstones/epochinfernape.png",
+    "epochinfernape_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochinfernape/epochinfernape_shiny.png",
+    "soulstones_epochinfernape.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochinfernape.animation.json",
+    "soulstones_epochinfernape.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochinfernape.geo.json",
+    "soulstones_epochinfernape.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochinfernape.json",
+    "texture__epochinfernape.png": "assets/cobblemon/textures/pokemon/soulstones/epochinfernape/epochinfernape.png"
+  }
+}

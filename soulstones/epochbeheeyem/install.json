@@ -1,0 +1,14 @@
+{
+  "files": {
+    "164_beheeyem_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_beheeyem_epoch.json",
+    "epochbeheeyem.png": "assets/cobblemon/textures/pokemon/soulstones/epochbeheeyem.png",
+    "epochbeheeyem_emissive.png": "assets/cobblemon/textures/pokemon/soulstones/epochbeheeyem/epochbeheeyem_emissive.png",
+    "epochbeheeyem_emissive_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochbeheeyem/epochbeheeyem_emissive_shiny.png",
+    "epochbeheeyem_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochbeheeyem/epochbeheeyem_shiny.png",
+    "epochbeheeyem_shiny_emissive.png": "assets/cobblemon/textures/pokemon/soulstones/epochbeheeyem/epochbeheeyem_shiny_emissive.png",
+    "soulstones_epochbeheeyem.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochbeheeyem.animation.json",
+    "soulstones_epochbeheeyem.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochbeheeyem.geo.json",
+    "soulstones_epochbeheeyem.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochbeheeyem.json",
+    "texture__epochbeheeyem.png": "assets/cobblemon/textures/pokemon/soulstones/epochbeheeyem/epochbeheeyem.png"
+  }
+}

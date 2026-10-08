@@ -1,0 +1,31 @@
+{
+  "game": "sage",
+  "pokemon": "vectol",
+  "entries": [
+    {
+      "contributor": {
+        "login": "zero_breaker"
+      },
+      "contributors": [
+        {
+          "login": "zero_breaker"
+        }
+      ],
+      "submittedAt": "2026-09-27T09:07:42.374Z",
+      "models": [
+        "sage/vectol/sage_vectol.geo.json"
+      ],
+      "animations": [
+        "sage/vectol/sage_vectol.animation.json"
+      ],
+      "textures": [
+        "sage/vectol/texture__vectol.png",
+        "sage/vectol/vectol_alpha.png",
+        "assets/cobblemon/vectol_preview.png",
+        "sage/vectol/vectol_shiny.png",
+        "sage/vectol/vectol.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

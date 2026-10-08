@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_kidoon_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_kidoon_base.json",
+    "kidoon.png": "assets/cobblemon/textures/pokemon/xenoverse/kidoon.png",
+    "kidoon_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/kidoon_cry.ogg",
+    "kidoon_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/kidoon/kidoon_shiny.png",
+    "texture__kidoon.png": "assets/cobblemon/textures/pokemon/xenoverse/kidoon/kidoon.png",
+    "xenoverse_kidoon.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_kidoon.animation.json",
+    "xenoverse_kidoon.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_kidoon.geo.json",
+    "xenoverse_kidoon.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_kidoon.json"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "game": "blazing_emerald",
+  "pokemon": "teddiursa",
+  "formAspects": [
+    "hoennian"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "hoennian"
+      ],
+      "inheritsFrom": {
+        "pokemon": "teddiursa",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "Neoxaivus"
+      },
+      "contributors": [
+        {
+          "login": "Neoxaivus"
+        }
+      ],
+      "submittedAt": "2026-10-06T18:25:10.604Z",
+      "models": [
+        "blazing_emerald/hoennianteddiursa/blazing_emerald_hoennianteddiursa.geo.json"
+      ],
+      "animations": [
+        "_unreferenced/assets/cobblemon/bedrock/pokemon/animations/blazing_emerald_hoennianteddiursa.animation.json"
+      ],
+      "textures": [
+        "blazing_emerald/hoennianteddiursa/teddiursa_hoennian.png",
+        "blazing_emerald/hoennianteddiursa/teddiursa_hoennian_alpha.png",
+        "blazing_emerald/hoennianteddiursa/teddiursa_hoennian_shiny.png",
+        "blazing_emerald/hoennianteddiursa/hoennianteddiursa.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "files": {
+    "24_venonat_hoennian.json": "assets/cobblemon/bedrock/species/additional_forms/24_venonat_hoennian.json",
+    "blazing_emerald_hoennianvenonat.animation.json": "assets/cobblemon/bedrock/pokemon/animations/blazing_emerald_hoennianvenonat.animation.json",
+    "blazing_emerald_hoennianvenonat.geo.json": "assets/cobblemon/bedrock/pokemon/models/blazing_emerald_hoennianvenonat.geo.json",
+    "blazing_emerald_hoennianvenonat.json": "assets/cobblemon/bedrock/pokemon/posers/blazing_emerald_hoennianvenonat.json",
+    "hoennianvenonat.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianvenonat.png",
+    "hoennianvenonat_emissive.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianvenonat/hoennianvenonat_emissive.png",
+    "hoennianvenonat_emissive_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianvenonat/hoennianvenonat_emissive_shiny.png",
+    "hoennianvenonat_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianvenonat/hoennianvenonat_shiny.png",
+    "texture__hoennianvenonat.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianvenonat/hoennianvenonat.png",
+    "venonat_hoennian_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/venonat_hoennian_cry.ogg"
+  }
+}

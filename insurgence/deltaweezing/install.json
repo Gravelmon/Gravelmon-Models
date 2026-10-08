@@ -1,0 +1,14 @@
+{
+  "files": {
+    "118_weezing_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_weezing_delta.json",
+    "deltaweezing.png": "assets/cobblemon/textures/pokemon/insurgence/deltaweezing.png",
+    "deltaweezing_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltaweezing/deltaweezing_shiny.png",
+    "insurgence_deltaweezing.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltaweezing.geo.json",
+    "insurgence_deltaweezing.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltaweezing.json",
+    "texture__deltaweezing.png": "assets/cobblemon/textures/pokemon/insurgence/deltaweezing/deltaweezing.png",
+    "weezing_delta.png": "assets/cobblemon/textures/pokemon/insurgence/deltaweezing/weezing_delta.png",
+    "weezing_delta_alpha.png": "assets/cobblemon/textures/pokemon/insurgence/deltaweezing/weezing_delta_alpha.png",
+    "weezing_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/weezing_delta_cry.ogg",
+    "weezing_delta_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltaweezing/weezing_delta_shiny.png"
+  }
+}

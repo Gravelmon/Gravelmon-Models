@@ -1,0 +1,15 @@
+{
+  "files": {
+    "118_pidgeot_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_pidgeot_delta.json",
+    "deltapidgeot.png": "assets/cobblemon/textures/pokemon/insurgence/deltapidgeot.png",
+    "deltapidgeot_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltapidgeot/deltapidgeot_shiny.png",
+    "insurgence_deltapidgeot.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltapidgeot.animation.json",
+    "insurgence_deltapidgeot.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltapidgeot.geo.json",
+    "insurgence_deltapidgeot.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltapidgeot.json",
+    "pidgeot_delta.png": "assets/cobblemon/textures/pokemon/insurgence/deltapidgeot/pidgeot_delta.png",
+    "pidgeot_delta_alpha.png": "assets/cobblemon/textures/pokemon/insurgence/deltapidgeot/pidgeot_delta_alpha.png",
+    "pidgeot_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/pidgeot_delta_cry.ogg",
+    "pidgeot_delta_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltapidgeot/pidgeot_delta_shiny.png",
+    "texture__deltapidgeot.png": "assets/cobblemon/textures/pokemon/insurgence/deltapidgeot/deltapidgeot.png"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_pompagoon_base.json": "assets/cobblemon/bedrock/species/sage/0_pompagoon_base.json",
+    "pompagoon.png": "assets/cobblemon/textures/pokemon/sage/pompagoon.png",
+    "pompagoon_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/pompagoon_cry.ogg"
+  }
+}

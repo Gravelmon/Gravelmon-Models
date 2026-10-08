@@ -1,0 +1,13 @@
+{
+  "files": {
+    "118_ralts_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_ralts_delta.json",
+    "deltaralts.png": "assets/cobblemon/textures/pokemon/insurgence/deltaralts.png",
+    "deltaralts_alpha.png": "assets/cobblemon/textures/pokemon/insurgence/deltaralts/deltaralts_alpha.png",
+    "deltaralts_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltaralts/deltaralts_shiny.png",
+    "insurgence_deltaralts.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltaralts.animation.json",
+    "insurgence_deltaralts.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltaralts.geo.json",
+    "insurgence_deltaralts.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltaralts.json",
+    "ralts_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/ralts_delta_cry.ogg",
+    "texture__deltaralts.png": "assets/cobblemon/textures/pokemon/insurgence/deltaralts/deltaralts.png"
+  }
+}

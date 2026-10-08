@@ -1,0 +1,12 @@
+{
+  "files": {
+    "118_diglett_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_diglett_delta.json",
+    "deltadiglett.png": "assets/cobblemon/textures/pokemon/insurgence/deltadiglett.png",
+    "deltadiglett_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltadiglett/deltadiglett_shiny.png",
+    "diglett_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/diglett_delta_cry.ogg",
+    "insurgence_deltadiglett.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltadiglett.animation.json",
+    "insurgence_deltadiglett.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltadiglett.geo.json",
+    "insurgence_deltadiglett.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltadiglett.json",
+    "texture__deltadiglett.png": "assets/cobblemon/textures/pokemon/insurgence/deltadiglett/deltadiglett.png"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "files": {
+    "88_linoone_ayreian.json": "assets/cobblemon/bedrock/species/additional_forms/88_linoone_ayreian.json",
+    "ayreianlinoone.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianlinoone.png",
+    "ayreianlinoone_shiny.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianlinoone/ayreianlinoone_shiny.png",
+    "texture__ayreianlinoone.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianlinoone/ayreianlinoone.png",
+    "vanguard_ayreianlinoone.animation.json": "assets/cobblemon/bedrock/pokemon/animations/vanguard_ayreianlinoone.animation.json",
+    "vanguard_ayreianlinoone.geo.json": "assets/cobblemon/bedrock/pokemon/models/vanguard_ayreianlinoone.geo.json",
+    "vanguard_ayreianlinoone.json": "assets/cobblemon/bedrock/pokemon/posers/vanguard_ayreianlinoone.json"
+  }
+}

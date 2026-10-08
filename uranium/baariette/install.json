@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_baariette_base.json": "assets/cobblemon/bedrock/species/uranium/0_baariette_base.json",
+    "baariette.png": "assets/cobblemon/textures/pokemon/uranium/baariette.png",
+    "baariette_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/baariette_cry.ogg"
+  }
+}

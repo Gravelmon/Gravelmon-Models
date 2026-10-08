@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_scaracno_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_scaracno_base.json",
+    "scaracno.png": "assets/cobblemon/textures/pokemon/xenoverse/scaracno.png",
+    "scaracno_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/scaracno_cry.ogg"
+  }
+}

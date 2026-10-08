@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_iyaiya_base.json": "assets/cobblemon/bedrock/species/deneb/0_iyaiya_base.json",
+    "deneb_iyaiya.animation.json": "assets/cobblemon/bedrock/pokemon/animations/deneb_iyaiya.animation.json",
+    "deneb_iyaiya.geo.json": "assets/cobblemon/bedrock/pokemon/models/deneb_iyaiya.geo.json",
+    "deneb_iyaiya.json": "assets/cobblemon/bedrock/pokemon/posers/deneb_iyaiya.json",
+    "iyaiya.png": "assets/cobblemon/textures/pokemon/deneb/iyaiya.png",
+    "iyaiya_cry.ogg": "assets/gravelmon/sounds/pokemon/deneb/iyaiya_cry.ogg",
+    "iyaiya_shiny.png": "assets/cobblemon/textures/pokemon/deneb/iyaiya/iyaiya_shiny.png",
+    "texture__iyaiya.png": "assets/cobblemon/textures/pokemon/deneb/iyaiya/iyaiya.png"
+  }
+}

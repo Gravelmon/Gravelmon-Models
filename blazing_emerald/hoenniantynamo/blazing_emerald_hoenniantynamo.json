@@ -1,0 +1,117 @@
+{
+  "portraitScale": 3.05,
+  "portraitTranslation": [
+    -0.59,
+    -2.13,
+    0
+  ],
+  "profileScale": 0.66,
+  "profileTranslation": [
+    0,
+    0.75,
+    0
+  ],
+  "rootBone": "tynamo",
+  "poses": {
+    "standing": {
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('blazing_emerald_hoenniantynamo', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('blazing_emerald_hoenniantynamo', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "walk"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('blazing_emerald_hoenniantynamo', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('blazing_emerald_hoenniantynamo', 'ground_idle')"
+      ]
+    },
+    "float": {
+      "poseTypes": [
+        "float",
+        "hover"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('blazing_emerald_hoenniantynamo', 'blink')"
+      ],
+      "animations": [
+        "q.pitch_tilt('body')",
+        "q.bedrock('blazing_emerald_hoenniantynamo', 'ground_idle')"
+      ]
+    },
+    "swim": {
+      "poseTypes": [
+        "swim",
+        "fly"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('blazing_emerald_hoenniantynamo', 'blink')"
+      ],
+      "animations": [
+        "q.pitch_tilt('body')",
+        "q.bedrock('blazing_emerald_hoenniantynamo', 'ground_idle')"
+      ]
+    },
+    "shoulder_left": {
+      "poseTypes": [
+        "shoulder_left"
+      ],
+      "transformedParts": [
+        {
+          "part": "body",
+          "position": [
+            1,
+            0,
+            0
+          ]
+        }
+      ],
+      "quirks": [
+        "q.bedrock_quirk('blazing_emerald_hoenniantynamo', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('blazing_emerald_hoenniantynamo', 'ground_idle')"
+      ]
+    },
+    "shoulder_right": {
+      "poseTypes": [
+        "shoulder_right"
+      ],
+      "transformedParts": [
+        {
+          "part": "body",
+          "position": [
+            -1,
+            0,
+            0
+          ]
+        }
+      ],
+      "quirks": [
+        "q.bedrock_quirk('blazing_emerald_hoenniantynamo', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('blazing_emerald_hoenniantynamo', 'ground_idle')"
+      ]
+    }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('blazing_emerald_hoenniantynamo', 'cry')"
+  }
+}

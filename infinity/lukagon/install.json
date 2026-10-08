@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_lukagon_base.json": "assets/cobblemon/bedrock/species/infinity/0_lukagon_base.json",
+    "lukagon.png": "assets/cobblemon/textures/pokemon/infinity/lukagon.png",
+    "lukagon_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/lukagon_cry.ogg"
+  }
+}

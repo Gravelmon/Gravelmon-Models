@@ -1,0 +1,13 @@
+{
+  "files": {
+    "0_petiolis_base.json": "assets/cobblemon/bedrock/species/africanus/0_petiolis_base.json",
+    "africanus_petiolis.animation.json": "assets/cobblemon/bedrock/pokemon/animations/africanus_petiolis.animation.json",
+    "africanus_petiolis.geo.json": "assets/cobblemon/bedrock/pokemon/models/africanus_petiolis.geo.json",
+    "africanus_petiolis.json": "assets/cobblemon/bedrock/pokemon/posers/africanus_petiolis.json",
+    "petiolis.png": "assets/cobblemon/textures/pokemon/africanus/petiolis.png",
+    "petiolis_alpha.png": "assets/cobblemon/textures/pokemon/africanus/petiolis/petiolis_alpha.png",
+    "petiolis_cry.ogg": "assets/gravelmon/sounds/pokemon/africanus/petiolis_cry.ogg",
+    "petiolis_shiny.png": "assets/cobblemon/textures/pokemon/africanus/petiolis/petiolis_shiny.png",
+    "texture__petiolis.png": "assets/cobblemon/textures/pokemon/africanus/petiolis/petiolis.png"
+  }
+}

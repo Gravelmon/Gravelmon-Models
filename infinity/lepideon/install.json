@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_lepideon_base.json": "assets/cobblemon/bedrock/species/infinity/0_lepideon_base.json",
+    "infinity_lepideon.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_lepideon.animation.json",
+    "infinity_lepideon.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_lepideon.geo.json",
+    "infinity_lepideon.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_lepideon.json",
+    "lepideon.png": "assets/cobblemon/textures/pokemon/infinity/lepideon.png",
+    "lepideon_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/lepideon_cry.ogg",
+    "lepideon_shiny.png": "assets/cobblemon/textures/pokemon/infinity/lepideon/lepideon_shiny.png",
+    "texture__lepideon.png": "assets/cobblemon/textures/pokemon/infinity/lepideon/lepideon.png"
+  }
+}

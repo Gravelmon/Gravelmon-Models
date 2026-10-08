@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_psycholyte_base.json": "assets/cobblemon/bedrock/species/infinity/0_psycholyte_base.json",
+    "psycholyte.png": "assets/cobblemon/textures/pokemon/infinity/psycholyte.png",
+    "psycholyte_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/psycholyte_cry.ogg"
+  }
+}

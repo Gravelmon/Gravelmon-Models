@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_luxi_base.json": "assets/cobblemon/bedrock/species/uranium/0_luxi_base.json",
+    "luxi.png": "assets/cobblemon/textures/pokemon/uranium/luxi.png",
+    "luxi_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/luxi_cry.ogg"
+  }
+}

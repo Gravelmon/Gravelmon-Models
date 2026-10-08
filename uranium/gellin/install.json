@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_gellin_base.json": "assets/cobblemon/bedrock/species/uranium/0_gellin_base.json",
+    "gellin.png": "assets/cobblemon/textures/pokemon/uranium/gellin.png",
+    "gellin_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/gellin_cry.ogg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_mintch_base.json": "assets/cobblemon/bedrock/species/deneb/0_mintch_base.json",
+    "deneb_mintch.animation.json": "assets/cobblemon/bedrock/pokemon/animations/deneb_mintch.animation.json",
+    "deneb_mintch.geo.json": "assets/cobblemon/bedrock/pokemon/models/deneb_mintch.geo.json",
+    "deneb_mintch.json": "assets/cobblemon/bedrock/pokemon/posers/deneb_mintch.json",
+    "mintch.png": "assets/cobblemon/textures/pokemon/deneb/mintch.png",
+    "mintch_cry.ogg": "assets/gravelmon/sounds/pokemon/deneb/mintch_cry.ogg",
+    "mintch_shiny.png": "assets/cobblemon/textures/pokemon/deneb/mintch/mintch_shiny.png",
+    "texture__mintch.png": "assets/cobblemon/textures/pokemon/deneb/mintch/mintch.png"
+  }
+}

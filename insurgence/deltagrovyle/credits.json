@@ -1,0 +1,35 @@
+{
+  "game": "insurgence",
+  "pokemon": "grovyle",
+  "formAspects": [
+    "delta"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "delta"
+      ],
+      "inheritsFrom": {
+        "pokemon": "grovyle",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "submittedAt": "2026-09-19T08:49:36.296Z",
+      "models": [
+        "insurgence/deltagrovyle/insurgence_deltagrovyle.geo.json"
+      ],
+      "animations": [
+        "insurgence/deltagrovyle/insurgence_deltagrovyle.animation.json"
+      ],
+      "textures": [
+        "insurgence/deltagrovyle/grovyle_delta.png",
+        "insurgence/deltagrovyle/grovyle_delta_alpha.png",
+        "insurgence/deltagrovyle/grovyle_delta_shiny.png",
+        "insurgence/deltagrovyle/deltagrovyle.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

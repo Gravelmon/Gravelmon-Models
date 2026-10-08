@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_coatlith_base.json": "assets/cobblemon/bedrock/species/uranium/0_coatlith_base.json",
+    "coatlith.png": "assets/cobblemon/textures/pokemon/uranium/coatlith.png",
+    "coatlith_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/coatlith_cry.ogg"
+  }
+}

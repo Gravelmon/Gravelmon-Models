@@ -1,0 +1,58 @@
+{
+  "game": "blazing_emerald",
+  "pokemon": "eelektrik",
+  "formAspects": [
+    "hoennian"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "hoennian"
+      ],
+      "contributor": {
+        "login": "burgorton"
+      },
+      "contributors": [
+        {
+          "login": "burgorton"
+        }
+      ],
+      "submittedAt": "2026-10-01T22:44:54.219Z",
+      "models": [],
+      "animations": [
+        "blazing_emerald/hoennianeelektrik/eelektrik_hoennian.animation.json"
+      ],
+      "textures": [],
+      "sounds": []
+    },
+    {
+      "formAspects": [
+        "hoennian"
+      ],
+      "contributor": {
+        "login": "burgorton"
+      },
+      "contributors": [
+        {
+          "login": "burgorton"
+        }
+      ],
+      "pullRequestNumber": 209,
+      "submittedAt": "2026-10-04T22:00:26.041Z",
+      "models": [
+        "blazing_emerald/hoennianeelektrik/blazing_emerald_hoennianeelektrik.geo.json",
+        "_unreferenced/assets/cobblemon/bedrock/pokemon/models/eelektrik_hoennian.geo.json"
+      ],
+      "animations": [
+        "_unreferenced/assets/cobblemon/bedrock/pokemon/animations/blazing_emerald_hoennianeelektrik.animation.json"
+      ],
+      "textures": [
+        "blazing_emerald/hoennianeelektrik/eelektrik_hoennian.png",
+        "blazing_emerald/hoennianeelektrik/eelektrik_hoennian_alpha.png",
+        "blazing_emerald/hoennianeelektrik/eelektrik_hoennian_shiny.png",
+        "blazing_emerald/hoennianeelektrik/hoennianeelektrik.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

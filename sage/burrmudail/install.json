@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_burrmudail_base.json": "assets/cobblemon/bedrock/species/sage/0_burrmudail_base.json",
+    "burrmudail.png": "assets/cobblemon/textures/pokemon/sage/burrmudail.png",
+    "burrmudail_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/burrmudail_cry.ogg",
+    "burrmudail_shiny.png": "assets/cobblemon/textures/pokemon/sage/burrmudail/burrmudail_shiny.png",
+    "sage_burrmudail.animation.json": "assets/cobblemon/bedrock/pokemon/animations/sage_burrmudail.animation.json",
+    "sage_burrmudail.geo.json": "assets/cobblemon/bedrock/pokemon/models/sage_burrmudail.geo.json",
+    "sage_burrmudail.json": "assets/cobblemon/bedrock/pokemon/posers/sage_burrmudail.json",
+    "texture__burrmudail.png": "assets/cobblemon/textures/pokemon/sage/burrmudail/burrmudail.png"
+  }
+}

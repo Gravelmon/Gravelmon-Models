@@ -1,0 +1,31 @@
+{
+  "game": "varitas",
+  "pokemon": "binarray",
+  "entries": [
+    {
+      "contributor": {
+        "login": "lapislizuli"
+      },
+      "contributors": [
+        {
+          "login": "lapislizuli"
+        }
+      ],
+      "pullRequestNumber": 219,
+      "submittedAt": "2026-10-03T07:04:26.162Z",
+      "models": [
+        "varitas/binarray/varitas_binarray.geo.json"
+      ],
+      "animations": [
+        "_unreferenced/assets/cobblemon/bedrock/pokemon/animations/varitas_binarray.animation.json"
+      ],
+      "textures": [
+        "varitas/binarray/texture__binarray.png",
+        "varitas/binarray/binarray_alpha.png",
+        "varitas/binarray/binarray_shiny.png",
+        "varitas/binarray/binarray.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

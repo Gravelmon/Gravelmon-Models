@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_koinkoin_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_koinkoin_base.json",
+    "koinkoin.png": "assets/cobblemon/textures/pokemon/xenoverse/koinkoin.png",
+    "koinkoin_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/koinkoin_cry.ogg"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_somberado_base.json": "assets/cobblemon/bedrock/species/sage/0_somberado_base.json",
+    "somberado.png": "assets/cobblemon/textures/pokemon/sage/somberado.png",
+    "somberado_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/somberado_cry.ogg"
+  }
+}

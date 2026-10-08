@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_titanice_base.json": "assets/cobblemon/bedrock/species/uranium/0_titanice_base.json",
+    "titanice.png": "assets/cobblemon/textures/pokemon/uranium/titanice.png",
+    "titanice_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/titanice_cry.ogg"
+  }
+}

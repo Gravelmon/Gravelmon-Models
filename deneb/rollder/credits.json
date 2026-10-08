@@ -1,0 +1,31 @@
+{
+  "game": "deneb",
+  "pokemon": "rollder",
+  "entries": [
+    {
+      "contributor": {
+        "login": "SodaPhillium"
+      },
+      "contributors": [
+        {
+          "login": "SodaPhillium"
+        }
+      ],
+      "submittedAt": "2026-09-25T07:26:17.675Z",
+      "models": [
+        "deneb/rollder/deneb_rollder.geo.json"
+      ],
+      "animations": [
+        "deneb/rollder/deneb_rollder.animation.json"
+      ],
+      "textures": [
+        "deneb/rollder/texture__rollder.png",
+        "deneb/rollder/rollder_alpha.png",
+        "assets/cobblemon/rollder_preview.png",
+        "deneb/rollder/rollder_shiny.png",
+        "deneb/rollder/rollder.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

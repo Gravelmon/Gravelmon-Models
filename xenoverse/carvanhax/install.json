@@ -1,0 +1,12 @@
+{
+  "files": {
+    "25_carvanha_x.json": "assets/cobblemon/bedrock/species/additional_forms/25_carvanha_x.json",
+    "carvanha_x_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/carvanha_x_cry.ogg",
+    "carvanhax.png": "assets/cobblemon/textures/pokemon/xenoverse/carvanhax.png",
+    "carvanhax_form.png": "assets/cobblemon/textures/pokemon/xenoverse/carvanhax/carvanhax_form.png",
+    "carvanhax_form_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/carvanhax/carvanhax_form_shiny.png",
+    "xenoverse_carvanhax.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_carvanhax.animation.json",
+    "xenoverse_carvanhax.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_carvanhax.geo.json",
+    "xenoverse_carvanhax.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_carvanhax.json"
+  }
+}

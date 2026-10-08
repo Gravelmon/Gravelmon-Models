@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_caebelon_base.json": "assets/cobblemon/bedrock/species/aroma/0_caebelon_base.json",
+    "aroma_caebelon.animation.json": "assets/cobblemon/bedrock/pokemon/animations/aroma_caebelon.animation.json",
+    "aroma_caebelon.geo.json": "assets/cobblemon/bedrock/pokemon/models/aroma_caebelon.geo.json",
+    "aroma_caebelon.json": "assets/cobblemon/bedrock/pokemon/posers/aroma_caebelon.json",
+    "caebelon.png": "assets/cobblemon/textures/pokemon/aroma/caebelon.png",
+    "caebelon_alpha.png": "assets/cobblemon/textures/pokemon/aroma/caebelon/caebelon_alpha.png",
+    "caebelon_shiny.png": "assets/cobblemon/textures/pokemon/aroma/caebelon/caebelon_shiny.png",
+    "texture__caebelon.png": "assets/cobblemon/textures/pokemon/aroma/caebelon/caebelon.png"
+  }
+}

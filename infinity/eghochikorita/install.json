@@ -1,0 +1,12 @@
+{
+  "files": {
+    "117_chikorita_egho.json": "assets/cobblemon/bedrock/species/additional_forms/117_chikorita_egho.json",
+    "chikorita_egho_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/chikorita_egho_cry.ogg",
+    "eghochikorita.png": "assets/cobblemon/textures/pokemon/infinity/eghochikorita.png",
+    "eghochikorita_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghochikorita/eghochikorita_shiny.png",
+    "infinity_eghochikorita.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_eghochikorita.animation.json",
+    "infinity_eghochikorita.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_eghochikorita.geo.json",
+    "infinity_eghochikorita.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_eghochikorita.json",
+    "texture__eghochikorita.png": "assets/cobblemon/textures/pokemon/infinity/eghochikorita/eghochikorita.png"
+  }
+}

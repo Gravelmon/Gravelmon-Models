@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_baaschaf_base.json": "assets/cobblemon/bedrock/species/uranium/0_baaschaf_base.json",
+    "baaschaf.png": "assets/cobblemon/textures/pokemon/uranium/baaschaf.png",
+    "baaschaf_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/baaschaf_cry.ogg"
+  }
+}

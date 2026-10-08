@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_barracute_base.json": "assets/cobblemon/bedrock/species/sage/0_barracute_base.json",
+    "barracute.png": "assets/cobblemon/textures/pokemon/sage/barracute.png",
+    "barracute_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/barracute_cry.ogg"
+  }
+}

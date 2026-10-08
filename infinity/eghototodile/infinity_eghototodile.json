@@ -1,0 +1,92 @@
+{
+  "portraitScale": 0.699999988079071,
+  "portraitTranslation": [
+    0.0,
+    0.4,
+    0.0
+  ],
+  "profileScale": 0.699999988079071,
+  "profileTranslation": [
+    0.0,
+    0.4,
+    0.0
+  ],
+  "animations": {
+    "cry": "q.bedrock_stateful('infinity_eghototodile', 'cry')",
+    "faint": "bedrock(totodile_egho, faint)"
+  },
+  "poses": {
+    "standing": {
+      "poseName": "standing",
+      "animations": [
+        "q.bedrock('infinity_eghototodile', q.look('head_ai'))",
+        "q.bedrock('infinity_eghototodile', 'ground_idle')"
+      ],
+      "poseTypes": [
+        "STAND",
+        "PORTRAIT",
+        "PROFILE",
+        "NONE"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('infinity_eghototodile', 'blink')"
+      ],
+      "namedAnimations": {},
+      "transformedParts": []
+    },
+    "walking": {
+      "poseName": "walking",
+      "animations": [
+        "q.bedrock('infinity_eghototodile', 'ground_walk')"
+      ],
+      "poseTypes": [
+        "WALK"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('infinity_eghototodile', 'blink')"
+      ],
+      "namedAnimations": {},
+      "transformedParts": []
+    },
+    "floating": {
+      "poseName": "floating",
+      "animations": [
+        "q.bedrock('infinity_eghototodile', 'water_idle')"
+      ],
+      "poseTypes": [
+        "FLOAT"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('infinity_eghototodile', 'blink')"
+      ],
+      "namedAnimations": {},
+      "transformedParts": []
+    },
+    "swimming": {
+      "poseName": "swimming",
+      "animations": [
+        "q.bedrock('infinity_eghototodile', 'water_swim')"
+      ],
+      "poseTypes": [
+        "SWIM"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('infinity_eghototodile', 'blink')"
+      ],
+      "namedAnimations": {},
+      "transformedParts": []
+    },
+    "sleeping": {
+      "poseName": "sleeping",
+      "animations": [
+        "q.bedrock('infinity_eghototodile', 'sleep')"
+      ],
+      "poseTypes": [
+        "SLEEP"
+      ],
+
+      "namedAnimations": {},
+      "transformedParts": []
+    }
+  }
+}

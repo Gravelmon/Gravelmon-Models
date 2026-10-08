@@ -1,0 +1,31 @@
+{
+  "game": "realidea_system",
+  "pokemon": "meadew",
+  "entries": [
+    {
+      "contributor": {
+        "login": "mitchooart"
+      },
+      "contributors": [
+        {
+          "login": "mitchooart"
+        }
+      ],
+      "submittedAt": "2026-09-27T19:01:46.534Z",
+      "models": [
+        "realidea_system/meadew/realidea_system_meadew.geo.json"
+      ],
+      "animations": [
+        "assets/cobblemon/bedrock/pokemon/animations/realidea_system_meadew.animation.json"
+      ],
+      "textures": [
+        "realidea_system/meadew/texture__meadew.png",
+        "realidea_system/meadew/meadew_alpha.png",
+        "assets/cobblemon/meadew_preview.png",
+        "realidea_system/meadew/meadew_shiny.png",
+        "realidea_system/meadew/meadew.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

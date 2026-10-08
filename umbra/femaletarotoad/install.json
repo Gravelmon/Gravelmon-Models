@@ -1,0 +1,9 @@
+{
+  "files": {
+    "femaletarotoad.png": "assets/cobblemon/textures/pokemon/umbra/femaletarotoad.png",
+    "tarotoad_female.png": "assets/cobblemon/textures/pokemon/umbra/tarotoadfemale/tarotoad_female.png"
+  },
+  "uses": [
+    "umbra/tarotoad/0_tarotoad_base.json"
+  ]
+}

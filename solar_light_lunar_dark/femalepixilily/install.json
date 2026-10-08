@@ -1,0 +1,9 @@
+{
+  "files": {
+    "femalepixilily.png": "assets/cobblemon/textures/pokemon/solar_light_lunar_dark/femalepixilily.png",
+    "pixilily_female.png": "assets/cobblemon/textures/pokemon/solar_light_lunar_dark/pixililyfemale/pixilily_female.png"
+  },
+  "uses": [
+    "solar_light_lunar_dark/pixilily/0_pixilily_base.json"
+  ]
+}

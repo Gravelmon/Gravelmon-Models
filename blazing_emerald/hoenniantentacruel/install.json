@@ -1,0 +1,13 @@
+{
+  "files": {
+    "24_tentacruel_hoennian.json": "assets/cobblemon/bedrock/species/additional_forms/24_tentacruel_hoennian.json",
+    "blazing_emerald_hoenniantentacruel.animation.json": "assets/cobblemon/bedrock/pokemon/animations/blazing_emerald_hoenniantentacruel.animation.json",
+    "blazing_emerald_hoenniantentacruel.geo.json": "assets/cobblemon/bedrock/pokemon/models/blazing_emerald_hoenniantentacruel.geo.json",
+    "blazing_emerald_hoenniantentacruel.json": "assets/cobblemon/bedrock/pokemon/posers/blazing_emerald_hoenniantentacruel.json",
+    "hoenniantentacruel.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniantentacruel.png",
+    "tentacruel_hoennian.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniantentacruel/tentacruel_hoennian.png",
+    "tentacruel_hoennian_alpha.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniantentacruel/tentacruel_hoennian_alpha.png",
+    "tentacruel_hoennian_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/tentacruel_hoennian_cry.ogg",
+    "tentacruel_hoennian_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniantentacruel/tentacruel_hoennian_shiny.png"
+  }
+}

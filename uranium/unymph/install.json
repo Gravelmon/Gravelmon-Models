@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_unymph_base.json": "assets/cobblemon/bedrock/species/uranium/0_unymph_base.json",
+    "unymph.png": "assets/cobblemon/textures/pokemon/uranium/unymph.png",
+    "unymph_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/unymph_cry.ogg"
+  }
+}

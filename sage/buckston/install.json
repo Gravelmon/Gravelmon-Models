@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_buckston_base.json": "assets/cobblemon/bedrock/species/sage/0_buckston_base.json",
+    "buckston.png": "assets/cobblemon/textures/pokemon/sage/buckston.png",
+    "buckston_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/buckston_cry.ogg"
+  }
+}

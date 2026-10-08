@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_platikhao_base.json": "assets/cobblemon/bedrock/species/sage/0_platikhao_base.json",
+    "platikhao.png": "assets/cobblemon/textures/pokemon/sage/platikhao.png",
+    "platikhao_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/platikhao_cry.ogg"
+  }
+}

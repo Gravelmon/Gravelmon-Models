@@ -1,0 +1,31 @@
+{
+  "game": "aroma",
+  "pokemon": "loafelon",
+  "entries": [
+    {
+      "contributor": {
+        "login": "ivangarcia1.0"
+      },
+      "contributors": [
+        {
+          "login": "ivangarcia1.0"
+        }
+      ],
+      "submittedAt": "2026-09-29T05:07:12.691Z",
+      "models": [
+        "aroma/loafelon/aroma_loafelon.geo.json"
+      ],
+      "animations": [
+        "assets/cobblemon/bedrock/pokemon/animations/aroma_loafelon.animation.json"
+      ],
+      "textures": [
+        "aroma/loafelon/texture__loafelon.png",
+        "aroma/loafelon/loafelon_alpha.png",
+        "assets/cobblemon/loafelon_preview.png",
+        "aroma/loafelon/loafelon_shiny.png",
+        "aroma/loafelon/loafelon.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "files": {
+    "117_happiny_egho.json": "assets/cobblemon/bedrock/species/additional_forms/117_happiny_egho.json",
+    "eghohappiny.png": "assets/cobblemon/textures/pokemon/infinity/eghohappiny.png",
+    "happiny_egho.png": "assets/cobblemon/textures/pokemon/infinity/eghohappiny/happiny_egho.png",
+    "happiny_egho_alpha.png": "assets/cobblemon/textures/pokemon/infinity/eghohappiny/happiny_egho_alpha.png",
+    "happiny_egho_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/happiny_egho_cry.ogg",
+    "happiny_egho_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghohappiny/happiny_egho_shiny.png",
+    "infinity_eghohappiny.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_eghohappiny.geo.json",
+    "infinity_eghohappiny.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_eghohappiny.json"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "0_s51_base.json": "assets/cobblemon/bedrock/species/uranium/0_s51_base.json",
+    "s51.png": "assets/cobblemon/textures/pokemon/uranium/s51.png",
+    "s51_alpha.png": "assets/cobblemon/textures/pokemon/uranium/s51/s51_alpha.png",
+    "s51_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/s51_cry.ogg",
+    "s51_shiny.png": "assets/cobblemon/textures/pokemon/uranium/s51/s51_shiny.png",
+    "texture__s51.png": "assets/cobblemon/textures/pokemon/uranium/s51/s51.png",
+    "uranium_s51.animation.json": "assets/cobblemon/bedrock/pokemon/animations/uranium_s51.animation.json",
+    "uranium_s51.geo.json": "assets/cobblemon/bedrock/pokemon/models/uranium_s51.geo.json",
+    "uranium_s51.json": "assets/cobblemon/bedrock/pokemon/posers/uranium_s51.json"
+  }
+}

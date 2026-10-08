@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_cocancer_base.json": "assets/cobblemon/bedrock/species/uranium/0_cocancer_base.json",
+    "cocancer.png": "assets/cobblemon/textures/pokemon/uranium/cocancer.png",
+    "cocancer_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/cocancer_cry.ogg"
+  }
+}

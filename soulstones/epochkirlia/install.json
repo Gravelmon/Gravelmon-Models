@@ -1,0 +1,11 @@
+{
+  "files": {
+    "164_kirlia_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_kirlia_epoch.json",
+    "epochkirlia.png": "assets/cobblemon/textures/pokemon/soulstones/epochkirlia.png",
+    "epochkirliaone.png": "assets/cobblemon/textures/pokemon/soulstones/epochkirlia/epochkirliaone.png",
+    "epochkirliaone_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochkirlia/epochkirliaone_alpha.png",
+    "epochkirliaone_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochkirlia/epochkirliaone_shiny.png",
+    "soulstones_epochkirlia.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochkirlia.geo.json",
+    "soulstones_epochkirlia.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochkirlia.json"
+  }
+}

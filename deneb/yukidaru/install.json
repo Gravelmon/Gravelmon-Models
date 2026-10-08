@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_yukidaru_base.json": "assets/cobblemon/bedrock/species/deneb/0_yukidaru_base.json",
+    "deneb_yukidaru.animation.json": "assets/cobblemon/bedrock/pokemon/animations/deneb_yukidaru.animation.json",
+    "deneb_yukidaru.geo.json": "assets/cobblemon/bedrock/pokemon/models/deneb_yukidaru.geo.json",
+    "deneb_yukidaru.json": "assets/cobblemon/bedrock/pokemon/posers/deneb_yukidaru.json",
+    "texture__yukidaru.png": "assets/cobblemon/textures/pokemon/deneb/yukidaru/yukidaru.png",
+    "yukidaru.png": "assets/cobblemon/textures/pokemon/deneb/yukidaru.png",
+    "yukidaru_cry.ogg": "assets/gravelmon/sounds/pokemon/deneb/yukidaru_cry.ogg",
+    "yukidaru_shiny.png": "assets/cobblemon/textures/pokemon/deneb/yukidaru/yukidaru_shiny.png"
+  }
+}

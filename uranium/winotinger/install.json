@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_winotinger_base.json": "assets/cobblemon/bedrock/species/uranium/0_winotinger_base.json",
+    "winotinger.png": "assets/cobblemon/textures/pokemon/uranium/winotinger.png",
+    "winotinger_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/winotinger_cry.ogg"
+  }
+}

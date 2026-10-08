@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_glaslug_base.json": "assets/cobblemon/bedrock/species/uranium/0_glaslug_base.json",
+    "glaslug.png": "assets/cobblemon/textures/pokemon/uranium/glaslug.png",
+    "glaslug_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/glaslug_cry.ogg"
+  }
+}

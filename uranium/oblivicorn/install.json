@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_oblivicorn_base.json": "assets/cobblemon/bedrock/species/uranium/0_oblivicorn_base.json",
+    "oblivicorn.png": "assets/cobblemon/textures/pokemon/uranium/oblivicorn.png",
+    "oblivicorn_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/oblivicorn_cry.ogg"
+  }
+}

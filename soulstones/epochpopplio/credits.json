@@ -1,0 +1,40 @@
+{
+  "game": "soulstones",
+  "pokemon": "popplio",
+  "formAspects": [
+    "epoch"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "popplio",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-10-06T22:57:59.702Z",
+      "models": [
+        "soulstones/epochpopplio/soulstones_epochpopplio.geo.json"
+      ],
+      "animations": [
+        "_unreferenced/assets/cobblemon/bedrock/pokemon/animations/soulstones_epochpopplio.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochpopplio/popplio_epoch.png",
+        "soulstones/epochpopplio/popplio_epoch_alpha.png",
+        "soulstones/epochpopplio/popplio_epoch_shiny.png",
+        "soulstones/epochpopplio/epochpopplio.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

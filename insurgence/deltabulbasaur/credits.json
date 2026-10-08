@@ -1,0 +1,41 @@
+{
+  "game": "insurgence",
+  "pokemon": "bulbasaur",
+  "formAspects": [
+    "delta"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "delta"
+      ],
+      "inheritsFrom": {
+        "pokemon": "bulbasaur",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DigitalRaikan"
+      },
+      "contributors": [
+        {
+          "login": "DigitalRaikan"
+        }
+      ],
+      "submittedAt": "2026-09-25T08:26:47.052Z",
+      "models": [
+        "insurgence/deltabulbasaur/insurgence_deltabulbasaur.geo.json"
+      ],
+      "animations": [
+        "insurgence/deltabulbasaur/insurgence_deltabulbasaur.animation.json"
+      ],
+      "textures": [
+        "insurgence/deltabulbasaur/texture__deltabulbasaur.png",
+        "insurgence/deltabulbasaur/deltabulbasaur_alpha.png",
+        "insurgence/deltabulbasaur/deltabulbasaur_shiny.png",
+        "assets/cobblemon/insurgence_deltabulbasaur_preview.png",
+        "insurgence/deltabulbasaur/deltabulbasaur.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

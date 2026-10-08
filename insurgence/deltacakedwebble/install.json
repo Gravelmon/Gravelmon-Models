@@ -1,0 +1,11 @@
+{
+  "files": {
+    "122_dwebble_cake_delta.json": "assets/cobblemon/bedrock/species/additional_forms/122_dwebble_cake_delta.json",
+    "deltacake_dwebble.png": "assets/cobblemon/textures/pokemon/insurgence/deltacakedwebble/deltacake_dwebble.png",
+    "deltacake_dwebble_alpha.png": "assets/cobblemon/textures/pokemon/insurgence/deltacakedwebble/deltacake_dwebble_alpha.png",
+    "deltacake_dwebble_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltacakedwebble/deltacake_dwebble_shiny.png",
+    "deltacakedwebble.png": "assets/cobblemon/textures/pokemon/insurgence/deltacakedwebble.png",
+    "insurgence_deltacakedwebble.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltacakedwebble.geo.json",
+    "insurgence_deltacakedwebble.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltacakedwebble.json"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "files": {
+    "0_chimaooze_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_chimaooze_base.json",
+    "chimaooze.png": "assets/cobblemon/textures/pokemon/xenoverse/chimaooze.png",
+    "chimaooze_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/chimaooze_cry.ogg",
+    "chimaooze_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/chimaooze/chimaooze_shiny.png",
+    "texture__chimaooze.png": "assets/cobblemon/textures/pokemon/xenoverse/chimaooze/chimaooze.png",
+    "xenoverse_chimaooze.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_chimaooze.geo.json",
+    "xenoverse_chimaooze.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_chimaooze.json"
+  }
+}

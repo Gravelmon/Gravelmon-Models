@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_iguadium_base.json": "assets/cobblemon/bedrock/species/sage/0_iguadium_base.json",
+    "iguadium.png": "assets/cobblemon/textures/pokemon/sage/iguadium.png",
+    "iguadium_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/iguadium_cry.ogg",
+    "iguadium_shiny.png": "assets/cobblemon/textures/pokemon/sage/iguadium/iguadium_shiny.png",
+    "sage_iguadium.animation.json": "assets/cobblemon/bedrock/pokemon/animations/sage_iguadium.animation.json",
+    "sage_iguadium.geo.json": "assets/cobblemon/bedrock/pokemon/models/sage_iguadium.geo.json",
+    "sage_iguadium.json": "assets/cobblemon/bedrock/pokemon/posers/sage_iguadium.json",
+    "texture__iguadium.png": "assets/cobblemon/textures/pokemon/sage/iguadium/iguadium.png"
+  }
+}

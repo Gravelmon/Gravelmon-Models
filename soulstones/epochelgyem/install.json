@@ -1,0 +1,14 @@
+{
+  "files": {
+    "164_elgyem_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_elgyem_epoch.json",
+    "epochelgyem.png": "assets/cobblemon/textures/pokemon/soulstones/epochelgyem.png",
+    "epochelgyem_emissive.png": "assets/cobblemon/textures/pokemon/soulstones/epochelgyem/epochelgyem_emissive.png",
+    "epochelgyem_emissive_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochelgyem/epochelgyem_emissive_shiny.png",
+    "epochelgyem_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochelgyem/epochelgyem_shiny.png",
+    "epochelgyem_shiny_emissive.png": "assets/cobblemon/textures/pokemon/soulstones/epochelgyem/epochelgyem_shiny_emissive.png",
+    "soulstones_epochelgyem.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochelgyem.animation.json",
+    "soulstones_epochelgyem.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochelgyem.geo.json",
+    "soulstones_epochelgyem.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochelgyem.json",
+    "texture__epochelgyem.png": "assets/cobblemon/textures/pokemon/soulstones/epochelgyem/epochelgyem.png"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "files": {
+    "0_grimfowl_base.json": "assets/cobblemon/bedrock/species/infinity/0_grimfowl_base.json",
+    "grimfowl.png": "assets/cobblemon/textures/pokemon/infinity/grimfowl.png",
+    "grimfowl_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/grimfowl_cry.ogg",
+    "grimfowl_emissive.png": "assets/cobblemon/textures/pokemon/infinity/grimfowl/grimfowl_emissive.png",
+    "grimfowl_emissive_shiny.png": "assets/cobblemon/textures/pokemon/infinity/grimfowl/grimfowl_emissive_shiny.png",
+    "grimfowl_shiny.png": "assets/cobblemon/textures/pokemon/infinity/grimfowl/grimfowl_shiny.png",
+    "infinity_grimfowl.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_grimfowl.animation.json",
+    "infinity_grimfowl.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_grimfowl.geo.json",
+    "infinity_grimfowl.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_grimfowl.json",
+    "texture__grimfowl.png": "assets/cobblemon/textures/pokemon/infinity/grimfowl/grimfowl.png"
+  }
+}

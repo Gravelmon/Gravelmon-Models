@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_chardinal_base.json": "assets/cobblemon/bedrock/species/sage/0_chardinal_base.json",
+    "chardinal.png": "assets/cobblemon/textures/pokemon/sage/chardinal.png",
+    "chardinal_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/chardinal_cry.ogg"
+  }
+}

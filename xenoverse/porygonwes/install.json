@@ -1,0 +1,14 @@
+{
+  "files": {
+    "0_porygonwes_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_porygonwes_base.json",
+    "porygonwes.png": "assets/cobblemon/textures/pokemon/xenoverse/porygonwes.png",
+    "porygonwes_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/porygonwes_cry.ogg",
+    "porygonwes_emissive.png": "assets/cobblemon/textures/pokemon/xenoverse/porygonwes/porygonwes_emissive.png",
+    "porygonwes_emissive_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/porygonwes/porygonwes_emissive_shiny.png",
+    "porygonwes_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/porygonwes/porygonwes_shiny.png",
+    "texture__porygonwes.png": "assets/cobblemon/textures/pokemon/xenoverse/porygonwes/porygonwes.png",
+    "xenoverse_porygonwes.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_porygonwes.animation.json",
+    "xenoverse_porygonwes.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_porygonwes.geo.json",
+    "xenoverse_porygonwes.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_porygonwes.json"
+  }
+}

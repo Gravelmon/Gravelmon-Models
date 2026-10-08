@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_noxial_base.json": "assets/cobblemon/bedrock/species/sage/0_noxial_base.json",
+    "noxial.png": "assets/cobblemon/textures/pokemon/sage/noxial.png",
+    "noxial_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/noxial_cry.ogg"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "game": "insurgence",
+  "pokemon": "sableye",
+  "formAspects": [
+    "delta"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "delta"
+      ],
+      "inheritsFrom": {
+        "pokemon": "sableye",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-09-23T20:29:06.272Z",
+      "models": [
+        "insurgence/deltasableye/insurgence_deltasableye.geo.json"
+      ],
+      "animations": [
+        "insurgence/deltasableye/insurgence_deltasableye.animation.json"
+      ],
+      "textures": [
+        "insurgence/deltasableye/sableye_delta.png",
+        "insurgence/deltasableye/sableye_delta_alpha.png",
+        "insurgence/deltasableye/sableye_delta_flame1.png",
+        "insurgence/deltasableye/sableye_delta_flame__sableye_delta_flame1_shiny.png",
+        "insurgence/deltasableye/sableye_delta_flame2.png",
+        "insurgence/deltasableye/sableye_delta_flame__sableye_delta_flame2_shiny.png",
+        "insurgence/deltasableye/sableye_delta_flame3.png",
+        "insurgence/deltasableye/sableye_delta_flame__sableye_delta_flame3_shiny.png",
+        "insurgence/deltasableye/sableye_delta_shiny.png",
+        "insurgence/deltasableye/deltasableye.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

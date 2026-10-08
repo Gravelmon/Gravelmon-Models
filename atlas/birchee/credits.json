@@ -1,0 +1,30 @@
+{
+  "game": "atlas",
+  "pokemon": "birchee",
+  "entries": [
+    {
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-09-19T14:08:58.534Z",
+      "models": [
+        "atlas/birchee/atlas_birchee.geo.json"
+      ],
+      "animations": [
+        "atlas/birchee/atlas_birchee.animation.json"
+      ],
+      "textures": [
+        "atlas/birchee/texture__birchee.png",
+        "atlas/birchee/birchee_alpha.png",
+        "atlas/birchee/birchee_shiny.png",
+        "atlas/birchee/birchee.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

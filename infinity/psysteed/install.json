@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_psysteed_base.json": "assets/cobblemon/bedrock/species/infinity/0_psysteed_base.json",
+    "psysteed.png": "assets/cobblemon/textures/pokemon/infinity/psysteed.png",
+    "psysteed_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/psysteed_cry.ogg"
+  }
+}

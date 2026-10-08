@@ -1,0 +1,14 @@
+{
+  "files": {
+    "0_ninfae_base.json": "assets/cobblemon/bedrock/species/realidea_system/0_ninfae_base.json",
+    "ninfae.png": "assets/cobblemon/textures/pokemon/realidea_system/ninfae.png",
+    "ninfae_alpha.png": "assets/cobblemon/textures/pokemon/realidea_system/ninfae/ninfae_alpha.png",
+    "ninfae_shiny.png": "assets/cobblemon/textures/pokemon/realidea_system/ninfae/ninfae_shiny.png",
+    "realidea_system_ninfae.geo.json": "assets/cobblemon/bedrock/pokemon/models/realidea_system_ninfae.geo.json",
+    "realidea_system_ninfae.json": "assets/cobblemon/bedrock/pokemon/posers/realidea_system_ninfae.json",
+    "texture__ninfae.png": "assets/cobblemon/textures/pokemon/realidea_system/ninfae/ninfae.png"
+  },
+  "uses": [
+    "deneb/aurostice/model.animation.json"
+  ]
+}

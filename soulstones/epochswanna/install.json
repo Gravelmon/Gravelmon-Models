@@ -1,0 +1,11 @@
+{
+  "files": {
+    "164_swanna_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_swanna_epoch.json",
+    "epochswanna.png": "assets/cobblemon/textures/pokemon/soulstones/epochswanna.png",
+    "epochswanna_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochswanna/epochswanna_shiny.png",
+    "soulstones_epochswanna.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochswanna.animation.json",
+    "soulstones_epochswanna.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochswanna.geo.json",
+    "soulstones_epochswanna.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochswanna.json",
+    "texture__epochswanna.png": "assets/cobblemon/textures/pokemon/soulstones/epochswanna/epochswanna.png"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_flarrapin_base.json": "assets/cobblemon/bedrock/species/sage/0_flarrapin_base.json",
+    "flarrapin.png": "assets/cobblemon/textures/pokemon/sage/flarrapin.png",
+    "flarrapin_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/flarrapin_cry.ogg"
+  }
+}

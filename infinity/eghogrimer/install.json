@@ -1,0 +1,13 @@
+{
+  "files": {
+    "117_grimer_egho.json": "assets/cobblemon/bedrock/species/additional_forms/117_grimer_egho.json",
+    "eghogrimer.png": "assets/cobblemon/textures/pokemon/infinity/eghogrimer.png",
+    "grimer.png": "assets/cobblemon/textures/pokemon/infinity/eghogrimer/grimer.png",
+    "grimer_alpha.png": "assets/cobblemon/textures/pokemon/infinity/eghogrimer/grimer_alpha.png",
+    "grimer_egho_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/grimer_egho_cry.ogg",
+    "grimer_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghogrimer/grimer_shiny.png",
+    "infinity_eghogrimer.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_eghogrimer.animation.json",
+    "infinity_eghogrimer.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_eghogrimer.geo.json",
+    "infinity_eghogrimer.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_eghogrimer.json"
+  }
+}

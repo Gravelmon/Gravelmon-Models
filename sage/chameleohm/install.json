@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_chameleohm_base.json": "assets/cobblemon/bedrock/species/sage/0_chameleohm_base.json",
+    "chameleohm.png": "assets/cobblemon/textures/pokemon/sage/chameleohm.png",
+    "chameleohm_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/chameleohm_cry.ogg"
+  }
+}

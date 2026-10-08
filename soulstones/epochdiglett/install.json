@@ -1,0 +1,11 @@
+{
+  "files": {
+    "164_diglett_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_diglett_epoch.json",
+    "epochdiglett.png": "assets/cobblemon/textures/pokemon/soulstones/epochdiglett.png",
+    "epochdiglett_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochdiglett/epochdiglett_shiny.png",
+    "soulstones_epochdiglett.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochdiglett.animation.json",
+    "soulstones_epochdiglett.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochdiglett.geo.json",
+    "soulstones_epochdiglett.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochdiglett.json",
+    "texture__epochdiglett.png": "assets/cobblemon/textures/pokemon/soulstones/epochdiglett/epochdiglett.png"
+  }
+}

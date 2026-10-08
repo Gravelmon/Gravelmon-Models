@@ -1,0 +1,42 @@
+{
+  "game": "soulstones",
+  "pokemon": "chinchou",
+  "formAspects": [
+    "epoch"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "chinchou",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-09-19T17:31:07.939Z",
+      "models": [
+        "soulstones/epochchinchou/soulstones_epochchinchou.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochchinchou/soulstones_epochchinchou.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochchinchou/chinchou_epoch.png",
+        "soulstones/epochchinchou/chinchou_epoch_alpha.png",
+        "soulstones/epochchinchou/chinchou_epoch_emissive.png",
+        "soulstones/epochchinchou/chinchou_epoch_shiny.png",
+        "soulstones/epochchinchou/chinchou_epoch_shiny_emissive.png",
+        "soulstones/epochchinchou/epochchinchou.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

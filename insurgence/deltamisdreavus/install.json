@@ -1,0 +1,12 @@
+{
+  "files": {
+    "118_misdreavus_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_misdreavus_delta.json",
+    "deltamisdreavus.png": "assets/cobblemon/textures/pokemon/insurgence/deltamisdreavus.png",
+    "deltamisdreavus_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltamisdreavus/deltamisdreavus_shiny.png",
+    "insurgence_deltamisdreavus.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltamisdreavus.animation.json",
+    "insurgence_deltamisdreavus.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltamisdreavus.geo.json",
+    "insurgence_deltamisdreavus.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltamisdreavus.json",
+    "misdreavus_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/misdreavus_delta_cry.ogg",
+    "texture__deltamisdreavus.png": "assets/cobblemon/textures/pokemon/insurgence/deltamisdreavus/deltamisdreavus.png"
+  }
+}

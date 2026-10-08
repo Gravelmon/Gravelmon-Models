@@ -1,0 +1,67 @@
+{
+  "portraitScale": 2.6,
+  "portraitTranslation": [
+    -0.1, -1.1, 0.0
+  ],
+  "profileScale": 0.8,
+  "profileTranslation": [
+    0.0, 0.6, 0.0
+  ],
+  "rootBone": "epochraltsone",
+  "poses": {
+    "standing": {
+      "isBattle": false,
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochralts', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('soulstones_epochralts', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "walk",
+        "swim"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochralts', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('soulstones_epochralts', 'ground_walk')"
+      ]
+    },
+    "battle-standing": {
+      "isBattle": true,
+      "poseTypes": [
+        "stand"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochralts', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('soulstones_epochralts', 'battle_idle')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochralts', 'sleep')"
+      ]
+    }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('soulstones_epochralts', 'cry')"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_leukoon_base.json": "assets/cobblemon/bedrock/species/sage/0_leukoon_base.json",
+    "leukoon.png": "assets/cobblemon/textures/pokemon/sage/leukoon.png",
+    "leukoon_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/leukoon_cry.ogg"
+  }
+}

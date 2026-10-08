@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_llamarsh_base.json": "assets/cobblemon/bedrock/species/sage/0_llamarsh_base.json",
+    "llamarsh.png": "assets/cobblemon/textures/pokemon/sage/llamarsh.png",
+    "llamarsh_alpha.png": "assets/cobblemon/textures/pokemon/sage/llamarsh/llamarsh_alpha.png",
+    "llamarsh_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/llamarsh_cry.ogg",
+    "llamarsh_shiny.png": "assets/cobblemon/textures/pokemon/sage/llamarsh/llamarsh_shiny.png",
+    "sage_llamarsh.geo.json": "assets/cobblemon/bedrock/pokemon/models/sage_llamarsh.geo.json",
+    "sage_llamarsh.json": "assets/cobblemon/bedrock/pokemon/posers/sage_llamarsh.json",
+    "texture__llamarsh.png": "assets/cobblemon/textures/pokemon/sage/llamarsh/llamarsh.png"
+  }
+}

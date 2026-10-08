@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_chimaconda_base.json": "assets/cobblemon/bedrock/species/uranium/0_chimaconda_base.json",
+    "chimaconda.png": "assets/cobblemon/textures/pokemon/uranium/chimaconda.png",
+    "chimaconda_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/chimaconda_cry.ogg"
+  }
+}

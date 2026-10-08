@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_mallarki_base.json": "assets/cobblemon/bedrock/species/blazing_emerald/0_mallarki_base.json",
+    "mallarki.png": "assets/cobblemon/textures/pokemon/blazing_emerald/mallarki.png",
+    "mallarki_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/mallarki_cry.ogg"
+  }
+}

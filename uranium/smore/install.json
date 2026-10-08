@@ -1,0 +1,13 @@
+{
+  "files": {
+    "0_smore_base.json": "assets/cobblemon/bedrock/species/uranium/0_smore_base.json",
+    "smore.png": "assets/cobblemon/textures/pokemon/uranium/smore.png",
+    "smore_alpha.png": "assets/cobblemon/textures/pokemon/uranium/smore/smore_alpha.png",
+    "smore_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/smore_cry.ogg",
+    "smore_shiny.png": "assets/cobblemon/textures/pokemon/uranium/smore/smore_shiny.png",
+    "texture__smore.png": "assets/cobblemon/textures/pokemon/uranium/smore/smore.png",
+    "uranium_smore.animation.json": "assets/cobblemon/bedrock/pokemon/animations/uranium_smore.animation.json",
+    "uranium_smore.geo.json": "assets/cobblemon/bedrock/pokemon/models/uranium_smore.geo.json",
+    "uranium_smore.json": "assets/cobblemon/bedrock/pokemon/posers/uranium_smore.json"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "game": "uranium",
+  "pokemon": "cubbug",
+  "entries": [
+    {
+      "contributor": {
+        "login": "mitchooart"
+      },
+      "contributors": [
+        {
+          "login": "mitchooart"
+        }
+      ],
+      "submittedAt": "2026-09-24T15:50:59.052Z",
+      "models": [
+        "uranium/cubbug/uranium_cubbug.geo.json"
+      ],
+      "animations": [
+        "uranium/cubbug/uranium_cubbug.animation.json"
+      ],
+      "textures": [
+        "uranium/cubbug/texture__cubbug.png",
+        "uranium/cubbug/cubbug_alpha.png",
+        "uranium/cubbug/cubbug_shiny.png",
+        "uranium/cubbug/cubbug.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

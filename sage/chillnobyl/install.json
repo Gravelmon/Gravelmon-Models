@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_chillnobyl_base.json": "assets/cobblemon/bedrock/species/sage/0_chillnobyl_base.json",
+    "chillnobyl.png": "assets/cobblemon/textures/pokemon/sage/chillnobyl.png",
+    "chillnobyl_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/chillnobyl_cry.ogg"
+  }
+}

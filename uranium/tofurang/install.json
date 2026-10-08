@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_tofurang_base.json": "assets/cobblemon/bedrock/species/uranium/0_tofurang_base.json",
+    "tofurang.png": "assets/cobblemon/textures/pokemon/uranium/tofurang.png",
+    "tofurang_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/tofurang_cry.ogg"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "game": "insurgence",
+  "pokemon": "kirlia",
+  "formAspects": [
+    "delta"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "delta"
+      ],
+      "inheritsFrom": {
+        "pokemon": "kirlia",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "neoxaivus"
+      },
+      "contributors": [
+        {
+          "login": "neoxaivus"
+        }
+      ],
+      "submittedAt": "2026-09-27T11:55:52.679Z",
+      "models": [
+        "_unreferenced/assets/cobblemon/bedrock/pokemon/models/delta_gardevoir.geo.json",
+        "_unreferenced/assets/cobblemon/bedrock/pokemon/models/delta_kirlia.geo.json"
+      ],
+      "animations": [
+        "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltakirlia.animation.json"
+      ],
+      "textures": [
+        "assets/cobblemon/delta_kirlia_preview.png",
+        "insurgence/deltakirlia/texture__deltakirlia.png",
+        "insurgence/deltakirlia/deltakirlia_alpha.png",
+        "insurgence/deltakirlia/deltakirlia_shiny.png",
+        "insurgence/deltakirlia/deltakirlia.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

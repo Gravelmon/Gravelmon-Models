@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_chikaboo_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_chikaboo_base.json",
+    "chikaboo.png": "assets/cobblemon/textures/pokemon/xenoverse/chikaboo.png",
+    "chikaboo_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/chikaboo_cry.ogg"
+  }
+}

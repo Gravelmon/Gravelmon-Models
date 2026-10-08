@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_crakling_base.json": "assets/cobblemon/bedrock/species/sage/0_crakling_base.json",
+    "crakling.png": "assets/cobblemon/textures/pokemon/sage/crakling.png",
+    "crakling_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/crakling_cry.ogg"
+  }
+}

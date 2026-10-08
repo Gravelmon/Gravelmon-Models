@@ -1,0 +1,8 @@
+{
+  "files": {
+    "femalecatteraxe.png": "assets/cobblemon/textures/pokemon/lockemon/femalecatteraxe.png"
+  },
+  "uses": [
+    "lockemon/catteraxe/0_catteraxe_base.json"
+  ]
+}

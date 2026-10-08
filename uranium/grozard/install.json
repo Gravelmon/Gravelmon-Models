@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_grozard_base.json": "assets/cobblemon/bedrock/species/uranium/0_grozard_base.json",
+    "grozard.png": "assets/cobblemon/textures/pokemon/uranium/grozard.png",
+    "grozard_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/grozard_cry.ogg"
+  }
+}

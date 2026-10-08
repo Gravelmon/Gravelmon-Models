@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_oozma_base.json": "assets/cobblemon/bedrock/species/infinity/0_oozma_base.json",
+    "oozma.png": "assets/cobblemon/textures/pokemon/infinity/oozma.png",
+    "oozma_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/oozma_cry.ogg"
+  }
+}

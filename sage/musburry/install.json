@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_musburry_base.json": "assets/cobblemon/bedrock/species/sage/0_musburry_base.json",
+    "musburry.png": "assets/cobblemon/textures/pokemon/sage/musburry.png",
+    "musburry_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/musburry_cry.ogg"
+  }
+}

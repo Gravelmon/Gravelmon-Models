@@ -1,0 +1,11 @@
+{
+  "files": {
+    "0_kwiklik_base.json": "assets/cobblemon/bedrock/species/varitas/0_kwiklik_base.json",
+    "kwiklik.png": "assets/cobblemon/textures/pokemon/varitas/kwiklik.png",
+    "kwiklik_alpha.png": "assets/cobblemon/textures/pokemon/varitas/kwiklik/kwiklik_alpha.png",
+    "kwiklik_shiny.png": "assets/cobblemon/textures/pokemon/varitas/kwiklik/kwiklik_shiny.png",
+    "texture__kwiklik.png": "assets/cobblemon/textures/pokemon/varitas/kwiklik/kwiklik.png",
+    "varitas_kwiklik.geo.json": "assets/cobblemon/bedrock/pokemon/models/varitas_kwiklik.geo.json",
+    "varitas_kwiklik.json": "assets/cobblemon/bedrock/pokemon/posers/varitas_kwiklik.json"
+  }
+}

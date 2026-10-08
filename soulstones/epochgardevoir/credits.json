@@ -1,0 +1,40 @@
+{
+  "game": "soulstones",
+  "pokemon": "gardevoir",
+  "formAspects": [
+    "epoch"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "gardevoir",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "rcampbellbusiness-boop"
+      },
+      "contributors": [
+        {
+          "login": "rcampbellbusiness-boop"
+        }
+      ],
+      "submittedAt": "2026-09-20T18:26:30.305Z",
+      "models": [
+        "soulstones/epochgardevoir/soulstones_epochgardevoir.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochgardevoir/soulstones_epochgardevoir.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochgardevoir/epochgardevoirone.png",
+        "soulstones/epochgardevoir/epochgardevoirone_alpha.png",
+        "soulstones/epochgardevoir/epochgardevoirone_shiny.png",
+        "soulstones/epochgardevoir/epochgardevoir.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

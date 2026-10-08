@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_snopach_base.json": "assets/cobblemon/bedrock/species/uranium/0_snopach_base.json",
+    "snopach.png": "assets/cobblemon/textures/pokemon/uranium/snopach.png",
+    "snopach_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/snopach_cry.ogg"
+  }
+}

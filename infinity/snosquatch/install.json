@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_snosquatch_base.json": "assets/cobblemon/bedrock/species/infinity/0_snosquatch_base.json",
+    "snosquatch.png": "assets/cobblemon/textures/pokemon/infinity/snosquatch.png",
+    "snosquatch_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/snosquatch_cry.ogg"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "files": {
+    "118_arcanine_deltaten.json": "assets/cobblemon/bedrock/species/additional_forms/118_arcanine_deltaten.json"
+  },
+  "uses": [
+    "insurgence/deltaarcanine/deltaarcanine.png"
+  ]
+}

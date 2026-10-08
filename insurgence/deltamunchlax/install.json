@@ -1,0 +1,13 @@
+{
+  "files": {
+    "118_munchlax_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_munchlax_delta.json",
+    "delta_munchlax.png": "assets/cobblemon/textures/pokemon/insurgence/deltamunchlax/delta_munchlax.png",
+    "delta_munchlax_alpha.png": "assets/cobblemon/textures/pokemon/insurgence/deltamunchlax/delta_munchlax_alpha.png",
+    "delta_munchlax_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltamunchlax/delta_munchlax_shiny.png",
+    "deltamunchlax.png": "assets/cobblemon/textures/pokemon/insurgence/deltamunchlax.png",
+    "insurgence_deltamunchlax.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltamunchlax.animation.json",
+    "insurgence_deltamunchlax.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltamunchlax.geo.json",
+    "insurgence_deltamunchlax.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltamunchlax.json",
+    "munchlax_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/munchlax_delta_cry.ogg"
+  }
+}

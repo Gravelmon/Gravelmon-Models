@@ -1,0 +1,14 @@
+{
+  "files": {
+    "118_gardevoir_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_gardevoir_delta.json",
+    "deltagardevoir.png": "assets/cobblemon/textures/pokemon/insurgence/deltagardevoir.png",
+    "deltagardevoir_alpha.png": "assets/cobblemon/textures/pokemon/insurgence/deltagardevoir/deltagardevoir_alpha.png",
+    "deltagardevoir_emissive.png": "assets/cobblemon/textures/pokemon/insurgence/deltagardevoir/deltagardevoir_emissive.png",
+    "deltagardevoir_emissive_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltagardevoir/deltagardevoir_emissive_shiny.png",
+    "deltagardevoir_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltagardevoir/deltagardevoir_shiny.png",
+    "gardevoir_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/gardevoir_delta_cry.ogg",
+    "insurgence_deltagardevoir.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltagardevoir.geo.json",
+    "insurgence_deltagardevoir.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltagardevoir.json",
+    "texture__deltagardevoir.png": "assets/cobblemon/textures/pokemon/insurgence/deltagardevoir/deltagardevoir.png"
+  }
+}

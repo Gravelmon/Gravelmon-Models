@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_blingrimm_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_blingrimm_base.json",
+    "blingrimm.png": "assets/cobblemon/textures/pokemon/xenoverse/blingrimm.png",
+    "blingrimm_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/blingrimm_cry.ogg"
+  }
+}

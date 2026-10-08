@@ -1,0 +1,12 @@
+{
+  "files": {
+    "164_dedenne_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_dedenne_epoch.json",
+    "dedenne_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochdedenne/dedenne_epoch.png",
+    "dedenne_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochdedenne/dedenne_epoch_alpha.png",
+    "dedenne_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochdedenne/dedenne_epoch_shiny.png",
+    "epochdedenne.png": "assets/cobblemon/textures/pokemon/soulstones/epochdedenne.png",
+    "soulstones_epochdedenne.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochdedenne.animation.json",
+    "soulstones_epochdedenne.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochdedenne.geo.json",
+    "soulstones_epochdedenne.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochdedenne.json"
+  }
+}

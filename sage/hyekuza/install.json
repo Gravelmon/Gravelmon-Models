@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_hyekuza_base.json": "assets/cobblemon/bedrock/species/sage/0_hyekuza_base.json",
+    "hyekuza.png": "assets/cobblemon/textures/pokemon/sage/hyekuza.png",
+    "hyekuza_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/hyekuza_cry.ogg"
+  }
+}

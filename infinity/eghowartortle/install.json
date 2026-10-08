@@ -1,0 +1,12 @@
+{
+  "files": {
+    "117_wartortle_egho.json": "assets/cobblemon/bedrock/species/additional_forms/117_wartortle_egho.json",
+    "eghowartortle.png": "assets/cobblemon/textures/pokemon/infinity/eghowartortle.png",
+    "eghowartortle_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghowartortle/eghowartortle_shiny.png",
+    "infinity_eghowartortle.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_eghowartortle.animation.json",
+    "infinity_eghowartortle.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_eghowartortle.geo.json",
+    "infinity_eghowartortle.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_eghowartortle.json",
+    "texture__eghowartortle.png": "assets/cobblemon/textures/pokemon/infinity/eghowartortle/eghowartortle.png",
+    "wartortle_egho_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/wartortle_egho_cry.ogg"
+  }
+}

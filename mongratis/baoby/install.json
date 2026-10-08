@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_baoby_base.json": "assets/cobblemon/bedrock/species/mongratis/0_baoby_base.json",
+    "baoby.png": "assets/cobblemon/textures/pokemon/mongratis/baoby.png",
+    "baoby_alpha.png": "assets/cobblemon/textures/pokemon/mongratis/baoby/baoby_alpha.png",
+    "baoby_shiny.png": "assets/cobblemon/textures/pokemon/mongratis/baoby/baoby_shiny.png",
+    "mongratis_baoby.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mongratis_baoby.animation.json",
+    "mongratis_baoby.geo.json": "assets/cobblemon/bedrock/pokemon/models/mongratis_baoby.geo.json",
+    "mongratis_baoby.json": "assets/cobblemon/bedrock/pokemon/posers/mongratis_baoby.json",
+    "texture__baoby.png": "assets/cobblemon/textures/pokemon/mongratis/baoby/baoby.png"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_orchynx_base.json": "assets/cobblemon/bedrock/species/uranium/0_orchynx_base.json",
+    "orchynx.png": "assets/cobblemon/textures/pokemon/uranium/orchynx.png",
+    "orchynx_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/orchynx_cry.ogg"
+  }
+}

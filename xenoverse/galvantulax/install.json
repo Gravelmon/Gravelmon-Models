@@ -1,0 +1,12 @@
+{
+  "files": {
+    "25_galvantula_x.json": "assets/cobblemon/bedrock/species/additional_forms/25_galvantula_x.json",
+    "galvantula_x_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/galvantula_x_cry.ogg",
+    "galvantulax.png": "assets/cobblemon/textures/pokemon/xenoverse/galvantulax.png",
+    "galvantulax_form.png": "assets/cobblemon/textures/pokemon/xenoverse/galvantulax/galvantulax_form.png",
+    "galvantulax_form_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/galvantulax/galvantulax_form_shiny.png",
+    "xenoverse_galvantulax.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_galvantulax.animation.json",
+    "xenoverse_galvantulax.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_galvantulax.geo.json",
+    "xenoverse_galvantulax.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_galvantulax.json"
+  }
+}

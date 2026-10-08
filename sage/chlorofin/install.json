@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_chlorofin_base.json": "assets/cobblemon/bedrock/species/sage/0_chlorofin_base.json",
+    "chlorofin.png": "assets/cobblemon/textures/pokemon/sage/chlorofin.png",
+    "chlorofin_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/chlorofin_cry.ogg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "files": {
+    "118_sliggoo_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_sliggoo_delta.json",
+    "deltasliggoo.png": "assets/cobblemon/textures/pokemon/insurgence/deltasliggoo.png",
+    "deltasliggoo_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltasliggoo/deltasliggoo_shiny.png",
+    "insurgence_deltasliggoo.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltasliggoo.animation.json",
+    "insurgence_deltasliggoo.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltasliggoo.geo.json",
+    "insurgence_deltasliggoo.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltasliggoo.json",
+    "sliggoo_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/sliggoo_delta_cry.ogg",
+    "texture__deltasliggoo.png": "assets/cobblemon/textures/pokemon/insurgence/deltasliggoo/deltasliggoo.png"
+  }
+}

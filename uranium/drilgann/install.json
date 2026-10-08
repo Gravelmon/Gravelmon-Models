@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_drilgann_base.json": "assets/cobblemon/bedrock/species/uranium/0_drilgann_base.json",
+    "drilgann.png": "assets/cobblemon/textures/pokemon/uranium/drilgann.png",
+    "drilgann_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/drilgann_cry.ogg"
+  }
+}

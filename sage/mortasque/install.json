@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_mortasque_base.json": "assets/cobblemon/bedrock/species/sage/0_mortasque_base.json",
+    "mortasque.png": "assets/cobblemon/textures/pokemon/sage/mortasque.png",
+    "mortasque_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/mortasque_cry.ogg"
+  }
+}

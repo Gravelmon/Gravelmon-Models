@@ -1,0 +1,11 @@
+{
+  "files": {
+    "88_zigzagoon_ayreian.json": "assets/cobblemon/bedrock/species/additional_forms/88_zigzagoon_ayreian.json",
+    "ayreianzigzagoon.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianzigzagoon.png",
+    "ayreianzigzagoon_shiny.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianzigzagoon/ayreianzigzagoon_shiny.png",
+    "texture__ayreianzigzagoon.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianzigzagoon/ayreianzigzagoon.png",
+    "vanguard_ayreianzigzagoon.animation.json": "assets/cobblemon/bedrock/pokemon/animations/vanguard_ayreianzigzagoon.animation.json",
+    "vanguard_ayreianzigzagoon.geo.json": "assets/cobblemon/bedrock/pokemon/models/vanguard_ayreianzigzagoon.geo.json",
+    "vanguard_ayreianzigzagoon.json": "assets/cobblemon/bedrock/pokemon/posers/vanguard_ayreianzigzagoon.json"
+  }
+}

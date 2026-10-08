@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_jaguile_base.json": "assets/cobblemon/bedrock/species/sage/0_jaguile_base.json",
+    "jaguile.png": "assets/cobblemon/textures/pokemon/sage/jaguile.png",
+    "jaguile_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/jaguile_cry.ogg"
+  }
+}

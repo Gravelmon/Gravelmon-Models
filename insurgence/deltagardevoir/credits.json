@@ -1,0 +1,41 @@
+{
+  "game": "insurgence",
+  "pokemon": "gardevoir",
+  "formAspects": [
+    "delta"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "delta"
+      ],
+      "inheritsFrom": {
+        "pokemon": "gardevoir",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "neoxaivus"
+      },
+      "contributors": [
+        {
+          "login": "neoxaivus"
+        }
+      ],
+      "submittedAt": "2026-09-27T11:54:39.532Z",
+      "models": [
+        "insurgence/deltagardevoir/insurgence_deltagardevoir.geo.json"
+      ],
+      "animations": [
+        "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltagardevoir.animation.json"
+      ],
+      "textures": [
+        "assets/cobblemon/delta_gardevoir_preview.png",
+        "insurgence/deltagardevoir/texture__deltagardevoir.png",
+        "insurgence/deltagardevoir/deltagardevoir_alpha.png",
+        "insurgence/deltagardevoir/deltagardevoir_shiny.png",
+        "insurgence/deltagardevoir/deltagardevoir.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_lutrajet_base.json": "assets/cobblemon/bedrock/species/sage/0_lutrajet_base.json",
+    "lutrajet.png": "assets/cobblemon/textures/pokemon/sage/lutrajet.png",
+    "lutrajet_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/lutrajet_cry.ogg"
+  }
+}

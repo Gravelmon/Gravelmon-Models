@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_blubelrog_base.json": "assets/cobblemon/bedrock/species/uranium/0_blubelrog_base.json",
+    "blubelrog.png": "assets/cobblemon/textures/pokemon/uranium/blubelrog.png",
+    "blubelrog_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/blubelrog_cry.ogg"
+  }
+}

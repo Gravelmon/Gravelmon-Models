@@ -1,0 +1,19 @@
+{
+  "files": {
+    "118_charmeleon_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_charmeleon_delta.json",
+    "charmeleon_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/charmeleon_delta_cry.ogg",
+    "deltacharmeleon.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharmeleon.png",
+    "deltacharmeleon_alpha.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharmeleon/deltacharmeleon_alpha.png",
+    "deltacharmeleon_emissive.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharmeleon/deltacharmeleon_emissive.png",
+    "deltacharmeleon_emissive_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharmeleon/deltacharmeleon_emissive_shiny.png",
+    "deltacharmeleon_flame1.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharmeleon/deltacharmeleon_flame1.png",
+    "deltacharmeleon_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharmeleon/deltacharmeleon_shiny.png",
+    "flame__deltatail1.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharmeleon/flame/deltatail1.png",
+    "flame__deltatail2.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharmeleon/flame/deltatail2.png",
+    "flame__deltatail3.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharmeleon/flame/deltatail3.png",
+    "flame__deltatail4.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharmeleon/flame/deltatail4.png",
+    "insurgence_deltacharmeleon.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltacharmeleon.geo.json",
+    "insurgence_deltacharmeleon.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltacharmeleon.json",
+    "texture__deltacharmeleon.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharmeleon/deltacharmeleon.png"
+  }
+}

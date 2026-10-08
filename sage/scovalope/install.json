@@ -1,0 +1,16 @@
+{
+  "files": {
+    "0_scovalope_base.json": "assets/cobblemon/bedrock/species/sage/0_scovalope_base.json",
+    "sage_scovalope.animation.json": "assets/cobblemon/bedrock/pokemon/animations/sage_scovalope.animation.json",
+    "sage_scovalope.geo.json": "assets/cobblemon/bedrock/pokemon/models/sage_scovalope.geo.json",
+    "sage_scovalope.json": "assets/cobblemon/bedrock/pokemon/posers/sage_scovalope.json",
+    "scovalope.png": "assets/cobblemon/textures/pokemon/sage/scovalope.png",
+    "scovalope_alpha.png": "assets/cobblemon/textures/pokemon/sage/scovalope/scovalope_alpha.png",
+    "scovalope_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/scovalope_cry.ogg",
+    "scovalope_flame__scovalope_flame1.png": "assets/cobblemon/textures/pokemon/sage/scovalope/scovalope_flame/scovalope_flame1.png",
+    "scovalope_flame__scovalope_flame2.png": "assets/cobblemon/textures/pokemon/sage/scovalope/scovalope_flame/scovalope_flame2.png",
+    "scovalope_flame__scovalope_flame3.png": "assets/cobblemon/textures/pokemon/sage/scovalope/scovalope_flame/scovalope_flame3.png",
+    "scovalope_shiny.png": "assets/cobblemon/textures/pokemon/sage/scovalope/scovalope_shiny.png",
+    "texture__scovalope.png": "assets/cobblemon/textures/pokemon/sage/scovalope/scovalope.png"
+  }
+}

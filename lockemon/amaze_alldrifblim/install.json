@@ -1,0 +1,8 @@
+{
+  "files": {
+    "157_drifblim_amaze_all.json": "assets/cobblemon/bedrock/species/additional_forms/157_drifblim_amaze_all.json"
+  },
+  "uses": [
+    "lockemon/amazealldrifblim/amazealldrifblim.png"
+  ]
+}

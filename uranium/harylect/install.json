@@ -1,0 +1,15 @@
+{
+  "files": {
+    "0_harylect_base.json": "assets/cobblemon/bedrock/species/uranium/0_harylect_base.json",
+    "harylect.png": "assets/cobblemon/textures/pokemon/uranium/harylect.png",
+    "harylect_alpha.png": "assets/cobblemon/textures/pokemon/uranium/harylect/harylect_alpha.png",
+    "harylect_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/harylect_cry.ogg",
+    "harylect_emissive.png": "assets/cobblemon/textures/pokemon/uranium/harylect/harylect_emissive.png",
+    "harylect_shiny.png": "assets/cobblemon/textures/pokemon/uranium/harylect/harylect_shiny.png",
+    "harylect_shiny_emissive.png": "assets/cobblemon/textures/pokemon/uranium/harylect/harylect_shiny_emissive.png",
+    "texture__harylect.png": "assets/cobblemon/textures/pokemon/uranium/harylect/harylect.png",
+    "uranium_harylect.animation.json": "assets/cobblemon/bedrock/pokemon/animations/uranium_harylect.animation.json",
+    "uranium_harylect.geo.json": "assets/cobblemon/bedrock/pokemon/models/uranium_harylect.geo.json",
+    "uranium_harylect.json": "assets/cobblemon/bedrock/pokemon/posers/uranium_harylect.json"
+  }
+}

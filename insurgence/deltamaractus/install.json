@@ -1,0 +1,14 @@
+{
+  "files": {
+    "118_maractus_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_maractus_delta.json",
+    "deltamaractus.png": "assets/cobblemon/textures/pokemon/insurgence/deltamaractus.png",
+    "deltamaractus_emissive.png": "assets/cobblemon/textures/pokemon/insurgence/deltamaractus/deltamaractus_emissive.png",
+    "deltamaractus_emissive_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltamaractus/deltamaractus_emissive_shiny.png",
+    "deltamaractus_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltamaractus/deltamaractus_shiny.png",
+    "insurgence_deltamaractus.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltamaractus.animation.json",
+    "insurgence_deltamaractus.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltamaractus.geo.json",
+    "insurgence_deltamaractus.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltamaractus.json",
+    "maractus_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/maractus_delta_cry.ogg",
+    "texture__deltamaractus.png": "assets/cobblemon/textures/pokemon/insurgence/deltamaractus/deltamaractus.png"
+  }
+}

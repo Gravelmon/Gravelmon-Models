@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_orett_base.json": "assets/cobblemon/bedrock/species/sage/0_orett_base.json",
+    "orett.png": "assets/cobblemon/textures/pokemon/sage/orett.png",
+    "orett_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/orett_cry.ogg"
+  }
+}

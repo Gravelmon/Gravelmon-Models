@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_eletux_base.json": "assets/cobblemon/bedrock/species/uranium/0_eletux_base.json",
+    "eletux.png": "assets/cobblemon/textures/pokemon/uranium/eletux.png",
+    "eletux_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/eletux_cry.ogg"
+  }
+}

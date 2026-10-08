@@ -1,0 +1,13 @@
+{
+  "files": {
+    "86_clawitzer_seviian.json": "assets/cobblemon/bedrock/species/additional_forms/86_clawitzer_seviian.json",
+    "radical_red_seviianclawitzer.geo.json": "assets/cobblemon/bedrock/pokemon/models/radical_red_seviianclawitzer.geo.json",
+    "radical_red_seviianclawitzer.json": "assets/cobblemon/bedrock/pokemon/posers/radical_red_seviianclawitzer.json",
+    "seviianclawitzer.png": "assets/cobblemon/textures/pokemon/radical_red/seviianclawitzer.png",
+    "seviianclawitzer_alpha.png": "assets/cobblemon/textures/pokemon/radical_red/seviianclawitzer/seviianclawitzer_alpha.png",
+    "seviianclawitzer_emissive.png": "assets/cobblemon/textures/pokemon/radical_red/seviianclawitzer/seviianclawitzer_emissive.png",
+    "seviianclawitzer_shiny.png": "assets/cobblemon/textures/pokemon/radical_red/seviianclawitzer/seviianclawitzer_shiny.png",
+    "seviianclawitzer_shiny_emissive.png": "assets/cobblemon/textures/pokemon/radical_red/seviianclawitzer/seviianclawitzer_shiny_emissive.png",
+    "texture__seviianclawitzer.png": "assets/cobblemon/textures/pokemon/radical_red/seviianclawitzer/seviianclawitzer.png"
+  }
+}

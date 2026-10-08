@@ -1,0 +1,9 @@
+{
+  "files": {
+    "femalesnogre.png": "assets/cobblemon/textures/pokemon/sage/femalesnogre.png",
+    "snogre_female.png": "assets/cobblemon/textures/pokemon/sage/snogrefemale/snogre_female.png"
+  },
+  "uses": [
+    "sage/snogre/0_snogre_base.json"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_vectol2_base.json": "assets/cobblemon/bedrock/species/sage/0_vectol2_base.json",
+    "vectol2.png": "assets/cobblemon/textures/pokemon/sage/vectol2.png",
+    "vectol2_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/vectol2_cry.ogg"
+  }
+}

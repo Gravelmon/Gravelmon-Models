@@ -1,0 +1,14 @@
+{
+  "files": {
+    "0_xenoqueen_base.json": "assets/cobblemon/bedrock/species/uranium/0_xenoqueen_base.json",
+    "texture__xenoqueen.png": "assets/cobblemon/textures/pokemon/uranium/xenoqueen/xenoqueen.png",
+    "uranium_xenoqueen.animation.json": "assets/cobblemon/bedrock/pokemon/animations/uranium_xenoqueen.animation.json",
+    "uranium_xenoqueen.geo.json": "assets/cobblemon/bedrock/pokemon/models/uranium_xenoqueen.geo.json",
+    "uranium_xenoqueen.json": "assets/cobblemon/bedrock/pokemon/posers/uranium_xenoqueen.json",
+    "xenoqueen.png": "assets/cobblemon/textures/pokemon/uranium/xenoqueen.png",
+    "xenoqueen_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/xenoqueen_cry.ogg",
+    "xenoqueen_emissive.png": "assets/cobblemon/textures/pokemon/uranium/xenoqueen/xenoqueen_emissive.png",
+    "xenoqueen_shiny.png": "assets/cobblemon/textures/pokemon/uranium/xenoqueen/xenoqueen_shiny.png",
+    "xenoqueen_shiny_emissive.png": "assets/cobblemon/textures/pokemon/uranium/xenoqueen/xenoqueen_shiny_emissive.png"
+  }
+}

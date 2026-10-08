@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_obsideon_base.json": "assets/cobblemon/bedrock/species/infinity/0_obsideon_base.json",
+    "infinity_obsideon.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_obsideon.animation.json",
+    "infinity_obsideon.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_obsideon.geo.json",
+    "infinity_obsideon.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_obsideon.json",
+    "obsideon.png": "assets/cobblemon/textures/pokemon/infinity/obsideon.png",
+    "obsideon_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/obsideon_cry.ogg",
+    "obsideon_shiny.png": "assets/cobblemon/textures/pokemon/infinity/obsideon/obsideon_shiny.png",
+    "texture__obsideon.png": "assets/cobblemon/textures/pokemon/infinity/obsideon/obsideon.png"
+  }
+}

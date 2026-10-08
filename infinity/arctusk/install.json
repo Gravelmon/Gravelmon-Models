@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_arctusk_base.json": "assets/cobblemon/bedrock/species/infinity/0_arctusk_base.json",
+    "arctusk.png": "assets/cobblemon/textures/pokemon/infinity/arctusk.png",
+    "arctusk_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/arctusk_cry.ogg"
+  }
+}

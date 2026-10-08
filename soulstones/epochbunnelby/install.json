@@ -1,0 +1,11 @@
+{
+  "files": {
+    "164_bunnelby_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_bunnelby_epoch.json",
+    "epochbunnelby.png": "assets/cobblemon/textures/pokemon/soulstones/epochbunnelby.png",
+    "epochbunnelby_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochbunnelby/epochbunnelby_shiny.png",
+    "soulstones_epochbunnelby.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochbunnelby.animation.json",
+    "soulstones_epochbunnelby.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochbunnelby.geo.json",
+    "soulstones_epochbunnelby.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochbunnelby.json",
+    "texture__epochbunnelby.png": "assets/cobblemon/textures/pokemon/soulstones/epochbunnelby/epochbunnelby.png"
+  }
+}

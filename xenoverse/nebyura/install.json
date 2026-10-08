@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_nebyura_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_nebyura_base.json",
+    "nebyura.png": "assets/cobblemon/textures/pokemon/xenoverse/nebyura.png",
+    "nebyura_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/nebyura_cry.ogg",
+    "nebyura_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/nebyura/nebyura_shiny.png",
+    "texture__nebyura.png": "assets/cobblemon/textures/pokemon/xenoverse/nebyura/nebyura.png",
+    "xenoverse_nebyura.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_nebyura.animation.json",
+    "xenoverse_nebyura.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_nebyura.geo.json",
+    "xenoverse_nebyura.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_nebyura.json"
+  }
+}

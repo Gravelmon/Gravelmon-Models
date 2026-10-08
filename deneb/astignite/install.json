@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_astignite_base.json": "assets/cobblemon/bedrock/species/deneb/0_astignite_base.json",
+    "astignite.png": "assets/cobblemon/textures/pokemon/deneb/astignite.png",
+    "astignite_cry.ogg": "assets/gravelmon/sounds/pokemon/deneb/astignite_cry.ogg"
+  }
+}

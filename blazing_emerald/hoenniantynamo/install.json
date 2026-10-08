@@ -1,0 +1,13 @@
+{
+  "files": {
+    "24_tynamo_hoennian.json": "assets/cobblemon/bedrock/species/additional_forms/24_tynamo_hoennian.json",
+    "blazing_emerald_hoenniantynamo.animation.json": "assets/cobblemon/bedrock/pokemon/animations/blazing_emerald_hoenniantynamo.animation.json",
+    "blazing_emerald_hoenniantynamo.geo.json": "assets/cobblemon/bedrock/pokemon/models/blazing_emerald_hoenniantynamo.geo.json",
+    "blazing_emerald_hoenniantynamo.json": "assets/cobblemon/bedrock/pokemon/posers/blazing_emerald_hoenniantynamo.json",
+    "hoenniantynamo.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniantynamo.png",
+    "tynamo_hoennian.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniantynamo/tynamo_hoennian.png",
+    "tynamo_hoennian_alpha.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniantynamo/tynamo_hoennian_alpha.png",
+    "tynamo_hoennian_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/tynamo_hoennian_cry.ogg",
+    "tynamo_hoennian_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniantynamo/tynamo_hoennian_shiny.png"
+  }
+}

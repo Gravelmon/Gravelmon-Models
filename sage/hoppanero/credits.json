@@ -1,0 +1,32 @@
+{
+  "game": "sage",
+  "pokemon": "hoppanero",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Carnifax"
+      },
+      "contributors": [
+        {
+          "login": "Carnifax"
+        }
+      ],
+      "submittedAt": "2026-09-25T05:57:39.574Z",
+      "models": [
+        "sage/hoppanero/sage_hoppanero.geo.json"
+      ],
+      "animations": [
+        "sage/hoppanero/sage_hoppanero.animation.json"
+      ],
+      "textures": [
+        "sage/hoppanero/texture__hoppanero.png",
+        "sage/hoppanero/hoppanero_alpha.png",
+        "sage/hoppanero/hoppanero_shiny.png",
+        "sage/hoppanero/hoppanero.png"
+      ],
+      "sounds": [
+        "sage/hoppanero/hoppanero_cry.ogg"
+      ]
+    }
+  ]
+}

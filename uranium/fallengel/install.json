@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_fallengel_base.json": "assets/cobblemon/bedrock/species/uranium/0_fallengel_base.json",
+    "fallengel.png": "assets/cobblemon/textures/pokemon/uranium/fallengel.png",
+    "fallengel_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/fallengel_cry.ogg"
+  }
+}

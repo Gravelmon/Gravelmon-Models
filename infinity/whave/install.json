@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_whave_base.json": "assets/cobblemon/bedrock/species/infinity/0_whave_base.json",
+    "infinity_whave.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_whave.animation.json",
+    "infinity_whave.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_whave.geo.json",
+    "infinity_whave.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_whave.json",
+    "texture__whave.png": "assets/cobblemon/textures/pokemon/infinity/whave/whave.png",
+    "whave.png": "assets/cobblemon/textures/pokemon/infinity/whave.png",
+    "whave_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/whave_cry.ogg",
+    "whave_shiny.png": "assets/cobblemon/textures/pokemon/infinity/whave/whave_shiny.png"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_minicorn_base.json": "assets/cobblemon/bedrock/species/uranium/0_minicorn_base.json",
+    "minicorn.png": "assets/cobblemon/textures/pokemon/uranium/minicorn.png",
+    "minicorn_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/minicorn_cry.ogg"
+  }
+}

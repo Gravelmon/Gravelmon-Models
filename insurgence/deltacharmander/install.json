@@ -1,0 +1,19 @@
+{
+  "files": {
+    "118_charmander_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_charmander_delta.json",
+    "charmander_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/charmander_delta_cry.ogg",
+    "deltacharmander.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharmander.png",
+    "deltacharmander_alpha.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharmander/deltacharmander_alpha.png",
+    "deltacharmander_emissive.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharmander/deltacharmander_emissive.png",
+    "deltacharmander_emissive_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharmander/deltacharmander_emissive_shiny.png",
+    "deltacharmander_flame1.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharmander/deltacharmander_flame1.png",
+    "deltacharmander_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharmander/deltacharmander_shiny.png",
+    "flame__deltatail1.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharmander/flame/deltatail1.png",
+    "flame__deltatail2.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharmander/flame/deltatail2.png",
+    "flame__deltatail3.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharmander/flame/deltatail3.png",
+    "flame__deltatail4.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharmander/flame/deltatail4.png",
+    "insurgence_deltacharmander.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltacharmander.geo.json",
+    "insurgence_deltacharmander.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltacharmander.json",
+    "texture__deltacharmander.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharmander/deltacharmander.png"
+  }
+}

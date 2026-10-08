@@ -1,0 +1,11 @@
+{
+  "files": {
+    "164_purugly_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_purugly_epoch.json",
+    "epochpurugly.png": "assets/cobblemon/textures/pokemon/soulstones/epochpurugly.png",
+    "epochpurugly_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochpurugly/epochpurugly_shiny.png",
+    "soulstones_epochpurugly.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochpurugly.animation.json",
+    "soulstones_epochpurugly.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochpurugly.geo.json",
+    "soulstones_epochpurugly.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochpurugly.json",
+    "texture__epochpurugly.png": "assets/cobblemon/textures/pokemon/soulstones/epochpurugly/epochpurugly.png"
+  }
+}

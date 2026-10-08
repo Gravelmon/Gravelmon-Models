@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_solacari_base.json": "assets/cobblemon/bedrock/species/sage/0_solacari_base.json",
+    "solacari.png": "assets/cobblemon/textures/pokemon/sage/solacari.png",
+    "solacari_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/solacari_cry.ogg"
+  }
+}

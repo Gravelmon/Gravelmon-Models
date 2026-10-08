@@ -1,0 +1,13 @@
+{
+  "files": {
+    "0_silkinder_base.json": "assets/cobblemon/bedrock/species/sage/0_silkinder_base.json",
+    "sage_silkinder.animation.json": "assets/cobblemon/bedrock/pokemon/animations/sage_silkinder.animation.json",
+    "sage_silkinder.geo.json": "assets/cobblemon/bedrock/pokemon/models/sage_silkinder.geo.json",
+    "sage_silkinder.json": "assets/cobblemon/bedrock/pokemon/posers/sage_silkinder.json",
+    "silkinder.png": "assets/cobblemon/textures/pokemon/sage/silkinder.png",
+    "silkinder_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/silkinder_cry.ogg",
+    "silkinder_male.png": "assets/cobblemon/textures/pokemon/sage/silkinder/silkinder_male.png",
+    "silkinder_male_alpha.png": "assets/cobblemon/textures/pokemon/sage/silkinder/silkinder_male_alpha.png",
+    "silkinder_male_shiny.png": "assets/cobblemon/textures/pokemon/sage/silkinder/silkinder_male_shiny.png"
+  }
+}

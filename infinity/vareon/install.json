@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_vareon_base.json": "assets/cobblemon/bedrock/species/infinity/0_vareon_base.json",
+    "vareon.png": "assets/cobblemon/textures/pokemon/infinity/vareon.png",
+    "vareon_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/vareon_cry.ogg"
+  }
+}

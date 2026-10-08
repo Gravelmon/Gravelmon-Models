@@ -1,0 +1,9 @@
+{
+  "files": {
+    "deltahydreigon_female.png": "assets/cobblemon/textures/pokemon/insurgence/deltahydreigonfemale/deltahydreigon_female.png",
+    "femaledeltahydreigon.png": "assets/cobblemon/textures/pokemon/insurgence/femaledeltahydreigon.png"
+  },
+  "uses": [
+    "insurgence/deltahydreigon/118_hydreigon_delta.json"
+  ]
+}

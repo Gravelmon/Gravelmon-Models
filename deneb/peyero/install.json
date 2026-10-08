@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_peyero_base.json": "assets/cobblemon/bedrock/species/deneb/0_peyero_base.json",
+    "deneb_peyero.geo.json": "assets/cobblemon/bedrock/pokemon/models/deneb_peyero.geo.json",
+    "deneb_peyero.json": "assets/cobblemon/bedrock/pokemon/posers/deneb_peyero.json",
+    "peyero.png": "assets/cobblemon/textures/pokemon/deneb/peyero.png",
+    "peyero_alpha.png": "assets/cobblemon/textures/pokemon/deneb/peyero/peyero_alpha.png",
+    "peyero_cry.ogg": "assets/gravelmon/sounds/pokemon/deneb/peyero_cry.ogg",
+    "peyero_shiny.png": "assets/cobblemon/textures/pokemon/deneb/peyero/peyero_shiny.png",
+    "texture__peyero.png": "assets/cobblemon/textures/pokemon/deneb/peyero/peyero.png"
+  }
+}

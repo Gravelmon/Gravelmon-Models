@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_floatusk_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_floatusk_base.json",
+    "floatusk.png": "assets/cobblemon/textures/pokemon/xenoverse/floatusk.png",
+    "floatusk_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/floatusk_cry.ogg"
+  }
+}

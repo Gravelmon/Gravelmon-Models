@@ -1,0 +1,12 @@
+{
+  "files": {
+    "25_cacturne_x.json": "assets/cobblemon/bedrock/species/additional_forms/25_cacturne_x.json",
+    "cacturne_x_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/cacturne_x_cry.ogg",
+    "cacturnex.png": "assets/cobblemon/textures/pokemon/xenoverse/cacturnex.png",
+    "cacturnex_form.png": "assets/cobblemon/textures/pokemon/xenoverse/cacturnex/cacturnex_form.png",
+    "cacturnex_form_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/cacturnex/cacturnex_form_shiny.png",
+    "xenoverse_cacturnex.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_cacturnex.animation.json",
+    "xenoverse_cacturnex.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_cacturnex.geo.json",
+    "xenoverse_cacturnex.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_cacturnex.json"
+  }
+}

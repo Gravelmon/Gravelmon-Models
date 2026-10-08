@@ -1,0 +1,12 @@
+{
+  "files": {
+    "118_chinchou_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_chinchou_delta.json",
+    "chinchou_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/chinchou_delta_cry.ogg",
+    "deltachinchou.png": "assets/cobblemon/textures/pokemon/insurgence/deltachinchou.png",
+    "deltachinchou_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltachinchou/deltachinchou_shiny.png",
+    "insurgence_deltachinchou.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltachinchou.animation.json",
+    "insurgence_deltachinchou.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltachinchou.geo.json",
+    "insurgence_deltachinchou.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltachinchou.json",
+    "texture__deltachinchou.png": "assets/cobblemon/textures/pokemon/insurgence/deltachinchou/deltachinchou.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "0_kidling_base.json": "assets/cobblemon/bedrock/species/sage/0_kidling_base.json",
+    "flame__flame.aseprite": "assets/cobblemon/textures/pokemon/sage/kidling/flame/flame.aseprite",
+    "flame__flame1.png": "assets/cobblemon/textures/pokemon/sage/kidling/flame/flame1.png",
+    "flame__flame2.png": "assets/cobblemon/textures/pokemon/sage/kidling/flame/flame2.png",
+    "flame__flame3.png": "assets/cobblemon/textures/pokemon/sage/kidling/flame/flame3.png",
+    "flame__flame4.png": "assets/cobblemon/textures/pokemon/sage/kidling/flame/flame4.png",
+    "kidling.png": "assets/cobblemon/textures/pokemon/sage/kidling.png",
+    "kidling_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/kidling_cry.ogg",
+    "kidling_shiny.png": "assets/cobblemon/textures/pokemon/sage/kidling/kidling_shiny.png",
+    "sage_kidling.animation.json": "assets/cobblemon/bedrock/pokemon/animations/sage_kidling.animation.json",
+    "sage_kidling.geo.json": "assets/cobblemon/bedrock/pokemon/models/sage_kidling.geo.json",
+    "sage_kidling.json": "assets/cobblemon/bedrock/pokemon/posers/sage_kidling.json",
+    "texture__kidling.png": "assets/cobblemon/textures/pokemon/sage/kidling/kidling.png"
+  }
+}

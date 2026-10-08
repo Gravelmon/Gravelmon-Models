@@ -1,0 +1,38 @@
+{
+  "game": "radical_red",
+  "pokemon": "feebas",
+  "formAspects": [
+    "seviian"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "seviian"
+      ],
+      "inheritsFrom": {
+        "pokemon": "feebas",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "elpgeon"
+      },
+      "contributors": [
+        {
+          "login": "elpgeon"
+        }
+      ],
+      "submittedAt": "2026-10-03T22:20:40.102Z",
+      "models": [
+        "radical_red/seviianfeebas/radical_red_seviianfeebas.geo.json"
+      ],
+      "animations": [],
+      "textures": [
+        "radical_red/seviianfeebas/texture__seviianfeebas.png",
+        "radical_red/seviianfeebas/seviianfeebas_alpha.png",
+        "radical_red/seviianfeebas/seviianfeebas_shiny.png",
+        "radical_red/seviianfeebas/seviianfeebas.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

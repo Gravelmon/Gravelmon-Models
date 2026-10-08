@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_galaxeon_base.json": "assets/cobblemon/bedrock/species/soulstones/0_galaxeon_base.json",
+    "galaxeon.png": "assets/cobblemon/textures/pokemon/soulstones/galaxeon.png",
+    "galaxeon_cry.ogg": "assets/gravelmon/sounds/pokemon/soulstones/galaxeon_cry.ogg"
+  }
+}

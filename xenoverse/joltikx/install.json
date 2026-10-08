@@ -1,0 +1,12 @@
+{
+  "files": {
+    "25_joltik_x.json": "assets/cobblemon/bedrock/species/additional_forms/25_joltik_x.json",
+    "joltik_x_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/joltik_x_cry.ogg",
+    "joltikx.png": "assets/cobblemon/textures/pokemon/xenoverse/joltikx.png",
+    "joltikx_form.png": "assets/cobblemon/textures/pokemon/xenoverse/joltikx/joltikx_form.png",
+    "joltikx_form_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/joltikx/joltikx_form_shiny.png",
+    "xenoverse_joltikx.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_joltikx.animation.json",
+    "xenoverse_joltikx.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_joltikx.geo.json",
+    "xenoverse_joltikx.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_joltikx.json"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_fumighast_base.json": "assets/cobblemon/bedrock/species/sage/0_fumighast_base.json",
+    "fumighast.png": "assets/cobblemon/textures/pokemon/sage/fumighast.png",
+    "fumighast_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/fumighast_cry.ogg"
+  }
+}

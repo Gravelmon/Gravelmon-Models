@@ -1,0 +1,12 @@
+{
+  "files": {
+    "147_shyleon_astral.json": "assets/cobblemon/bedrock/species/additional_forms/147_shyleon_astral.json",
+    "astralshyleon.png": "assets/cobblemon/textures/pokemon/xenoverse/astralshyleon.png",
+    "shyleon_astral_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/shyleon_astral_cry.ogg",
+    "shyleonastral.png": "assets/cobblemon/textures/pokemon/xenoverse/astralshyleon/shyleonastral.png",
+    "shyleonastral_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/astralshyleon/shyleonastral_shiny.png",
+    "xenoverse_astralshyleon.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_astralshyleon.animation.json",
+    "xenoverse_astralshyleon.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_astralshyleon.geo.json",
+    "xenoverse_astralshyleon.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_astralshyleon.json"
+  }
+}

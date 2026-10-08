@@ -1,0 +1,9 @@
+{
+  "files": {
+    "deltazweilous_female.png": "assets/cobblemon/textures/pokemon/insurgence/deltazweilousfemale/deltazweilous_female.png",
+    "femaledeltazweilous.png": "assets/cobblemon/textures/pokemon/insurgence/femaledeltazweilous.png"
+  },
+  "uses": [
+    "insurgence/deltazweilous/118_zweilous_delta.json"
+  ]
+}

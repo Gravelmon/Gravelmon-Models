@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_luchabra_base.json": "assets/cobblemon/bedrock/species/uranium/0_luchabra_base.json",
+    "luchabra.png": "assets/cobblemon/textures/pokemon/uranium/luchabra.png",
+    "luchabra_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/luchabra_cry.ogg"
+  }
+}

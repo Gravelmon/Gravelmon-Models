@@ -1,0 +1,12 @@
+{
+  "files": {
+    "164_gardevoir_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_gardevoir_epoch.json",
+    "epochgardevoir.png": "assets/cobblemon/textures/pokemon/soulstones/epochgardevoir.png",
+    "epochgardevoirone.png": "assets/cobblemon/textures/pokemon/soulstones/epochgardevoir/epochgardevoirone.png",
+    "epochgardevoirone_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochgardevoir/epochgardevoirone_alpha.png",
+    "epochgardevoirone_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochgardevoir/epochgardevoirone_shiny.png",
+    "soulstones_epochgardevoir.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochgardevoir.animation.json",
+    "soulstones_epochgardevoir.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochgardevoir.geo.json",
+    "soulstones_epochgardevoir.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochgardevoir.json"
+  }
+}

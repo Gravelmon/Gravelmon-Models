@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_viledoom_base.json": "assets/cobblemon/bedrock/species/infinity/0_viledoom_base.json",
+    "infinity_viledoom.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_viledoom.animation.json",
+    "infinity_viledoom.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_viledoom.geo.json",
+    "infinity_viledoom.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_viledoom.json",
+    "texture__viledoom.png": "assets/cobblemon/textures/pokemon/infinity/viledoom/viledoom.png",
+    "viledoom.png": "assets/cobblemon/textures/pokemon/infinity/viledoom.png",
+    "viledoom_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/viledoom_cry.ogg",
+    "viledoom_shiny.png": "assets/cobblemon/textures/pokemon/infinity/viledoom/viledoom_shiny.png"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_inflant_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_inflant_base.json",
+    "inflant.png": "assets/cobblemon/textures/pokemon/xenoverse/inflant.png",
+    "inflant_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/inflant_cry.ogg"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "game": "uranium",
+  "pokemon": "chyinmunk",
+  "entries": [
+    {
+      "contributor": {
+        "login": "mitchooart"
+      },
+      "contributors": [
+        {
+          "login": "mitchooart"
+        }
+      ],
+      "pullRequestNumber": 143,
+      "submittedAt": "2026-09-26T18:31:40.562Z",
+      "models": [
+        "uranium/chyinmunk/uranium_chyinmunk.geo.json"
+      ],
+      "animations": [
+        "uranium/chyinmunk/uranium_chyinmunk.animation.json"
+      ],
+      "textures": [
+        "uranium/chyinmunk/texture__chyinmunk.png",
+        "uranium/chyinmunk/chyinmunk_alpha.png",
+        "uranium/chyinmunk/chyinmunk_shiny.png",
+        "uranium/chyinmunk/chyinmunk.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

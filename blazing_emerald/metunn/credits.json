@@ -1,0 +1,31 @@
+{
+  "game": "blazing_emerald",
+  "pokemon": "metunn",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Neoxaivus"
+      },
+      "contributors": [
+        {
+          "login": "Neoxaivus"
+        }
+      ],
+      "submittedAt": "2026-09-25T07:05:38.475Z",
+      "models": [
+        "blazing_emerald/metunn/blazing_emerald_metunn.geo.json"
+      ],
+      "animations": [
+        "blazing_emerald/metunn/blazing_emerald_metunn.animation.json"
+      ],
+      "textures": [
+        "blazing_emerald/metunn/texture__metunn.png",
+        "blazing_emerald/metunn/metunn_alpha.png",
+        "assets/cobblemon/metunn_preview.png",
+        "blazing_emerald/metunn/metunn_shiny.png",
+        "blazing_emerald/metunn/metunn.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

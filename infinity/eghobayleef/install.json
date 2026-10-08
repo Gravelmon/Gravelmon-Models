@@ -1,0 +1,12 @@
+{
+  "files": {
+    "117_bayleef_egho.json": "assets/cobblemon/bedrock/species/additional_forms/117_bayleef_egho.json",
+    "bayleef_egho_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/bayleef_egho_cry.ogg",
+    "eghobayleef.png": "assets/cobblemon/textures/pokemon/infinity/eghobayleef.png",
+    "eghobayleef_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghobayleef/eghobayleef_shiny.png",
+    "infinity_eghobayleef.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_eghobayleef.animation.json",
+    "infinity_eghobayleef.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_eghobayleef.geo.json",
+    "infinity_eghobayleef.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_eghobayleef.json",
+    "texture__eghobayleef.png": "assets/cobblemon/textures/pokemon/infinity/eghobayleef/eghobayleef.png"
+  }
+}

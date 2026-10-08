@@ -1,0 +1,41 @@
+{
+  "game": "soulstones",
+  "pokemon": "scorbunny",
+  "formAspects": [
+    "epoch"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "scorbunny",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "miner740"
+      },
+      "contributors": [
+        {
+          "login": "miner740"
+        }
+      ],
+      "submittedAt": "2026-09-27T09:45:30.403Z",
+      "models": [
+        "soulstones/epochscorbunny/soulstones_epochscorbunny.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochscorbunny/soulstones_epochscorbunny.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochscorbunny/scorbunny_epoch.png",
+        "soulstones/epochscorbunny/scorbunny_epoch_alpha.png",
+        "assets/cobblemon/scorbunny_epoch_previe.png",
+        "soulstones/epochscorbunny/scorbunny_epoch_shiny.png",
+        "soulstones/epochscorbunny/epochscorbunny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

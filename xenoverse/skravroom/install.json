@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_skravroom_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_skravroom_base.json",
+    "skravroom.png": "assets/cobblemon/textures/pokemon/xenoverse/skravroom.png",
+    "skravroom_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/skravroom_cry.ogg"
+  }
+}

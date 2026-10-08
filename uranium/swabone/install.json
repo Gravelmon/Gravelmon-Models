@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_swabone_base.json": "assets/cobblemon/bedrock/species/uranium/0_swabone_base.json",
+    "swabone.png": "assets/cobblemon/textures/pokemon/uranium/swabone.png",
+    "swabone_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/swabone_cry.ogg"
+  }
+}

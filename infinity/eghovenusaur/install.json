@@ -1,0 +1,12 @@
+{
+  "files": {
+    "117_venusaur_egho.json": "assets/cobblemon/bedrock/species/additional_forms/117_venusaur_egho.json",
+    "eghovenusaur.png": "assets/cobblemon/textures/pokemon/infinity/eghovenusaur.png",
+    "eghovenusaur_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghovenusaur/eghovenusaur_shiny.png",
+    "infinity_eghovenusaur.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_eghovenusaur.animation.json",
+    "infinity_eghovenusaur.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_eghovenusaur.geo.json",
+    "infinity_eghovenusaur.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_eghovenusaur.json",
+    "texture__eghovenusaur.png": "assets/cobblemon/textures/pokemon/infinity/eghovenusaur/eghovenusaur.png",
+    "venusaur_egho_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/venusaur_egho_cry.ogg"
+  }
+}

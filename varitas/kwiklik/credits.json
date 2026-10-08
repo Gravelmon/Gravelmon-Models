@@ -1,0 +1,28 @@
+{
+  "game": "varitas",
+  "pokemon": "kwiklik",
+  "entries": [
+    {
+      "contributor": {
+        "login": "lapislizuli"
+      },
+      "contributors": [
+        {
+          "login": "lapislizuli"
+        }
+      ],
+      "submittedAt": "2026-09-30T17:11:27.299Z",
+      "models": [
+        "varitas/kwiklik/varitas_kwiklik.geo.json"
+      ],
+      "animations": [],
+      "textures": [
+        "varitas/kwiklik/texture__kwiklik.png",
+        "varitas/kwiklik/kwiklik_alpha.png",
+        "varitas/kwiklik/kwiklik_shiny.png",
+        "varitas/kwiklik/kwiklik.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

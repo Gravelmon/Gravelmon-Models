@@ -1,0 +1,41 @@
+{
+  "game": "soulstones",
+  "pokemon": "charmeleon",
+  "formAspects": [
+    "epoch"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "charmeleon",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DigitalRaikan"
+      },
+      "contributors": [
+        {
+          "login": "DigitalRaikan"
+        }
+      ],
+      "submittedAt": "2026-09-27T18:28:52.308Z",
+      "models": [
+        "soulstones/epochcharmeleon/soulstones_epochcharmeleon.geo.json"
+      ],
+      "animations": [
+        "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochcharmeleon.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochcharmeleon/charmeleon.png",
+        "soulstones/epochcharmeleon/charmeleon_alpha.png",
+        "assets/cobblemon/charmeleon_epoch.png",
+        "soulstones/epochcharmeleon/charmeleon_shiny.png",
+        "soulstones/epochcharmeleon/epochcharmeleon.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

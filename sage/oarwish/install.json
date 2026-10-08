@@ -1,0 +1,13 @@
+{
+  "files": {
+    "0_oarwish_base.json": "assets/cobblemon/bedrock/species/sage/0_oarwish_base.json",
+    "oarwish.png": "assets/cobblemon/textures/pokemon/sage/oarwish.png",
+    "oarwish_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/oarwish_cry.ogg",
+    "oarwish_shiny.png": "assets/cobblemon/textures/pokemon/sage/oarwish/oarwish_shiny.png",
+    "oarwish_shiny_alt.png": "assets/cobblemon/textures/pokemon/sage/oarwish/oarwish_shiny_alt.png",
+    "sage_oarwish.animation.json": "assets/cobblemon/bedrock/pokemon/animations/sage_oarwish.animation.json",
+    "sage_oarwish.geo.json": "assets/cobblemon/bedrock/pokemon/models/sage_oarwish.geo.json",
+    "sage_oarwish.json": "assets/cobblemon/bedrock/pokemon/posers/sage_oarwish.json",
+    "texture__oarwish.png": "assets/cobblemon/textures/pokemon/sage/oarwish/oarwish.png"
+  }
+}

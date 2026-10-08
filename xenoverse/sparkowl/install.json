@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_sparkowl_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_sparkowl_base.json",
+    "sparkowl.png": "assets/cobblemon/textures/pokemon/xenoverse/sparkowl.png",
+    "sparkowl_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/sparkowl_cry.ogg"
+  }
+}

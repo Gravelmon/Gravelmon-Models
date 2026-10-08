@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_chigami_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_chigami_base.json",
+    "chigami.png": "assets/cobblemon/textures/pokemon/xenoverse/chigami.png",
+    "chigami_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/chigami_cry.ogg"
+  }
+}

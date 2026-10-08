@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_mylomute_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_mylomute_base.json",
+    "mylomute.png": "assets/cobblemon/textures/pokemon/xenoverse/mylomute.png",
+    "mylomute_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/mylomute_cry.ogg"
+  }
+}

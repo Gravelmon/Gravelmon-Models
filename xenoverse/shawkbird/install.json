@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_shawkbird_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_shawkbird_base.json",
+    "shawkbird.png": "assets/cobblemon/textures/pokemon/xenoverse/shawkbird.png",
+    "shawkbird_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/shawkbird_cry.ogg"
+  }
+}

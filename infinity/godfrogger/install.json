@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_godfrogger_base.json": "assets/cobblemon/bedrock/species/infinity/0_godfrogger_base.json",
+    "godfrogger.png": "assets/cobblemon/textures/pokemon/infinity/godfrogger.png",
+    "godfrogger_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/godfrogger_cry.ogg"
+  }
+}

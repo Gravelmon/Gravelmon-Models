@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_simayan_base.json": "assets/cobblemon/bedrock/species/sage/0_simayan_base.json",
+    "simayan.png": "assets/cobblemon/textures/pokemon/sage/simayan.png",
+    "simayan_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/simayan_cry.ogg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "files": {
+    "117_noctowl_egho.json": "assets/cobblemon/bedrock/species/additional_forms/117_noctowl_egho.json",
+    "eghonoctowl.png": "assets/cobblemon/textures/pokemon/infinity/eghonoctowl.png",
+    "eghonoctowl_emissive.png": "assets/cobblemon/textures/pokemon/infinity/eghonoctowl/eghonoctowl_emissive.png",
+    "eghonoctowl_emissive_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghonoctowl/eghonoctowl_emissive_shiny.png",
+    "eghonoctowl_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghonoctowl/eghonoctowl_shiny.png",
+    "infinity_eghonoctowl.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_eghonoctowl.animation.json",
+    "infinity_eghonoctowl.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_eghonoctowl.geo.json",
+    "infinity_eghonoctowl.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_eghonoctowl.json",
+    "noctowl_egho_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/noctowl_egho_cry.ogg",
+    "texture__eghonoctowl.png": "assets/cobblemon/textures/pokemon/infinity/eghonoctowl/eghonoctowl.png"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_gararewl_base.json": "assets/cobblemon/bedrock/species/uranium/0_gararewl_base.json",
+    "gararewl.png": "assets/cobblemon/textures/pokemon/uranium/gararewl.png",
+    "gararewl_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/gararewl_cry.ogg"
+  }
+}

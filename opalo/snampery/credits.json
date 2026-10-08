@@ -1,0 +1,31 @@
+{
+  "game": "opalo",
+  "pokemon": "snampery",
+  "entries": [
+    {
+      "contributor": {
+        "login": "DigitalRaikan"
+      },
+      "contributors": [
+        {
+          "login": "DigitalRaikan"
+        }
+      ],
+      "submittedAt": "2026-09-27T19:16:09.157Z",
+      "models": [
+        "opalo/snampery/opalo_snampery.geo.json"
+      ],
+      "animations": [
+        "assets/cobblemon/bedrock/pokemon/animations/opalo_snampery.animation.json"
+      ],
+      "textures": [
+        "opalo/snampery/texture__snampery.png",
+        "opalo/snampery/snampery_alpha.png",
+        "assets/cobblemon/snampery_preview.png",
+        "opalo/snampery/snampery_shiny.png",
+        "opalo/snampery/snampery.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "portraitScale": 2.6,
+  "portraitTranslation": [
+    -0.15, 2.1, 0.0
+  ],
+  "profileScale": 0.65,
+  "profileTranslation": [
+    0.0, 0.76, 0.0
+  ],
+  "rootBone": "epochgalladeone",
+  "poses": {
+    "standing": {
+      "isBattle": false,
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochgallade', 'blink')"
+      ],
+      "namedAnimations": {
+        "physical": "q.bedrock_stateful('soulstones_epochgallade', 'physical')"
+      },
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('soulstones_epochgallade', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "condition": "!q.is_sprinting",
+      "poseTypes": [
+        "walk",
+        "swim"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochgallade', 'blink')"
+      ],
+      "namedAnimations": {
+        "physical": "q.bedrock_stateful('soulstones_epochgallade', 'physical')"
+      },
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('soulstones_epochgallade', 'ground_walk')"
+      ]
+    },
+    "battle-standing": {
+      "isBattle": true,
+      "poseTypes": [
+        "stand"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochgallade', 'blink')"
+      ],
+      "namedAnimations": {
+        "physical": "q.bedrock_stateful('soulstones_epochgallade', 'physical')"
+      },
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('soulstones_epochgallade', 'battle_idle')"
+      ]
+    },
+    "running": {
+      "condition": "q.is_sprinting",
+      "poseTypes": [
+        "walk"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochgallade', 'blink')"
+      ],
+      "namedAnimations": {
+        "physical": "q.bedrock_stateful('soulstones_epochgallade', 'physical')"
+      },
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('soulstones_epochgallade', 'ground_run')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochgallade', 'sleep')"
+      ]
+    }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('soulstones_epochgallade', 'cry')",
+    "faint": "q.bedrock_primary('soulstones_epochgallade', 'faint', q.curve('one'))"
+  }
+}

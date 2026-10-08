@@ -1,0 +1,11 @@
+{
+  "files": {
+    "164_komala_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_komala_epoch.json",
+    "epochkomala.png": "assets/cobblemon/textures/pokemon/soulstones/epochkomala.png",
+    "komala_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochkomala/komala_epoch.png",
+    "komala_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochkomala/komala_epoch_shiny.png",
+    "soulstones_epochkomala.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochkomala.animation.json",
+    "soulstones_epochkomala.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochkomala.geo.json",
+    "soulstones_epochkomala.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochkomala.json"
+  }
+}

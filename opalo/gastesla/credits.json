@@ -1,0 +1,31 @@
+{
+  "game": "opalo",
+  "pokemon": "gastesla",
+  "entries": [
+    {
+      "contributor": {
+        "login": "ivangarcia1.0"
+      },
+      "contributors": [
+        {
+          "login": "ivangarcia1.0"
+        }
+      ],
+      "submittedAt": "2026-09-27T19:30:56.914Z",
+      "models": [
+        "opalo/gastesla/opalo_gastesla.geo.json"
+      ],
+      "animations": [
+        "assets/cobblemon/bedrock/pokemon/animations/opalo_gastesla.animation.json"
+      ],
+      "textures": [
+        "opalo/gastesla/texture__gastesla.png",
+        "opalo/gastesla/gastesla_alpha.png",
+        "assets/cobblemon/gastesla_preview.png",
+        "opalo/gastesla/gastesla_shiny.png",
+        "opalo/gastesla/gastesla.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

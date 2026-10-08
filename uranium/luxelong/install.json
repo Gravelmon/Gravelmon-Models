@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_luxelong_base.json": "assets/cobblemon/bedrock/species/uranium/0_luxelong_base.json",
+    "luxelong.png": "assets/cobblemon/textures/pokemon/uranium/luxelong.png",
+    "luxelong_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/luxelong_cry.ogg"
+  }
+}

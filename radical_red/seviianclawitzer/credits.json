@@ -1,0 +1,38 @@
+{
+  "game": "radical_red",
+  "pokemon": "clawitzer",
+  "formAspects": [
+    "seviian"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "seviian"
+      ],
+      "contributor": {
+        "login": "elpgeon"
+      },
+      "contributors": [
+        {
+          "login": "elpgeon"
+        }
+      ],
+      "submittedAt": "2026-10-03T20:45:53.707Z",
+      "models": [
+        "radical_red/seviianclawitzer/radical_red_seviianclawitzer.geo.json"
+      ],
+      "animations": [
+        "_unreferenced/assets/cobblemon/bedrock/pokemon/animations/radical_red_seviianclawitzer.animation.json"
+      ],
+      "textures": [
+        "radical_red/seviianclawitzer/texture__seviianclawitzer.png",
+        "radical_red/seviianclawitzer/seviianclawitzer_alpha.png",
+        "radical_red/seviianclawitzer/seviianclawitzer_emissive.png",
+        "radical_red/seviianclawitzer/seviianclawitzer_shiny.png",
+        "radical_red/seviianclawitzer/seviianclawitzer_shiny_emissive.png",
+        "radical_red/seviianclawitzer/seviianclawitzer.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

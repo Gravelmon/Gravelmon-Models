@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_swelephant_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_swelephant_base.json",
+    "swelephant.png": "assets/cobblemon/textures/pokemon/xenoverse/swelephant.png",
+    "swelephant_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/swelephant_cry.ogg"
+  }
+}

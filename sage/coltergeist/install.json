@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_coltergeist_base.json": "assets/cobblemon/bedrock/species/sage/0_coltergeist_base.json",
+    "coltergeist.png": "assets/cobblemon/textures/pokemon/sage/coltergeist.png",
+    "coltergeist_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/coltergeist_cry.ogg"
+  }
+}

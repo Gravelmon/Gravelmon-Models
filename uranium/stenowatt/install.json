@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_stenowatt_base.json": "assets/cobblemon/bedrock/species/uranium/0_stenowatt_base.json",
+    "stenowatt.png": "assets/cobblemon/textures/pokemon/uranium/stenowatt.png",
+    "stenowatt_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/stenowatt_cry.ogg"
+  }
+}

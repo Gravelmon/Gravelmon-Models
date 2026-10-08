@@ -1,0 +1,8 @@
+{
+  "files": {
+    "164_lunatone_epochtwo.json": "assets/cobblemon/bedrock/species/additional_forms/164_lunatone_epochtwo.json"
+  },
+  "uses": [
+    "soulstones/epochlunatone/epochlunatone.png"
+  ]
+}

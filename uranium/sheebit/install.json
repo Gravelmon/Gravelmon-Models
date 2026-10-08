@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_sheebit_base.json": "assets/cobblemon/bedrock/species/uranium/0_sheebit_base.json",
+    "sheebit.png": "assets/cobblemon/textures/pokemon/uranium/sheebit.png",
+    "sheebit_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/sheebit_cry.ogg"
+  }
+}

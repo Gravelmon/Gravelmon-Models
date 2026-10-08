@@ -1,0 +1,21 @@
+{
+  "files": {
+    "118_sableye_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_sableye_delta.json",
+    "deltasableye.png": "assets/cobblemon/textures/pokemon/insurgence/deltasableye.png",
+    "deltasableye_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltasableye/deltasableye_shiny.png",
+    "insurgence_deltasableye.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltasableye.animation.json",
+    "insurgence_deltasableye.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltasableye.geo.json",
+    "insurgence_deltasableye.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltasableye.json",
+    "sableye_delta.png": "assets/cobblemon/textures/pokemon/insurgence/deltasableye/sableye_delta.png",
+    "sableye_delta_alpha.png": "assets/cobblemon/textures/pokemon/insurgence/deltasableye/sableye_delta_alpha.png",
+    "sableye_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/sableye_delta_cry.ogg",
+    "sableye_delta_flame1.png": "assets/cobblemon/textures/pokemon/insurgence/deltasableye/sableye_delta_flame1.png",
+    "sableye_delta_flame2.png": "assets/cobblemon/textures/pokemon/insurgence/deltasableye/sableye_delta_flame2.png",
+    "sableye_delta_flame3.png": "assets/cobblemon/textures/pokemon/insurgence/deltasableye/sableye_delta_flame3.png",
+    "sableye_delta_flame__sableye_delta_flame1_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltasableye/sableye_delta_flame/sableye_delta_flame1_shiny.png",
+    "sableye_delta_flame__sableye_delta_flame2_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltasableye/sableye_delta_flame/sableye_delta_flame2_shiny.png",
+    "sableye_delta_flame__sableye_delta_flame3_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltasableye/sableye_delta_flame/sableye_delta_flame3_shiny.png",
+    "sableye_delta_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltasableye/sableye_delta_shiny.png",
+    "texture__deltasableye.png": "assets/cobblemon/textures/pokemon/insurgence/deltasableye/deltasableye.png"
+  }
+}

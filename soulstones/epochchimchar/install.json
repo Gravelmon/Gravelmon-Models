@@ -1,0 +1,11 @@
+{
+  "files": {
+    "164_chimchar_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_chimchar_epoch.json",
+    "epochchimchar.png": "assets/cobblemon/textures/pokemon/soulstones/epochchimchar.png",
+    "epochchimchar_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochchimchar/epochchimchar_shiny.png",
+    "soulstones_epochchimchar.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochchimchar.animation.json",
+    "soulstones_epochchimchar.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochchimchar.geo.json",
+    "soulstones_epochchimchar.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochchimchar.json",
+    "texture__epochchimchar.png": "assets/cobblemon/textures/pokemon/soulstones/epochchimchar/epochchimchar.png"
+  }
+}

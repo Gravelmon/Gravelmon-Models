@@ -1,0 +1,13 @@
+{
+  "files": {
+    "118_squirtle_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_squirtle_delta.json",
+    "deltasquirtle.png": "assets/cobblemon/textures/pokemon/insurgence/deltasquirtle.png",
+    "deltasquirtle_alpha.png": "assets/cobblemon/textures/pokemon/insurgence/deltasquirtle/deltasquirtle_alpha.png",
+    "deltasquirtle_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltasquirtle/deltasquirtle_shiny.png",
+    "insurgence_deltasquirtle.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltasquirtle.animation.json",
+    "insurgence_deltasquirtle.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltasquirtle.geo.json",
+    "insurgence_deltasquirtle.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltasquirtle.json",
+    "squirtle_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/squirtle_delta_cry.ogg",
+    "texture__deltasquirtle.png": "assets/cobblemon/textures/pokemon/insurgence/deltasquirtle/deltasquirtle.png"
+  }
+}

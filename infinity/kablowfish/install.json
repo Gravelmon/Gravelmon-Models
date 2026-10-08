@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_kablowfish_base.json": "assets/cobblemon/bedrock/species/infinity/0_kablowfish_base.json",
+    "kablowfish.png": "assets/cobblemon/textures/pokemon/infinity/kablowfish.png",
+    "kablowfish_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/kablowfish_cry.ogg"
+  }
+}

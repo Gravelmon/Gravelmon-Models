@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_chimical_base.json": "assets/cobblemon/bedrock/species/uranium/0_chimical_base.json",
+    "chimical.png": "assets/cobblemon/textures/pokemon/uranium/chimical.png",
+    "chimical_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/chimical_cry.ogg"
+  }
+}

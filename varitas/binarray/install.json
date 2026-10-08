@@ -1,0 +1,11 @@
+{
+  "files": {
+    "0_binarray_base.json": "assets/cobblemon/bedrock/species/varitas/0_binarray_base.json",
+    "binarray.png": "assets/cobblemon/textures/pokemon/varitas/binarray.png",
+    "binarray_alpha.png": "assets/cobblemon/textures/pokemon/varitas/binarray/binarray_alpha.png",
+    "binarray_shiny.png": "assets/cobblemon/textures/pokemon/varitas/binarray/binarray_shiny.png",
+    "texture__binarray.png": "assets/cobblemon/textures/pokemon/varitas/binarray/binarray.png",
+    "varitas_binarray.geo.json": "assets/cobblemon/bedrock/pokemon/models/varitas_binarray.geo.json",
+    "varitas_binarray.json": "assets/cobblemon/bedrock/pokemon/posers/varitas_binarray.json"
+  }
+}

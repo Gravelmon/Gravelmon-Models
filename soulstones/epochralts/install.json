@@ -1,0 +1,12 @@
+{
+  "files": {
+    "164_ralts_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_ralts_epoch.json",
+    "epochralts.png": "assets/cobblemon/textures/pokemon/soulstones/epochralts.png",
+    "epochraltsone.png": "assets/cobblemon/textures/pokemon/soulstones/epochralts/epochraltsone.png",
+    "epochraltsone_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochralts/epochraltsone_alpha.png",
+    "epochraltsone_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochralts/epochraltsone_shiny.png",
+    "soulstones_epochralts.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochralts.animation.json",
+    "soulstones_epochralts.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochralts.geo.json",
+    "soulstones_epochralts.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochralts.json"
+  }
+}

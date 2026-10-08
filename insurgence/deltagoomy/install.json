@@ -1,0 +1,12 @@
+{
+  "files": {
+    "118_goomy_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_goomy_delta.json",
+    "deltagoomy.png": "assets/cobblemon/textures/pokemon/insurgence/deltagoomy.png",
+    "deltagoomy_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltagoomy/deltagoomy_shiny.png",
+    "goomy_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/goomy_delta_cry.ogg",
+    "insurgence_deltagoomy.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltagoomy.animation.json",
+    "insurgence_deltagoomy.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltagoomy.geo.json",
+    "insurgence_deltagoomy.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltagoomy.json",
+    "texture__deltagoomy.png": "assets/cobblemon/textures/pokemon/insurgence/deltagoomy/deltagoomy.png"
+  }
+}

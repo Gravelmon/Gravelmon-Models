@@ -1,0 +1,25 @@
+{
+  "species": "cobblemon:komala",
+  "order": 178,
+  "variations": [
+    {
+      "aspects": [
+        "epoch"
+      ],
+      "model": "cobblemon:soulstones_epochkomala.geo",
+      "poser": "cobblemon:soulstones_epochkomala",
+      "texture": "cobblemon:textures/pokemon/soulstones/epochkomala/komala_epoch.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "epoch",
+        "shiny"
+      ],
+      "model": "cobblemon:soulstones_epochkomala.geo",
+      "poser": "cobblemon:soulstones_epochkomala",
+      "texture": "cobblemon:textures/pokemon/soulstones/epochkomala/komala_epoch_shiny.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_aguade_base.json": "assets/cobblemon/bedrock/species/sage/0_aguade_base.json",
+    "aguade.png": "assets/cobblemon/textures/pokemon/sage/aguade.png",
+    "aguade_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/aguade_cry.ogg",
+    "aguade_shiny.png": "assets/cobblemon/textures/pokemon/sage/aguade/aguade_shiny.png",
+    "sage_aguade.animation.json": "assets/cobblemon/bedrock/pokemon/animations/sage_aguade.animation.json",
+    "sage_aguade.geo.json": "assets/cobblemon/bedrock/pokemon/models/sage_aguade.geo.json",
+    "sage_aguade.json": "assets/cobblemon/bedrock/pokemon/posers/sage_aguade.json",
+    "texture__aguade.png": "assets/cobblemon/textures/pokemon/sage/aguade/aguade.png"
+  }
+}

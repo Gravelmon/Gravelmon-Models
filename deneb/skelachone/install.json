@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_skelachone_base.json": "assets/cobblemon/bedrock/species/deneb/0_skelachone_base.json",
+    "deneb_skelachone.animation.json": "assets/cobblemon/bedrock/pokemon/animations/deneb_skelachone.animation.json",
+    "deneb_skelachone.geo.json": "assets/cobblemon/bedrock/pokemon/models/deneb_skelachone.geo.json",
+    "deneb_skelachone.json": "assets/cobblemon/bedrock/pokemon/posers/deneb_skelachone.json",
+    "skelachone.png": "assets/cobblemon/textures/pokemon/deneb/skelachone.png",
+    "skelachone_cry.ogg": "assets/gravelmon/sounds/pokemon/deneb/skelachone_cry.ogg",
+    "skelachone_shiny.png": "assets/cobblemon/textures/pokemon/deneb/skelachone/skelachone_shiny.png",
+    "texture__skelachone.png": "assets/cobblemon/textures/pokemon/deneb/skelachone/skelachone.png"
+  }
+}

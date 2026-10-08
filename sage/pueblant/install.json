@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_pueblant_base.json": "assets/cobblemon/bedrock/species/sage/0_pueblant_base.json",
+    "pueblant.png": "assets/cobblemon/textures/pokemon/sage/pueblant.png",
+    "pueblant_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/pueblant_cry.ogg"
+  }
+}

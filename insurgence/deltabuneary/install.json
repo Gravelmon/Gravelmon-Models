@@ -1,0 +1,12 @@
+{
+  "files": {
+    "118_buneary_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_buneary_delta.json",
+    "buneary_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/buneary_delta_cry.ogg",
+    "deltabuneary.png": "assets/cobblemon/textures/pokemon/insurgence/deltabuneary.png",
+    "deltabuneary_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltabuneary/deltabuneary_shiny.png",
+    "insurgence_deltabuneary.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltabuneary.animation.json",
+    "insurgence_deltabuneary.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltabuneary.geo.json",
+    "insurgence_deltabuneary.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltabuneary.json",
+    "texture__deltabuneary.png": "assets/cobblemon/textures/pokemon/insurgence/deltabuneary/deltabuneary.png"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "files": {
+    "118_lotad_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_lotad_delta.json",
+    "deltalotad.png": "assets/cobblemon/textures/pokemon/insurgence/deltalotad.png",
+    "deltalotad_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltalotad/deltalotad_shiny.png",
+    "insurgence_deltalotad.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltalotad.animation.json",
+    "insurgence_deltalotad.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltalotad.geo.json",
+    "insurgence_deltalotad.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltalotad.json",
+    "lotad_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/lotad_delta_cry.ogg",
+    "texture__deltalotad.png": "assets/cobblemon/textures/pokemon/insurgence/deltalotad/deltalotad.png"
+  }
+}

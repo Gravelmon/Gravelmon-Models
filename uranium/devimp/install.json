@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_devimp_base.json": "assets/cobblemon/bedrock/species/uranium/0_devimp_base.json",
+    "devimp.png": "assets/cobblemon/textures/pokemon/uranium/devimp.png",
+    "devimp_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/devimp_cry.ogg"
+  }
+}

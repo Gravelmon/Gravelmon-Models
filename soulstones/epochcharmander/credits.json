@@ -1,0 +1,39 @@
+{
+  "game": "soulstones",
+  "pokemon": "charmander",
+  "formAspects": [
+    "epoch"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "charmander",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "yazuki1108"
+      },
+      "contributors": [
+        {
+          "login": "yazuki1108"
+        }
+      ],
+      "submittedAt": "2026-09-27T19:46:49.584Z",
+      "models": [
+        "soulstones/epochcharmander/soulstones_epochcharmander.geo.json"
+      ],
+      "animations": [],
+      "textures": [
+        "soulstones/epochcharmander/charmander_epoch.png",
+        "soulstones/epochcharmander/charmander_epoch_alpha.png",
+        "assets/cobblemon/charmander_epoch_preview.png",
+        "soulstones/epochcharmander/charmander_epoch_shiny.png",
+        "soulstones/epochcharmander/epochcharmander.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

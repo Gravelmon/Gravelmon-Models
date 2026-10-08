@@ -1,0 +1,63 @@
+{
+  "portraitScale": 1,
+  "portraitTranslation": [
+    0,
+    0,
+    0
+  ],
+  "profileScale": 1,
+  "profileTranslation": [
+    0,
+    0,
+    0
+  ],
+  "rootBone": "snampery",
+  "poses": {
+    "standing": {
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "float"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('opalo_snampery', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "condition": "!q.is_sprinting",
+      "poseTypes": [
+        "walk",
+        "swim"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('opalo_snampery', 'ground_walk')"
+      ]
+    },
+    "running": {
+      "condition": "q.is_sprinting",
+      "poseTypes": [
+        "walk"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('opalo_snampery', 'ground_run')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "animations": [
+        "q.bedrock('opalo_snampery', 'sleep')"
+      ]
+    }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('opalo_snampery', 'cry')",
+    "faint": "q.bedrock_primary('opalo_snampery', 'faint', q.curve('one'))"
+  }
+}

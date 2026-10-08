@@ -1,0 +1,15 @@
+{
+  "files": {
+    "0_urayne_base.json": "assets/cobblemon/bedrock/species/uranium/0_urayne_base.json",
+    "texture__urayne.png": "assets/cobblemon/textures/pokemon/uranium/urayne/urayne.png",
+    "uranium_urayne.animation.json": "assets/cobblemon/bedrock/pokemon/animations/uranium_urayne.animation.json",
+    "uranium_urayne.geo.json": "assets/cobblemon/bedrock/pokemon/models/uranium_urayne.geo.json",
+    "uranium_urayne.json": "assets/cobblemon/bedrock/pokemon/posers/uranium_urayne.json",
+    "urayne.png": "assets/cobblemon/textures/pokemon/uranium/urayne.png",
+    "urayne_alpha.png": "assets/cobblemon/textures/pokemon/uranium/urayne/urayne_alpha.png",
+    "urayne_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/urayne_cry.ogg",
+    "urayne_emissive.png": "assets/cobblemon/textures/pokemon/uranium/urayne/urayne_emissive.png",
+    "urayne_shiny.png": "assets/cobblemon/textures/pokemon/uranium/urayne/urayne_shiny.png",
+    "urayne_shiny_emissive.png": "assets/cobblemon/textures/pokemon/uranium/urayne/urayne_shiny_emissive.png"
+  }
+}

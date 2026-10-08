@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_wystearia_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_wystearia_base.json",
+    "texture__wystearia.png": "assets/cobblemon/textures/pokemon/xenoverse/wystearia/wystearia.png",
+    "wystearia.png": "assets/cobblemon/textures/pokemon/xenoverse/wystearia.png",
+    "wystearia_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/wystearia_cry.ogg",
+    "wystearia_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/wystearia/wystearia_shiny.png",
+    "xenoverse_wystearia.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_wystearia.animation.json",
+    "xenoverse_wystearia.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_wystearia.geo.json",
+    "xenoverse_wystearia.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_wystearia.json"
+  }
+}

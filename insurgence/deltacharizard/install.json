@@ -1,0 +1,22 @@
+{
+  "files": {
+    "118_charizard_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_charizard_delta.json",
+    "charizard_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/charizard_delta_cry.ogg",
+    "deltacharizard.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharizard.png",
+    "deltacharizard_emissive.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharizard/deltacharizard_emissive.png",
+    "deltacharizard_emissive_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharizard/deltacharizard_emissive_shiny.png",
+    "deltacharizard_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharizard/deltacharizard_shiny.png",
+    "flame__deltatail1.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharizard/flame/deltatail1.png",
+    "flame__deltatail1_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharizard/flame/deltatail1_shiny.png",
+    "flame__deltatail2.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharizard/flame/deltatail2.png",
+    "flame__deltatail2_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharizard/flame/deltatail2_shiny.png",
+    "flame__deltatail3.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharizard/flame/deltatail3.png",
+    "flame__deltatail3_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharizard/flame/deltatail3_shiny.png",
+    "flame__deltatail4.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharizard/flame/deltatail4.png",
+    "flame__deltatail4_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharizard/flame/deltatail4_shiny.png",
+    "insurgence_deltacharizard.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltacharizard.animation.json",
+    "insurgence_deltacharizard.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltacharizard.geo.json",
+    "insurgence_deltacharizard.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltacharizard.json",
+    "texture__deltacharizard.png": "assets/cobblemon/textures/pokemon/insurgence/deltacharizard/deltacharizard.png"
+  }
+}

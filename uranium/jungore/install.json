@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_jungore_base.json": "assets/cobblemon/bedrock/species/uranium/0_jungore_base.json",
+    "jungore.png": "assets/cobblemon/textures/pokemon/uranium/jungore.png",
+    "jungore_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/jungore_cry.ogg"
+  }
+}

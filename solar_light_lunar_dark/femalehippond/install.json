@@ -1,0 +1,9 @@
+{
+  "files": {
+    "femalehippond.png": "assets/cobblemon/textures/pokemon/solar_light_lunar_dark/femalehippond.png",
+    "hippond_female.png": "assets/cobblemon/textures/pokemon/solar_light_lunar_dark/hippondfemale/hippond_female.png"
+  },
+  "uses": [
+    "solar_light_lunar_dark/hippond/0_hippond_base.json"
+  ]
+}

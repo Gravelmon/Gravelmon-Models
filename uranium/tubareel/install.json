@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_tubareel_base.json": "assets/cobblemon/bedrock/species/uranium/0_tubareel_base.json",
+    "tubareel.png": "assets/cobblemon/textures/pokemon/uranium/tubareel.png",
+    "tubareel_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/tubareel_cry.ogg"
+  }
+}

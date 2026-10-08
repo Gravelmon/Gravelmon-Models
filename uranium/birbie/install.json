@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_birbie_base.json": "assets/cobblemon/bedrock/species/uranium/0_birbie_base.json",
+    "birbie.png": "assets/cobblemon/textures/pokemon/uranium/birbie.png",
+    "birbie_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/birbie_cry.ogg"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "files": {
+    "164_houndstone_epochtwo.json": "assets/cobblemon/bedrock/species/additional_forms/164_houndstone_epochtwo.json"
+  },
+  "uses": [
+    "soulstones/epochhoundstone/epochhoundstone.png"
+  ]
+}

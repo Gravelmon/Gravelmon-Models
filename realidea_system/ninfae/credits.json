@@ -1,0 +1,31 @@
+{
+  "game": "realidea_system",
+  "pokemon": "ninfae",
+  "entries": [
+    {
+      "contributor": {
+        "login": "mitchooart"
+      },
+      "contributors": [
+        {
+          "login": "mitchooart"
+        }
+      ],
+      "submittedAt": "2026-09-27T19:08:40.768Z",
+      "models": [
+        "realidea_system/ninfae/realidea_system_ninfae.geo.json"
+      ],
+      "animations": [
+        "assets/cobblemon/bedrock/pokemon/animations/realidea_system_ninfae.animation.json"
+      ],
+      "textures": [
+        "assets/cobblemon/ninfae preview.png",
+        "realidea_system/ninfae/texture__ninfae.png",
+        "realidea_system/ninfae/ninfae_alpha.png",
+        "realidea_system/ninfae/ninfae_shiny.png",
+        "realidea_system/ninfae/ninfae.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

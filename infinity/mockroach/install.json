@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_mockroach_base.json": "assets/cobblemon/bedrock/species/infinity/0_mockroach_base.json",
+    "infinity_mockroach.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_mockroach.animation.json",
+    "infinity_mockroach.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_mockroach.geo.json",
+    "infinity_mockroach.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_mockroach.json",
+    "mockroach.png": "assets/cobblemon/textures/pokemon/infinity/mockroach.png",
+    "mockroach_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/mockroach_cry.ogg",
+    "mockroach_shiny.png": "assets/cobblemon/textures/pokemon/infinity/mockroach/mockroach_shiny.png",
+    "texture__mockroach.png": "assets/cobblemon/textures/pokemon/infinity/mockroach/mockroach.png"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_bluffin_base.json": "assets/cobblemon/bedrock/species/sage/0_bluffin_base.json",
+    "bluffin.png": "assets/cobblemon/textures/pokemon/sage/bluffin.png",
+    "bluffin_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/bluffin_cry.ogg",
+    "bluffin_shiny.png": "assets/cobblemon/textures/pokemon/sage/bluffin/bluffin_shiny.png",
+    "sage_bluffin.animation.json": "assets/cobblemon/bedrock/pokemon/animations/sage_bluffin.animation.json",
+    "sage_bluffin.geo.json": "assets/cobblemon/bedrock/pokemon/models/sage_bluffin.geo.json",
+    "sage_bluffin.json": "assets/cobblemon/bedrock/pokemon/posers/sage_bluffin.json",
+    "texture__bluffin.png": "assets/cobblemon/textures/pokemon/sage/bluffin/bluffin.png"
+  }
+}

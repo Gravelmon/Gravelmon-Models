@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_jackdeary_base.json": "assets/cobblemon/bedrock/species/uranium/0_jackdeary_base.json",
+    "jackdeary.png": "assets/cobblemon/textures/pokemon/uranium/jackdeary.png",
+    "jackdeary_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/jackdeary_cry.ogg"
+  }
+}

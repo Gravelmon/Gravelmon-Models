@@ -1,0 +1,12 @@
+{
+  "files": {
+    "117_spearow_egho.json": "assets/cobblemon/bedrock/species/additional_forms/117_spearow_egho.json",
+    "eghospearow.png": "assets/cobblemon/textures/pokemon/infinity/eghospearow.png",
+    "eghospearow_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghospearow/eghospearow_shiny.png",
+    "infinity_eghospearow.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_eghospearow.animation.json",
+    "infinity_eghospearow.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_eghospearow.geo.json",
+    "infinity_eghospearow.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_eghospearow.json",
+    "spearow_egho_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/spearow_egho_cry.ogg",
+    "texture__eghospearow.png": "assets/cobblemon/textures/pokemon/infinity/eghospearow/eghospearow.png"
+  }
+}

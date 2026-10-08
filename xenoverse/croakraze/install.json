@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_croakraze_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_croakraze_base.json",
+    "croakraze.png": "assets/cobblemon/textures/pokemon/xenoverse/croakraze.png",
+    "croakraze_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/croakraze_cry.ogg"
+  }
+}

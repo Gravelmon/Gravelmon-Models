@@ -1,0 +1,12 @@
+{
+  "files": {
+    "118_noibat_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_noibat_delta.json",
+    "deltanoibat.png": "assets/cobblemon/textures/pokemon/insurgence/deltanoibat.png",
+    "insurgence_deltanoibat.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltanoibat.geo.json",
+    "insurgence_deltanoibat.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltanoibat.json",
+    "noibat_delta.png": "assets/cobblemon/textures/pokemon/insurgence/deltanoibat/noibat_delta.png",
+    "noibat_delta_alpha.png": "assets/cobblemon/textures/pokemon/insurgence/deltanoibat/noibat_delta_alpha.png",
+    "noibat_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/noibat_delta_cry.ogg",
+    "noibat_delta_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltanoibat/noibat_delta_shiny.png"
+  }
+}

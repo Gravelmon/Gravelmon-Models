@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_scaleon_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_scaleon_base.json",
+    "scaleon.png": "assets/cobblemon/textures/pokemon/xenoverse/scaleon.png",
+    "scaleon_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/scaleon_cry.ogg"
+  }
+}

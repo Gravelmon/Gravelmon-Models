@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_macabra_base.json": "assets/cobblemon/bedrock/species/sage/0_macabra_base.json",
+    "macabra.png": "assets/cobblemon/textures/pokemon/sage/macabra.png",
+    "macabra_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/macabra_cry.ogg"
+  }
+}

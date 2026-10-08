@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_terlard_base.json": "assets/cobblemon/bedrock/species/uranium/0_terlard_base.json",
+    "terlard.png": "assets/cobblemon/textures/pokemon/uranium/terlard.png",
+    "terlard_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/terlard_cry.ogg"
+  }
+}

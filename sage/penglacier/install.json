@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_penglacier_base.json": "assets/cobblemon/bedrock/species/sage/0_penglacier_base.json",
+    "penglacier.png": "assets/cobblemon/textures/pokemon/sage/penglacier.png",
+    "penglacier_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/penglacier_cry.ogg"
+  }
+}

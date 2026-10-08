@@ -1,0 +1,16 @@
+{
+  "files": {
+    "0_pyroat_base.json": "assets/cobblemon/bedrock/species/sage/0_pyroat_base.json",
+    "flame__flame1.png": "assets/cobblemon/textures/pokemon/sage/pyroat/flame/flame1.png",
+    "flame__flame2.png": "assets/cobblemon/textures/pokemon/sage/pyroat/flame/flame2.png",
+    "flame__flame3.png": "assets/cobblemon/textures/pokemon/sage/pyroat/flame/flame3.png",
+    "flame__flame4.png": "assets/cobblemon/textures/pokemon/sage/pyroat/flame/flame4.png",
+    "pyroat.animation.json": "assets/cobblemon/bedrock/pokemon/animations/pyroat.animation.json",
+    "pyroat.png": "assets/cobblemon/textures/pokemon/sage/pyroat.png",
+    "pyroat_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/pyroat_cry.ogg",
+    "pyroat_shiny.png": "assets/cobblemon/textures/pokemon/sage/pyroat/pyroat_shiny.png",
+    "sage_pyroat.geo.json": "assets/cobblemon/bedrock/pokemon/models/sage_pyroat.geo.json",
+    "sage_pyroat.json": "assets/cobblemon/bedrock/pokemon/posers/sage_pyroat.json",
+    "texture__pyroat.png": "assets/cobblemon/textures/pokemon/sage/pyroat/pyroat.png"
+  }
+}

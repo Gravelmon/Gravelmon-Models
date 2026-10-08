@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_lumishroom_base.json": "assets/cobblemon/bedrock/species/sage/0_lumishroom_base.json",
+    "lumishroom.png": "assets/cobblemon/textures/pokemon/sage/lumishroom.png",
+    "lumishroom_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/lumishroom_cry.ogg"
+  }
+}

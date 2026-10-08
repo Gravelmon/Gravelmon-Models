@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_eshouten_base.json": "assets/cobblemon/bedrock/species/uranium/0_eshouten_base.json",
+    "eshouten.png": "assets/cobblemon/textures/pokemon/uranium/eshouten.png",
+    "eshouten_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/eshouten_cry.ogg"
+  }
+}

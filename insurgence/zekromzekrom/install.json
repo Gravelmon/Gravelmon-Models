@@ -1,0 +1,8 @@
+{
+  "files": {
+    "2000_zekrom_zekrom.json": "assets/cobblemon/bedrock/species/additional_forms/2000_zekrom_zekrom.json"
+  },
+  "uses": [
+    "insurgence/armoredzekrom/armoredzekrom.png"
+  ]
+}

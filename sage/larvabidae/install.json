@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_larvabidae_base.json": "assets/cobblemon/bedrock/species/sage/0_larvabidae_base.json",
+    "larvabidae.png": "assets/cobblemon/textures/pokemon/sage/larvabidae.png",
+    "larvabidae_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/larvabidae_cry.ogg"
+  }
+}

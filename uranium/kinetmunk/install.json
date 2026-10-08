@@ -1,0 +1,13 @@
+{
+  "files": {
+    "0_kinetmunk_base.json": "assets/cobblemon/bedrock/species/uranium/0_kinetmunk_base.json",
+    "kinetmunk.png": "assets/cobblemon/textures/pokemon/uranium/kinetmunk.png",
+    "kinetmunk_alpha.png": "assets/cobblemon/textures/pokemon/uranium/kinetmunk/kinetmunk_alpha.png",
+    "kinetmunk_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/kinetmunk_cry.ogg",
+    "kinetmunk_shiny.png": "assets/cobblemon/textures/pokemon/uranium/kinetmunk/kinetmunk_shiny.png",
+    "texture__kinetmunk.png": "assets/cobblemon/textures/pokemon/uranium/kinetmunk/kinetmunk.png",
+    "uranium_kinetmunk.animation.json": "assets/cobblemon/bedrock/pokemon/animations/uranium_kinetmunk.animation.json",
+    "uranium_kinetmunk.geo.json": "assets/cobblemon/bedrock/pokemon/models/uranium_kinetmunk.geo.json",
+    "uranium_kinetmunk.json": "assets/cobblemon/bedrock/pokemon/posers/uranium_kinetmunk.json"
+  }
+}

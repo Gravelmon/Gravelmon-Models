@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_masking_base.json": "assets/cobblemon/bedrock/species/uranium/0_masking_base.json",
+    "masking.png": "assets/cobblemon/textures/pokemon/uranium/masking.png",
+    "masking_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/masking_cry.ogg"
+  }
+}

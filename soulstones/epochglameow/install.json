@@ -1,0 +1,11 @@
+{
+  "files": {
+    "164_glameow_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_glameow_epoch.json",
+    "epochglameow.png": "assets/cobblemon/textures/pokemon/soulstones/epochglameow.png",
+    "epochglameow_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochglameow/epochglameow_shiny.png",
+    "soulstones_epochglameow.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochglameow.animation.json",
+    "soulstones_epochglameow.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochglameow.geo.json",
+    "soulstones_epochglameow.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochglameow.json",
+    "texture__epochglameow.png": "assets/cobblemon/textures/pokemon/soulstones/epochglameow/epochglameow.png"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_harpee_base.json": "assets/cobblemon/bedrock/species/sage/0_harpee_base.json",
+    "harpee.png": "assets/cobblemon/textures/pokemon/sage/harpee.png",
+    "harpee_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/harpee_cry.ogg",
+    "harpee_shiny.png": "assets/cobblemon/textures/pokemon/sage/harpee/harpee_shiny.png",
+    "sage_harpee.animation.json": "assets/cobblemon/bedrock/pokemon/animations/sage_harpee.animation.json",
+    "sage_harpee.geo.json": "assets/cobblemon/bedrock/pokemon/models/sage_harpee.geo.json",
+    "sage_harpee.json": "assets/cobblemon/bedrock/pokemon/posers/sage_harpee.json",
+    "texture__harpee.png": "assets/cobblemon/textures/pokemon/sage/harpee/harpee.png"
+  }
+}

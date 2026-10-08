@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_seikamater_base.json": "assets/cobblemon/bedrock/species/uranium/0_seikamater_base.json",
+    "seikamater.png": "assets/cobblemon/textures/pokemon/uranium/seikamater.png",
+    "seikamater_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/seikamater_cry.ogg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "files": {
+    "24_teddiursa_hoennian.json": "assets/cobblemon/bedrock/species/additional_forms/24_teddiursa_hoennian.json",
+    "blazing_emerald_hoennianteddiursa.geo.json": "assets/cobblemon/bedrock/pokemon/models/blazing_emerald_hoennianteddiursa.geo.json",
+    "blazing_emerald_hoennianteddiursa.json": "assets/cobblemon/bedrock/pokemon/posers/blazing_emerald_hoennianteddiursa.json",
+    "hoennianteddiursa.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianteddiursa.png",
+    "hoennianteddiursa_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianteddiursa/hoennianteddiursa_shiny.png",
+    "teddiursa_hoennian.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianteddiursa/teddiursa_hoennian.png",
+    "teddiursa_hoennian_alpha.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianteddiursa/teddiursa_hoennian_alpha.png",
+    "teddiursa_hoennian_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/teddiursa_hoennian_cry.ogg",
+    "teddiursa_hoennian_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianteddiursa/teddiursa_hoennian_shiny.png",
+    "texture__hoennianteddiursa.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianteddiursa/hoennianteddiursa.png"
+  }
+}

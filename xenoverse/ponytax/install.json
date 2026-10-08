@@ -1,0 +1,12 @@
+{
+  "files": {
+    "25_ponyta_x.json": "assets/cobblemon/bedrock/species/additional_forms/25_ponyta_x.json",
+    "ponyta_x_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/ponyta_x_cry.ogg",
+    "ponytax.png": "assets/cobblemon/textures/pokemon/xenoverse/ponytax.png",
+    "ponytax_form.png": "assets/cobblemon/textures/pokemon/xenoverse/ponytax/ponytax_form.png",
+    "ponytax_form_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/ponytax/ponytax_form_shiny.png",
+    "xenoverse_ponytax.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_ponytax.animation.json",
+    "xenoverse_ponytax.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_ponytax.geo.json",
+    "xenoverse_ponytax.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_ponytax.json"
+  }
+}

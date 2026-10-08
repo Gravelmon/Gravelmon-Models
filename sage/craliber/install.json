@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_craliber_base.json": "assets/cobblemon/bedrock/species/sage/0_craliber_base.json",
+    "craliber.png": "assets/cobblemon/textures/pokemon/sage/craliber.png",
+    "craliber_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/craliber_cry.ogg"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_garlikid_base.json": "assets/cobblemon/bedrock/species/uranium/0_garlikid_base.json",
+    "garlikid.png": "assets/cobblemon/textures/pokemon/uranium/garlikid.png",
+    "garlikid_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/garlikid_cry.ogg"
+  }
+}

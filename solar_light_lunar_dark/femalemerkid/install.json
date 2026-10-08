@@ -1,0 +1,9 @@
+{
+  "files": {
+    "femalemerkid.png": "assets/cobblemon/textures/pokemon/solar_light_lunar_dark/femalemerkid.png",
+    "merkid_female.png": "assets/cobblemon/textures/pokemon/solar_light_lunar_dark/merkidfemale/merkid_female.png"
+  },
+  "uses": [
+    "solar_light_lunar_dark/merkid/0_merkid_base.json"
+  ]
+}

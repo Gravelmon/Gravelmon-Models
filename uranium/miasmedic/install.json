@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_miasmedic_base.json": "assets/cobblemon/bedrock/species/uranium/0_miasmedic_base.json",
+    "miasmedic.png": "assets/cobblemon/textures/pokemon/uranium/miasmedic.png",
+    "miasmedic_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/miasmedic_cry.ogg"
+  }
+}

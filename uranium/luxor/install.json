@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_luxor_base.json": "assets/cobblemon/bedrock/species/uranium/0_luxor_base.json",
+    "luxor.png": "assets/cobblemon/textures/pokemon/uranium/luxor.png",
+    "luxor_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/luxor_cry.ogg"
+  }
+}

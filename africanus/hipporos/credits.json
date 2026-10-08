@@ -1,0 +1,30 @@
+{
+  "game": "africanus",
+  "pokemon": "hipporos",
+  "entries": [
+    {
+      "contributor": {
+        "login": "elpgeon"
+      },
+      "contributors": [
+        {
+          "login": "elpgeon"
+        }
+      ],
+      "submittedAt": "2026-10-01T14:55:46.044Z",
+      "models": [
+        "africanus/hipporos/africanus_hipporos.geo.json"
+      ],
+      "animations": [
+        "africanus/hipporos/africanus_hipporos.animation.json"
+      ],
+      "textures": [
+        "africanus/hipporos/texture__hipporos.png",
+        "africanus/hipporos/hipporos_alpha.png",
+        "africanus/hipporos/hipporos_shiny.png",
+        "africanus/hipporos/hipporos.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

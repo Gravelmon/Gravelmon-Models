@@ -1,0 +1,12 @@
+{
+  "files": {
+    "118_scyther_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_scyther_delta.json",
+    "deltascyther.animation.json": "assets/cobblemon/bedrock/pokemon/animations/deltascyther.animation.json",
+    "deltascyther.png": "assets/cobblemon/textures/pokemon/insurgence/deltascyther.png",
+    "deltascyther_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltascyther/deltascyther_shiny.png",
+    "insurgence_deltascyther.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltascyther.geo.json",
+    "insurgence_deltascyther.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltascyther.json",
+    "scyther_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/scyther_delta_cry.ogg",
+    "texture__deltascyther.png": "assets/cobblemon/textures/pokemon/insurgence/deltascyther/deltascyther.png"
+  }
+}

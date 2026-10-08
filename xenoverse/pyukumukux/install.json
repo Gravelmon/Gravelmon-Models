@@ -1,0 +1,11 @@
+{
+  "files": {
+    "25_pyukumuku_x.json": "assets/cobblemon/bedrock/species/additional_forms/25_pyukumuku_x.json",
+    "pyukumuku_x_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/pyukumuku_x_cry.ogg",
+    "pyukumukux.png": "assets/cobblemon/textures/pokemon/xenoverse/pyukumukux.png",
+    "pyukumukux_form.png": "assets/cobblemon/textures/pokemon/xenoverse/pyukumukux/pyukumukux_form.png",
+    "pyukumukux_form_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/pyukumukux/pyukumukux_form_shiny.png",
+    "xenoverse_pyukumukux.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_pyukumukux.geo.json",
+    "xenoverse_pyukumukux.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_pyukumukux.json"
+  }
+}

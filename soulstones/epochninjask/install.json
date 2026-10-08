@@ -1,0 +1,14 @@
+{
+  "files": {
+    "164_ninjask_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_ninjask_epoch.json",
+    "epochninjask.png": "assets/cobblemon/textures/pokemon/soulstones/epochninjask.png",
+    "epochninjask_emissive.png": "assets/cobblemon/textures/pokemon/soulstones/epochninjask/epochninjask_emissive.png",
+    "epochninjask_emissive_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochninjask/epochninjask_emissive_shiny.png",
+    "epochninjask_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochninjask/epochninjask_shiny.png",
+    "epochninjask_shiny_emissive.png": "assets/cobblemon/textures/pokemon/soulstones/epochninjask/epochninjask_shiny_emissive.png",
+    "soulstones_epochninjask.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochninjask.animation.json",
+    "soulstones_epochninjask.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochninjask.geo.json",
+    "soulstones_epochninjask.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochninjask.json",
+    "texture__epochninjask.png": "assets/cobblemon/textures/pokemon/soulstones/epochninjask/epochninjask.png"
+  }
+}

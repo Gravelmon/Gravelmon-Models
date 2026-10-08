@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_wikkin_base.json": "assets/cobblemon/bedrock/species/deneb/0_wikkin_base.json",
+    "deneb_wikkin.animation.json": "assets/cobblemon/bedrock/pokemon/animations/deneb_wikkin.animation.json",
+    "deneb_wikkin.geo.json": "assets/cobblemon/bedrock/pokemon/models/deneb_wikkin.geo.json",
+    "deneb_wikkin.json": "assets/cobblemon/bedrock/pokemon/posers/deneb_wikkin.json",
+    "texture__wikkin.png": "assets/cobblemon/textures/pokemon/deneb/wikkin/wikkin.png",
+    "wikkin.png": "assets/cobblemon/textures/pokemon/deneb/wikkin.png",
+    "wikkin_cry.ogg": "assets/gravelmon/sounds/pokemon/deneb/wikkin_cry.ogg",
+    "wikkin_shiny.png": "assets/cobblemon/textures/pokemon/deneb/wikkin/wikkin_shiny.png"
+  }
+}

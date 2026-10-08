@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_warquila_base.json": "assets/cobblemon/bedrock/species/sage/0_warquila_base.json",
+    "sage_warquila.animation.json": "assets/cobblemon/bedrock/pokemon/animations/sage_warquila.animation.json",
+    "sage_warquila.geo.json": "assets/cobblemon/bedrock/pokemon/models/sage_warquila.geo.json",
+    "sage_warquila.json": "assets/cobblemon/bedrock/pokemon/posers/sage_warquila.json",
+    "texture__warquila.png": "assets/cobblemon/textures/pokemon/sage/warquila/warquila.png",
+    "warquila.png": "assets/cobblemon/textures/pokemon/sage/warquila.png",
+    "warquila_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/warquila_cry.ogg",
+    "warquila_shiny.png": "assets/cobblemon/textures/pokemon/sage/warquila/warquila_shiny.png"
+  }
+}

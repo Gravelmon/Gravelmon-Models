@@ -1,0 +1,12 @@
+{
+  "files": {
+    "118_darmanitan_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_darmanitan_delta.json",
+    "darmanitan_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/darmanitan_delta_cry.ogg",
+    "deltadarmanitan.png": "assets/cobblemon/textures/pokemon/insurgence/deltadarmanitan.png",
+    "deltadarmanitan_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltadarmanitan/deltadarmanitan_shiny.png",
+    "insurgence_deltadarmanitan.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltadarmanitan.animation.json",
+    "insurgence_deltadarmanitan.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltadarmanitan.geo.json",
+    "insurgence_deltadarmanitan.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltadarmanitan.json",
+    "texture__deltadarmanitan.png": "assets/cobblemon/textures/pokemon/insurgence/deltadarmanitan/deltadarmanitan.png"
+  }
+}

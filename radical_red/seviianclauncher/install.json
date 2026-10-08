@@ -1,0 +1,14 @@
+{
+  "files": {
+    "86_clauncher_seviian.json": "assets/cobblemon/bedrock/species/additional_forms/86_clauncher_seviian.json",
+    "radical_red_seviianclauncher.animation.json": "assets/cobblemon/bedrock/pokemon/animations/radical_red_seviianclauncher.animation.json",
+    "radical_red_seviianclauncher.geo.json": "assets/cobblemon/bedrock/pokemon/models/radical_red_seviianclauncher.geo.json",
+    "radical_red_seviianclauncher.json": "assets/cobblemon/bedrock/pokemon/posers/radical_red_seviianclauncher.json",
+    "seviianclauncher.png": "assets/cobblemon/textures/pokemon/radical_red/seviianclauncher.png",
+    "seviianclauncher_alpha.png": "assets/cobblemon/textures/pokemon/radical_red/seviianclauncher/seviianclauncher_alpha.png",
+    "seviianclauncher_emissive.png": "assets/cobblemon/textures/pokemon/radical_red/seviianclauncher/seviianclauncher_emissive.png",
+    "seviianclauncher_shiny.png": "assets/cobblemon/textures/pokemon/radical_red/seviianclauncher/seviianclauncher_shiny.png",
+    "seviianclauncher_shiny_emissive.png": "assets/cobblemon/textures/pokemon/radical_red/seviianclauncher/seviianclauncher_shiny_emissive.png",
+    "texture__seviianclauncher.png": "assets/cobblemon/textures/pokemon/radical_red/seviianclauncher/seviianclauncher.png"
+  }
+}

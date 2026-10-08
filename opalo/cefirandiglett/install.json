@@ -1,0 +1,12 @@
+{
+  "files": {
+    "116_diglett_cefiran.json": "assets/cobblemon/bedrock/species/additional_forms/116_diglett_cefiran.json",
+    "cefirandiglett.png": "assets/cobblemon/textures/pokemon/opalo/cefirandiglett.png",
+    "diglett_cefiran.png": "assets/cobblemon/textures/pokemon/opalo/cefirandiglett/diglett_cefiran.png",
+    "diglett_cefiran_alpha.png": "assets/cobblemon/textures/pokemon/opalo/cefirandiglett/diglett_cefiran_alpha.png",
+    "diglett_cefiran_shiny.png": "assets/cobblemon/textures/pokemon/opalo/cefirandiglett/diglett_cefiran_shiny.png",
+    "opalo_cefirandiglett.animation.json": "assets/cobblemon/bedrock/pokemon/animations/opalo_cefirandiglett.animation.json",
+    "opalo_cefirandiglett.geo.json": "assets/cobblemon/bedrock/pokemon/models/opalo_cefirandiglett.geo.json",
+    "opalo_cefirandiglett.json": "assets/cobblemon/bedrock/pokemon/posers/opalo_cefirandiglett.json"
+  }
+}

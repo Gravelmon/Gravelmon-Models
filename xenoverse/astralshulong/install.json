@@ -1,0 +1,12 @@
+{
+  "files": {
+    "147_shulong_astral.json": "assets/cobblemon/bedrock/species/additional_forms/147_shulong_astral.json",
+    "astralshulong.png": "assets/cobblemon/textures/pokemon/xenoverse/astralshulong.png",
+    "shulong_astral_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/shulong_astral_cry.ogg",
+    "shulongastral.png": "assets/cobblemon/textures/pokemon/xenoverse/astralshulong/shulongastral.png",
+    "shulongastral_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/astralshulong/shulongastral_shiny.png",
+    "xenoverse_astralshulong.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_astralshulong.animation.json",
+    "xenoverse_astralshulong.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_astralshulong.geo.json",
+    "xenoverse_astralshulong.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_astralshulong.json"
+  }
+}

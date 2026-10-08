@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_koberus_base.json": "assets/cobblemon/bedrock/species/sage/0_koberus_base.json",
+    "koberus.png": "assets/cobblemon/textures/pokemon/sage/koberus.png",
+    "koberus_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/koberus_cry.ogg"
+  }
+}

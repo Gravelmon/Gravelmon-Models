@@ -1,0 +1,13 @@
+{
+  "files": {
+    "142_mew_space.json": "assets/cobblemon/bedrock/species/additional_forms/142_mew_space.json",
+    "insurgence_spacemew.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_spacemew.animation.json",
+    "insurgence_spacemew.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_spacemew.geo.json",
+    "insurgence_spacemew.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_spacemew.json",
+    "spacemew.png": "assets/cobblemon/textures/pokemon/insurgence/spacemew.png",
+    "spacemew_emissive.png": "assets/cobblemon/textures/pokemon/insurgence/spacemew/spacemew_emissive.png",
+    "spacemew_emissive_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/spacemew/spacemew_emissive_shiny.png",
+    "spacemew_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/spacemew/spacemew_shiny.png",
+    "texture__spacemew.png": "assets/cobblemon/textures/pokemon/insurgence/spacemew/spacemew.png"
+  }
+}

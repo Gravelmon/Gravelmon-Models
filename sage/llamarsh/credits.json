@@ -1,0 +1,29 @@
+{
+  "game": "sage",
+  "pokemon": "llamarsh",
+  "entries": [
+    {
+      "formAspects": [],
+      "contributor": {
+        "login": "PorousMist"
+      },
+      "contributors": [
+        {
+          "login": "PorousMist"
+        }
+      ],
+      "submittedAt": "2026-09-26T18:01:53.088Z",
+      "models": [
+        "sage/llamarsh/sage_llamarsh.geo.json"
+      ],
+      "animations": [],
+      "textures": [
+        "sage/llamarsh/texture__llamarsh.png",
+        "sage/llamarsh/llamarsh_alpha.png",
+        "sage/llamarsh/llamarsh_shiny.png",
+        "sage/llamarsh/llamarsh.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

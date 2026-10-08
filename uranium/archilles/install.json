@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_archilles_base.json": "assets/cobblemon/bedrock/species/uranium/0_archilles_base.json",
+    "archilles.png": "assets/cobblemon/textures/pokemon/uranium/archilles.png",
+    "archilles_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/archilles_cry.ogg"
+  }
+}

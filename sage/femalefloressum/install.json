@@ -1,0 +1,13 @@
+{
+  "files": {
+    "0_floressum_base__femalefloressum.json": "assets/cobblemon/bedrock/species/sage/0_floressum_base__femalefloressum.json",
+    "femalefloressum.png": "assets/cobblemon/textures/pokemon/sage/femalefloressum.png",
+    "sage_floressumfemale.geo.json": "assets/cobblemon/bedrock/pokemon/models/sage_floressumfemale.geo.json"
+  },
+  "uses": [
+    "sage/floressum/floressum_female.png",
+    "sage/floressum/floressum_female_shiny.png",
+    "sage/floressum/sage_floressum.animation.json",
+    "sage/floressum/sage_floressum.json"
+  ]
+}

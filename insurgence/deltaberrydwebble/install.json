@@ -1,0 +1,12 @@
+{
+  "files": {
+    "121_dwebble_berry_delta.json": "assets/cobblemon/bedrock/species/additional_forms/121_dwebble_berry_delta.json",
+    "deltaberry_dwebble.png": "assets/cobblemon/textures/pokemon/insurgence/deltaberrydwebble/deltaberry_dwebble.png",
+    "deltaberry_dwebble_alpha.png": "assets/cobblemon/textures/pokemon/insurgence/deltaberrydwebble/deltaberry_dwebble_alpha.png",
+    "deltaberry_dwebble_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltaberrydwebble/deltaberry_dwebble_shiny.png",
+    "deltaberrydwebble.png": "assets/cobblemon/textures/pokemon/insurgence/deltaberrydwebble.png",
+    "insurgence_deltaberrydwebble.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltaberrydwebble.animation.json",
+    "insurgence_deltaberrydwebble.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltaberrydwebble.geo.json",
+    "insurgence_deltaberrydwebble.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltaberrydwebble.json"
+  }
+}

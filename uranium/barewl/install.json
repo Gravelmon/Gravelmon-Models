@@ -1,0 +1,13 @@
+{
+  "files": {
+    "0_barewl_base.json": "assets/cobblemon/bedrock/species/uranium/0_barewl_base.json",
+    "barewl.png": "assets/cobblemon/textures/pokemon/uranium/barewl.png",
+    "barewl_alpha.png": "assets/cobblemon/textures/pokemon/uranium/barewl/barewl_alpha.png",
+    "barewl_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/barewl_cry.ogg",
+    "barewl_shiny.png": "assets/cobblemon/textures/pokemon/uranium/barewl/barewl_shiny.png",
+    "texture__barewl.png": "assets/cobblemon/textures/pokemon/uranium/barewl/barewl.png",
+    "uranium_barewl.animation.json": "assets/cobblemon/bedrock/pokemon/animations/uranium_barewl.animation.json",
+    "uranium_barewl.geo.json": "assets/cobblemon/bedrock/pokemon/models/uranium_barewl.geo.json",
+    "uranium_barewl.json": "assets/cobblemon/bedrock/pokemon/posers/uranium_barewl.json"
+  }
+}

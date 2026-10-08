@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_voltasu_base.json": "assets/cobblemon/bedrock/species/uranium/0_voltasu_base.json",
+    "voltasu.png": "assets/cobblemon/textures/pokemon/uranium/voltasu.png",
+    "voltasu_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/voltasu_cry.ogg"
+  }
+}

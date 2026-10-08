@@ -1,0 +1,8 @@
+{
+  "files": {
+    "2000_leavanny_leavanny.json": "assets/cobblemon/bedrock/species/additional_forms/2000_leavanny_leavanny.json"
+  },
+  "uses": [
+    "insurgence/armoredleavanny/armoredleavanny.png"
+  ]
+}

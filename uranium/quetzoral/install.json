@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_quetzoral_base.json": "assets/cobblemon/bedrock/species/uranium/0_quetzoral_base.json",
+    "quetzoral.png": "assets/cobblemon/textures/pokemon/uranium/quetzoral.png",
+    "quetzoral_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/quetzoral_cry.ogg"
+  }
+}

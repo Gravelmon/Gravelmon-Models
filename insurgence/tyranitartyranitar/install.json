@@ -1,0 +1,8 @@
+{
+  "files": {
+    "2000_tyranitar_tyranitar.json": "assets/cobblemon/bedrock/species/additional_forms/2000_tyranitar_tyranitar.json"
+  },
+  "uses": [
+    "insurgence/armoredtyranitar/armoredtyranitar.png"
+  ]
+}

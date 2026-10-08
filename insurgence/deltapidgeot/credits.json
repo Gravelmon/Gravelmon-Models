@@ -1,0 +1,40 @@
+{
+  "game": "insurgence",
+  "pokemon": "pidgeot",
+  "formAspects": [
+    "delta"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "delta"
+      ],
+      "inheritsFrom": {
+        "pokemon": "pidgeot",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-09-21T17:02:38.599Z",
+      "models": [
+        "insurgence/deltapidgeot/insurgence_deltapidgeot.geo.json"
+      ],
+      "animations": [
+        "insurgence/deltapidgeot/insurgence_deltapidgeot.animation.json"
+      ],
+      "textures": [
+        "insurgence/deltapidgeot/pidgeot_delta.png",
+        "insurgence/deltapidgeot/pidgeot_delta_alpha.png",
+        "insurgence/deltapidgeot/pidgeot_delta_shiny.png",
+        "insurgence/deltapidgeot/deltapidgeot.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

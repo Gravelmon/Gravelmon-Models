@@ -1,0 +1,13 @@
+{
+  "files": {
+    "0_hoppanero_base.json": "assets/cobblemon/bedrock/species/sage/0_hoppanero_base.json",
+    "hoppanero.png": "assets/cobblemon/textures/pokemon/sage/hoppanero.png",
+    "hoppanero_alpha.png": "assets/cobblemon/textures/pokemon/sage/hoppanero/hoppanero_alpha.png",
+    "hoppanero_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/hoppanero_cry.ogg",
+    "hoppanero_shiny.png": "assets/cobblemon/textures/pokemon/sage/hoppanero/hoppanero_shiny.png",
+    "sage_hoppanero.animation.json": "assets/cobblemon/bedrock/pokemon/animations/sage_hoppanero.animation.json",
+    "sage_hoppanero.geo.json": "assets/cobblemon/bedrock/pokemon/models/sage_hoppanero.geo.json",
+    "sage_hoppanero.json": "assets/cobblemon/bedrock/pokemon/posers/sage_hoppanero.json",
+    "texture__hoppanero.png": "assets/cobblemon/textures/pokemon/sage/hoppanero/hoppanero.png"
+  }
+}

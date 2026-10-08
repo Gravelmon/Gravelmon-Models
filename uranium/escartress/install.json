@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_escartress_base.json": "assets/cobblemon/bedrock/species/uranium/0_escartress_base.json",
+    "escartress.png": "assets/cobblemon/textures/pokemon/uranium/escartress.png",
+    "escartress_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/escartress_cry.ogg"
+  }
+}

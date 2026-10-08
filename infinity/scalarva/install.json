@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_scalarva_base.json": "assets/cobblemon/bedrock/species/infinity/0_scalarva_base.json",
+    "scalarva.png": "assets/cobblemon/textures/pokemon/infinity/scalarva.png",
+    "scalarva_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/scalarva_cry.ogg"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "117_muk_egho.json": "assets/cobblemon/bedrock/species/additional_forms/117_muk_egho.json",
+    "eghomuk.png": "assets/cobblemon/textures/pokemon/infinity/eghomuk.png",
+    "infinity_eghomuk.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_eghomuk.animation.json",
+    "infinity_eghomuk.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_eghomuk.geo.json",
+    "infinity_eghomuk.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_eghomuk.json",
+    "muk.png": "assets/cobblemon/textures/pokemon/infinity/eghomuk/muk.png",
+    "muk_alpha.png": "assets/cobblemon/textures/pokemon/infinity/eghomuk/muk_alpha.png",
+    "muk_egho_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/muk_egho_cry.ogg",
+    "muk_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghomuk/muk_shiny.png"
+  }
+}

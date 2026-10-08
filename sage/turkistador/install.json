@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_turkistador_base.json": "assets/cobblemon/bedrock/species/sage/0_turkistador_base.json",
+    "turkistador.png": "assets/cobblemon/textures/pokemon/sage/turkistador.png",
+    "turkistador_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/turkistador_cry.ogg"
+  }
+}

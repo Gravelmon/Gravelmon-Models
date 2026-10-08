@@ -1,0 +1,9 @@
+{
+  "files": {
+    "femaletamroast.png": "assets/cobblemon/textures/pokemon/lockemon/femaletamroast.png",
+    "tamroast_female.png": "assets/cobblemon/textures/pokemon/lockemon/tamroastfemale/tamroast_female.png"
+  },
+  "uses": [
+    "lockemon/tamroast/0_tamroast_base.json"
+  ]
+}

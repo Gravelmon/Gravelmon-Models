@@ -1,0 +1,12 @@
+{
+  "files": {
+    "117_blissey_egho.json": "assets/cobblemon/bedrock/species/additional_forms/117_blissey_egho.json",
+    "blissey_egho.png": "assets/cobblemon/textures/pokemon/infinity/eghoblissey/blissey_egho.png",
+    "blissey_egho_alpha.png": "assets/cobblemon/textures/pokemon/infinity/eghoblissey/blissey_egho_alpha.png",
+    "blissey_egho_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/blissey_egho_cry.ogg",
+    "blissey_egho_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghoblissey/blissey_egho_shiny.png",
+    "eghoblissey.png": "assets/cobblemon/textures/pokemon/infinity/eghoblissey.png",
+    "infinity_eghoblissey.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_eghoblissey.geo.json",
+    "infinity_eghoblissey.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_eghoblissey.json"
+  }
+}

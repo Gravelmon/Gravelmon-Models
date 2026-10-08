@@ -1,0 +1,13 @@
+{
+  "files": {
+    "0_shyleon_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_shyleon_base.json",
+    "shyleon.png": "assets/cobblemon/textures/pokemon/xenoverse/shyleon.png",
+    "shyleon_alpha.png": "assets/cobblemon/textures/pokemon/xenoverse/shyleon/shyleon_alpha.png",
+    "shyleon_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/shyleon_cry.ogg",
+    "shyleon_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/shyleon/shyleon_shiny.png",
+    "texture__shyleon.png": "assets/cobblemon/textures/pokemon/xenoverse/shyleon/shyleon.png",
+    "xenoverse_shyleon.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_shyleon.animation.json",
+    "xenoverse_shyleon.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_shyleon.geo.json",
+    "xenoverse_shyleon.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_shyleon.json"
+  }
+}

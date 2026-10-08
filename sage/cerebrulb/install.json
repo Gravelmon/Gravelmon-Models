@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_cerebrulb_base.json": "assets/cobblemon/bedrock/species/sage/0_cerebrulb_base.json",
+    "cerebrulb.png": "assets/cobblemon/textures/pokemon/sage/cerebrulb.png",
+    "cerebrulb_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/cerebrulb_cry.ogg"
+  }
+}

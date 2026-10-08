@@ -1,0 +1,12 @@
+{
+  "files": {
+    "117_squirtle_egho.json": "assets/cobblemon/bedrock/species/additional_forms/117_squirtle_egho.json",
+    "eghosquirtle.png": "assets/cobblemon/textures/pokemon/infinity/eghosquirtle.png",
+    "eghosquirtle_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghosquirtle/eghosquirtle_shiny.png",
+    "infinity_eghosquirtle.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_eghosquirtle.animation.json",
+    "infinity_eghosquirtle.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_eghosquirtle.geo.json",
+    "infinity_eghosquirtle.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_eghosquirtle.json",
+    "squirtle_egho_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/squirtle_egho_cry.ogg",
+    "texture__eghosquirtle.png": "assets/cobblemon/textures/pokemon/infinity/eghosquirtle/eghosquirtle.png"
+  }
+}

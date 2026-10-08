@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_reindear_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_reindear_base.json",
+    "reindear.png": "assets/cobblemon/textures/pokemon/xenoverse/reindear.png",
+    "reindear_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/reindear_cry.ogg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "files": {
+    "164_primarina_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_primarina_epoch.json",
+    "epochprimarina.png": "assets/cobblemon/textures/pokemon/soulstones/epochprimarina.png",
+    "primarina_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochprimarina/primarina_epoch.png",
+    "primarina_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochprimarina/primarina_epoch_alpha.png",
+    "primarina_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochprimarina/primarina_epoch_shiny.png",
+    "soulstones_epochprimarina.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochprimarina.geo.json",
+    "soulstones_epochprimarina.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochprimarina.json"
+  }
+}

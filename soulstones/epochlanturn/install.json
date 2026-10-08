@@ -1,0 +1,14 @@
+{
+  "files": {
+    "164_lanturn_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_lanturn_epoch.json",
+    "epochlanturn.png": "assets/cobblemon/textures/pokemon/soulstones/epochlanturn.png",
+    "lanturn_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochlanturn/lanturn_epoch.png",
+    "lanturn_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochlanturn/lanturn_epoch_alpha.png",
+    "lanturn_epoch_emissive.png": "assets/cobblemon/textures/pokemon/soulstones/epochlanturn/lanturn_epoch_emissive.png",
+    "lanturn_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochlanturn/lanturn_epoch_shiny.png",
+    "lanturn_epoch_shiny_emissive.png": "assets/cobblemon/textures/pokemon/soulstones/epochlanturn/lanturn_epoch_shiny_emissive.png",
+    "soulstones_epochlanturn.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochlanturn.animation.json",
+    "soulstones_epochlanturn.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochlanturn.geo.json",
+    "soulstones_epochlanturn.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochlanturn.json"
+  }
+}

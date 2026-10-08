@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_costraw_base.json": "assets/cobblemon/bedrock/species/uranium/0_costraw_base.json",
+    "costraw.png": "assets/cobblemon/textures/pokemon/uranium/costraw.png",
+    "costraw_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/costraw_cry.ogg"
+  }
+}

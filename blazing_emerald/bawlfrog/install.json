@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_bawlfrog_base.json": "assets/cobblemon/bedrock/species/blazing_emerald/0_bawlfrog_base.json",
+    "bawlfrog.png": "assets/cobblemon/textures/pokemon/blazing_emerald/bawlfrog.png",
+    "bawlfrog_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/bawlfrog_cry.ogg"
+  }
+}

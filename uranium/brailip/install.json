@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_brailip_base.json": "assets/cobblemon/bedrock/species/uranium/0_brailip_base.json",
+    "brailip.png": "assets/cobblemon/textures/pokemon/uranium/brailip.png",
+    "brailip_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/brailip_cry.ogg"
+  }
+}

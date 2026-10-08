@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_vitellion_base.json": "assets/cobblemon/bedrock/species/blazing_emerald/0_vitellion_base.json",
+    "blazing_emerald_vitellion.animation.json": "assets/cobblemon/bedrock/pokemon/animations/blazing_emerald_vitellion.animation.json",
+    "blazing_emerald_vitellion.geo.json": "assets/cobblemon/bedrock/pokemon/models/blazing_emerald_vitellion.geo.json",
+    "blazing_emerald_vitellion.json": "assets/cobblemon/bedrock/pokemon/posers/blazing_emerald_vitellion.json",
+    "texture__vitellion.png": "assets/cobblemon/textures/pokemon/blazing_emerald/vitellion/vitellion.png",
+    "vitellion.png": "assets/cobblemon/textures/pokemon/blazing_emerald/vitellion.png",
+    "vitellion_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/vitellion_cry.ogg",
+    "vitellion_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/vitellion/vitellion_shiny.png"
+  }
+}

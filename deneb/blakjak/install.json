@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_blakjak_base.json": "assets/cobblemon/bedrock/species/deneb/0_blakjak_base.json",
+    "blakjak.png": "assets/cobblemon/textures/pokemon/deneb/blakjak.png",
+    "blakjak_cry.ogg": "assets/gravelmon/sounds/pokemon/deneb/blakjak_cry.ogg",
+    "blakjak_shiny.png": "assets/cobblemon/textures/pokemon/deneb/blakjak/blakjak_shiny.png",
+    "deneb_blakjak.animation.json": "assets/cobblemon/bedrock/pokemon/animations/deneb_blakjak.animation.json",
+    "deneb_blakjak.geo.json": "assets/cobblemon/bedrock/pokemon/models/deneb_blakjak.geo.json",
+    "deneb_blakjak.json": "assets/cobblemon/bedrock/pokemon/posers/deneb_blakjak.json",
+    "texture__blakjak.png": "assets/cobblemon/textures/pokemon/deneb/blakjak/blakjak.png"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_doraiasu_base.json": "assets/cobblemon/bedrock/species/deneb/0_doraiasu_base.json",
+    "deneb_doraiasu.animation.json": "assets/cobblemon/bedrock/pokemon/animations/deneb_doraiasu.animation.json",
+    "deneb_doraiasu.geo.json": "assets/cobblemon/bedrock/pokemon/models/deneb_doraiasu.geo.json",
+    "deneb_doraiasu.json": "assets/cobblemon/bedrock/pokemon/posers/deneb_doraiasu.json",
+    "doraiasu shiny.png": "assets/cobblemon/textures/pokemon/deneb/doraiasu/doraiasu shiny.png",
+    "doraiasu.png": "assets/cobblemon/textures/pokemon/deneb/doraiasu.png",
+    "doraiasu_cry.ogg": "assets/gravelmon/sounds/pokemon/deneb/doraiasu_cry.ogg",
+    "texture__doraiasu.png": "assets/cobblemon/textures/pokemon/deneb/doraiasu/doraiasu.png"
+  }
+}

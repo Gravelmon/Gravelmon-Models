@@ -1,0 +1,14 @@
+{
+  "files": {
+    "118_meloetta_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_meloetta_delta.json",
+    "deltameloetta.png": "assets/cobblemon/textures/pokemon/insurgence/deltameloetta.png",
+    "deltameloetta_magician.png": "assets/cobblemon/textures/pokemon/insurgence/deltameloetta/deltameloetta_magician.png",
+    "deltameloetta_magician_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltameloetta/deltameloetta_magician_shiny.png",
+    "deltameloetta_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltameloetta/deltameloetta_shiny.png",
+    "insurgence_deltameloetta.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltameloetta.animation.json",
+    "insurgence_deltameloetta.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltameloetta.geo.json",
+    "insurgence_deltameloetta.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltameloetta.json",
+    "meloetta_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/meloetta_delta_cry.ogg",
+    "texture__deltameloetta.png": "assets/cobblemon/textures/pokemon/insurgence/deltameloetta/deltameloetta.png"
+  }
+}

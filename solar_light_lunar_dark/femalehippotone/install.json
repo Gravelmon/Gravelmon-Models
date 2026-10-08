@@ -1,0 +1,9 @@
+{
+  "files": {
+    "femalehippotone.png": "assets/cobblemon/textures/pokemon/solar_light_lunar_dark/femalehippotone.png",
+    "hippotone_female.png": "assets/cobblemon/textures/pokemon/solar_light_lunar_dark/hippotonefemale/hippotone_female.png"
+  },
+  "uses": [
+    "solar_light_lunar_dark/hippotone/0_hippotone_base.json"
+  ]
+}

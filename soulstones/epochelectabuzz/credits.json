@@ -1,0 +1,35 @@
+{
+  "game": "soulstones",
+  "pokemon": "electabuzz",
+  "formAspects": [
+    "epoch"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "electabuzz",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "submittedAt": "2026-09-18T12:36:33.691Z",
+      "models": [
+        "soulstones/epochelectabuzz/soulstones_epochelectabuzz.geo.json"
+      ],
+      "animations": [
+        "_unreferenced/assets/cobblemon/bedrock/pokemon/animations/electabuzz_epoch.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochelectabuzz/electabuzz_epoch.png",
+        "soulstones/epochelectabuzz/electabuzz_epoch_alpha.png",
+        "soulstones/epochelectabuzz/electabuzz_epoch_shiny.png",
+        "soulstones/epochelectabuzz/epochelectabuzz.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "files": {
+    "2000_mewtwo_mewtwo.json": "assets/cobblemon/bedrock/species/additional_forms/2000_mewtwo_mewtwo.json"
+  },
+  "uses": [
+    "insurgence/armoredmewtwo/armoredmewtwo.png"
+  ]
+}

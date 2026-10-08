@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_grudako_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_grudako_base.json",
+    "grudako.png": "assets/cobblemon/textures/pokemon/xenoverse/grudako.png",
+    "grudako_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/grudako_cry.ogg"
+  }
+}

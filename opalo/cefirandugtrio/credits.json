@@ -1,0 +1,40 @@
+{
+  "game": "opalo",
+  "pokemon": "dugtrio",
+  "formAspects": [
+    "cefiran"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "cefiran"
+      ],
+      "inheritsFrom": {
+        "pokemon": "dugtrio",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-09-26T11:51:06.436Z",
+      "models": [
+        "opalo/cefirandugtrio/opalo_cefirandugtrio.geo.json"
+      ],
+      "animations": [
+        "assets/cobblemon/bedrock/pokemon/animations/dugtrio.animation.json"
+      ],
+      "textures": [
+        "opalo/cefirandugtrio/dugtrio_cefiran.png",
+        "opalo/cefirandugtrio/dugtrio_cefiran_alpha.png",
+        "opalo/cefirandugtrio/dugtrio_cefiran_shiny.png",
+        "opalo/cefirandugtrio/cefirandugtrio.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

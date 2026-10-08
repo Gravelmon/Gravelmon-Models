@@ -1,0 +1,11 @@
+{
+  "files": {
+    "164_ducklett_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_ducklett_epoch.json",
+    "epochducklett.png": "assets/cobblemon/textures/pokemon/soulstones/epochducklett.png",
+    "epochducklett_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochducklett/epochducklett_shiny.png",
+    "soulstones_epochducklett.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochducklett.animation.json",
+    "soulstones_epochducklett.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochducklett.geo.json",
+    "soulstones_epochducklett.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochducklett.json",
+    "texture__epochducklett.png": "assets/cobblemon/textures/pokemon/soulstones/epochducklett/epochducklett.png"
+  }
+}

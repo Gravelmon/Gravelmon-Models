@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_hurricanine_base.json": "assets/cobblemon/bedrock/species/sage/0_hurricanine_base.json",
+    "hurricanine.png": "assets/cobblemon/textures/pokemon/sage/hurricanine.png",
+    "hurricanine_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/hurricanine_cry.ogg"
+  }
+}

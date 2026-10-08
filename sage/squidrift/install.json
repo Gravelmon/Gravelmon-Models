@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_squidrift_base.json": "assets/cobblemon/bedrock/species/sage/0_squidrift_base.json",
+    "squidrift.png": "assets/cobblemon/textures/pokemon/sage/squidrift.png",
+    "squidrift_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/squidrift_cry.ogg"
+  }
+}

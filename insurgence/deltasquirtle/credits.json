@@ -1,0 +1,41 @@
+{
+  "game": "insurgence",
+  "pokemon": "squirtle",
+  "formAspects": [
+    "delta"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "delta"
+      ],
+      "inheritsFrom": {
+        "pokemon": "squirtle",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DigitalRaikan"
+      },
+      "contributors": [
+        {
+          "login": "DigitalRaikan"
+        }
+      ],
+      "submittedAt": "2026-09-25T11:48:21.156Z",
+      "models": [
+        "insurgence/deltasquirtle/insurgence_deltasquirtle.geo.json"
+      ],
+      "animations": [
+        "insurgence/deltasquirtle/insurgence_deltasquirtle.animation.json"
+      ],
+      "textures": [
+        "insurgence/deltasquirtle/texture__deltasquirtle.png",
+        "insurgence/deltasquirtle/deltasquirtle_alpha.png",
+        "assets/cobblemon/deltasquirtle_preview.png",
+        "insurgence/deltasquirtle/deltasquirtle_shiny.png",
+        "insurgence/deltasquirtle/deltasquirtle.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

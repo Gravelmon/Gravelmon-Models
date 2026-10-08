@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_neureka_base.json": "assets/cobblemon/bedrock/species/sage/0_neureka_base.json",
+    "neureka.png": "assets/cobblemon/textures/pokemon/sage/neureka.png",
+    "neureka_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/neureka_cry.ogg"
+  }
+}

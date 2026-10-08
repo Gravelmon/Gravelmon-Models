@@ -1,0 +1,53 @@
+{
+  "game": "deneb",
+  "pokemon": "aurostice",
+  "entries": [
+    {
+      "contributor": {
+        "login": "mitchooart"
+      },
+      "contributors": [
+        {
+          "login": "mitchooart"
+        }
+      ],
+      "submittedAt": "2026-10-02T14:12:36.307Z",
+      "models": [
+        "_unreferenced/assets/cobblemon/bedrock/pokemon/models/aurostice.geo.json"
+      ],
+      "animations": [
+        "_unreferenced/assets/cobblemon/bedrock/pokemon/animations/deneb_aurostice.animation.json"
+      ],
+      "textures": [
+        "deneb/aurostice/aurostice_alpha.png",
+        "deneb/aurostice/aurostice_shiny.png"
+      ],
+      "sounds": []
+    },
+    {
+      "contributor": {
+        "login": "mitchooart"
+      },
+      "contributors": [
+        {
+          "login": "mitchooart"
+        }
+      ],
+      "pullRequestNumber": 216,
+      "submittedAt": "2026-10-02T14:26:11.348Z",
+      "models": [
+        "deneb/aurostice/deneb_aurostice.geo.json"
+      ],
+      "animations": [
+        "deneb/aurostice/model.animation.json"
+      ],
+      "textures": [
+        "deneb/aurostice/texture__aurostice.png",
+        "deneb/aurostice/aurostice_alpha.png",
+        "deneb/aurostice/aurostice_shiny.png",
+        "deneb/aurostice/aurostice.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "files": {
+    "2_silkinder_female.json": "assets/cobblemon/bedrock/species/additional_forms/2_silkinder_female.json",
+    "femalesilkinder.png": "assets/cobblemon/textures/pokemon/sage/femalesilkinder.png",
+    "sage_silkinderfemale.animation.json": "assets/cobblemon/bedrock/pokemon/animations/sage_silkinderfemale.animation.json",
+    "sage_silkinderfemale.geo.json": "assets/cobblemon/bedrock/pokemon/models/sage_silkinderfemale.geo.json",
+    "sage_silkinderfemale.json": "assets/cobblemon/bedrock/pokemon/posers/sage_silkinderfemale.json",
+    "silkinder_female.png": "assets/cobblemon/textures/pokemon/sage/silkinderfemale/silkinder_female.png",
+    "silkinder_female_alpha.png": "assets/cobblemon/textures/pokemon/sage/silkinderfemale/silkinder_female_alpha.png",
+    "silkinder_female_shiny.png": "assets/cobblemon/textures/pokemon/sage/silkinderfemale/silkinder_female_shiny.png"
+  }
+}

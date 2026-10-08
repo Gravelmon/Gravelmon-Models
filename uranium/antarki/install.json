@@ -1,0 +1,15 @@
+{
+  "files": {
+    "0_antarki_base.json": "assets/cobblemon/bedrock/species/uranium/0_antarki_base.json",
+    "antarki.png": "assets/cobblemon/textures/pokemon/uranium/antarki.png",
+    "antarki_alpha.png": "assets/cobblemon/textures/pokemon/uranium/antarki/antarki_alpha.png",
+    "antarki_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/antarki_cry.ogg",
+    "antarki_emissive.png": "assets/cobblemon/textures/pokemon/uranium/antarki/antarki_emissive.png",
+    "antarki_shiny.png": "assets/cobblemon/textures/pokemon/uranium/antarki/antarki_shiny.png",
+    "antarki_shiny_emissive.png": "assets/cobblemon/textures/pokemon/uranium/antarki/antarki_shiny_emissive.png",
+    "texture__antarki.png": "assets/cobblemon/textures/pokemon/uranium/antarki/antarki.png",
+    "uranium_antarki.animation.json": "assets/cobblemon/bedrock/pokemon/animations/uranium_antarki.animation.json",
+    "uranium_antarki.geo.json": "assets/cobblemon/bedrock/pokemon/models/uranium_antarki.geo.json",
+    "uranium_antarki.json": "assets/cobblemon/bedrock/pokemon/posers/uranium_antarki.json"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_muramoth_base.json": "assets/cobblemon/bedrock/species/blazing_emerald/0_muramoth_base.json",
+    "blazing_emerald_muramoth.animation.json": "assets/cobblemon/bedrock/pokemon/animations/blazing_emerald_muramoth.animation.json",
+    "blazing_emerald_muramoth.geo.json": "assets/cobblemon/bedrock/pokemon/models/blazing_emerald_muramoth.geo.json",
+    "blazing_emerald_muramoth.json": "assets/cobblemon/bedrock/pokemon/posers/blazing_emerald_muramoth.json",
+    "muramoth.png": "assets/cobblemon/textures/pokemon/blazing_emerald/muramoth.png",
+    "muramoth_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/muramoth_cry.ogg",
+    "muramoth_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/muramoth/muramoth_shiny.png",
+    "texture__muramoth.png": "assets/cobblemon/textures/pokemon/blazing_emerald/muramoth/muramoth.png"
+  }
+}

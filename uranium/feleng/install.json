@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_feleng_base.json": "assets/cobblemon/bedrock/species/uranium/0_feleng_base.json",
+    "feleng.png": "assets/cobblemon/textures/pokemon/uranium/feleng.png",
+    "feleng_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/feleng_cry.ogg"
+  }
+}

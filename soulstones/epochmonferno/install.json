@@ -1,0 +1,11 @@
+{
+  "files": {
+    "164_monferno_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_monferno_epoch.json",
+    "epochmonferno.png": "assets/cobblemon/textures/pokemon/soulstones/epochmonferno.png",
+    "epochmonferno_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochmonferno/epochmonferno_shiny.png",
+    "soulstones_epochmonferno.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochmonferno.animation.json",
+    "soulstones_epochmonferno.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochmonferno.geo.json",
+    "soulstones_epochmonferno.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochmonferno.json",
+    "texture__epochmonferno.png": "assets/cobblemon/textures/pokemon/soulstones/epochmonferno/epochmonferno.png"
+  }
+}

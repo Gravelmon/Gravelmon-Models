@@ -1,0 +1,67 @@
+{
+  "game": "soulstones",
+  "pokemon": "gallade",
+  "formAspects": [
+    "epoch",
+    "mega"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "epoch",
+        "mega"
+      ],
+      "inheritsFrom": {
+        "pokemon": "gallade",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "rcampbellbusiness-boop"
+      },
+      "contributors": [
+        {
+          "login": "rcampbellbusiness-boop"
+        }
+      ],
+      "submittedAt": "2026-09-20T18:35:08.657Z",
+      "models": [
+        "soulstones/gallade_epoch_mega/soulstones_gallade_epoch_mega.geo.json"
+      ],
+      "animations": [],
+      "textures": [
+        "soulstones/gallade_epoch_mega/epochgalladeone_mega.png",
+        "soulstones/gallade_epoch_mega/epochgalladeone_mega_alpha.png",
+        "soulstones/gallade_epoch_mega/epochgalladeone_mega_e.png",
+        "soulstones/gallade_epoch_mega/epochgalladeone_mega_shiny.png",
+        "soulstones/gallade_epoch_mega/epochgalladeone_mega_shiny_e.png",
+        "soulstones/gallade_epoch_mega/gallade_epoch_mega.png"
+      ],
+      "sounds": []
+    },
+    {
+      "formAspects": [
+        "epoch",
+        "mega"
+      ],
+      "inheritsFrom": {
+        "pokemon": "gallade",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "elpgeon"
+      },
+      "contributors": [
+        {
+          "login": "elpgeon"
+        }
+      ],
+      "submittedAt": "2026-09-24T16:00:05.068Z",
+      "models": [],
+      "animations": [
+        "soulstones/gallade_epoch_mega/soulstones_gallade_epoch_mega.animation.json"
+      ],
+      "textures": [],
+      "sounds": []
+    }
+  ]
+}

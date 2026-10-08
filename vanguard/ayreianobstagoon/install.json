@@ -1,0 +1,11 @@
+{
+  "files": {
+    "88_obstagoon_ayreian.json": "assets/cobblemon/bedrock/species/additional_forms/88_obstagoon_ayreian.json",
+    "ayreianobstagoon.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianobstagoon.png",
+    "ayreianobstagoon_shiny.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianobstagoon/ayreianobstagoon_shiny.png",
+    "texture__ayreianobstagoon.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianobstagoon/ayreianobstagoon.png",
+    "vanguard_ayreianobstagoon.animation.json": "assets/cobblemon/bedrock/pokemon/animations/vanguard_ayreianobstagoon.animation.json",
+    "vanguard_ayreianobstagoon.geo.json": "assets/cobblemon/bedrock/pokemon/models/vanguard_ayreianobstagoon.geo.json",
+    "vanguard_ayreianobstagoon.json": "assets/cobblemon/bedrock/pokemon/posers/vanguard_ayreianobstagoon.json"
+  }
+}

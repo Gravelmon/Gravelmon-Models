@@ -1,0 +1,11 @@
+{
+  "files": {
+    "0_gachigachoo_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_gachigachoo_base.json",
+    "gachigachoo.png": "assets/cobblemon/textures/pokemon/xenoverse/gachigachoo.png",
+    "gachigachoo_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/gachigachoo_cry.ogg",
+    "gachigachoo_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/gachigachoo/gachigachoo_shiny.png",
+    "texture__gachigachoo.png": "assets/cobblemon/textures/pokemon/xenoverse/gachigachoo/gachigachoo.png",
+    "xenoverse_gachigachoo.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_gachigachoo.geo.json",
+    "xenoverse_gachigachoo.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_gachigachoo.json"
+  }
+}

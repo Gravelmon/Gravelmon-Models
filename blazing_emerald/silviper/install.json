@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_silviper_base.json": "assets/cobblemon/bedrock/species/blazing_emerald/0_silviper_base.json",
+    "silviper.png": "assets/cobblemon/textures/pokemon/blazing_emerald/silviper.png",
+    "silviper_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/silviper_cry.ogg"
+  }
+}

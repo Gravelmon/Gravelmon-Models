@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_raptorch_base.json": "assets/cobblemon/bedrock/species/uranium/0_raptorch_base.json",
+    "raptorch.png": "assets/cobblemon/textures/pokemon/uranium/raptorch.png",
+    "raptorch_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/raptorch_cry.ogg"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "game": "blazing_emerald",
+  "pokemon": "oreon",
+  "entries": [
+    {
+      "contributor": {
+        "login": "DigitalRaikan"
+      },
+      "contributors": [
+        {
+          "login": "DigitalRaikan"
+        }
+      ],
+      "submittedAt": "2026-09-26T09:06:18.582Z",
+      "models": [
+        "blazing_emerald/oreon/blazing_emerald_oreon.geo.json"
+      ],
+      "animations": [
+        "_unreferenced/assets/cobblemon/bedrock/pokemon/animations/oreon.animation.json"
+      ],
+      "textures": [
+        "blazing_emerald/oreon/texture__oreon.png",
+        "blazing_emerald/oreon/oreon_alpha.png",
+        "assets/cobblemon/oreon_preview.png",
+        "blazing_emerald/oreon/oreon_shiny.png",
+        "blazing_emerald/oreon/oreon.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

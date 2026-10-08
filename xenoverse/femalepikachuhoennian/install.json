@@ -1,0 +1,12 @@
+{
+  "files": {
+    "25_pikachu_x_female.json": "assets/cobblemon/bedrock/species/additional_forms/25_pikachu_x_female.json",
+    "pikachu_femalex_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/pikachu_femalex_cry.ogg",
+    "xenoverse_femalepikachuhoennian.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_femalepikachuhoennian.animation.json",
+    "xenoverse_femalepikachuhoennian.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_femalepikachuhoennian.geo.json"
+  },
+  "uses": [
+    "xenoverse/femalepikachux/pikachufemalex_shiny.png",
+    "xenoverse/femalepikachux/xenoverse_pikachufemalex.json"
+  ]
+}

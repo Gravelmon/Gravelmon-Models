@@ -1,0 +1,14 @@
+{
+  "files": {
+    "164_nincada_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_nincada_epoch.json",
+    "epochnincada.png": "assets/cobblemon/textures/pokemon/soulstones/epochnincada.png",
+    "epochnincada_emissive.png": "assets/cobblemon/textures/pokemon/soulstones/epochnincada/epochnincada_emissive.png",
+    "epochnincada_emissive_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochnincada/epochnincada_emissive_shiny.png",
+    "epochnincada_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochnincada/epochnincada_shiny.png",
+    "epochnincada_shiny_emissive.png": "assets/cobblemon/textures/pokemon/soulstones/epochnincada/epochnincada_shiny_emissive.png",
+    "soulstones_epochnincada.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochnincada.animation.json",
+    "soulstones_epochnincada.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochnincada.geo.json",
+    "soulstones_epochnincada.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochnincada.json",
+    "texture__epochnincada.png": "assets/cobblemon/textures/pokemon/soulstones/epochnincada/epochnincada.png"
+  }
+}

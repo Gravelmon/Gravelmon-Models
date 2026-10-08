@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_crawglock_base.json": "assets/cobblemon/bedrock/species/sage/0_crawglock_base.json",
+    "crawglock.png": "assets/cobblemon/textures/pokemon/sage/crawglock.png",
+    "crawglock_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/crawglock_cry.ogg"
+  }
+}

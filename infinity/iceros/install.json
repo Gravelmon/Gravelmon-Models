@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_iceros_base.json": "assets/cobblemon/bedrock/species/infinity/0_iceros_base.json",
+    "iceros.png": "assets/cobblemon/textures/pokemon/infinity/iceros.png",
+    "iceros_alpha.png": "assets/cobblemon/textures/pokemon/infinity/iceros/iceros_alpha.png",
+    "iceros_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/iceros_cry.ogg",
+    "iceros_shiny.png": "assets/cobblemon/textures/pokemon/infinity/iceros/iceros_shiny.png",
+    "infinity_iceros.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_iceros.geo.json",
+    "infinity_iceros.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_iceros.json",
+    "texture__iceros.png": "assets/cobblemon/textures/pokemon/infinity/iceros/iceros.png"
+  }
+}

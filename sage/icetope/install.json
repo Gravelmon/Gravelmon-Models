@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_icetope_base.json": "assets/cobblemon/bedrock/species/sage/0_icetope_base.json",
+    "icetope.png": "assets/cobblemon/textures/pokemon/sage/icetope.png",
+    "icetope_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/icetope_cry.ogg"
+  }
+}

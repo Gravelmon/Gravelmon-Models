@@ -1,0 +1,11 @@
+{
+  "files": {
+    "164_dugtrio_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_dugtrio_epoch.json",
+    "epochdugtrio.png": "assets/cobblemon/textures/pokemon/soulstones/epochdugtrio.png",
+    "epochdugtrio_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochdugtrio/epochdugtrio_shiny.png",
+    "soulstones_epochdugtrio.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochdugtrio.animation.json",
+    "soulstones_epochdugtrio.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochdugtrio.geo.json",
+    "soulstones_epochdugtrio.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochdugtrio.json",
+    "texture__epochdugtrio.png": "assets/cobblemon/textures/pokemon/soulstones/epochdugtrio/epochdugtrio.png"
+  }
+}

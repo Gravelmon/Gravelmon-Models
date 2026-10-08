@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_skelerogue_base.json": "assets/cobblemon/bedrock/species/uranium/0_skelerogue_base.json",
+    "skelerogue.png": "assets/cobblemon/textures/pokemon/uranium/skelerogue.png",
+    "skelerogue_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/skelerogue_cry.ogg"
+  }
+}

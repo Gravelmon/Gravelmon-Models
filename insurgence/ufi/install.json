@@ -1,0 +1,11 @@
+{
+  "files": {
+    "0_ufi_base.json": "assets/cobblemon/bedrock/species/insurgence/0_ufi_base.json",
+    "insurgence_ufi.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_ufi.animation.json",
+    "insurgence_ufi.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_ufi.geo.json",
+    "insurgence_ufi.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_ufi.json",
+    "texture__ufi.png": "assets/cobblemon/textures/pokemon/insurgence/ufi/ufi.png",
+    "ufi.png": "assets/cobblemon/textures/pokemon/insurgence/ufi.png",
+    "ufi_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/ufi/ufi_shiny.png"
+  }
+}

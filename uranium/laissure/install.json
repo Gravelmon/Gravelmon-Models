@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_laissure_base.json": "assets/cobblemon/bedrock/species/uranium/0_laissure_base.json",
+    "laissure.png": "assets/cobblemon/textures/pokemon/uranium/laissure.png",
+    "laissure_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/laissure_cry.ogg"
+  }
+}

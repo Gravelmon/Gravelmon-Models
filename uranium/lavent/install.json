@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_lavent_base.json": "assets/cobblemon/bedrock/species/uranium/0_lavent_base.json",
+    "lavent.png": "assets/cobblemon/textures/pokemon/uranium/lavent.png",
+    "lavent_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/lavent_cry.ogg"
+  }
+}

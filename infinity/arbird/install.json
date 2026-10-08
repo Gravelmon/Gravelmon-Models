@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_arbird_base.json": "assets/cobblemon/bedrock/species/infinity/0_arbird_base.json",
+    "arbird.png": "assets/cobblemon/textures/pokemon/infinity/arbird.png",
+    "arbird_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/arbird_cry.ogg",
+    "arbird_shiny.png": "assets/cobblemon/textures/pokemon/infinity/arbird/arbird_shiny.png",
+    "infinity_arbird.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_arbird.animation.json",
+    "infinity_arbird.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_arbird.geo.json",
+    "infinity_arbird.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_arbird.json",
+    "texture__arbird.png": "assets/cobblemon/textures/pokemon/infinity/arbird/arbird.png"
+  }
+}

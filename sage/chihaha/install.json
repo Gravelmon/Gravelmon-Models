@@ -1,0 +1,11 @@
+{
+  "files": {
+    "0_chihaha_base.json": "assets/cobblemon/bedrock/species/sage/0_chihaha_base.json",
+    "chihaha.png": "assets/cobblemon/textures/pokemon/sage/chihaha.png",
+    "chihaha_shiny.png": "assets/cobblemon/textures/pokemon/sage/chihaha/chihaha_shiny.png",
+    "sage_chihaha.animation.json": "assets/cobblemon/bedrock/pokemon/animations/sage_chihaha.animation.json",
+    "sage_chihaha.geo.json": "assets/cobblemon/bedrock/pokemon/models/sage_chihaha.geo.json",
+    "sage_chihaha.json": "assets/cobblemon/bedrock/pokemon/posers/sage_chihaha.json",
+    "texture__chihaha.png": "assets/cobblemon/textures/pokemon/sage/chihaha/chihaha.png"
+  }
+}

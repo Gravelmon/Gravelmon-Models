@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_faeralynx_base.json": "assets/cobblemon/bedrock/species/infinity/0_faeralynx_base.json",
+    "faeralynx.png": "assets/cobblemon/textures/pokemon/infinity/faeralynx.png",
+    "faeralynx_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/faeralynx_cry.ogg"
+  }
+}

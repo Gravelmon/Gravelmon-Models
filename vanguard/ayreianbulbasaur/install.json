@@ -1,0 +1,12 @@
+{
+  "files": {
+    "88_bulbasaur_ayreian.json": "assets/cobblemon/bedrock/species/additional_forms/88_bulbasaur_ayreian.json",
+    "ayreianbulbasaur.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianbulbasaur.png",
+    "bulbasaur_ayreian.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianbulbasaur/bulbasaur_ayreian.png",
+    "bulbasaur_ayreian_alpha.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianbulbasaur/bulbasaur_ayreian_alpha.png",
+    "bulbasaur_ayreian_shiny.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianbulbasaur/bulbasaur_ayreian_shiny.png",
+    "vanguard_ayreianbulbasaur.animation.json": "assets/cobblemon/bedrock/pokemon/animations/vanguard_ayreianbulbasaur.animation.json",
+    "vanguard_ayreianbulbasaur.geo.json": "assets/cobblemon/bedrock/pokemon/models/vanguard_ayreianbulbasaur.geo.json",
+    "vanguard_ayreianbulbasaur.json": "assets/cobblemon/bedrock/pokemon/posers/vanguard_ayreianbulbasaur.json"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "118_wartortle_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_wartortle_delta.json",
+    "deltawartortle.png": "assets/cobblemon/textures/pokemon/insurgence/deltawartortle.png",
+    "deltawartortle_alpha.png": "assets/cobblemon/textures/pokemon/insurgence/deltawartortle/deltawartortle_alpha.png",
+    "deltawartortle_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltawartortle/deltawartortle_shiny.png",
+    "insurgence_deltawartortle.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltawartortle.animation.json",
+    "insurgence_deltawartortle.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltawartortle.geo.json",
+    "insurgence_deltawartortle.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltawartortle.json",
+    "texture__deltawartortle.png": "assets/cobblemon/textures/pokemon/insurgence/deltawartortle/deltawartortle.png",
+    "wartortle_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/wartortle_delta_cry.ogg"
+  }
+}

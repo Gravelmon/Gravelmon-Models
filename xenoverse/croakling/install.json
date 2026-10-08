@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_croakling_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_croakling_base.json",
+    "croakling.png": "assets/cobblemon/textures/pokemon/xenoverse/croakling.png",
+    "croakling_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/croakling_cry.ogg"
+  }
+}

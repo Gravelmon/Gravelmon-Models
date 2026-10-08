@@ -1,0 +1,15 @@
+{
+  "files": {
+    "118_gallade_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_gallade_delta.json",
+    "deltagallade.png": "assets/cobblemon/textures/pokemon/insurgence/deltagallade.png",
+    "deltagallade_alpha.png": "assets/cobblemon/textures/pokemon/insurgence/deltagallade/deltagallade_alpha.png",
+    "deltagallade_emissive.png": "assets/cobblemon/textures/pokemon/insurgence/deltagallade/deltagallade_emissive.png",
+    "deltagallade_emissive_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltagallade/deltagallade_emissive_shiny.png",
+    "deltagallade_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltagallade/deltagallade_shiny.png",
+    "gallade_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/gallade_delta_cry.ogg",
+    "insurgence_deltagallade.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltagallade.animation.json",
+    "insurgence_deltagallade.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltagallade.geo.json",
+    "insurgence_deltagallade.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltagallade.json",
+    "texture__deltagallade.png": "assets/cobblemon/textures/pokemon/insurgence/deltagallade/deltagallade.png"
+  }
+}

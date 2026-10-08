@@ -1,0 +1,16 @@
+{
+  "files": {
+    "118_quagsire_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_quagsire_delta.json",
+    "deltaquagsire.png": "assets/cobblemon/textures/pokemon/insurgence/deltaquagsire.png",
+    "deltaquagsire_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltaquagsire/deltaquagsire_shiny.png",
+    "flame__tail1.png": "assets/cobblemon/textures/pokemon/insurgence/deltaquagsire/flame/tail1.png",
+    "flame__tail2.png": "assets/cobblemon/textures/pokemon/insurgence/deltaquagsire/flame/tail2.png",
+    "flame__tail3.png": "assets/cobblemon/textures/pokemon/insurgence/deltaquagsire/flame/tail3.png",
+    "flame__tail4.png": "assets/cobblemon/textures/pokemon/insurgence/deltaquagsire/flame/tail4.png",
+    "insurgence_deltaquagsire.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltaquagsire.animation.json",
+    "insurgence_deltaquagsire.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltaquagsire.geo.json",
+    "insurgence_deltaquagsire.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltaquagsire.json",
+    "quagsire_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/quagsire_delta_cry.ogg",
+    "texture__deltaquagsire.png": "assets/cobblemon/textures/pokemon/insurgence/deltaquagsire/deltaquagsire.png"
+  }
+}

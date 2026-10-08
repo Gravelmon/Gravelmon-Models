@@ -1,0 +1,11 @@
+{
+  "files": {
+    "0_meadew_base.json": "assets/cobblemon/bedrock/species/realidea_system/0_meadew_base.json",
+    "meadew.png": "assets/cobblemon/textures/pokemon/realidea_system/meadew.png",
+    "meadew_alpha.png": "assets/cobblemon/textures/pokemon/realidea_system/meadew/meadew_alpha.png",
+    "meadew_shiny.png": "assets/cobblemon/textures/pokemon/realidea_system/meadew/meadew_shiny.png",
+    "realidea_system_meadew.geo.json": "assets/cobblemon/bedrock/pokemon/models/realidea_system_meadew.geo.json",
+    "realidea_system_meadew.json": "assets/cobblemon/bedrock/pokemon/posers/realidea_system_meadew.json",
+    "texture__meadew.png": "assets/cobblemon/textures/pokemon/realidea_system/meadew/meadew.png"
+  }
+}

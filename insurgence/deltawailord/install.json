@@ -1,0 +1,12 @@
+{
+  "files": {
+    "118_wailord_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_wailord_delta.json",
+    "deltawailord.png": "assets/cobblemon/textures/pokemon/insurgence/deltawailord.png",
+    "deltawailord_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltawailord/deltawailord_shiny.png",
+    "insurgence_deltawailord.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltawailord.animation.json",
+    "insurgence_deltawailord.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltawailord.geo.json",
+    "insurgence_deltawailord.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltawailord.json",
+    "texture__deltawailord.png": "assets/cobblemon/textures/pokemon/insurgence/deltawailord/deltawailord.png",
+    "wailord_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/wailord_delta_cry.ogg"
+  }
+}

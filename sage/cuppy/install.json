@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_cuppy_base.json": "assets/cobblemon/bedrock/species/sage/0_cuppy_base.json",
+    "cuppy.png": "assets/cobblemon/textures/pokemon/sage/cuppy.png",
+    "cuppy_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/cuppy_cry.ogg"
+  }
+}

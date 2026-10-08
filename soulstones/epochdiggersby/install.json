@@ -1,0 +1,13 @@
+{
+  "files": {
+    "164_diggersby_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_diggersby_epoch.json",
+    "epochdiggersby.png": "assets/cobblemon/textures/pokemon/soulstones/epochdiggersby.png",
+    "epochdiggersby_emissive.png": "assets/cobblemon/textures/pokemon/soulstones/epochdiggersby/epochdiggersby_emissive.png",
+    "epochdiggersby_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochdiggersby/epochdiggersby_shiny.png",
+    "epochdiggersby_shiny_emissive.png": "assets/cobblemon/textures/pokemon/soulstones/epochdiggersby/epochdiggersby_shiny_emissive.png",
+    "soulstones_epochdiggersby.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochdiggersby.animation.json",
+    "soulstones_epochdiggersby.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochdiggersby.geo.json",
+    "soulstones_epochdiggersby.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochdiggersby.json",
+    "texture__epochdiggersby.png": "assets/cobblemon/textures/pokemon/soulstones/epochdiggersby/epochdiggersby.png"
+  }
+}

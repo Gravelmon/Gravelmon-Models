@@ -1,0 +1,67 @@
+{
+  "portraitScale": 2.31,
+  "portraitTranslation": [
+    -0.55,
+    1.41,
+    0
+  ],
+  "profileScale": 0.66,
+  "profileTranslation": [
+    0,
+    0.81,
+    0
+  ],
+  "rootBone": "grovyle",
+  "poses": {
+    "standing": {
+      "poseTypes": [
+        "stand",
+        "float",
+        "portrait",
+        "profile",
+        "none"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochgrovyle', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('soulstones_epochgrovyle', 'ground_idle')"
+      ]
+    },
+    "walk": {
+      "poseTypes": [
+        "walk",
+        "swim"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochgrovyle', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('soulstones_epochgrovyle', 'ground_walk')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochgrovyle', 'sleep')"
+      ]
+    },
+    "battle-standing": {
+      "isBattle": true,
+      "poseTypes": [
+        "stand",
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochgrovyle', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochgrovyle', 'battle_idle')"
+      ]
+    }
+  }
+}

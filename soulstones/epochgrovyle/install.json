@@ -1,0 +1,12 @@
+{
+  "files": {
+    "164_grovyle_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_grovyle_epoch.json",
+    "epochgrovyle.png": "assets/cobblemon/textures/pokemon/soulstones/epochgrovyle.png",
+    "grovyle_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochgrovyle/grovyle_epoch.png",
+    "grovyle_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochgrovyle/grovyle_epoch_alpha.png",
+    "grovyle_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochgrovyle/grovyle_epoch_shiny.png",
+    "soulstones_epochgrovyle.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochgrovyle.animation.json",
+    "soulstones_epochgrovyle.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochgrovyle.geo.json",
+    "soulstones_epochgrovyle.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochgrovyle.json"
+  }
+}

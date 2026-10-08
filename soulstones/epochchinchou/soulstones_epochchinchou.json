@@ -1,0 +1,136 @@
+{
+  "portraitScale": 1.75,
+  "portraitTranslation": [
+    -0.3,
+    -0.8,
+    0
+  ],
+  "profileScale": 0.65,
+  "profileTranslation": [
+    -0.05,
+    0.45,
+    0
+  ],
+  "rootBone": "chinchou_epoch",
+  "poses": {
+    "portrait": {
+      "poseTypes": [
+        "portrait",
+        "profile"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochchinchou', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochchinchou', 'water_idle')"
+      ]
+    },
+    "battle-standing": {
+      "isBattle": true,
+      "poseTypes": [
+        "stand"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochchinchou', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochchinchou', 'battle_idle')"
+      ]
+    },
+    "water-battle-standing": {
+      "isBattle": true,
+      "poseTypes": [
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochchinchou', 'blink')"
+      ],
+      "namedAnimations": {
+        "faint": "q.bedrock_primary('soulstones_epochchinchou', 'water_faint', q.curve('one'))"
+      },
+      "animations": [
+        "q.bedrock('soulstones_epochchinchou', 'water_battle_idle')"
+      ]
+    },
+    "standing": {
+      "isTouchingWater": false,
+      "poseTypes": [
+        "stand",
+        "none"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochchinchou', 'blink')",
+        "q.bedrock_quirk('soulstones_epochchinchou', 'ground_quirk')"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochchinchou', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "isTouchingWater": false,
+      "poseTypes": [
+        "walk"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochchinchou', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochchinchou', 'water_swim')"
+      ]
+    },
+    "floating": {
+      "isTouchingWater": true,
+      "isUnderWater": true,
+      "poseTypes": [
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochchinchou', 'blink')",
+        "q.bedrock_quirk('soulstones_epochchinchou', 'water_idle_quirk')"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochchinchou', 'water_idle')"
+      ]
+    },
+    "swimming": {
+      "isTouchingWater": true,
+      "isUnderWater": true,
+      "poseTypes": [
+        "swim"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochchinchou', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochchinchou', 'water_swim')"
+      ]
+    },
+    "water-sleeping": {
+      "isTouchingWater": true,
+      "poseTypes": [
+        "float"
+      ],
+      "namedAnimations": {
+        "cry": "q.bedrock_stateful('soulstones_epochchinchou', 'cry')"
+      },
+      "animations": [
+        "q.bedrock('soulstones_epochchinchou', 'water_sleep')"
+      ]
+    },
+    "sleeping": {
+      "isTouchingWater": false,
+      "poseTypes": [
+        "sleep"
+      ],
+      "namedAnimations": {
+        "cry": "q.bedrock_stateful('soulstones_epochchinchou', 'cry')"
+      },
+      "animations": [
+        "q.bedrock('soulstones_epochchinchou', 'sleep')"
+      ]
+    }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('soulstones_epochchinchou', 'cry')"
+  }
+}

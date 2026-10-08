@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_dunseraph_base.json": "assets/cobblemon/bedrock/species/uranium/0_dunseraph_base.json",
+    "dunseraph.png": "assets/cobblemon/textures/pokemon/uranium/dunseraph.png",
+    "dunseraph_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/dunseraph_cry.ogg"
+  }
+}

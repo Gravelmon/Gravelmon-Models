@@ -1,0 +1,11 @@
+{
+  "files": {
+    "164_charmeleon_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_charmeleon_epoch.json",
+    "charmeleon.png": "assets/cobblemon/textures/pokemon/soulstones/epochcharmeleon/charmeleon.png",
+    "charmeleon_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochcharmeleon/charmeleon_alpha.png",
+    "charmeleon_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochcharmeleon/charmeleon_shiny.png",
+    "epochcharmeleon.png": "assets/cobblemon/textures/pokemon/soulstones/epochcharmeleon.png",
+    "soulstones_epochcharmeleon.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochcharmeleon.geo.json",
+    "soulstones_epochcharmeleon.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochcharmeleon.json"
+  }
+}

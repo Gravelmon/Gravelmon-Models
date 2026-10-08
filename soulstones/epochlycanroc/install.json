@@ -1,0 +1,13 @@
+{
+  "files": {
+    "164_lycanroc_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_lycanroc_epoch.json",
+    "epochlycanroc.png": "assets/cobblemon/textures/pokemon/soulstones/epochlycanroc.png",
+    "epochlycanroc_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochlycanroc/epochlycanroc_shiny.png",
+    "epochlycanroc_translucent.png": "assets/cobblemon/textures/pokemon/soulstones/epochlycanroc/epochlycanroc_translucent.png",
+    "epochlycanroc_translucent_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochlycanroc/epochlycanroc_translucent_shiny.png",
+    "soulstones_epochlycanroc.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochlycanroc.animation.json",
+    "soulstones_epochlycanroc.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochlycanroc.geo.json",
+    "soulstones_epochlycanroc.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochlycanroc.json",
+    "texture__epochlycanroc.png": "assets/cobblemon/textures/pokemon/soulstones/epochlycanroc/epochlycanroc.png"
+  }
+}

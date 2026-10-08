@@ -1,0 +1,11 @@
+{
+  "files": {
+    "164_vileplume_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_vileplume_epoch.json",
+    "epochvileplume.png": "assets/cobblemon/textures/pokemon/soulstones/epochvileplume.png",
+    "epochvileplume_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochvileplume/epochvileplume_shiny.png",
+    "soulstones_epochvileplume.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochvileplume.animation.json",
+    "soulstones_epochvileplume.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochvileplume.geo.json",
+    "soulstones_epochvileplume.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochvileplume.json",
+    "texture__epochvileplume.png": "assets/cobblemon/textures/pokemon/soulstones/epochvileplume/epochvileplume.png"
+  }
+}

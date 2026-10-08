@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_cararalm_base.json": "assets/cobblemon/bedrock/species/uranium/0_cararalm_base.json",
+    "cararalm.png": "assets/cobblemon/textures/pokemon/uranium/cararalm.png",
+    "cararalm_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/cararalm_cry.ogg"
+  }
+}

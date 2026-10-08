@@ -1,0 +1,31 @@
+{
+  "game": "mongratis",
+  "pokemon": "baoby",
+  "entries": [
+    {
+      "contributor": {
+        "login": "bifesalgado"
+      },
+      "contributors": [
+        {
+          "login": "bifesalgado"
+        }
+      ],
+      "submittedAt": "2026-09-27T18:09:37.350Z",
+      "models": [
+        "mongratis/baoby/mongratis_baoby.geo.json"
+      ],
+      "animations": [
+        "assets/cobblemon/bedrock/pokemon/animations/mongratis_baoby.animation.json"
+      ],
+      "textures": [
+        "mongratis/baoby/texture__baoby.png",
+        "mongratis/baoby/baoby_alpha.png",
+        "mongratis/baoby/baoby_shiny.png",
+        "assets/cobblemon/boaby preview.png",
+        "mongratis/baoby/baoby.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

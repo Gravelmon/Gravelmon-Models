@@ -1,0 +1,33 @@
+{
+  "game": "uranium",
+  "pokemon": "urayne",
+  "entries": [
+    {
+      "contributor": {
+        "login": "mitchooart"
+      },
+      "contributors": [
+        {
+          "login": "mitchooart"
+        }
+      ],
+      "submittedAt": "2026-09-27T19:48:36.164Z",
+      "models": [
+        "uranium/urayne/uranium_urayne.geo.json"
+      ],
+      "animations": [
+        "assets/cobblemon/bedrock/pokemon/animations/uranium_urayne.animation.json"
+      ],
+      "textures": [
+        "uranium/urayne/texture__urayne.png",
+        "uranium/urayne/urayne_alpha.png",
+        "uranium/urayne/urayne_emissive.png",
+        "assets/cobblemon/urayne_preview.png",
+        "uranium/urayne/urayne_shiny.png",
+        "uranium/urayne/urayne_shiny_emissive.png",
+        "uranium/urayne/urayne.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

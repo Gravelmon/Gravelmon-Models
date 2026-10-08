@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_cassnail_base.json": "assets/cobblemon/bedrock/species/uranium/0_cassnail_base.json",
+    "cassnail.png": "assets/cobblemon/textures/pokemon/uranium/cassnail.png",
+    "cassnail_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/cassnail_cry.ogg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_oreon_base.json": "assets/cobblemon/bedrock/species/blazing_emerald/0_oreon_base.json",
+    "blazing_emerald_oreon.geo.json": "assets/cobblemon/bedrock/pokemon/models/blazing_emerald_oreon.geo.json",
+    "blazing_emerald_oreon.json": "assets/cobblemon/bedrock/pokemon/posers/blazing_emerald_oreon.json",
+    "oreon.png": "assets/cobblemon/textures/pokemon/blazing_emerald/oreon.png",
+    "oreon_alpha.png": "assets/cobblemon/textures/pokemon/blazing_emerald/oreon/oreon_alpha.png",
+    "oreon_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/oreon_cry.ogg",
+    "oreon_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/oreon/oreon_shiny.png",
+    "texture__oreon.png": "assets/cobblemon/textures/pokemon/blazing_emerald/oreon/oreon.png"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "164_magikarp_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_magikarp_epoch.json",
+    "epochmagikarp.png": "assets/cobblemon/textures/pokemon/soulstones/epochmagikarp.png",
+    "epochmagikarp_emissive.png": "assets/cobblemon/textures/pokemon/soulstones/epochmagikarp/epochmagikarp_emissive.png",
+    "epochmagikarp_emissive_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochmagikarp/epochmagikarp_emissive_shiny.png",
+    "epochmagikarp_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochmagikarp/epochmagikarp_shiny.png",
+    "soulstones_epochmagikarp.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochmagikarp.animation.json",
+    "soulstones_epochmagikarp.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochmagikarp.geo.json",
+    "soulstones_epochmagikarp.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochmagikarp.json",
+    "texture__epochmagikarp.png": "assets/cobblemon/textures/pokemon/soulstones/epochmagikarp/epochmagikarp.png"
+  }
+}

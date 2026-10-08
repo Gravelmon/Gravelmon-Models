@@ -1,0 +1,13 @@
+{
+  "files": {
+    "0_fortifry_base.json": "assets/cobblemon/bedrock/species/sage/0_fortifry_base.json",
+    "fortifry.png": "assets/cobblemon/textures/pokemon/sage/fortifry.png",
+    "fortifry_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/fortifry_cry.ogg",
+    "fortifry_shiny.png": "assets/cobblemon/textures/pokemon/sage/fortifry/fortifry_shiny.png",
+    "fortifry_shiny_alt.png": "assets/cobblemon/textures/pokemon/sage/fortifry/fortifry_shiny_alt.png",
+    "sage_fortifry.animation.json": "assets/cobblemon/bedrock/pokemon/animations/sage_fortifry.animation.json",
+    "sage_fortifry.geo.json": "assets/cobblemon/bedrock/pokemon/models/sage_fortifry.geo.json",
+    "sage_fortifry.json": "assets/cobblemon/bedrock/pokemon/posers/sage_fortifry.json",
+    "texture__fortifry.png": "assets/cobblemon/textures/pokemon/sage/fortifry/fortifry.png"
+  }
+}

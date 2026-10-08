@@ -1,0 +1,12 @@
+{
+  "files": {
+    "118_scizor_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_scizor_delta.json",
+    "deltascizor.png": "assets/cobblemon/textures/pokemon/insurgence/deltascizor.png",
+    "deltascizor_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltascizor/deltascizor_shiny.png",
+    "insurgence_deltascizor.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltascizor.animation.json",
+    "insurgence_deltascizor.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltascizor.geo.json",
+    "insurgence_deltascizor.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltascizor.json",
+    "scizor_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/scizor_delta_cry.ogg",
+    "texture__deltascizor.png": "assets/cobblemon/textures/pokemon/insurgence/deltascizor/deltascizor.png"
+  }
+}

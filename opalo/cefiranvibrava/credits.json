@@ -1,0 +1,40 @@
+{
+  "game": "opalo",
+  "pokemon": "vibrava",
+  "formAspects": [
+    "cefiran"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "cefiran"
+      ],
+      "inheritsFrom": {
+        "pokemon": "vibrava",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-10-01T15:57:36.623Z",
+      "models": [
+        "opalo/cefiranvibrava/opalo_cefiranvibrava.geo.json"
+      ],
+      "animations": [
+        "opalo/cefiranvibrava/opalo_cefiranvibrava.animation.json"
+      ],
+      "textures": [
+        "opalo/cefiranvibrava/vibrava_cefiran.png",
+        "opalo/cefiranvibrava/vibrava_cefiran_alpha.png",
+        "opalo/cefiranvibrava/vibrava_cefiran_shiny.png",
+        "opalo/cefiranvibrava/cefiranvibrava.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

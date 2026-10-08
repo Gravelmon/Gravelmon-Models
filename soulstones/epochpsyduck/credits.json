@@ -1,0 +1,40 @@
+{
+  "game": "soulstones",
+  "pokemon": "psyduck",
+  "formAspects": [
+    "epoch"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "psyduck",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-09-26T12:32:22.472Z",
+      "models": [
+        "soulstones/epochpsyduck/soulstones_epochpsyduck.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochpsyduck/soulstones_epochpsyduck.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochpsyduck/psyduck_epoch.png",
+        "soulstones/epochpsyduck/psyduck_epoch_alpha.png",
+        "soulstones/epochpsyduck/psyduck_epoch_shiny.png",
+        "soulstones/epochpsyduck/epochpsyduck.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

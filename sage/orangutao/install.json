@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_orangutao_base.json": "assets/cobblemon/bedrock/species/sage/0_orangutao_base.json",
+    "orangutao.png": "assets/cobblemon/textures/pokemon/sage/orangutao.png",
+    "orangutao_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/orangutao_cry.ogg"
+  }
+}

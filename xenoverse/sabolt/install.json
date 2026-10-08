@@ -1,0 +1,13 @@
+{
+  "files": {
+    "0_sabolt_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_sabolt_base.json",
+    "sabolt.png": "assets/cobblemon/textures/pokemon/xenoverse/sabolt.png",
+    "sabolt_alpha.png": "assets/cobblemon/textures/pokemon/xenoverse/sabolt/sabolt_alpha.png",
+    "sabolt_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/sabolt_cry.ogg",
+    "sabolt_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/sabolt/sabolt_shiny.png",
+    "texture__sabolt.png": "assets/cobblemon/textures/pokemon/xenoverse/sabolt/sabolt.png",
+    "xenoverse_sabolt.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_sabolt.animation.json",
+    "xenoverse_sabolt.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_sabolt.geo.json",
+    "xenoverse_sabolt.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_sabolt.json"
+  }
+}

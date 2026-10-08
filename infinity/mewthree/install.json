@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_mewthree_base.json": "assets/cobblemon/bedrock/species/infinity/0_mewthree_base.json",
+    "infinity_mewthree.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_mewthree.animation.json",
+    "infinity_mewthree.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_mewthree.geo.json",
+    "infinity_mewthree.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_mewthree.json",
+    "mewthree.png": "assets/cobblemon/textures/pokemon/infinity/mewthree.png",
+    "mewthree_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/mewthree_cry.ogg",
+    "mewthree_shiny.png": "assets/cobblemon/textures/pokemon/infinity/mewthree/mewthree_shiny.png",
+    "texture__mewthree.png": "assets/cobblemon/textures/pokemon/infinity/mewthree/mewthree.png"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_rockapye_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_rockapye_base.json",
+    "rockapye.png": "assets/cobblemon/textures/pokemon/xenoverse/rockapye.png",
+    "rockapye_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/rockapye_cry.ogg"
+  }
+}

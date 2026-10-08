@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_fatail_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_fatail_base.json",
+    "fatail.png": "assets/cobblemon/textures/pokemon/xenoverse/fatail.png",
+    "fatail_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/fatail_cry.ogg"
+  }
+}

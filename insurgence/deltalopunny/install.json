@@ -1,0 +1,12 @@
+{
+  "files": {
+    "118_lopunny_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_lopunny_delta.json",
+    "deltalopunny.png": "assets/cobblemon/textures/pokemon/insurgence/deltalopunny.png",
+    "deltalopunny_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltalopunny/deltalopunny_shiny.png",
+    "insurgence_deltalopunny.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltalopunny.animation.json",
+    "insurgence_deltalopunny.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltalopunny.geo.json",
+    "insurgence_deltalopunny.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltalopunny.json",
+    "lopunny_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/lopunny_delta_cry.ogg",
+    "texture__deltalopunny.png": "assets/cobblemon/textures/pokemon/insurgence/deltalopunny/deltalopunny.png"
+  }
+}

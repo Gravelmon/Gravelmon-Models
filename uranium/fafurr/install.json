@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_fafurr_base.json": "assets/cobblemon/bedrock/species/uranium/0_fafurr_base.json",
+    "fafurr.png": "assets/cobblemon/textures/pokemon/uranium/fafurr.png",
+    "fafurr_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/fafurr_cry.ogg"
+  }
+}

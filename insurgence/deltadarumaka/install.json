@@ -1,0 +1,12 @@
+{
+  "files": {
+    "118_darumaka_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_darumaka_delta.json",
+    "darumaka_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/darumaka_delta_cry.ogg",
+    "deltadarumaka.png": "assets/cobblemon/textures/pokemon/insurgence/deltadarumaka.png",
+    "deltadarumaka_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltadarumaka/deltadarumaka_shiny.png",
+    "insurgence_deltadarumaka.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltadarumaka.animation.json",
+    "insurgence_deltadarumaka.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltadarumaka.geo.json",
+    "insurgence_deltadarumaka.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltadarumaka.json",
+    "texture__deltadarumaka.png": "assets/cobblemon/textures/pokemon/insurgence/deltadarumaka/deltadarumaka.png"
+  }
+}

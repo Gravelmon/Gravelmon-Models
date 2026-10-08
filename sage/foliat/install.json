@@ -1,0 +1,14 @@
+{
+  "files": {
+    "0_foliat_base.json": "assets/cobblemon/bedrock/species/sage/0_foliat_base.json",
+    "foliat.png": "assets/cobblemon/textures/pokemon/sage/foliat.png",
+    "foliat_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/foliat_cry.ogg",
+    "foliat_female.png": "assets/cobblemon/textures/pokemon/sage/foliat/foliat_female.png",
+    "foliat_shiny.png": "assets/cobblemon/textures/pokemon/sage/foliat/foliat_shiny.png",
+    "foliat_shiny_female.png": "assets/cobblemon/textures/pokemon/sage/foliat/foliat_shiny_female.png",
+    "sage_foliat.animation.json": "assets/cobblemon/bedrock/pokemon/animations/sage_foliat.animation.json",
+    "sage_foliat.geo.json": "assets/cobblemon/bedrock/pokemon/models/sage_foliat.geo.json",
+    "sage_foliat.json": "assets/cobblemon/bedrock/pokemon/posers/sage_foliat.json",
+    "texture__foliat.png": "assets/cobblemon/textures/pokemon/sage/foliat/foliat.png"
+  }
+}

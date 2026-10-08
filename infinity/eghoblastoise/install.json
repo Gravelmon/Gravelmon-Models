@@ -1,0 +1,12 @@
+{
+  "files": {
+    "117_blastoise_egho.json": "assets/cobblemon/bedrock/species/additional_forms/117_blastoise_egho.json",
+    "blastoise_egho_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/blastoise_egho_cry.ogg",
+    "eghoblastoise.png": "assets/cobblemon/textures/pokemon/infinity/eghoblastoise.png",
+    "eghoblastoise_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghoblastoise/eghoblastoise_shiny.png",
+    "infinity_eghoblastoise.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_eghoblastoise.animation.json",
+    "infinity_eghoblastoise.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_eghoblastoise.geo.json",
+    "infinity_eghoblastoise.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_eghoblastoise.json",
+    "texture__eghoblastoise.png": "assets/cobblemon/textures/pokemon/infinity/eghoblastoise/eghoblastoise.png"
+  }
+}

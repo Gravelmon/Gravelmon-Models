@@ -1,0 +1,40 @@
+{
+  "game": "soulstones",
+  "pokemon": "machop",
+  "formAspects": [
+    "epoch"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "machop",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-09-26T12:51:23.394Z",
+      "models": [
+        "soulstones/epochmachop/soulstones_epochmachop.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochmachop/soulstones_epochmachop.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochmachop/machop_epoch.png",
+        "soulstones/epochmachop/machop_epoch_alpha.png",
+        "soulstones/epochmachop/machop_epoch_shiny.png",
+        "soulstones/epochmachop/epochmachop.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

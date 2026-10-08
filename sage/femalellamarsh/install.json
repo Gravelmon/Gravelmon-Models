@@ -1,0 +1,13 @@
+{
+  "files": {
+    "2_llamarsh_female.json": "assets/cobblemon/bedrock/species/additional_forms/2_llamarsh_female.json",
+    "femalellamarsh.png": "assets/cobblemon/textures/pokemon/sage/femalellamarsh.png",
+    "llamarsh.png": "assets/cobblemon/textures/pokemon/sage/llamarshfemale/llamarsh.png",
+    "llamarsh_alpha.png": "assets/cobblemon/textures/pokemon/sage/llamarshfemale/llamarsh_alpha.png",
+    "llamarsh_shiny.png": "assets/cobblemon/textures/pokemon/sage/llamarshfemale/llamarsh_shiny.png",
+    "sage_llamarshfemale.geo.json": "assets/cobblemon/bedrock/pokemon/models/sage_llamarshfemale.geo.json"
+  },
+  "uses": [
+    "sage/llamarsh/sage_llamarsh.json"
+  ]
+}

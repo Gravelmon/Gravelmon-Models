@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_dragalis_base.json": "assets/cobblemon/bedrock/species/infinity/0_dragalis_base.json",
+    "dragalis.png": "assets/cobblemon/textures/pokemon/infinity/dragalis.png",
+    "dragalis_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/dragalis_cry.ogg"
+  }
+}

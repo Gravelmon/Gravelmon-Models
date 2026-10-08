@@ -1,0 +1,42 @@
+{
+  "game": "blazing_emerald",
+  "pokemon": "dreepy",
+  "formAspects": [
+    "hoennian"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "hoennian"
+      ],
+      "inheritsFrom": {
+        "pokemon": "dreepy",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "Neoxaivus"
+      },
+      "contributors": [
+        {
+          "login": "Neoxaivus"
+        }
+      ],
+      "submittedAt": "2026-10-06T03:44:40.912Z",
+      "models": [
+        "blazing_emerald/hoenniandreepy/blazing_emerald_hoenniandreepy.geo.json"
+      ],
+      "animations": [
+        "_unreferenced/assets/cobblemon/bedrock/pokemon/animations/blazing_emerald_hoenniandreepy.animation.json"
+      ],
+      "textures": [
+        "blazing_emerald/hoenniandreepy/dreepy_hoennian.png",
+        "blazing_emerald/hoenniandreepy/dreepy_hoennian_alpha.png",
+        "blazing_emerald/hoenniandreepy/dreepy_hoennian_emissive.png",
+        "blazing_emerald/hoenniandreepy/dreepy_hoennian_shiny.png",
+        "blazing_emerald/hoenniandreepy/dreepy_hoennian_shiny_emissive.png",
+        "blazing_emerald/hoenniandreepy/hoenniandreepy.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

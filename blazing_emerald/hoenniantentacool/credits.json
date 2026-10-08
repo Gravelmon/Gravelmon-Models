@@ -1,0 +1,39 @@
+{
+  "game": "blazing_emerald",
+  "pokemon": "tentacool",
+  "formAspects": [
+    "hoennian"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "hoennian"
+      ],
+      "contributor": {
+        "login": "burgorton"
+      },
+      "contributors": [
+        {
+          "login": "burgorton"
+        }
+      ],
+      "submittedAt": "2026-10-01T22:51:39.830Z",
+      "models": [
+        "blazing_emerald/hoenniantentacool/blazing_emerald_hoenniantentacool.geo.json"
+      ],
+      "animations": [
+        "blazing_emerald/hoenniantentacool/blazing_emerald_hoenniantentacool.animation.json"
+      ],
+      "textures": [
+        "assets/cobblemon/tentacool_alpha.png",
+        "blazing_emerald/hoenniantentacool/tentacool_hoennian.png",
+        "blazing_emerald/hoenniantentacool/tentacool_hoennian_alpha.png",
+        "assets/cobblemon/tentacool_hoennian_emissive.png",
+        "assets/cobblemon/tentacool_hoennian_emissive_shiny.png",
+        "blazing_emerald/hoenniantentacool/tentacool_hoennian_shiny.png",
+        "blazing_emerald/hoenniantentacool/hoenniantentacool.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

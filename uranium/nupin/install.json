@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_nupin_base.json": "assets/cobblemon/bedrock/species/uranium/0_nupin_base.json",
+    "nupin.png": "assets/cobblemon/textures/pokemon/uranium/nupin.png",
+    "nupin_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/nupin_cry.ogg"
+  }
+}

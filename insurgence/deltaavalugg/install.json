@@ -1,0 +1,11 @@
+{
+  "files": {
+    "118_avalugg_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_avalugg_delta.json",
+    "avalugg_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/avalugg_delta_cry.ogg",
+    "deltaavalugg.png": "assets/cobblemon/textures/pokemon/insurgence/deltaavalugg.png",
+    "deltaavalugg_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltaavalugg/deltaavalugg_shiny.png",
+    "insurgence_deltaavalugg.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltaavalugg.geo.json",
+    "insurgence_deltaavalugg.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltaavalugg.json",
+    "texture__deltaavalugg.png": "assets/cobblemon/textures/pokemon/insurgence/deltaavalugg/deltaavalugg.png"
+  }
+}

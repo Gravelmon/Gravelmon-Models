@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_beefle_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_beefle_base.json",
+    "beefle.png": "assets/cobblemon/textures/pokemon/xenoverse/beefle.png",
+    "beefle_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/beefle_cry.ogg"
+  }
+}

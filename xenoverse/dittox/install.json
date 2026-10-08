@@ -1,0 +1,12 @@
+{
+  "files": {
+    "25_ditto_x.json": "assets/cobblemon/bedrock/species/additional_forms/25_ditto_x.json",
+    "ditto_x_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/ditto_x_cry.ogg",
+    "dittox.png": "assets/cobblemon/textures/pokemon/xenoverse/dittox.png",
+    "dittox_form.png": "assets/cobblemon/textures/pokemon/xenoverse/dittox/dittox_form.png",
+    "dittox_form_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/dittox/dittox_form_shiny.png",
+    "xenoverse_dittox.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_dittox.animation.json",
+    "xenoverse_dittox.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_dittox.geo.json",
+    "xenoverse_dittox.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_dittox.json"
+  }
+}

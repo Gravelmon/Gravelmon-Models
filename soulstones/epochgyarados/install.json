@@ -1,0 +1,13 @@
+{
+  "files": {
+    "164_gyarados_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_gyarados_epoch.json",
+    "epochgyarados.png": "assets/cobblemon/textures/pokemon/soulstones/epochgyarados.png",
+    "epochgyarados_emissive.png": "assets/cobblemon/textures/pokemon/soulstones/epochgyarados/epochgyarados_emissive.png",
+    "epochgyarados_emissive_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochgyarados/epochgyarados_emissive_shiny.png",
+    "epochgyarados_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochgyarados/epochgyarados_shiny.png",
+    "soulstones_epochgyarados.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochgyarados.animation.json",
+    "soulstones_epochgyarados.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochgyarados.geo.json",
+    "soulstones_epochgyarados.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochgyarados.json",
+    "texture__epochgyarados.png": "assets/cobblemon/textures/pokemon/soulstones/epochgyarados/epochgyarados.png"
+  }
+}

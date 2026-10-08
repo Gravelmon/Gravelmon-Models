@@ -1,0 +1,12 @@
+{
+  "files": {
+    "118_noivern_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_noivern_delta.json",
+    "deltanoivern.png": "assets/cobblemon/textures/pokemon/insurgence/deltanoivern.png",
+    "insurgence_deltanoivern.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltanoivern.geo.json",
+    "insurgence_deltanoivern.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltanoivern.json",
+    "noivern_delta.png": "assets/cobblemon/textures/pokemon/insurgence/deltanoivern/noivern_delta.png",
+    "noivern_delta_alpha.png": "assets/cobblemon/textures/pokemon/insurgence/deltanoivern/noivern_delta_alpha.png",
+    "noivern_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/noivern_delta_cry.ogg",
+    "noivern_delta_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltanoivern/noivern_delta_shiny.png"
+  }
+}

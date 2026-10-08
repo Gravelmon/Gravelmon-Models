@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_cascotta_base.json": "assets/cobblemon/bedrock/species/sage/0_cascotta_base.json",
+    "cascotta.png": "assets/cobblemon/textures/pokemon/sage/cascotta.png",
+    "cascotta_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/cascotta_cry.ogg"
+  }
+}

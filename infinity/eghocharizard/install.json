@@ -1,0 +1,28 @@
+{
+  "files": {
+    "117_charizard_egho.json": "assets/cobblemon/bedrock/species/additional_forms/117_charizard_egho.json",
+    "charizard_egho_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/charizard_egho_cry.ogg",
+    "eghocharizard.png": "assets/cobblemon/textures/pokemon/infinity/eghocharizard.png",
+    "eghocharizard_emissive.png": "assets/cobblemon/textures/pokemon/infinity/eghocharizard/eghocharizard_emissive.png",
+    "eghocharizard_emissive_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghocharizard/eghocharizard_emissive_shiny.png",
+    "eghocharizard_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghocharizard/eghocharizard_shiny.png",
+    "flame__flame.ase": "assets/cobblemon/textures/pokemon/infinity/eghocharizard/flame/flame.ase",
+    "flame__flame1.png": "assets/cobblemon/textures/pokemon/infinity/eghocharizard/flame/flame1.png",
+    "flame__flame1_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghocharizard/flame/flame1_shiny.png",
+    "flame__flame2.png": "assets/cobblemon/textures/pokemon/infinity/eghocharizard/flame/flame2.png",
+    "flame__flame2_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghocharizard/flame/flame2_shiny.png",
+    "flame__flame3.png": "assets/cobblemon/textures/pokemon/infinity/eghocharizard/flame/flame3.png",
+    "flame__flame3_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghocharizard/flame/flame3_shiny.png",
+    "flame__flame4.png": "assets/cobblemon/textures/pokemon/infinity/eghocharizard/flame/flame4.png",
+    "flame__flame4_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghocharizard/flame/flame4_shiny.png",
+    "flame__flame5.png": "assets/cobblemon/textures/pokemon/infinity/eghocharizard/flame/flame5.png",
+    "flame__flame5_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghocharizard/flame/flame5_shiny.png",
+    "flame__flame6.png": "assets/cobblemon/textures/pokemon/infinity/eghocharizard/flame/flame6.png",
+    "flame__flame6_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghocharizard/flame/flame6_shiny.png",
+    "flame__flame_shiny.ase": "assets/cobblemon/textures/pokemon/infinity/eghocharizard/flame/flame_shiny.ase",
+    "infinity_eghocharizard.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_eghocharizard.animation.json",
+    "infinity_eghocharizard.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_eghocharizard.geo.json",
+    "infinity_eghocharizard.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_eghocharizard.json",
+    "texture__eghocharizard.png": "assets/cobblemon/textures/pokemon/infinity/eghocharizard/eghocharizard.png"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "files": {
+    "88_unfezant_ayreian_female.json": "assets/cobblemon/bedrock/species/additional_forms/88_unfezant_ayreian_female.json",
+    "ayreianunfezant_female.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianunfezantfemale/ayreianunfezant_female.png",
+    "ayreianunfezantfemale.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianunfezantfemale/ayreianunfezantfemale.png",
+    "femaleayreianunfezant.png": "assets/cobblemon/textures/pokemon/vanguard/femaleayreianunfezant.png"
+  },
+  "uses": [
+    "vanguard/ayreianunfezant/88_unfezant_ayreian.json"
+  ]
+}

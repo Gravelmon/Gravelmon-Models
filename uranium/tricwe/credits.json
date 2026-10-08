@@ -1,0 +1,30 @@
+{
+  "game": "uranium",
+  "pokemon": "tricwe",
+  "entries": [
+    {
+      "contributor": {
+        "login": "mitchooart"
+      },
+      "contributors": [
+        {
+          "login": "mitchooart"
+        }
+      ],
+      "submittedAt": "2026-09-24T12:05:37.967Z",
+      "models": [
+        "uranium/tricwe/uranium_tricwe.geo.json"
+      ],
+      "animations": [
+        "uranium/tricwe/uranium_tricwe.animation.json"
+      ],
+      "textures": [
+        "uranium/tricwe/texture__tricwe.png",
+        "uranium/tricwe/tricwe_alpha.png",
+        "uranium/tricwe/tricwe_shiny.png",
+        "uranium/tricwe/tricwe.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

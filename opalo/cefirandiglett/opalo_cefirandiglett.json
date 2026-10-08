@@ -1,0 +1,83 @@
+{
+  "portraitScale": 1.8,
+  "portraitTranslation": [
+    -0.06,
+    -0.86,
+    0
+  ],
+  "profileScale": 0.9,
+  "profileTranslation": [
+    0,
+    0.35,
+    0
+  ],
+  "rootBone": "diglett",
+  "poses": {
+    "standing": {
+      "isBattle": false,
+      "poseTypes": [
+        "stand",
+        "float",
+        "none",
+        "portrait",
+        "profile"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('opalo_cefirandiglett', 'blink')",
+        "q.bedrock_quirk('opalo_cefirandiglett', 'quirk_idle')"
+      ],
+      "animations": [
+        "q.look('body2', 1, 1, 10, -10, 0, 0)",
+        "q.look('body', 1, 1, 0, 0, 45, -45)",
+        "q.bedrock('opalo_cefirandiglett', 'ground_idle')"
+      ]
+    },
+    "battle-standing": {
+      "isBattle": true,
+      "poseTypes": [
+        "stand"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('opalo_cefirandiglett', 'blink')",
+        "q.bedrock_quirk('opalo_cefirandiglett', 'quirk_idle')"
+      ],
+      "animations": [
+        "q.look('body2', 1, 1, 10, -10, 0, 0)",
+        "q.look('body', 1, 1, 0, 0, 45, -45)",
+        "q.bedrock('opalo_cefirandiglett', 'battle_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "walk",
+        "swim"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('opalo_cefirandiglett', 'blink')",
+        "q.bedrock_quirk('opalo_cefirandiglett', 'quirk_idle')"
+      ],
+      "animations": [
+        "q.look('body2', 1, 1, 10, -10, 0, 0)",
+        "q.bedrock('opalo_cefirandiglett', 'ground_walk')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('opalo_cefirandiglett', 'quirk_idle')"
+      ],
+      "namedAnimations": {
+        "cry": "q.bedrock_stateful('opalo_cefirandiglett', 'cry')"
+      },
+      "animations": [
+        "q.bedrock('opalo_cefirandiglett', 'sleep')"
+      ]
+    }
+  },
+  "animations": {
+    "faint": "q.bedrock_primary('opalo_cefirandiglett', 'faint', q.curve('one'))",
+    "cry": "q.bedrock_stateful('opalo_cefirandiglett', 'cry')"
+  }
+}

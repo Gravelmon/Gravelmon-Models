@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_kertruffle_base.json": "assets/cobblemon/bedrock/species/sage/0_kertruffle_base.json",
+    "kertruffle.png": "assets/cobblemon/textures/pokemon/sage/kertruffle.png",
+    "kertruffle_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/kertruffle_cry.ogg"
+  }
+}

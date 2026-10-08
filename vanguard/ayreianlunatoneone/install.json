@@ -1,0 +1,8 @@
+{
+  "files": {
+    "88_lunatone_ayreiantwo.json": "assets/cobblemon/bedrock/species/additional_forms/88_lunatone_ayreiantwo.json"
+  },
+  "uses": [
+    "vanguard/ayreianlunatone/ayreianlunatone.png"
+  ]
+}

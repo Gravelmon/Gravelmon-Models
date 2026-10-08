@@ -1,0 +1,9 @@
+{
+  "files": {
+    "femalepixwee.png": "assets/cobblemon/textures/pokemon/solar_light_lunar_dark/femalepixwee.png",
+    "pixwee_female.png": "assets/cobblemon/textures/pokemon/solar_light_lunar_dark/pixweefemale/pixwee_female.png"
+  },
+  "uses": [
+    "solar_light_lunar_dark/pixwee/0_pixwee_base.json"
+  ]
+}

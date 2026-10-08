@@ -1,0 +1,12 @@
+{
+  "files": {
+    "117_gloom_egho.json": "assets/cobblemon/bedrock/species/additional_forms/117_gloom_egho.json",
+    "eghogloom.png": "assets/cobblemon/textures/pokemon/infinity/eghogloom.png",
+    "eghogloom_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghogloom/eghogloom_shiny.png",
+    "gloom_egho_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/gloom_egho_cry.ogg",
+    "infinity_eghogloom.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_eghogloom.animation.json",
+    "infinity_eghogloom.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_eghogloom.geo.json",
+    "infinity_eghogloom.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_eghogloom.json",
+    "texture__eghogloom.png": "assets/cobblemon/textures/pokemon/infinity/eghogloom/eghogloom.png"
+  }
+}

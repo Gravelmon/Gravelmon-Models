@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_pawter_base.json": "assets/cobblemon/bedrock/species/sage/0_pawter_base.json",
+    "pawter.png": "assets/cobblemon/textures/pokemon/sage/pawter.png",
+    "pawter_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/pawter_cry.ogg"
+  }
+}

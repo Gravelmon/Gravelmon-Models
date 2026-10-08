@@ -1,0 +1,13 @@
+{
+  "files": {
+    "0_shulong_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_shulong_base.json",
+    "shulong.png": "assets/cobblemon/textures/pokemon/xenoverse/shulong.png",
+    "shulong_alpha.png": "assets/cobblemon/textures/pokemon/xenoverse/shulong/shulong_alpha.png",
+    "shulong_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/shulong_cry.ogg",
+    "shulong_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/shulong/shulong_shiny.png",
+    "texture__shulong.png": "assets/cobblemon/textures/pokemon/xenoverse/shulong/shulong.png",
+    "xenoverse_shulong.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_shulong.animation.json",
+    "xenoverse_shulong.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_shulong.geo.json",
+    "xenoverse_shulong.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_shulong.json"
+  }
+}

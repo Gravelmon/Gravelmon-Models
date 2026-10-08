@@ -1,0 +1,12 @@
+{
+  "files": {
+    "118_muk_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_muk_delta.json",
+    "deltamuk.animation.json": "assets/cobblemon/bedrock/pokemon/animations/deltamuk.animation.json",
+    "deltamuk.png": "assets/cobblemon/textures/pokemon/insurgence/deltamuk.png",
+    "deltamuk_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltamuk/deltamuk_shiny.png",
+    "insurgence_deltamuk.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltamuk.geo.json",
+    "insurgence_deltamuk.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltamuk.json",
+    "muk_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/muk_delta_cry.ogg",
+    "texture__deltamuk.png": "assets/cobblemon/textures/pokemon/insurgence/deltamuk/deltamuk.png"
+  }
+}

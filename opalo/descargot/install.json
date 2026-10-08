@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_descargot_base.json": "assets/cobblemon/bedrock/species/opalo/0_descargot_base.json",
+    "descargot.png": "assets/cobblemon/textures/pokemon/opalo/descargot.png",
+    "descargot_alpha.png": "assets/cobblemon/textures/pokemon/opalo/descargot/descargot_alpha.png",
+    "descargot_shiny.png": "assets/cobblemon/textures/pokemon/opalo/descargot/descargot_shiny.png",
+    "opalo_descargot.animation.json": "assets/cobblemon/bedrock/pokemon/animations/opalo_descargot.animation.json",
+    "opalo_descargot.geo.json": "assets/cobblemon/bedrock/pokemon/models/opalo_descargot.geo.json",
+    "opalo_descargot.json": "assets/cobblemon/bedrock/pokemon/posers/opalo_descargot.json",
+    "texture__descargot.png": "assets/cobblemon/textures/pokemon/opalo/descargot/descargot.png"
+  }
+}

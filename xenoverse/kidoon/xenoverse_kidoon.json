@@ -1,0 +1,63 @@
+{
+  "portraitScale": 1.5499999523162842,
+  "portraitTranslation": [
+    0,
+    -0.46,
+    0
+  ],
+  "profileScale": 0.5600000023841858,
+  "profileTranslation": [
+    0.7,
+    0.8,
+    0
+  ],
+  "rootBone": "kidoon",
+  "poses": {
+    "standing": {
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "swim",
+        "float",
+        "hover"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('xenoverse_kidoon', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('xenoverse_kidoon', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "walk",
+        "fly"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('xenoverse_kidoon', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('xenoverse_kidoon', 'ground_walk')"
+      ]
+    },
+    "battle-standing": {
+      "isBattle": true,
+      "condition": "q.in_battle",
+      "poseTypes": [
+        "stand"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('xenoverse_kidoon', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('xenoverse_kidoon', 'battle_idle')"
+      ]
+    }
+  },
+  "animations": {
+    "recoil": "q.bedrock_stateful('xenoverse_kidoon', 'recoil')",
+    "faint": "q.bedrock_stateful('xenoverse_kidoon', 'new')"
+  }
+}

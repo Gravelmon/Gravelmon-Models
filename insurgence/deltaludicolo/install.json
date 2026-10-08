@@ -1,0 +1,12 @@
+{
+  "files": {
+    "118_ludicolo_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_ludicolo_delta.json",
+    "deltaludicolo.png": "assets/cobblemon/textures/pokemon/insurgence/deltaludicolo.png",
+    "deltaludicolo_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltaludicolo/deltaludicolo_shiny.png",
+    "insurgence_deltaludicolo.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltaludicolo.animation.json",
+    "insurgence_deltaludicolo.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltaludicolo.geo.json",
+    "insurgence_deltaludicolo.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltaludicolo.json",
+    "ludicolo_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/ludicolo_delta_cry.ogg",
+    "texture__deltaludicolo.png": "assets/cobblemon/textures/pokemon/insurgence/deltaludicolo/deltaludicolo.png"
+  }
+}

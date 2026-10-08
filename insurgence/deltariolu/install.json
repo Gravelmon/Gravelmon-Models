@@ -1,0 +1,15 @@
+{
+  "files": {
+    "118_riolu_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_riolu_delta.json",
+    "deltariolu _shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltariolu/deltariolu _shiny.png",
+    "deltariolu.png": "assets/cobblemon/textures/pokemon/insurgence/deltariolu.png",
+    "insurgence_deltariolu.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltariolu.animation.json",
+    "insurgence_deltariolu.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltariolu.geo.json",
+    "insurgence_deltariolu.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltariolu.json",
+    "riolu_delta.png": "assets/cobblemon/textures/pokemon/insurgence/deltariolu/riolu_delta.png",
+    "riolu_delta_alpha.png": "assets/cobblemon/textures/pokemon/insurgence/deltariolu/riolu_delta_alpha.png",
+    "riolu_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/riolu_delta_cry.ogg",
+    "riolu_delta_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltariolu/riolu_delta_shiny.png",
+    "texture__deltariolu.png": "assets/cobblemon/textures/pokemon/insurgence/deltariolu/deltariolu.png"
+  }
+}

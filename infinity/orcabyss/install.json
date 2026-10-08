@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_orcabyss_base.json": "assets/cobblemon/bedrock/species/infinity/0_orcabyss_base.json",
+    "infinity_orcabyss.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_orcabyss.animation.json",
+    "infinity_orcabyss.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_orcabyss.geo.json",
+    "infinity_orcabyss.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_orcabyss.json",
+    "orcabyss.png": "assets/cobblemon/textures/pokemon/infinity/orcabyss.png",
+    "orcabyss_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/orcabyss_cry.ogg",
+    "orcabyss_shiny.png": "assets/cobblemon/textures/pokemon/infinity/orcabyss/orcabyss_shiny.png",
+    "texture__orcabyss.png": "assets/cobblemon/textures/pokemon/infinity/orcabyss/orcabyss.png"
+  }
+}

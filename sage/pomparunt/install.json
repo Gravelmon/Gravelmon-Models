@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_pomparunt_base.json": "assets/cobblemon/bedrock/species/sage/0_pomparunt_base.json",
+    "pomparunt.png": "assets/cobblemon/textures/pokemon/sage/pomparunt.png",
+    "pomparunt_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/pomparunt_cry.ogg"
+  }
+}

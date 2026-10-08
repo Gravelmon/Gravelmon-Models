@@ -1,0 +1,45 @@
+{
+  "game": "soulstones",
+  "pokemon": "eternatus",
+  "formAspects": [
+    "epoch"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "eternatus",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-09-25T14:40:37.782Z",
+      "models": [
+        "soulstones/epocheternatus/soulstones_epocheternatus.geo.json"
+      ],
+      "animations": [
+        "soulstones/epocheternatus/soulstones_epocheternatus.animation.json"
+      ],
+      "textures": [
+        "soulstones/epocheternatus/eternatus_epoch.png",
+        "soulstones/epocheternatus/eternatus_epoch_alpha.png",
+        "soulstones/epocheternatus/eternatus_epoch_emissive.png",
+        "soulstones/epocheternatus/eternatus_epoch_shiny.png",
+        "soulstones/epocheternatus/eternatus_epoch_shiny_emissive.png",
+        "assets/cobblemon/eternatus_epoch_shiny_transparency.png",
+        "soulstones/epocheternatus/eternatus_epoch_transparency.png",
+        "assets/cobblemon/eyes_fix.png",
+        "soulstones/epocheternatus/epocheternatus.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_sorcerice_base.json": "assets/cobblemon/bedrock/species/infinity/0_sorcerice_base.json",
+    "sorcerice.png": "assets/cobblemon/textures/pokemon/infinity/sorcerice.png",
+    "sorcerice_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/sorcerice_cry.ogg"
+  }
+}

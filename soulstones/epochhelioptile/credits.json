@@ -1,0 +1,31 @@
+{
+  "game": "soulstones",
+  "pokemon": "helioptile",
+  "formAspects": [
+    "epoch"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "submittedAt": "2026-09-17T13:59:17.103Z",
+      "models": [
+        "soulstones/epochhelioptile/soulstones_epochhelioptile.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochhelioptile/soulstones_epochhelioptile.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochhelioptile/helioptile-epoch.png",
+        "soulstones/epochhelioptile/helioptile-epoch_alpha.png",
+        "soulstones/epochhelioptile/helioptile-epoch_shiny.png",
+        "soulstones/epochhelioptile/epochhelioptile.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

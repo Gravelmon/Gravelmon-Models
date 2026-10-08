@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_sableau_base.json": "assets/cobblemon/bedrock/species/uranium/0_sableau_base.json",
+    "sableau.png": "assets/cobblemon/textures/pokemon/uranium/sableau.png",
+    "sableau_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/sableau_cry.ogg"
+  }
+}

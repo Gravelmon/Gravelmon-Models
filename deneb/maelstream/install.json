@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_maelstream_base.json": "assets/cobblemon/bedrock/species/deneb/0_maelstream_base.json",
+    "deneb_maelstream.animation.json": "assets/cobblemon/bedrock/pokemon/animations/deneb_maelstream.animation.json",
+    "deneb_maelstream.geo.json": "assets/cobblemon/bedrock/pokemon/models/deneb_maelstream.geo.json",
+    "deneb_maelstream.json": "assets/cobblemon/bedrock/pokemon/posers/deneb_maelstream.json",
+    "maelstream.png": "assets/cobblemon/textures/pokemon/deneb/maelstream.png",
+    "maelstream_cry.ogg": "assets/gravelmon/sounds/pokemon/deneb/maelstream_cry.ogg",
+    "maelstream_shiny.png": "assets/cobblemon/textures/pokemon/deneb/maelstream/maelstream_shiny.png",
+    "texture__maelstream.png": "assets/cobblemon/textures/pokemon/deneb/maelstream/maelstream.png"
+  }
+}

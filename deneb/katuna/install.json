@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_katuna_base.json": "assets/cobblemon/bedrock/species/deneb/0_katuna_base.json",
+    "deneb_katuna.animation.json": "assets/cobblemon/bedrock/pokemon/animations/deneb_katuna.animation.json",
+    "deneb_katuna.geo.json": "assets/cobblemon/bedrock/pokemon/models/deneb_katuna.geo.json",
+    "deneb_katuna.json": "assets/cobblemon/bedrock/pokemon/posers/deneb_katuna.json",
+    "katuna.png": "assets/cobblemon/textures/pokemon/deneb/katuna.png",
+    "katuna_cry.ogg": "assets/gravelmon/sounds/pokemon/deneb/katuna_cry.ogg",
+    "katuna_shiny.png": "assets/cobblemon/textures/pokemon/deneb/katuna/katuna_shiny.png",
+    "texture__katuna.png": "assets/cobblemon/textures/pokemon/deneb/katuna/katuna.png"
+  }
+}

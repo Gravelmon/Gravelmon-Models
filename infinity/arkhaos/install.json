@@ -1,0 +1,14 @@
+{
+  "files": {
+    "0_arkhaos_base.json": "assets/cobblemon/bedrock/species/infinity/0_arkhaos_base.json",
+    "arkhaos.png": "assets/cobblemon/textures/pokemon/infinity/arkhaos.png",
+    "arkhaos_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/arkhaos_cry.ogg",
+    "arkhaos_emissive.png": "assets/cobblemon/textures/pokemon/infinity/arkhaos/arkhaos_emissive.png",
+    "arkhaos_emissive_shiny.png": "assets/cobblemon/textures/pokemon/infinity/arkhaos/arkhaos_emissive_shiny.png",
+    "arkhaos_shiny.png": "assets/cobblemon/textures/pokemon/infinity/arkhaos/arkhaos_shiny.png",
+    "infinity_arkhaos.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_arkhaos.animation.json",
+    "infinity_arkhaos.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_arkhaos.geo.json",
+    "infinity_arkhaos.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_arkhaos.json",
+    "texture__arkhaos.png": "assets/cobblemon/textures/pokemon/infinity/arkhaos/arkhaos.png"
+  }
+}

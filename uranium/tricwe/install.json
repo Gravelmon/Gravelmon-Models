@@ -1,0 +1,13 @@
+{
+  "files": {
+    "0_tricwe_base.json": "assets/cobblemon/bedrock/species/uranium/0_tricwe_base.json",
+    "texture__tricwe.png": "assets/cobblemon/textures/pokemon/uranium/tricwe/tricwe.png",
+    "tricwe.png": "assets/cobblemon/textures/pokemon/uranium/tricwe.png",
+    "tricwe_alpha.png": "assets/cobblemon/textures/pokemon/uranium/tricwe/tricwe_alpha.png",
+    "tricwe_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/tricwe_cry.ogg",
+    "tricwe_shiny.png": "assets/cobblemon/textures/pokemon/uranium/tricwe/tricwe_shiny.png",
+    "uranium_tricwe.animation.json": "assets/cobblemon/bedrock/pokemon/animations/uranium_tricwe.animation.json",
+    "uranium_tricwe.geo.json": "assets/cobblemon/bedrock/pokemon/models/uranium_tricwe.geo.json",
+    "uranium_tricwe.json": "assets/cobblemon/bedrock/pokemon/posers/uranium_tricwe.json"
+  }
+}

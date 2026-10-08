@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_jollibird_base.json": "assets/cobblemon/bedrock/species/infinity/0_jollibird_base.json",
+    "jollibird.png": "assets/cobblemon/textures/pokemon/infinity/jollibird.png",
+    "jollibird_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/jollibird_cry.ogg"
+  }
+}

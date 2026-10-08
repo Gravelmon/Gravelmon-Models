@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_ceregal_base.json": "assets/cobblemon/bedrock/species/infinity/0_ceregal_base.json",
+    "ceregal.png": "assets/cobblemon/textures/pokemon/infinity/ceregal.png",
+    "ceregal_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/ceregal_cry.ogg"
+  }
+}

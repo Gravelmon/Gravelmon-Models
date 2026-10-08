@@ -1,0 +1,35 @@
+{
+  "game": "insurgence",
+  "pokemon": "lucario",
+  "formAspects": [
+    "delta"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "delta"
+      ],
+      "inheritsFrom": {
+        "pokemon": "lucario",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "submittedAt": "2026-09-18T19:00:22.343Z",
+      "models": [
+        "insurgence/deltalucario/insurgence_deltalucario.geo.json"
+      ],
+      "animations": [
+        "insurgence/deltalucario/insurgence_deltalucario.animation.json"
+      ],
+      "textures": [
+        "insurgence/deltalucario/lucario_delta.png",
+        "insurgence/deltalucario/lucario_delta_alpha.png",
+        "insurgence/deltalucario/lucario_delta_shiny.png",
+        "insurgence/deltalucario/deltalucario.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

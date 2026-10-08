@@ -1,0 +1,135 @@
+{
+  "portraitScale": 2.02,
+  "portraitTranslation": [
+    -0.26, -0.21, 0.0
+  ],
+  "profileScale": 0.78,
+  "profileTranslation": [
+    0.0, 0.57, 0.0
+  ],
+  "rootBone": "squirtle",
+  "poses": {
+    "standing": {
+      "isBattle": false,
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('insurgence_deltasquirtle', 'blink')"
+      ],
+      "namedAnimations": {
+        "physical": "q.bedrock_stateful('insurgence_deltasquirtle', 'physical')",
+        "special": "q.bedrock_stateful('insurgence_deltasquirtle', 'special')",
+        "status": "q.bedrock_stateful('insurgence_deltasquirtle', 'status')"
+      },
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('insurgence_deltasquirtle', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "condition": "!q.is_sprinting",
+      "poseTypes": [
+        "walk"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('insurgence_deltasquirtle', 'blink')"
+      ],
+      "namedAnimations": {
+        "physical": "q.bedrock_stateful('insurgence_deltasquirtle', 'physical')",
+        "special": "q.bedrock_stateful('insurgence_deltasquirtle', 'special')",
+        "status": "q.bedrock_stateful('insurgence_deltasquirtle', 'status')"
+      },
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('insurgence_deltasquirtle', 'ground_walk')"
+      ]
+    },
+    "swim": {
+      "poseTypes": [
+        "swim"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('insurgence_deltasquirtle', 'blink')"
+      ],
+      "namedAnimations": {
+        "physical": "q.bedrock_stateful('insurgence_deltasquirtle', 'physical')",
+        "special": "q.bedrock_stateful('insurgence_deltasquirtle', 'special')",
+        "status": "q.bedrock_stateful('insurgence_deltasquirtle', 'status')"
+      },
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('insurgence_deltasquirtle', 'water_swim')"
+      ]
+    },
+    "float": {
+      "poseTypes": [
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('insurgence_deltasquirtle', 'blink')"
+      ],
+      "namedAnimations": {
+        "physical": "q.bedrock_stateful('insurgence_deltasquirtle', 'physical')",
+        "special": "q.bedrock_stateful('insurgence_deltasquirtle', 'special')",
+        "status": "q.bedrock_stateful('insurgence_deltasquirtle', 'status')"
+      },
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('insurgence_deltasquirtle', 'water_idle')"
+      ]
+    },
+    "battle-standing": {
+      "isBattle": true,
+      "poseTypes": [
+        "stand"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('insurgence_deltasquirtle', 'blink')"
+      ],
+      "namedAnimations": {
+        "physical": "q.bedrock_stateful('insurgence_deltasquirtle', 'physical')",
+        "special": "q.bedrock_stateful('insurgence_deltasquirtle', 'special')",
+        "status": "q.bedrock_stateful('insurgence_deltasquirtle', 'status')"
+      },
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('insurgence_deltasquirtle', 'battle_idle')"
+      ]
+    },
+    "running": {
+      "condition": "q.is_sprinting",
+      "poseTypes": [
+        "walk"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('insurgence_deltasquirtle', 'blink')"
+      ],
+      "namedAnimations": {
+        "physical": "q.bedrock_stateful('insurgence_deltasquirtle', 'physical')",
+        "special": "q.bedrock_stateful('insurgence_deltasquirtle', 'special')",
+        "status": "q.bedrock_stateful('insurgence_deltasquirtle', 'status')"
+      },
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('insurgence_deltasquirtle', 'ground_run')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "animations": [
+        "q.bedrock('insurgence_deltasquirtle', 'sleep')"
+      ]
+    }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('insurgence_deltasquirtle', 'cry')",
+    "recoil": "q.bedrock_stateful('insurgence_deltasquirtle', 'recoil')",
+    "faint": "q.bedrock_primary('insurgence_deltasquirtle', 'faint', q.curve('one'))"
+  }
+}

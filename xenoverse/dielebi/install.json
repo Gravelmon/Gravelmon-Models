@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_dielebi_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_dielebi_base.json",
+    "dielebi.png": "assets/cobblemon/textures/pokemon/xenoverse/dielebi.png",
+    "dielebi_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/dielebi_cry.ogg"
+  }
+}

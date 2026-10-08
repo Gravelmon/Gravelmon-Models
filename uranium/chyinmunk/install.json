@@ -1,0 +1,13 @@
+{
+  "files": {
+    "0_chyinmunk_base.json": "assets/cobblemon/bedrock/species/uranium/0_chyinmunk_base.json",
+    "chyinmunk.png": "assets/cobblemon/textures/pokemon/uranium/chyinmunk.png",
+    "chyinmunk_alpha.png": "assets/cobblemon/textures/pokemon/uranium/chyinmunk/chyinmunk_alpha.png",
+    "chyinmunk_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/chyinmunk_cry.ogg",
+    "chyinmunk_shiny.png": "assets/cobblemon/textures/pokemon/uranium/chyinmunk/chyinmunk_shiny.png",
+    "texture__chyinmunk.png": "assets/cobblemon/textures/pokemon/uranium/chyinmunk/chyinmunk.png",
+    "uranium_chyinmunk.animation.json": "assets/cobblemon/bedrock/pokemon/animations/uranium_chyinmunk.animation.json",
+    "uranium_chyinmunk.geo.json": "assets/cobblemon/bedrock/pokemon/models/uranium_chyinmunk.geo.json",
+    "uranium_chyinmunk.json": "assets/cobblemon/bedrock/pokemon/posers/uranium_chyinmunk.json"
+  }
+}

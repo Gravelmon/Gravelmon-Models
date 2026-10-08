@@ -1,0 +1,12 @@
+{
+  "files": {
+    "118_lanturn_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_lanturn_delta.json",
+    "deltalanturn.png": "assets/cobblemon/textures/pokemon/insurgence/deltalanturn.png",
+    "deltalanturn_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltalanturn/deltalanturn_shiny.png",
+    "insurgence_deltalanturn.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltalanturn.animation.json",
+    "insurgence_deltalanturn.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltalanturn.geo.json",
+    "insurgence_deltalanturn.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltalanturn.json",
+    "lanturn_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/lanturn_delta_cry.ogg",
+    "texture__deltalanturn.png": "assets/cobblemon/textures/pokemon/insurgence/deltalanturn/deltalanturn.png"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_honchen_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_honchen_base.json",
+    "honchen.png": "assets/cobblemon/textures/pokemon/xenoverse/honchen.png",
+    "honchen_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/honchen_cry.ogg",
+    "honchen_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/honchen/honchen_shiny.png",
+    "texture__honchen.png": "assets/cobblemon/textures/pokemon/xenoverse/honchen/honchen.png",
+    "xenoverse_honchen.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_honchen.animation.json",
+    "xenoverse_honchen.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_honchen.geo.json",
+    "xenoverse_honchen.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_honchen.json"
+  }
+}

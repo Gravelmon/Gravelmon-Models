@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_pufluff_base.json": "assets/cobblemon/bedrock/species/uranium/0_pufluff_base.json",
+    "pufluff.png": "assets/cobblemon/textures/pokemon/uranium/pufluff.png",
+    "pufluff_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/pufluff_cry.ogg"
+  }
+}

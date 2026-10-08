@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_toxito_base.json": "assets/cobblemon/bedrock/species/sage/0_toxito_base.json",
+    "toxito_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/toxito_cry.ogg",
+    "toxito_sage.png": "assets/cobblemon/textures/pokemon/sage/toxito.png"
+  }
+}

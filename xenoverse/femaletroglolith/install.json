@@ -1,0 +1,9 @@
+{
+  "files": {
+    "femaletroglolith.png": "assets/cobblemon/textures/pokemon/xenoverse/femaletroglolith.png",
+    "troglolith_female.png": "assets/cobblemon/textures/pokemon/xenoverse/troglolithfemale/troglolith_female.png"
+  },
+  "uses": [
+    "xenoverse/troglolith/0_troglolith_base.json"
+  ]
+}

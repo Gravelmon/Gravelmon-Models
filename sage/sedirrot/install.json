@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_sedirrot_base.json": "assets/cobblemon/bedrock/species/sage/0_sedirrot_base.json",
+    "sedirrot.png": "assets/cobblemon/textures/pokemon/sage/sedirrot.png",
+    "sedirrot_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/sedirrot_cry.ogg"
+  }
+}

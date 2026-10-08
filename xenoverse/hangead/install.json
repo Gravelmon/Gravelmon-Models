@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_hangead_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_hangead_base.json",
+    "hangead.png": "assets/cobblemon/textures/pokemon/xenoverse/hangead.png",
+    "hangead_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/hangead_cry.ogg"
+  }
+}

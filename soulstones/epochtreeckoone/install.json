@@ -1,0 +1,12 @@
+{
+  "files": {
+    "164_treecko_epochtwo.json": "assets/cobblemon/bedrock/species/additional_forms/164_treecko_epochtwo.json",
+    "epochtreeckoone.png": "assets/cobblemon/textures/pokemon/soulstones/epochtreeckoone.png",
+    "soulstones_epochtreeckoone.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochtreeckoone.animation.json",
+    "soulstones_epochtreeckoone.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochtreeckoone.geo.json",
+    "soulstones_epochtreeckoone.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochtreeckoone.json",
+    "treecko_epochone.png": "assets/cobblemon/textures/pokemon/soulstones/epochtreeckoone/treecko_epochone.png",
+    "treecko_epochone_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochtreeckoone/treecko_epochone_alpha.png",
+    "treecko_epochone_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochtreeckoone/treecko_epochone_shiny.png"
+  }
+}

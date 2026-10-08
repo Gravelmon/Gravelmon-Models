@@ -1,0 +1,12 @@
+{
+  "files": {
+    "118_goodra_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_goodra_delta.json",
+    "deltagoodra.png": "assets/cobblemon/textures/pokemon/insurgence/deltagoodra.png",
+    "deltagoodra_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltagoodra/deltagoodra_shiny.png",
+    "goodra_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/goodra_delta_cry.ogg",
+    "insurgence_deltagoodra.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltagoodra.animation.json",
+    "insurgence_deltagoodra.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltagoodra.geo.json",
+    "insurgence_deltagoodra.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltagoodra.json",
+    "texture__deltagoodra.png": "assets/cobblemon/textures/pokemon/insurgence/deltagoodra/deltagoodra.png"
+  }
+}

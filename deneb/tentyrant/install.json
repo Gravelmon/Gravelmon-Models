@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_tentyrant_base.json": "assets/cobblemon/bedrock/species/deneb/0_tentyrant_base.json",
+    "deneb_tentyrant.animation.json": "assets/cobblemon/bedrock/pokemon/animations/deneb_tentyrant.animation.json",
+    "deneb_tentyrant.geo.json": "assets/cobblemon/bedrock/pokemon/models/deneb_tentyrant.geo.json",
+    "deneb_tentyrant.json": "assets/cobblemon/bedrock/pokemon/posers/deneb_tentyrant.json",
+    "tentyrant.png": "assets/cobblemon/textures/pokemon/deneb/tentyrant.png",
+    "tentyrant_cry.ogg": "assets/gravelmon/sounds/pokemon/deneb/tentyrant_cry.ogg",
+    "tentyrant_shiny.png": "assets/cobblemon/textures/pokemon/deneb/tentyrant/tentyrant_shiny.png",
+    "texture__tentyrant.png": "assets/cobblemon/textures/pokemon/deneb/tentyrant/tentyrant.png"
+  }
+}

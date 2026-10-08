@@ -1,0 +1,12 @@
+{
+  "files": {
+    "24_ursaring_hoennian.json": "assets/cobblemon/bedrock/species/additional_forms/24_ursaring_hoennian.json",
+    "blazing_emerald_hoennianursaring.animation.json": "assets/cobblemon/bedrock/pokemon/animations/blazing_emerald_hoennianursaring.animation.json",
+    "blazing_emerald_hoennianursaring.geo.json": "assets/cobblemon/bedrock/pokemon/models/blazing_emerald_hoennianursaring.geo.json",
+    "blazing_emerald_hoennianursaring.json": "assets/cobblemon/bedrock/pokemon/posers/blazing_emerald_hoennianursaring.json",
+    "hoennianursaring.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianursaring.png",
+    "hoennianursaring_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianursaring/hoennianursaring_shiny.png",
+    "texture__hoennianursaring.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianursaring/hoennianursaring.png",
+    "ursaring_hoennian_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/ursaring_hoennian_cry.ogg"
+  }
+}

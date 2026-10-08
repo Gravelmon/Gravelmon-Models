@@ -1,0 +1,12 @@
+{
+  "files": {
+    "100_hippopotas_armiran.json": "assets/cobblemon/bedrock/species/additional_forms/100_hippopotas_armiran.json",
+    "armiranhippopotas.png": "assets/cobblemon/textures/pokemon/daybreak/armiranhippopotas.png",
+    "daybreak_armiranhippopotas.geo.json": "assets/cobblemon/bedrock/pokemon/models/daybreak_armiranhippopotas.geo.json",
+    "hippopotas_armiran_female.png": "assets/cobblemon/textures/pokemon/daybreak/armiranhippopotas/hippopotas_armiran_female.png",
+    "hippopotas_armiran_female_shiny.png": "assets/cobblemon/textures/pokemon/daybreak/armiranhippopotas/hippopotas_armiran_female_shiny.png",
+    "hippopotas_armiran_male.png": "assets/cobblemon/textures/pokemon/daybreak/armiranhippopotas/hippopotas_armiran_male.png",
+    "hippopotas_armiran_male_alpha.png": "assets/cobblemon/textures/pokemon/daybreak/armiranhippopotas/hippopotas_armiran_male_alpha.png",
+    "hippopotas_armiran_male_shiny.png": "assets/cobblemon/textures/pokemon/daybreak/armiranhippopotas/hippopotas_armiran_male_shiny.png"
+  }
+}

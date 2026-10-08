@@ -1,0 +1,14 @@
+{
+  "files": {
+    "24_maractus_hoennian.json": "assets/cobblemon/bedrock/species/additional_forms/24_maractus_hoennian.json",
+    "blazing_emerald_hoennianmaractus.animation.json": "assets/cobblemon/bedrock/pokemon/animations/blazing_emerald_hoennianmaractus.animation.json",
+    "blazing_emerald_hoennianmaractus.geo.json": "assets/cobblemon/bedrock/pokemon/models/blazing_emerald_hoennianmaractus.geo.json",
+    "blazing_emerald_hoennianmaractus.json": "assets/cobblemon/bedrock/pokemon/posers/blazing_emerald_hoennianmaractus.json",
+    "hoennianmaractus.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianmaractus.png",
+    "hoennianmaractus_emissive.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianmaractus/hoennianmaractus_emissive.png",
+    "hoennianmaractus_emissive_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianmaractus/hoennianmaractus_emissive_shiny.png",
+    "hoennianmaractus_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianmaractus/hoennianmaractus_shiny.png",
+    "maractus_hoennian_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/maractus_hoennian_cry.ogg",
+    "texture__hoennianmaractus.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianmaractus/hoennianmaractus.png"
+  }
+}

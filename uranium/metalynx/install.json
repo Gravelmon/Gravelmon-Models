@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_metalynx_base.json": "assets/cobblemon/bedrock/species/uranium/0_metalynx_base.json",
+    "metalynx.png": "assets/cobblemon/textures/pokemon/uranium/metalynx.png",
+    "metalynx_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/metalynx_cry.ogg"
+  }
+}

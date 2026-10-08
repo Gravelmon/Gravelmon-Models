@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_pengliff_base.json": "assets/cobblemon/bedrock/species/sage/0_pengliff_base.json",
+    "pengliff.png": "assets/cobblemon/textures/pokemon/sage/pengliff.png",
+    "pengliff_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/pengliff_cry.ogg"
+  }
+}

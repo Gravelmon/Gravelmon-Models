@@ -1,0 +1,13 @@
+{
+  "files": {
+    "145_sabolt_terrestrial.json": "assets/cobblemon/bedrock/species/additional_forms/145_sabolt_terrestrial.json",
+    "sabolt_terrestrial_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/sabolt_terrestrial_cry.ogg",
+    "saboltterrestrial.png": "assets/cobblemon/textures/pokemon/xenoverse/terrestrialsabolt/saboltterrestrial.png",
+    "saboltterrestrial_alpha.png": "assets/cobblemon/textures/pokemon/xenoverse/terrestrialsabolt/saboltterrestrial_alpha.png",
+    "saboltterrestrial_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/terrestrialsabolt/saboltterrestrial_shiny.png",
+    "terrestrialsabolt.png": "assets/cobblemon/textures/pokemon/xenoverse/terrestrialsabolt.png",
+    "xenoverse_terrestrialsabolt.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_terrestrialsabolt.animation.json",
+    "xenoverse_terrestrialsabolt.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_terrestrialsabolt.geo.json",
+    "xenoverse_terrestrialsabolt.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_terrestrialsabolt.json"
+  }
+}

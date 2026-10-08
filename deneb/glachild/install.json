@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_glachild_base.json": "assets/cobblemon/bedrock/species/deneb/0_glachild_base.json",
+    "deneb_glachild.animation.json": "assets/cobblemon/bedrock/pokemon/animations/deneb_glachild.animation.json",
+    "deneb_glachild.geo.json": "assets/cobblemon/bedrock/pokemon/models/deneb_glachild.geo.json",
+    "deneb_glachild.json": "assets/cobblemon/bedrock/pokemon/posers/deneb_glachild.json",
+    "glachild.png": "assets/cobblemon/textures/pokemon/deneb/glachild.png",
+    "glachild_alpha.png": "assets/cobblemon/textures/pokemon/deneb/glachild/glachild_alpha.png",
+    "glachild_shiny.png": "assets/cobblemon/textures/pokemon/deneb/glachild/glachild_shiny.png",
+    "texture__glachild.png": "assets/cobblemon/textures/pokemon/deneb/glachild/glachild.png"
+  }
+}

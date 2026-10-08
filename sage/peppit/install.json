@@ -1,0 +1,13 @@
+{
+  "files": {
+    "0_peppit_base.json": "assets/cobblemon/bedrock/species/sage/0_peppit_base.json",
+    "peppit.png": "assets/cobblemon/textures/pokemon/sage/peppit.png",
+    "peppit_alpha.png": "assets/cobblemon/textures/pokemon/sage/peppit/peppit_alpha.png",
+    "peppit_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/peppit_cry.ogg",
+    "peppit_shiny.png": "assets/cobblemon/textures/pokemon/sage/peppit/peppit_shiny.png",
+    "sage_peppit.animation.json": "assets/cobblemon/bedrock/pokemon/animations/sage_peppit.animation.json",
+    "sage_peppit.geo.json": "assets/cobblemon/bedrock/pokemon/models/sage_peppit.geo.json",
+    "sage_peppit.json": "assets/cobblemon/bedrock/pokemon/posers/sage_peppit.json",
+    "texture__peppit.png": "assets/cobblemon/textures/pokemon/sage/peppit/peppit.png"
+  }
+}

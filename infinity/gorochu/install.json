@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_gorochu_base.json": "assets/cobblemon/bedrock/species/infinity/0_gorochu_base.json",
+    "gorochu.png": "assets/cobblemon/textures/pokemon/infinity/gorochu.png",
+    "gorochu_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/gorochu_cry.ogg",
+    "gorochu_shiny.png": "assets/cobblemon/textures/pokemon/infinity/gorochu/gorochu_shiny.png",
+    "infinity_gorochu.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_gorochu.animation.json",
+    "infinity_gorochu.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_gorochu.geo.json",
+    "infinity_gorochu.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_gorochu.json",
+    "texture__gorochu.png": "assets/cobblemon/textures/pokemon/infinity/gorochu/gorochu.png"
+  }
+}

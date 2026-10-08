@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_ignishell_base.json": "assets/cobblemon/bedrock/species/sage/0_ignishell_base.json",
+    "ignishell.png": "assets/cobblemon/textures/pokemon/sage/ignishell.png",
+    "ignishell_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/ignishell_cry.ogg"
+  }
+}

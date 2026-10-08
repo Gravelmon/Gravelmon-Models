@@ -1,0 +1,39 @@
+{
+  "game": "daybreak",
+  "pokemon": "hippopotas",
+  "formAspects": [
+    "armiran"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "armiran"
+      ],
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-09-27T18:02:37.025Z",
+      "models": [
+        "daybreak/armiranhippopotas/daybreak_armiranhippopotas.geo.json"
+      ],
+      "animations": [
+        "assets/cobblemon/bedrock/pokemon/animations/daybreak_armiranhippopotas.animation.json"
+      ],
+      "textures": [
+        "daybreak/armiranhippopotas/hippopotas_armiran_female.png",
+        "assets/cobblemon/hippopotas_armiran_female_alpha.png",
+        "daybreak/armiranhippopotas/hippopotas_armiran_female_shiny.png",
+        "daybreak/armiranhippopotas/hippopotas_armiran_male.png",
+        "daybreak/armiranhippopotas/hippopotas_armiran_male_alpha.png",
+        "daybreak/armiranhippopotas/hippopotas_armiran_male_shiny.png",
+        "daybreak/armiranhippopotas/armiranhippopotas.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

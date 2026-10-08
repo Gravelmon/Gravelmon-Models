@@ -1,0 +1,21 @@
+{
+  "files": {
+    "117_charmander_egho.json": "assets/cobblemon/bedrock/species/additional_forms/117_charmander_egho.json",
+    "charmander_egho_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/charmander_egho_cry.ogg",
+    "eghocharmander.png": "assets/cobblemon/textures/pokemon/infinity/eghocharmander.png",
+    "eghocharmander_alpha.png": "assets/cobblemon/textures/pokemon/infinity/eghocharmander/eghocharmander_alpha.png",
+    "eghocharmander_flame__eghocharmander_flame1.png": "assets/cobblemon/textures/pokemon/infinity/eghocharmander/eghocharmander_flame/eghocharmander_flame1.png",
+    "eghocharmander_flame__eghocharmander_flame2.png": "assets/cobblemon/textures/pokemon/infinity/eghocharmander/eghocharmander_flame/eghocharmander_flame2.png",
+    "eghocharmander_flame__eghocharmander_flame3.png": "assets/cobblemon/textures/pokemon/infinity/eghocharmander/eghocharmander_flame/eghocharmander_flame3.png",
+    "eghocharmander_flame__eghocharmander_flame4.png": "assets/cobblemon/textures/pokemon/infinity/eghocharmander/eghocharmander_flame/eghocharmander_flame4.png",
+    "eghocharmander_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghocharmander/eghocharmander_shiny.png",
+    "eghocharmander_shiny_flame1.png": "assets/cobblemon/textures/pokemon/infinity/eghocharmander/eghocharmander_shiny_flame1.png",
+    "eghocharmander_shiny_flame2.png": "assets/cobblemon/textures/pokemon/infinity/eghocharmander/eghocharmander_shiny_flame2.png",
+    "eghocharmander_shiny_flame3.png": "assets/cobblemon/textures/pokemon/infinity/eghocharmander/eghocharmander_shiny_flame3.png",
+    "eghocharmander_shiny_flame4.png": "assets/cobblemon/textures/pokemon/infinity/eghocharmander/eghocharmander_shiny_flame4.png",
+    "infinity_eghocharmander.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_eghocharmander.animation.json",
+    "infinity_eghocharmander.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_eghocharmander.geo.json",
+    "infinity_eghocharmander.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_eghocharmander.json",
+    "texture__eghocharmander.png": "assets/cobblemon/textures/pokemon/infinity/eghocharmander/eghocharmander.png"
+  }
+}

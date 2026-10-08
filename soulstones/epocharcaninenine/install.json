@@ -1,0 +1,8 @@
+{
+  "files": {
+    "164_arcanine_epochten.json": "assets/cobblemon/bedrock/species/additional_forms/164_arcanine_epochten.json"
+  },
+  "uses": [
+    "soulstones/epocharcanine/epocharcanine.png"
+  ]
+}

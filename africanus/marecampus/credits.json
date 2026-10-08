@@ -1,0 +1,30 @@
+{
+  "game": "africanus",
+  "pokemon": "marecampus",
+  "entries": [
+    {
+      "contributor": {
+        "login": "elpgeon"
+      },
+      "contributors": [
+        {
+          "login": "elpgeon"
+        }
+      ],
+      "submittedAt": "2026-09-28T22:43:10.515Z",
+      "models": [
+        "africanus/marecampus/africanus_marecampus.geo.json"
+      ],
+      "animations": [
+        "assets/cobblemon/bedrock/pokemon/animations/africanus_marecampus.animation.json"
+      ],
+      "textures": [
+        "africanus/marecampus/texture__marecampus.png",
+        "africanus/marecampus/marecampus_alpha.png",
+        "africanus/marecampus/marecampus_shiny.png",
+        "africanus/marecampus/marecampus.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

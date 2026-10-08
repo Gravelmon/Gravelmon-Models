@@ -1,0 +1,14 @@
+{
+  "files": {
+    "118_kirlia_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_kirlia_delta.json",
+    "deltakirlia.png": "assets/cobblemon/textures/pokemon/insurgence/deltakirlia.png",
+    "deltakirlia_alpha.png": "assets/cobblemon/textures/pokemon/insurgence/deltakirlia/deltakirlia_alpha.png",
+    "deltakirlia_emissive.png": "assets/cobblemon/textures/pokemon/insurgence/deltakirlia/deltakirlia_emissive.png",
+    "deltakirlia_emissive_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltakirlia/deltakirlia_emissive_shiny.png",
+    "deltakirlia_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltakirlia/deltakirlia_shiny.png",
+    "insurgence_deltakirlia.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltakirlia.animation.json",
+    "insurgence_deltakirlia.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltakirlia.json",
+    "kirlia_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/kirlia_delta_cry.ogg",
+    "texture__deltakirlia.png": "assets/cobblemon/textures/pokemon/insurgence/deltakirlia/deltakirlia.png"
+  }
+}

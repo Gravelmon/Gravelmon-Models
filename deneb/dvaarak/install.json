@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_dvaarak_base.json": "assets/cobblemon/bedrock/species/deneb/0_dvaarak_base.json",
+    "deneb_dvaarak.animation.json": "assets/cobblemon/bedrock/pokemon/animations/deneb_dvaarak.animation.json",
+    "deneb_dvaarak.geo.json": "assets/cobblemon/bedrock/pokemon/models/deneb_dvaarak.geo.json",
+    "deneb_dvaarak.json": "assets/cobblemon/bedrock/pokemon/posers/deneb_dvaarak.json",
+    "dvaarak.png": "assets/cobblemon/textures/pokemon/deneb/dvaarak.png",
+    "dvaarak_cry.ogg": "assets/gravelmon/sounds/pokemon/deneb/dvaarak_cry.ogg",
+    "dvaarak_shiny.png": "assets/cobblemon/textures/pokemon/deneb/dvaarak/dvaarak_shiny.png",
+    "texture__dvaarak.png": "assets/cobblemon/textures/pokemon/deneb/dvaarak/dvaarak.png"
+  }
+}

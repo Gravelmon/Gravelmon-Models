@@ -1,0 +1,40 @@
+{
+  "game": "infinity",
+  "pokemon": "bulbasaur",
+  "formAspects": [
+    "egho"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "egho"
+      ],
+      "inheritsFrom": {
+        "pokemon": "bulbasaur",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-09-22T22:40:02.918Z",
+      "models": [
+        "infinity/eghobulbasaur/infinity_eghobulbasaur.geo.json"
+      ],
+      "animations": [
+        "infinity/eghobulbasaur/infinity_eghobulbasaur.animation.json"
+      ],
+      "textures": [
+        "infinity/eghobulbasaur/bulbasaur_egho.png",
+        "infinity/eghobulbasaur/bulbasaur_egho_alpha.png",
+        "infinity/eghobulbasaur/bulbasaur_egho_shiny.png",
+        "infinity/eghobulbasaur/eghobulbasaur.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

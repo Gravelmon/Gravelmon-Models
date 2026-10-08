@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_gargryph_base.json": "assets/cobblemon/bedrock/species/uranium/0_gargryph_base.json",
+    "gargryph.png": "assets/cobblemon/textures/pokemon/uranium/gargryph.png",
+    "gargryph_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/gargryph_cry.ogg"
+  }
+}

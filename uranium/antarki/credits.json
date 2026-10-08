@@ -1,0 +1,32 @@
+{
+  "game": "uranium",
+  "pokemon": "antarki",
+  "entries": [
+    {
+      "contributor": {
+        "login": "mitchooart"
+      },
+      "contributors": [
+        {
+          "login": "mitchooart"
+        }
+      ],
+      "submittedAt": "2026-09-25T09:13:19.512Z",
+      "models": [
+        "uranium/antarki/uranium_antarki.geo.json"
+      ],
+      "animations": [
+        "uranium/antarki/uranium_antarki.animation.json"
+      ],
+      "textures": [
+        "uranium/antarki/texture__antarki.png",
+        "uranium/antarki/antarki_alpha.png",
+        "uranium/antarki/antarki_emissive.png",
+        "uranium/antarki/antarki_shiny.png",
+        "uranium/antarki/antarki_shiny_emissive.png",
+        "uranium/antarki/antarki.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

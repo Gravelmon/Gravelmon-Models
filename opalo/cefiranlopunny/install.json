@@ -1,0 +1,11 @@
+{
+  "files": {
+    "116_lopunny_cefiran.json": "assets/cobblemon/bedrock/species/additional_forms/116_lopunny_cefiran.json",
+    "cefiranlopunny.png": "assets/cobblemon/textures/pokemon/opalo/cefiranlopunny.png",
+    "cefiranlopunny_shiny.png": "assets/cobblemon/textures/pokemon/opalo/cefiranlopunny/cefiranlopunny_shiny.png",
+    "opalo_cefiranlopunny.animation.json": "assets/cobblemon/bedrock/pokemon/animations/opalo_cefiranlopunny.animation.json",
+    "opalo_cefiranlopunny.geo.json": "assets/cobblemon/bedrock/pokemon/models/opalo_cefiranlopunny.geo.json",
+    "opalo_cefiranlopunny.json": "assets/cobblemon/bedrock/pokemon/posers/opalo_cefiranlopunny.json",
+    "texture__cefiranlopunny.png": "assets/cobblemon/textures/pokemon/opalo/cefiranlopunny/cefiranlopunny.png"
+  }
+}

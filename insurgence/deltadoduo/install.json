@@ -1,0 +1,12 @@
+{
+  "files": {
+    "118_doduo_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_doduo_delta.json",
+    "deltadoduo.png": "assets/cobblemon/textures/pokemon/insurgence/deltadoduo.png",
+    "deltadoduo_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltadoduo/deltadoduo_shiny.png",
+    "doduo_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/doduo_delta_cry.ogg",
+    "insurgence_deltadoduo.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltadoduo.animation.json",
+    "insurgence_deltadoduo.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltadoduo.geo.json",
+    "insurgence_deltadoduo.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltadoduo.json",
+    "texture__deltadoduo.png": "assets/cobblemon/textures/pokemon/insurgence/deltadoduo/deltadoduo.png"
+  }
+}

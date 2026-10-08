@@ -1,0 +1,41 @@
+{
+  "game": "insurgence",
+  "pokemon": "ralts",
+  "formAspects": [
+    "delta"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "delta"
+      ],
+      "inheritsFrom": {
+        "pokemon": "ralts",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "neoxaivus"
+      },
+      "contributors": [
+        {
+          "login": "neoxaivus"
+        }
+      ],
+      "submittedAt": "2026-09-27T11:56:32.113Z",
+      "models": [
+        "insurgence/deltaralts/insurgence_deltaralts.geo.json"
+      ],
+      "animations": [
+        "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltaralts.animation.json"
+      ],
+      "textures": [
+        "assets/cobblemon/delta_ralts_preview.png",
+        "insurgence/deltaralts/texture__deltaralts.png",
+        "insurgence/deltaralts/deltaralts_alpha.png",
+        "insurgence/deltaralts/deltaralts_shiny.png",
+        "insurgence/deltaralts/deltaralts.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

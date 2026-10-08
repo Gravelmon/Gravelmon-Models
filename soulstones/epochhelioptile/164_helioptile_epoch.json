@@ -1,0 +1,34 @@
+{
+  "species": "cobblemon:helioptile",
+  "order": 164,
+  "variations": [
+    {
+      "aspects": [
+        "epoch"
+      ],
+      "poser": "cobblemon:soulstones_epochhelioptile",
+      "model": "cobblemon:soulstones_epochhelioptile.geo",
+      "texture": "cobblemon:textures/pokemon/soulstones/epochhelioptile/helioptile-epoch.png"
+    },
+    {
+      "aspects": [
+        "shiny",
+        "epoch"
+      ],
+      "texture": "cobblemon:textures/pokemon/soulstones/epochhelioptile/helioptile-epoch_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "epoch"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/soulstones/epochhelioptile/helioptile-epoch_alpha.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_yemin_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_yemin_base.json",
+    "texture__yemin.png": "assets/cobblemon/textures/pokemon/xenoverse/yemin/yemin.png",
+    "xenoverse_yemin.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_yemin.animation.json",
+    "xenoverse_yemin.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_yemin.geo.json",
+    "xenoverse_yemin.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_yemin.json",
+    "yemin.png": "assets/cobblemon/textures/pokemon/xenoverse/yemin.png",
+    "yemin_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/yemin_cry.ogg",
+    "yemin_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/yemin/yemin_shiny.png"
+  }
+}

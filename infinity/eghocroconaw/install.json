@@ -1,0 +1,12 @@
+{
+  "files": {
+    "117_croconaw_egho.json": "assets/cobblemon/bedrock/species/additional_forms/117_croconaw_egho.json",
+    "croconaw_egho_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/croconaw_egho_cry.ogg",
+    "eghocroconaw.png": "assets/cobblemon/textures/pokemon/infinity/eghocroconaw.png",
+    "eghocroconaw_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghocroconaw/eghocroconaw_shiny.png",
+    "infinity_eghocroconaw.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_eghocroconaw.animation.json",
+    "infinity_eghocroconaw.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_eghocroconaw.geo.json",
+    "infinity_eghocroconaw.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_eghocroconaw.json",
+    "texture__eghocroconaw.png": "assets/cobblemon/textures/pokemon/infinity/eghocroconaw/eghocroconaw.png"
+  }
+}

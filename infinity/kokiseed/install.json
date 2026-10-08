@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_kokiseed_base.json": "assets/cobblemon/bedrock/species/infinity/0_kokiseed_base.json",
+    "infinity_kokiseed.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_kokiseed.animation.json",
+    "infinity_kokiseed.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_kokiseed.geo.json",
+    "infinity_kokiseed.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_kokiseed.json",
+    "kokiseed.png": "assets/cobblemon/textures/pokemon/infinity/kokiseed.png",
+    "kokiseed_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/kokiseed_cry.ogg",
+    "kokiseed_shiny.png": "assets/cobblemon/textures/pokemon/infinity/kokiseed/kokiseed_shiny.png",
+    "texture__kokiseed.png": "assets/cobblemon/textures/pokemon/infinity/kokiseed/kokiseed.png"
+  }
+}

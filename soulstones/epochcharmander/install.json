@@ -1,0 +1,11 @@
+{
+  "files": {
+    "164_charmander_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_charmander_epoch.json",
+    "charmander_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochcharmander/charmander_epoch.png",
+    "charmander_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochcharmander/charmander_epoch_alpha.png",
+    "charmander_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochcharmander/charmander_epoch_shiny.png",
+    "epochcharmander.png": "assets/cobblemon/textures/pokemon/soulstones/epochcharmander.png",
+    "soulstones_epochcharmander.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochcharmander.geo.json",
+    "soulstones_epochcharmander.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochcharmander.json"
+  }
+}

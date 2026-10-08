@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_gnuru_base.json": "assets/cobblemon/bedrock/species/sage/0_gnuru_base.json",
+    "gnuru.png": "assets/cobblemon/textures/pokemon/sage/gnuru.png",
+    "gnuru_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/gnuru_cry.ogg"
+  }
+}

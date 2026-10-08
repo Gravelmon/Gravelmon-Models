@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_tikiki_base.json": "assets/cobblemon/bedrock/species/uranium/0_tikiki_base.json",
+    "tikiki_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/tikiki_cry.ogg",
+    "tikiki_uranium.png": "assets/cobblemon/textures/pokemon/uranium/tikiki.png"
+  }
+}

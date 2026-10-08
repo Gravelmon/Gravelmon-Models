@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_skulkraken_base.json": "assets/cobblemon/bedrock/species/infinity/0_skulkraken_base.json",
+    "skulkraken.png": "assets/cobblemon/textures/pokemon/infinity/skulkraken.png",
+    "skulkraken_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/skulkraken_cry.ogg"
+  }
+}

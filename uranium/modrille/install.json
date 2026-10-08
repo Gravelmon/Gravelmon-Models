@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_modrille_base.json": "assets/cobblemon/bedrock/species/uranium/0_modrille_base.json",
+    "modrille.png": "assets/cobblemon/textures/pokemon/uranium/modrille.png",
+    "modrille_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/modrille_cry.ogg"
+  }
+}

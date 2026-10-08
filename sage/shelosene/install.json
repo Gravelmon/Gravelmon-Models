@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_shelosene_base.json": "assets/cobblemon/bedrock/species/sage/0_shelosene_base.json",
+    "shelosene.png": "assets/cobblemon/textures/pokemon/sage/shelosene.png",
+    "shelosene_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/shelosene_cry.ogg"
+  }
+}

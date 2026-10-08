@@ -1,0 +1,11 @@
+{
+  "files": {
+    "86_wishiwashi_seviian.json": "assets/cobblemon/bedrock/species/additional_forms/86_wishiwashi_seviian.json",
+    "radical_red_seviianwishiwashi.animation.json": "assets/cobblemon/bedrock/pokemon/animations/radical_red_seviianwishiwashi.animation.json",
+    "radical_red_seviianwishiwashi.geo.json": "assets/cobblemon/bedrock/pokemon/models/radical_red_seviianwishiwashi.geo.json",
+    "radical_red_seviianwishiwashi.json": "assets/cobblemon/bedrock/pokemon/posers/radical_red_seviianwishiwashi.json",
+    "seviianwishiwashi.png": "assets/cobblemon/textures/pokemon/radical_red/seviianwishiwashi.png",
+    "seviianwishiwashi_shiny.png": "assets/cobblemon/textures/pokemon/radical_red/seviianwishiwashi/seviianwishiwashi_shiny.png",
+    "texture__seviianwishiwashi.png": "assets/cobblemon/textures/pokemon/radical_red/seviianwishiwashi/seviianwishiwashi.png"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "files": {
+    "118_bergmite_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_bergmite_delta.json",
+    "bergmite_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/bergmite_delta_cry.ogg",
+    "deltabergmite.png": "assets/cobblemon/textures/pokemon/insurgence/deltabergmite.png",
+    "deltabergmite_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltabergmite/deltabergmite_shiny.png",
+    "insurgence_deltabergmite.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltabergmite.animation.json",
+    "insurgence_deltabergmite.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltabergmite.geo.json",
+    "insurgence_deltabergmite.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltabergmite.json",
+    "texture__deltabergmite.png": "assets/cobblemon/textures/pokemon/insurgence/deltabergmite/deltabergmite.png"
+  }
+}

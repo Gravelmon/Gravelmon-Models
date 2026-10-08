@@ -1,0 +1,13 @@
+{
+  "files": {
+    "0_dearewl_base.json": "assets/cobblemon/bedrock/species/uranium/0_dearewl_base.json",
+    "dearewl.png": "assets/cobblemon/textures/pokemon/uranium/dearewl.png",
+    "dearewl_alpha.png": "assets/cobblemon/textures/pokemon/uranium/dearewl/dearewl_alpha.png",
+    "dearewl_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/dearewl_cry.ogg",
+    "dearewl_shiny.png": "assets/cobblemon/textures/pokemon/uranium/dearewl/dearewl_shiny.png",
+    "texture__dearewl.png": "assets/cobblemon/textures/pokemon/uranium/dearewl/dearewl.png",
+    "uranium_dearewl.animation.json": "assets/cobblemon/bedrock/pokemon/animations/uranium_dearewl.animation.json",
+    "uranium_dearewl.geo.json": "assets/cobblemon/bedrock/pokemon/models/uranium_dearewl.geo.json",
+    "uranium_dearewl.json": "assets/cobblemon/bedrock/pokemon/posers/uranium_dearewl.json"
+  }
+}

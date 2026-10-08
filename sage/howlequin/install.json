@@ -1,0 +1,11 @@
+{
+  "files": {
+    "0_howlequin_base.json": "assets/cobblemon/bedrock/species/sage/0_howlequin_base.json",
+    "howlequin.png": "assets/cobblemon/textures/pokemon/sage/howlequin.png",
+    "howlequin_shiny.png": "assets/cobblemon/textures/pokemon/sage/howlequin/howlequin_shiny.png",
+    "sage_howlequin.animation.json": "assets/cobblemon/bedrock/pokemon/animations/sage_howlequin.animation.json",
+    "sage_howlequin.geo.json": "assets/cobblemon/bedrock/pokemon/models/sage_howlequin.geo.json",
+    "sage_howlequin.json": "assets/cobblemon/bedrock/pokemon/posers/sage_howlequin.json",
+    "texture__howlequin.png": "assets/cobblemon/textures/pokemon/sage/howlequin/howlequin.png"
+  }
+}

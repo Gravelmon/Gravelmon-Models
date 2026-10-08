@@ -1,0 +1,32 @@
+{
+  "game": "uranium",
+  "pokemon": "harylect",
+  "entries": [
+    {
+      "contributor": {
+        "login": "mitchooart"
+      },
+      "contributors": [
+        {
+          "login": "mitchooart"
+        }
+      ],
+      "submittedAt": "2026-09-24T12:27:49.792Z",
+      "models": [
+        "uranium/harylect/uranium_harylect.geo.json"
+      ],
+      "animations": [
+        "uranium/harylect/uranium_harylect.animation.json"
+      ],
+      "textures": [
+        "uranium/harylect/texture__harylect.png",
+        "uranium/harylect/harylect_alpha.png",
+        "uranium/harylect/harylect_emissive.png",
+        "uranium/harylect/harylect_shiny.png",
+        "uranium/harylect/harylect_shiny_emissive.png",
+        "uranium/harylect/harylect.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

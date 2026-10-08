@@ -1,0 +1,14 @@
+{
+  "files": {
+    "164_chinchou_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_chinchou_epoch.json",
+    "chinchou_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochchinchou/chinchou_epoch.png",
+    "chinchou_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochchinchou/chinchou_epoch_alpha.png",
+    "chinchou_epoch_emissive.png": "assets/cobblemon/textures/pokemon/soulstones/epochchinchou/chinchou_epoch_emissive.png",
+    "chinchou_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochchinchou/chinchou_epoch_shiny.png",
+    "chinchou_epoch_shiny_emissive.png": "assets/cobblemon/textures/pokemon/soulstones/epochchinchou/chinchou_epoch_shiny_emissive.png",
+    "epochchinchou.png": "assets/cobblemon/textures/pokemon/soulstones/epochchinchou.png",
+    "soulstones_epochchinchou.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochchinchou.animation.json",
+    "soulstones_epochchinchou.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochchinchou.geo.json",
+    "soulstones_epochchinchou.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochchinchou.json"
+  }
+}

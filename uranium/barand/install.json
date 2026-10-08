@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_barand_base.json": "assets/cobblemon/bedrock/species/uranium/0_barand_base.json",
+    "barand.png": "assets/cobblemon/textures/pokemon/uranium/barand.png",
+    "barand_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/barand_cry.ogg"
+  }
+}

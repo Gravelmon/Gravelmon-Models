@@ -1,0 +1,52 @@
+{
+  "species": "cobblemon:venusaur",
+  "order": 134,
+  "variations": [
+    {
+      "aspects": [
+        "delta",
+        "mega",
+        "female"
+      ],
+      "model": "cobblemon:insurgence_venusaurfemale_delta_mega.geo",
+      "poser": "cobblemon:insurgence_venusaurfemale_delta_mega",
+      "texture": "cobblemon:textures/pokemon/insurgence/venusaur_delta_mega/deltavenusaur_mega_female.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "delta",
+        "mega",
+        "female",
+        "shiny"
+      ],
+      "model": "cobblemon:insurgence_venusaurfemale_delta_mega.geo",
+      "poser": "cobblemon:insurgence_venusaurfemale_delta_mega",
+      "texture": "cobblemon:textures/pokemon/insurgence/venusaur_delta_mega/deltavenusaur_mega_female_shiny.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "female",
+        "delta",
+        "mega"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/insurgence/charizard_delta_mega/deltacharizard_mega_female_alpha.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

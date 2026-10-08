@@ -1,0 +1,12 @@
+{
+  "files": {
+    "164_gallade_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_gallade_epoch.json",
+    "epochgallade.png": "assets/cobblemon/textures/pokemon/soulstones/epochgallade.png",
+    "epochgalladeone.png": "assets/cobblemon/textures/pokemon/soulstones/epochgallade/epochgalladeone.png",
+    "epochgalladeone_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochgallade/epochgalladeone_alpha.png",
+    "epochgalladeone_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochgallade/epochgalladeone_shiny.png",
+    "soulstones_epochgallade.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochgallade.animation.json",
+    "soulstones_epochgallade.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochgallade.geo.json",
+    "soulstones_epochgallade.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochgallade.json"
+  }
+}

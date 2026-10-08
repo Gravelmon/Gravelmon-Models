@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_kecleodon_base.json": "assets/cobblemon/bedrock/species/infinity/0_kecleodon_base.json",
+    "kecleodon.png": "assets/cobblemon/textures/pokemon/infinity/kecleodon.png",
+    "kecleodon_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/kecleodon_cry.ogg"
+  }
+}

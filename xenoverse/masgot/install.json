@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_masgot_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_masgot_base.json",
+    "masgot.png": "assets/cobblemon/textures/pokemon/xenoverse/masgot.png",
+    "masgot_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/masgot_cry.ogg"
+  }
+}

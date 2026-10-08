@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_praseopunk_base.json": "assets/cobblemon/bedrock/species/uranium/0_praseopunk_base.json",
+    "praseopunk.png": "assets/cobblemon/textures/pokemon/uranium/praseopunk.png",
+    "praseopunk_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/praseopunk_cry.ogg"
+  }
+}

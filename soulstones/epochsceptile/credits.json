@@ -1,0 +1,40 @@
+{
+  "game": "soulstones",
+  "pokemon": "sceptile",
+  "formAspects": [
+    "epoch"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "sceptile",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-10-01T15:13:34.525Z",
+      "models": [
+        "soulstones/epochsceptile/soulstones_epochsceptile.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochsceptile/soulstones_epochsceptile.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochsceptile/sceptile_epoch.png",
+        "soulstones/epochsceptile/sceptile_epoch_alpha.png",
+        "soulstones/epochsceptile/sceptile_epoch_shiny.png",
+        "soulstones/epochsceptile/epochsceptile.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

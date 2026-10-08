@@ -1,0 +1,11 @@
+{
+  "files": {
+    "118_larvesta_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_larvesta_delta.json",
+    "deltalarvesta.png": "assets/cobblemon/textures/pokemon/insurgence/deltalarvesta.png",
+    "deltalarvesta_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltalarvesta/deltalarvesta_shiny.png",
+    "insurgence_deltalarvesta.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltalarvesta.geo.json",
+    "insurgence_deltalarvesta.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltalarvesta.json",
+    "larvesta_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/larvesta_delta_cry.ogg",
+    "texture__deltalarvesta.png": "assets/cobblemon/textures/pokemon/insurgence/deltalarvesta/deltalarvesta.png"
+  }
+}

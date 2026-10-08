@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_fettlekish_base.json": "assets/cobblemon/bedrock/species/sage/0_fettlekish_base.json",
+    "fettlekish.png": "assets/cobblemon/textures/pokemon/sage/fettlekish.png",
+    "fettlekish_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/fettlekish_cry.ogg"
+  }
+}

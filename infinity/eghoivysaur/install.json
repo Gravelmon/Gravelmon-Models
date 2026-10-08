@@ -1,0 +1,12 @@
+{
+  "files": {
+    "117_ivysaur_egho.json": "assets/cobblemon/bedrock/species/additional_forms/117_ivysaur_egho.json",
+    "eghoivysaur.png": "assets/cobblemon/textures/pokemon/infinity/eghoivysaur.png",
+    "eghoivysaur_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghoivysaur/eghoivysaur_shiny.png",
+    "infinity_eghoivysaur.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_eghoivysaur.animation.json",
+    "infinity_eghoivysaur.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_eghoivysaur.geo.json",
+    "infinity_eghoivysaur.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_eghoivysaur.json",
+    "ivysaur_egho_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/ivysaur_egho_cry.ogg",
+    "texture__eghoivysaur.png": "assets/cobblemon/textures/pokemon/infinity/eghoivysaur/eghoivysaur.png"
+  }
+}

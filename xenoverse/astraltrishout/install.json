@@ -1,0 +1,12 @@
+{
+  "files": {
+    "147_trishout_astral.json": "assets/cobblemon/bedrock/species/additional_forms/147_trishout_astral.json",
+    "astraltrishout.png": "assets/cobblemon/textures/pokemon/xenoverse/astraltrishout.png",
+    "trishout_astral_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/trishout_astral_cry.ogg",
+    "trishoutastral.png": "assets/cobblemon/textures/pokemon/xenoverse/astraltrishout/trishoutastral.png",
+    "trishoutastral_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/astraltrishout/trishoutastral_shiny.png",
+    "xenoverse_astraltrishout.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_astraltrishout.animation.json",
+    "xenoverse_astraltrishout.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_astraltrishout.geo.json",
+    "xenoverse_astraltrishout.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_astraltrishout.json"
+  }
+}

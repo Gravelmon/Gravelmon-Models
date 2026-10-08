@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_linkite_base.json": "assets/cobblemon/bedrock/species/uranium/0_linkite_base.json",
+    "linkite.png": "assets/cobblemon/textures/pokemon/uranium/linkite.png",
+    "linkite_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/linkite_cry.ogg"
+  }
+}

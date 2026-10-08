@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_cowatti_base.json": "assets/cobblemon/bedrock/species/sage/0_cowatti_base.json",
+    "cowatti.png": "assets/cobblemon/textures/pokemon/sage/cowatti.png",
+    "cowatti_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/cowatti_cry.ogg",
+    "cowatti_shiny.png": "assets/cobblemon/textures/pokemon/sage/cowatti/cowatti_shiny.png",
+    "sage_cowatti.animation.json": "assets/cobblemon/bedrock/pokemon/animations/sage_cowatti.animation.json",
+    "sage_cowatti.geo.json": "assets/cobblemon/bedrock/pokemon/models/sage_cowatti.geo.json",
+    "sage_cowatti.json": "assets/cobblemon/bedrock/pokemon/posers/sage_cowatti.json",
+    "texture__cowatti.png": "assets/cobblemon/textures/pokemon/sage/cowatti/cowatti.png"
+  }
+}

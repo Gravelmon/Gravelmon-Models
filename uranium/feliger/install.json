@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_feliger_base.json": "assets/cobblemon/bedrock/species/uranium/0_feliger_base.json",
+    "feliger.png": "assets/cobblemon/textures/pokemon/uranium/feliger.png",
+    "feliger_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/feliger_cry.ogg"
+  }
+}

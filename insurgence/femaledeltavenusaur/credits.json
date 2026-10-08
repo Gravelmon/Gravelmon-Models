@@ -1,0 +1,42 @@
+{
+  "game": "insurgence",
+  "pokemon": "venusaur",
+  "formAspects": [
+    "delta",
+    "female"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "delta",
+        "female"
+      ],
+      "inheritsFrom": {
+        "pokemon": "venusaur",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DigitalRaikan"
+      },
+      "contributors": [
+        {
+          "login": "DigitalRaikan"
+        }
+      ],
+      "submittedAt": "2026-09-25T10:43:29.167Z",
+      "models": [
+        "insurgence/femaledeltavenusaur/insurgence_deltavenusaurfemale.geo.json"
+      ],
+      "animations": [
+        "_unreferenced/assets/cobblemon/bedrock/pokemon/animations/deltavenusaur_female.animation.json"
+      ],
+      "textures": [
+        "insurgence/femaledeltavenusaur/deltavenusaur_female.png",
+        "insurgence/femaledeltavenusaur/deltavenusaur_female_alpha.png",
+        "insurgence/femaledeltavenusaur/deltavenusaur_female_shiny.png",
+        "insurgence/femaledeltavenusaur/femaledeltavenusaur.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

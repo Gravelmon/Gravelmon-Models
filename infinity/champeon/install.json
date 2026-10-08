@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_champeon_base.json": "assets/cobblemon/bedrock/species/infinity/0_champeon_base.json",
+    "champeon.png": "assets/cobblemon/textures/pokemon/infinity/champeon.png",
+    "champeon_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/champeon_cry.ogg",
+    "champeon_shiny.png": "assets/cobblemon/textures/pokemon/infinity/champeon/champeon_shiny.png",
+    "infinity_champeon.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_champeon.animation.json",
+    "infinity_champeon.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_champeon.geo.json",
+    "infinity_champeon.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_champeon.json",
+    "texture__champeon.png": "assets/cobblemon/textures/pokemon/infinity/champeon/champeon.png"
+  }
+}

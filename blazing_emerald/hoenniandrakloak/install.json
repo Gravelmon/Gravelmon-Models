@@ -1,0 +1,18 @@
+{
+  "files": {
+    "24_drakloak_hoennian.json": "assets/cobblemon/bedrock/species/additional_forms/24_drakloak_hoennian.json",
+    "blazing_emerald_hoenniandrakloak.geo.json": "assets/cobblemon/bedrock/pokemon/models/blazing_emerald_hoenniandrakloak.geo.json",
+    "blazing_emerald_hoenniandrakloak.json": "assets/cobblemon/bedrock/pokemon/posers/blazing_emerald_hoenniandrakloak.json",
+    "drakloak_fire.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandrakloak/drakloak_fire.png",
+    "drakloak_fire_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandrakloak/drakloak_fire_shiny.png",
+    "drakloak_hoennian.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandrakloak/drakloak_hoennian.png",
+    "drakloak_hoennian_alpha.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandrakloak/drakloak_hoennian_alpha.png",
+    "drakloak_hoennian_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/drakloak_hoennian_cry.ogg",
+    "drakloak_hoennian_emissive.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandrakloak/drakloak_hoennian_emissive.png",
+    "drakloak_hoennian_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandrakloak/drakloak_hoennian_shiny.png",
+    "drakloak_hoennian_shiny_emissive.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandrakloak/drakloak_hoennian_shiny_emissive.png",
+    "hoenniandrakloak.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandrakloak.png",
+    "hoenniandrakloak_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandrakloak/hoenniandrakloak_shiny.png",
+    "texture__hoenniandrakloak.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandrakloak/hoenniandrakloak.png"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "files": {
+    "117_chansey_egho.json": "assets/cobblemon/bedrock/species/additional_forms/117_chansey_egho.json",
+    "chansey_egho.png": "assets/cobblemon/textures/pokemon/infinity/eghochansey/chansey_egho.png",
+    "chansey_egho_alpha.png": "assets/cobblemon/textures/pokemon/infinity/eghochansey/chansey_egho_alpha.png",
+    "chansey_egho_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/chansey_egho_cry.ogg",
+    "chansey_egho_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghochansey/chansey_egho_shiny.png",
+    "eghochansey.png": "assets/cobblemon/textures/pokemon/infinity/eghochansey.png",
+    "infinity_eghochansey.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_eghochansey.geo.json",
+    "infinity_eghochansey.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_eghochansey.json"
+  }
+}

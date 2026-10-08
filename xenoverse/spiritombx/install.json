@@ -1,0 +1,18 @@
+{
+  "files": {
+    "25_spiritomb_x.json": "assets/cobblemon/bedrock/species/additional_forms/25_spiritomb_x.json",
+    "spiritomb_x_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/spiritomb_x_cry.ogg",
+    "spiritombx.png": "assets/cobblemon/textures/pokemon/xenoverse/spiritombx.png",
+    "spiritombx_form.png": "assets/cobblemon/textures/pokemon/xenoverse/spiritombx/spiritombx_form.png",
+    "spiritombx_form_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/spiritombx/spiritombx_form_shiny.png",
+    "spiritombx_form_translucent.png": "assets/cobblemon/textures/pokemon/xenoverse/spiritombx/spiritombx_form_translucent.png",
+    "spiritombx_form_translucent_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/spiritombx/spiritombx_form_translucent_shiny.png",
+    "spiritombx_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/spiritombx/spiritombx_shiny.png",
+    "spiritombx_translucent.png": "assets/cobblemon/textures/pokemon/xenoverse/spiritombx/spiritombx_translucent.png",
+    "spiritombx_translucent_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/spiritombx/spiritombx_translucent_shiny.png",
+    "texture__spiritombx.png": "assets/cobblemon/textures/pokemon/xenoverse/spiritombx/spiritombx.png",
+    "xenoverse_spiritombx.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_spiritombx.animation.json",
+    "xenoverse_spiritombx.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_spiritombx.geo.json",
+    "xenoverse_spiritombx.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_spiritombx.json"
+  }
+}

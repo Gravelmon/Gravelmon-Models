@@ -1,0 +1,35 @@
+{
+  "game": "insurgence",
+  "pokemon": "treecko",
+  "formAspects": [
+    "delta"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "delta"
+      ],
+      "inheritsFrom": {
+        "pokemon": "treecko",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "submittedAt": "2026-09-18T23:51:44.312Z",
+      "models": [
+        "insurgence/deltatreecko/insurgence_deltatreecko.geo.json"
+      ],
+      "animations": [
+        "insurgence/deltatreecko/insurgence_deltatreecko.animation.json"
+      ],
+      "textures": [
+        "insurgence/deltatreecko/treecko_delta.png",
+        "insurgence/deltatreecko/treecko_delta_alpha.png",
+        "insurgence/deltatreecko/treecko_delta_shiny.png",
+        "insurgence/deltatreecko/deltatreecko.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

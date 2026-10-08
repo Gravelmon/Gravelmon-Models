@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_flowger_base.json": "assets/cobblemon/bedrock/species/sage/0_flowger_base.json",
+    "flowger.png": "assets/cobblemon/textures/pokemon/sage/flowger.png",
+    "flowger_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/flowger_cry.ogg"
+  }
+}

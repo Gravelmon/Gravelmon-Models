@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_tokakle_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_tokakle_base.json",
+    "tokakle.png": "assets/cobblemon/textures/pokemon/xenoverse/tokakle.png",
+    "tokakle_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/tokakle_cry.ogg"
+  }
+}

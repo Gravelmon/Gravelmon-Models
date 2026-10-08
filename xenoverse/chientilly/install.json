@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_chientilly_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_chientilly_base.json",
+    "chientilly.png": "assets/cobblemon/textures/pokemon/xenoverse/chientilly.png",
+    "chientilly_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/chientilly_cry.ogg"
+  }
+}

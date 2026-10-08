@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_scovile_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_scovile_base.json",
+    "scovile.png": "assets/cobblemon/textures/pokemon/xenoverse/scovile.png",
+    "scovile_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/scovile_cry.ogg",
+    "scovile_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/scovile/scovile_shiny.png",
+    "texture__scovile.png": "assets/cobblemon/textures/pokemon/xenoverse/scovile/scovile.png",
+    "xenoverse_scovile.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_scovile.animation.json",
+    "xenoverse_scovile.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_scovile.geo.json",
+    "xenoverse_scovile.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_scovile.json"
+  }
+}

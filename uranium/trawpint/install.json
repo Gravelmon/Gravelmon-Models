@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_trawpint_base.json": "assets/cobblemon/bedrock/species/uranium/0_trawpint_base.json",
+    "trawpint.png": "assets/cobblemon/textures/pokemon/uranium/trawpint.png",
+    "trawpint_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/trawpint_cry.ogg"
+  }
+}

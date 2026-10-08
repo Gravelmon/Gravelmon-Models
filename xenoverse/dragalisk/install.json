@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_dragalisk_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_dragalisk_base.json",
+    "dragalisk.png": "assets/cobblemon/textures/pokemon/xenoverse/dragalisk.png",
+    "dragalisk_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/dragalisk_cry.ogg"
+  }
+}

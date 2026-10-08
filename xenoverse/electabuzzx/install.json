@@ -1,0 +1,12 @@
+{
+  "files": {
+    "25_electabuzz_x.json": "assets/cobblemon/bedrock/species/additional_forms/25_electabuzz_x.json",
+    "electabuzz_x_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/electabuzz_x_cry.ogg",
+    "electabuzzx.png": "assets/cobblemon/textures/pokemon/xenoverse/electabuzzx.png",
+    "electabuzzx_form.png": "assets/cobblemon/textures/pokemon/xenoverse/electabuzzx/electabuzzx_form.png",
+    "electabuzzx_form_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/electabuzzx/electabuzzx_form_shiny.png",
+    "xenoverse_electabuzzx.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_electabuzzx.animation.json",
+    "xenoverse_electabuzzx.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_electabuzzx.geo.json",
+    "xenoverse_electabuzzx.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_electabuzzx.json"
+  }
+}

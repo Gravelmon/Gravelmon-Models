@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_pajay_base.json": "assets/cobblemon/bedrock/species/uranium/0_pajay_base.json",
+    "pajay.png": "assets/cobblemon/textures/pokemon/uranium/pajay.png",
+    "pajay_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/pajay_cry.ogg"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_brainoar_base.json": "assets/cobblemon/bedrock/species/uranium/0_brainoar_base.json",
+    "brainoar.png": "assets/cobblemon/textures/pokemon/uranium/brainoar.png",
+    "brainoar_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/brainoar_cry.ogg"
+  }
+}

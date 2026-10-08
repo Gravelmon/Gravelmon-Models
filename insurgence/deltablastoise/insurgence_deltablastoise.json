@@ -1,0 +1,198 @@
+{
+  "portraitScale": 1.3,
+  "portraitTranslation": [
+    -0.92,
+    1.82,
+    0
+  ],
+  "profileScale": 0.45,
+  "profileTranslation": [
+    -0.12,
+    1,
+    0
+  ],
+  "rootBone": "blastoise",
+  "firstPersonCameraOffset": {
+    "seat_1": [
+      0,
+      0.45,
+      0
+    ],
+    "seat_2": [
+      0,
+      0.45,
+      0
+    ]
+  },
+  "thirdPersonCameraOffset": {
+    "seat_1": [
+      0,
+      0.45,
+      0.5
+    ],
+    "seat_2": [
+      0,
+      0.45,
+      0.5
+    ],
+    "seat_1_reverse": [
+      0,
+      0.45,
+      0.5
+    ],
+    "seat_2_reverse": [
+      0,
+      0.45,
+      0.5
+    ]
+  },
+  "thirdPersonCameraOffsetNoViewBobbing": {
+    "seat_1": [
+      0,
+      0.45,
+      0.5
+    ],
+    "seat_2": [
+      0,
+      0.45,
+      0.5
+    ],
+    "seat_1_reverse": [
+      0,
+      0.45,
+      0.5
+    ],
+    "seat_2_reverse": [
+      0,
+      0.45,
+      0.5
+    ]
+  },
+  "poses": {
+    "battle-standing": {
+      "isBattle": true,
+      "poseTypes": [
+        "stand"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('insurgence_deltablastoise', 'blink')",
+        "q.bedrock_quirk('insurgence_deltablastoise', q.array('quirk_battle_idle', 'quirk_battle_idle2'), 30, 60, 1)"
+      ],
+      "animations": [
+        "q.look('head_ai')",
+        "q.bedrock('insurgence_deltablastoise', 'battle_idle')"
+      ]
+    },
+    "standing": {
+      "isBattle": false,
+      "isTouchingWater": false,
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('insurgence_deltablastoise', 'blink')",
+        "q.bedrock_quirk('insurgence_deltablastoise', 'quirk_ground_idle', 20, 60, 1)"
+      ],
+      "animations": [
+        "q.look('head_ai')",
+        "q.bedrock('insurgence_deltablastoise', 'ground_idle')"
+      ]
+    },
+    "surfacewater-float": {
+      "isTouchingWater": true,
+      "isUnderWater": false,
+      "condition": "!q.is_ridden",
+      "poseTypes": [
+        "stand",
+        "float"
+      ],
+      "transformedParts": [
+        {
+          "part": "body",
+          "position": [
+            0,
+            21,
+            0
+          ]
+        }
+      ],
+      "quirks": [
+        "q.bedrock_quirk('insurgence_deltablastoise', 'blink')"
+      ],
+      "animations": [
+        "q.look('head_ai')",
+        "q.bedrock('insurgence_deltablastoise', 'surfacewater_idle')"
+      ],
+      "transformTicks": 5,
+      "transformToTicks": 5
+    },
+    "float": {
+      "isTouchingWater": true,
+      "isUnderWater": true,
+      "poseTypes": [
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('insurgence_deltablastoise', 'blink')"
+      ],
+      "animations": [
+        "q.look('head_ai')",
+        "q.bedrock('insurgence_deltablastoise', 'water_idle')"
+      ]
+    },
+    "swim": {
+      "isTouchingWater": true,
+      "isUnderWater": true,
+      "poseTypes": [
+        "swim"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('insurgence_deltablastoise', 'blink')"
+      ],
+      "animations": [
+        "q.look('head_ai')",
+        "q.bedrock('insurgence_deltablastoise', 'water_swim')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "namedAnimations": {
+        "cry": "q.bedrock_stateful('insurgence_deltablastoise', 'cry')"
+      },
+      "animations": [
+        "q.bedrock('insurgence_deltablastoise', 'sleep')"
+      ]
+    },
+    "walking": {
+      "condition": "!q.is_sprinting",
+      "poseTypes": [
+        "walk"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('insurgence_deltablastoise', 'blink')"
+      ],
+      "namedAnimations": {
+        "physical": "q.bedrock_stateful('insurgence_deltablastoise', 'physical')",
+        "special": "q.bedrock_stateful('insurgence_deltablastoise', 'special')",
+        "status": "q.bedrock_stateful('insurgence_deltablastoise', 'status')"
+      },
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('insurgence_deltablastoise', 'ground_walk')"
+      ]
+    }
+  },
+  "animations": {
+    "faint": "q.bedrock_primary('insurgence_deltablastoise', 'faint', q.curve('one'))",
+    "cry": "q.bedrock_stateful('insurgence_deltablastoise', 'cry')",
+    "recoil": "q.bedrock_stateful('insurgence_deltablastoise', 'recoil')",
+    "physical": "q.bedrock_primary('insurgence_deltablastoise', 'physical', q.curve('symmetrical_wide'))",
+    "special": "q.bedrock_primary('insurgence_deltablastoise', 'special', q.curve('symmetrical_wide'))",
+    "status": "q.bedrock_primary('insurgence_deltablastoise', 'status', q.curve('symmetrical_wide'))"
+  }
+}

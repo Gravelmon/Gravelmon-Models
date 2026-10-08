@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_caranox_base.json": "assets/cobblemon/bedrock/species/sage/0_caranox_base.json",
+    "caranox.png": "assets/cobblemon/textures/pokemon/sage/caranox.png",
+    "caranox_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/caranox_cry.ogg"
+  }
+}

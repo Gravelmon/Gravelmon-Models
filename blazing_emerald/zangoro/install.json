@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_zangoro_base.json": "assets/cobblemon/bedrock/species/blazing_emerald/0_zangoro_base.json",
+    "zangoro.png": "assets/cobblemon/textures/pokemon/blazing_emerald/zangoro.png",
+    "zangoro_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/zangoro_cry.ogg"
+  }
+}

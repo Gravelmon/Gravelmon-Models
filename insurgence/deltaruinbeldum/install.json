@@ -1,0 +1,10 @@
+{
+  "files": {
+    "118_beldum_delta_ruin.json": "assets/cobblemon/bedrock/species/additional_forms/118_beldum_delta_ruin.json",
+    "deltaruinbeldum.png": "assets/cobblemon/textures/pokemon/insurgence/deltaruinbeldum.png",
+    "deltaruinbeldum_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltaruinbeldum/deltaruinbeldum_shiny.png",
+    "insurgence_deltaruinbeldum.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltaruinbeldum.geo.json",
+    "insurgence_deltaruinbeldum.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltaruinbeldum.json",
+    "texture__deltaruinbeldum.png": "assets/cobblemon/textures/pokemon/insurgence/deltaruinbeldum/deltaruinbeldum.png"
+  }
+}

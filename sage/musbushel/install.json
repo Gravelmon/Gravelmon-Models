@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_musbushel_base.json": "assets/cobblemon/bedrock/species/sage/0_musbushel_base.json",
+    "musbushel.png": "assets/cobblemon/textures/pokemon/sage/musbushel.png",
+    "musbushel_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/musbushel_cry.ogg"
+  }
+}

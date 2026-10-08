@@ -1,0 +1,12 @@
+{
+  "files": {
+    "117_magnemite_egho.json": "assets/cobblemon/bedrock/species/additional_forms/117_magnemite_egho.json",
+    "egho_magnemite.png": "assets/cobblemon/textures/pokemon/infinity/eghomagnemite/egho_magnemite.png",
+    "egho_magnemite_alpha.png": "assets/cobblemon/textures/pokemon/infinity/eghomagnemite/egho_magnemite_alpha.png",
+    "egho_magnemite_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghomagnemite/egho_magnemite_shiny.png",
+    "eghomagnemite.png": "assets/cobblemon/textures/pokemon/infinity/eghomagnemite.png",
+    "infinity_eghomagnemite.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_eghomagnemite.geo.json",
+    "infinity_eghomagnemite.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_eghomagnemite.json",
+    "magnemite_egho_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/magnemite_egho_cry.ogg"
+  }
+}

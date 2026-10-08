@@ -1,0 +1,14 @@
+{
+  "files": {
+    "25_haunter_x.json": "assets/cobblemon/bedrock/species/additional_forms/25_haunter_x.json",
+    "haunter_x.animation.json": "assets/cobblemon/bedrock/pokemon/animations/haunter_x.animation.json",
+    "haunter_x_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/haunter_x_cry.ogg",
+    "haunterx.png": "assets/cobblemon/textures/pokemon/xenoverse/haunterx.png",
+    "haunterx_form.png": "assets/cobblemon/textures/pokemon/xenoverse/haunterx/haunterx_form.png",
+    "haunterx_form_emissive.png": "assets/cobblemon/textures/pokemon/xenoverse/haunterx/haunterx_form_emissive.png",
+    "haunterx_form_emissive_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/haunterx/haunterx_form_emissive_shiny.png",
+    "haunterx_form_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/haunterx/haunterx_form_shiny.png",
+    "xenoverse_haunterx.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_haunterx.geo.json",
+    "xenoverse_haunterx.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_haunterx.json"
+  }
+}

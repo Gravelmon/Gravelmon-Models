@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_kokismash_base.json": "assets/cobblemon/bedrock/species/infinity/0_kokismash_base.json",
+    "infinity_kokismash.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_kokismash.animation.json",
+    "infinity_kokismash.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_kokismash.geo.json",
+    "infinity_kokismash.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_kokismash.json",
+    "kokismash.png": "assets/cobblemon/textures/pokemon/infinity/kokismash.png",
+    "kokismash_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/kokismash_cry.ogg",
+    "kokismash_shiny.png": "assets/cobblemon/textures/pokemon/infinity/kokismash/kokismash_shiny.png",
+    "texture__kokismash.png": "assets/cobblemon/textures/pokemon/infinity/kokismash/kokismash.png"
+  }
+}

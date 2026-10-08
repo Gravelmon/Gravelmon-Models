@@ -1,0 +1,11 @@
+{
+  "files": {
+    "118_wooper_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_wooper_delta.json",
+    "deltawooper.png": "assets/cobblemon/textures/pokemon/insurgence/deltawooper.png",
+    "deltawooper_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltawooper/deltawooper_shiny.png",
+    "insurgence_deltawooper.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltawooper.geo.json",
+    "insurgence_deltawooper.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltawooper.json",
+    "texture__deltawooper.png": "assets/cobblemon/textures/pokemon/insurgence/deltawooper/deltawooper.png",
+    "wooper_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/wooper_delta_cry.ogg"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_tonemy_base.json": "assets/cobblemon/bedrock/species/uranium/0_tonemy_base.json",
+    "tonemy.png": "assets/cobblemon/textures/pokemon/uranium/tonemy.png",
+    "tonemy_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/tonemy_cry.ogg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "files": {
+    "118_grimer_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_grimer_delta.json",
+    "deltagrimer.png": "assets/cobblemon/textures/pokemon/insurgence/deltagrimer.png",
+    "deltagrimer_red.png": "assets/cobblemon/textures/pokemon/insurgence/deltagrimer/deltagrimer_red.png",
+    "deltagrimer_red_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltagrimer/deltagrimer_red_shiny.png",
+    "deltagrimer_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltagrimer/deltagrimer_shiny.png",
+    "grimer_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/grimer_delta_cry.ogg",
+    "insurgence_deltagrimer.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltagrimer.animation.json",
+    "insurgence_deltagrimer.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltagrimer.geo.json",
+    "insurgence_deltagrimer.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltagrimer.json",
+    "texture__deltagrimer.png": "assets/cobblemon/textures/pokemon/insurgence/deltagrimer/deltagrimer.png"
+  }
+}

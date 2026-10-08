@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_batnana_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_batnana_base.json",
+    "batnana.png": "assets/cobblemon/textures/pokemon/xenoverse/batnana.png",
+    "batnana_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/batnana_cry.ogg"
+  }
+}

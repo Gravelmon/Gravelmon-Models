@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_chrysalix_base.json": "assets/cobblemon/bedrock/species/blazing_emerald/0_chrysalix_base.json",
+    "blazing_emerald_chrysalix.animation.json": "assets/cobblemon/bedrock/pokemon/animations/blazing_emerald_chrysalix.animation.json",
+    "blazing_emerald_chrysalix.geo.json": "assets/cobblemon/bedrock/pokemon/models/blazing_emerald_chrysalix.geo.json",
+    "blazing_emerald_chrysalix.json": "assets/cobblemon/bedrock/pokemon/posers/blazing_emerald_chrysalix.json",
+    "chrysalix.png": "assets/cobblemon/textures/pokemon/blazing_emerald/chrysalix.png",
+    "chrysalix_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/chrysalix_cry.ogg",
+    "chrysalix_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/chrysalix/chrysalix_shiny.png",
+    "texture__chrysalix.png": "assets/cobblemon/textures/pokemon/blazing_emerald/chrysalix/chrysalix.png"
+  }
+}

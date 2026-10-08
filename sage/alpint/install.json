@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_alpint_base.json": "assets/cobblemon/bedrock/species/sage/0_alpint_base.json",
+    "alpint.png": "assets/cobblemon/textures/pokemon/sage/alpint.png",
+    "alpint_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/alpint_cry.ogg"
+  }
+}

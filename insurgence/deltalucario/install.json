@@ -1,0 +1,15 @@
+{
+  "files": {
+    "118_lucario_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_lucario_delta.json",
+    "deltalucario.png": "assets/cobblemon/textures/pokemon/insurgence/deltalucario.png",
+    "deltalucario_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltalucario/deltalucario_shiny.png",
+    "insurgence_deltalucario.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltalucario.animation.json",
+    "insurgence_deltalucario.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltalucario.geo.json",
+    "insurgence_deltalucario.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltalucario.json",
+    "lucario_delta.png": "assets/cobblemon/textures/pokemon/insurgence/deltalucario/lucario_delta.png",
+    "lucario_delta_alpha.png": "assets/cobblemon/textures/pokemon/insurgence/deltalucario/lucario_delta_alpha.png",
+    "lucario_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/lucario_delta_cry.ogg",
+    "lucario_delta_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltalucario/lucario_delta_shiny.png",
+    "texture__deltalucario.png": "assets/cobblemon/textures/pokemon/insurgence/deltalucario/deltalucario.png"
+  }
+}

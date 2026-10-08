@@ -1,0 +1,73 @@
+{
+  "portraitScale": 1.66,
+  "portraitTranslation": [
+    -0.14,
+    -0.74,
+    0
+  ],
+  "profileScale": 0.98,
+  "profileTranslation": [
+    0,
+    0.26,
+    0
+  ],
+  "rootBone": "bulbasaur",
+  "poses": {
+    "battle-standing": {
+      "isBattle": true,
+      "poseTypes": [
+        "stand"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('insurgence_deltabulbasaur', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('insurgence_deltabulbasaur', 'battle_idle')"
+      ]
+    },
+    "standing": {
+      "isBattle": false,
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('insurgence_deltabulbasaur', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('insurgence_deltabulbasaur', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "walk",
+        "swim"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('insurgence_deltabulbasaur', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('insurgence_deltabulbasaur', 'ground_walk')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "animations": [
+        "q.bedrock('insurgence_deltabulbasaur', 'sleep')"
+      ]
+    }
+  },
+  "animations": {
+    "faint": "q.bedrock_primary('insurgence_deltabulbasaur', 'faint', q.curve('one'))",
+    "cry": "q.bedrock_stateful('insurgence_deltabulbasaur', 'cry')",
+    "recoil": "q.bedrock_stateful('insurgence_deltabulbasaur', 'recoil')"
+  }
+}

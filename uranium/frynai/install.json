@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_frynai_base.json": "assets/cobblemon/bedrock/species/uranium/0_frynai_base.json",
+    "frynai.png": "assets/cobblemon/textures/pokemon/uranium/frynai.png",
+    "frynai_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/frynai_cry.ogg"
+  }
+}

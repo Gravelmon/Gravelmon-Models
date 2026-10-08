@@ -1,0 +1,12 @@
+{
+  "files": {
+    "24_dodrio_hoennian.json": "assets/cobblemon/bedrock/species/additional_forms/24_dodrio_hoennian.json",
+    "blazing_emerald_hoenniandodrio.animation.json": "assets/cobblemon/bedrock/pokemon/animations/blazing_emerald_hoenniandodrio.animation.json",
+    "blazing_emerald_hoenniandodrio.geo.json": "assets/cobblemon/bedrock/pokemon/models/blazing_emerald_hoenniandodrio.geo.json",
+    "blazing_emerald_hoenniandodrio.json": "assets/cobblemon/bedrock/pokemon/posers/blazing_emerald_hoenniandodrio.json",
+    "dodrio_hoennian_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/dodrio_hoennian_cry.ogg",
+    "hoenniandodrio.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandodrio.png",
+    "hoenniandodrio_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandodrio/hoenniandodrio_shiny.png",
+    "texture__hoenniandodrio.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandodrio/hoenniandodrio.png"
+  }
+}

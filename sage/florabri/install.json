@@ -1,0 +1,14 @@
+{
+  "files": {
+    "0_florabri_base.json": "assets/cobblemon/bedrock/species/sage/0_florabri_base.json",
+    "florabri.png": "assets/cobblemon/textures/pokemon/sage/florabri.png",
+    "florabri_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/florabri_cry.ogg",
+    "florabri_female.png": "assets/cobblemon/textures/pokemon/sage/florabri/florabri_female.png",
+    "florabri_female_shiny.png": "assets/cobblemon/textures/pokemon/sage/florabri/florabri_female_shiny.png",
+    "florabri_shiny.png": "assets/cobblemon/textures/pokemon/sage/florabri/florabri_shiny.png",
+    "sage_florabri.animation.json": "assets/cobblemon/bedrock/pokemon/animations/sage_florabri.animation.json",
+    "sage_florabri.geo.json": "assets/cobblemon/bedrock/pokemon/models/sage_florabri.geo.json",
+    "sage_florabri.json": "assets/cobblemon/bedrock/pokemon/posers/sage_florabri.json",
+    "texture__florabri.png": "assets/cobblemon/textures/pokemon/sage/florabri/florabri.png"
+  }
+}

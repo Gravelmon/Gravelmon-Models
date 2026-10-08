@@ -1,0 +1,11 @@
+{
+  "files": {
+    "164_popplio_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_popplio_epoch.json",
+    "epochpopplio.png": "assets/cobblemon/textures/pokemon/soulstones/epochpopplio.png",
+    "popplio_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochpopplio/popplio_epoch.png",
+    "popplio_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochpopplio/popplio_epoch_alpha.png",
+    "popplio_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochpopplio/popplio_epoch_shiny.png",
+    "soulstones_epochpopplio.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochpopplio.geo.json",
+    "soulstones_epochpopplio.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochpopplio.json"
+  }
+}

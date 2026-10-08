@@ -1,0 +1,12 @@
+{
+  "files": {
+    "24_pinsir_hoennian.json": "assets/cobblemon/bedrock/species/additional_forms/24_pinsir_hoennian.json",
+    "blazing_emerald_hoennianpinsir.animation.json": "assets/cobblemon/bedrock/pokemon/animations/blazing_emerald_hoennianpinsir.animation.json",
+    "blazing_emerald_hoennianpinsir.geo.json": "assets/cobblemon/bedrock/pokemon/models/blazing_emerald_hoennianpinsir.geo.json",
+    "blazing_emerald_hoennianpinsir.json": "assets/cobblemon/bedrock/pokemon/posers/blazing_emerald_hoennianpinsir.json",
+    "hoennianpinsir.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianpinsir.png",
+    "hoennianpinsir_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianpinsir/hoennianpinsir_shiny.png",
+    "pinsir_hoennian_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/pinsir_hoennian_cry.ogg",
+    "texture__hoennianpinsir.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianpinsir/hoennianpinsir.png"
+  }
+}

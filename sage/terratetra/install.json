@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_terratetra_base.json": "assets/cobblemon/bedrock/species/sage/0_terratetra_base.json",
+    "terratetra.png": "assets/cobblemon/textures/pokemon/sage/terratetra.png",
+    "terratetra_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/terratetra_cry.ogg"
+  }
+}

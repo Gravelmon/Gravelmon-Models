@@ -1,0 +1,30 @@
+{
+  "game": "uranium",
+  "pokemon": "s51",
+  "entries": [
+    {
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-10-01T01:14:59.291Z",
+      "models": [
+        "uranium/s51/uranium_s51.geo.json"
+      ],
+      "animations": [
+        "assets/cobblemon/bedrock/pokemon/animations/uranium_s51.animation.json"
+      ],
+      "textures": [
+        "uranium/s51/texture__s51.png",
+        "uranium/s51/s51_alpha.png",
+        "uranium/s51/s51_shiny.png",
+        "uranium/s51/s51.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

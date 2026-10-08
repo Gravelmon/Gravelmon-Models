@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_calfpint_base.json": "assets/cobblemon/bedrock/species/infinity/0_calfpint_base.json",
+    "calfpint.png": "assets/cobblemon/textures/pokemon/infinity/calfpint.png",
+    "calfpint_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/calfpint_cry.ogg"
+  }
+}

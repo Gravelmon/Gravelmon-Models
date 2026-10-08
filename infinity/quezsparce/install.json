@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_quezsparce_base.json": "assets/cobblemon/bedrock/species/infinity/0_quezsparce_base.json",
+    "quezsparce.png": "assets/cobblemon/textures/pokemon/infinity/quezsparce.png",
+    "quezsparce_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/quezsparce_cry.ogg"
+  }
+}

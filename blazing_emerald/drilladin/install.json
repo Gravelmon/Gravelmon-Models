@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_drilladin_base.json": "assets/cobblemon/bedrock/species/blazing_emerald/0_drilladin_base.json",
+    "blazing_emerald_drilladin.animation.json": "assets/cobblemon/bedrock/pokemon/animations/blazing_emerald_drilladin.animation.json",
+    "blazing_emerald_drilladin.geo.json": "assets/cobblemon/bedrock/pokemon/models/blazing_emerald_drilladin.geo.json",
+    "blazing_emerald_drilladin.json": "assets/cobblemon/bedrock/pokemon/posers/blazing_emerald_drilladin.json",
+    "drilladin.png": "assets/cobblemon/textures/pokemon/blazing_emerald/drilladin.png",
+    "drilladin_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/drilladin_cry.ogg",
+    "drilladin_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/drilladin/drilladin_shiny.png",
+    "texture__drilladin.png": "assets/cobblemon/textures/pokemon/blazing_emerald/drilladin/drilladin.png"
+  }
+}

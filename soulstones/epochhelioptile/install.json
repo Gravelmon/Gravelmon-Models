@@ -1,0 +1,12 @@
+{
+  "files": {
+    "164_helioptile_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_helioptile_epoch.json",
+    "epochhelioptile.png": "assets/cobblemon/textures/pokemon/soulstones/epochhelioptile.png",
+    "helioptile-epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochhelioptile/helioptile-epoch.png",
+    "helioptile-epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochhelioptile/helioptile-epoch_alpha.png",
+    "helioptile-epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochhelioptile/helioptile-epoch_shiny.png",
+    "soulstones_epochhelioptile.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochhelioptile.animation.json",
+    "soulstones_epochhelioptile.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochhelioptile.geo.json",
+    "soulstones_epochhelioptile.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochhelioptile.json"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "files": {
+    "24_dreepy_hoennian.json": "assets/cobblemon/bedrock/species/additional_forms/24_dreepy_hoennian.json",
+    "blazing_emerald_hoenniandreepy.geo.json": "assets/cobblemon/bedrock/pokemon/models/blazing_emerald_hoenniandreepy.geo.json",
+    "blazing_emerald_hoenniandreepy.json": "assets/cobblemon/bedrock/pokemon/posers/blazing_emerald_hoenniandreepy.json",
+    "dreepy_hoennian.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandreepy/dreepy_hoennian.png",
+    "dreepy_hoennian_alpha.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandreepy/dreepy_hoennian_alpha.png",
+    "dreepy_hoennian_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/dreepy_hoennian_cry.ogg",
+    "dreepy_hoennian_emissive.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandreepy/dreepy_hoennian_emissive.png",
+    "dreepy_hoennian_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandreepy/dreepy_hoennian_shiny.png",
+    "dreepy_hoennian_shiny_emissive.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandreepy/dreepy_hoennian_shiny_emissive.png",
+    "flame__flame1.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandreepy/flame/flame1.png",
+    "flame__flame1_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandreepy/flame/flame1_shiny.png",
+    "flame__flame2.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandreepy/flame/flame2.png",
+    "flame__flame2_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandreepy/flame/flame2_shiny.png",
+    "hoenniandreepy.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandreepy.png",
+    "hoenniandreepy_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandreepy/hoenniandreepy_shiny.png",
+    "texture__hoenniandreepy.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandreepy/hoenniandreepy.png"
+  }
+}

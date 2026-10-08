@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_lukpup_base.json": "assets/cobblemon/bedrock/species/infinity/0_lukpup_base.json",
+    "lukpup.png": "assets/cobblemon/textures/pokemon/infinity/lukpup.png",
+    "lukpup_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/lukpup_cry.ogg"
+  }
+}

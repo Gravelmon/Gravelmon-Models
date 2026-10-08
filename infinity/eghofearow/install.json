@@ -1,0 +1,12 @@
+{
+  "files": {
+    "117_fearow_egho.json": "assets/cobblemon/bedrock/species/additional_forms/117_fearow_egho.json",
+    "eghofearow.png": "assets/cobblemon/textures/pokemon/infinity/eghofearow.png",
+    "eghofearow_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghofearow/eghofearow_shiny.png",
+    "fearow_egho_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/fearow_egho_cry.ogg",
+    "infinity_eghofearow.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_eghofearow.animation.json",
+    "infinity_eghofearow.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_eghofearow.geo.json",
+    "infinity_eghofearow.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_eghofearow.json",
+    "texture__eghofearow.png": "assets/cobblemon/textures/pokemon/infinity/eghofearow/eghofearow.png"
+  }
+}

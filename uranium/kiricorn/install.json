@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_kiricorn_base.json": "assets/cobblemon/bedrock/species/uranium/0_kiricorn_base.json",
+    "kiricorn.png": "assets/cobblemon/textures/pokemon/uranium/kiricorn.png",
+    "kiricorn_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/kiricorn_cry.ogg"
+  }
+}

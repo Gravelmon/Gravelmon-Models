@@ -1,0 +1,8 @@
+{
+  "files": {
+    "117_magnezone_eghotwo.json": "assets/cobblemon/bedrock/species/additional_forms/117_magnezone_eghotwo.json"
+  },
+  "uses": [
+    "infinity/eghomagnezone/eghomagnezone.png"
+  ]
+}

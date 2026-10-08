@@ -1,0 +1,13 @@
+{
+  "files": {
+    "118_growlithe_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_growlithe_delta.json",
+    "deltagrowlithe.png": "assets/cobblemon/textures/pokemon/insurgence/deltagrowlithe.png",
+    "growlithe_delta.png": "assets/cobblemon/textures/pokemon/insurgence/deltagrowlithe/growlithe_delta.png",
+    "growlithe_delta_alpha.png": "assets/cobblemon/textures/pokemon/insurgence/deltagrowlithe/growlithe_delta_alpha.png",
+    "growlithe_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/growlithe_delta_cry.ogg",
+    "growlithe_delta_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltagrowlithe/growlithe_delta_shiny.png",
+    "insurgence_deltagrowlithe.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltagrowlithe.animation.json",
+    "insurgence_deltagrowlithe.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltagrowlithe.geo.json",
+    "insurgence_deltagrowlithe.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltagrowlithe.json"
+  }
+}

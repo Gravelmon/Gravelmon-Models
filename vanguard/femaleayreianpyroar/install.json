@@ -1,0 +1,9 @@
+{
+  "files": {
+    "ayreianpyroar_female.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianpyroarfemale/ayreianpyroar_female.png",
+    "femaleayreianpyroar.png": "assets/cobblemon/textures/pokemon/vanguard/femaleayreianpyroar.png"
+  },
+  "uses": [
+    "vanguard/ayreianpyroar/88_pyroar_ayreian.json"
+  ]
+}

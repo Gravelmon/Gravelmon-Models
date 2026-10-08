@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_sputnink_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_sputnink_base.json",
+    "sputnink.png": "assets/cobblemon/textures/pokemon/xenoverse/sputnink.png",
+    "sputnink_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/sputnink_cry.ogg",
+    "sputnink_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/sputnink/sputnink_shiny.png",
+    "texture__sputnink.png": "assets/cobblemon/textures/pokemon/xenoverse/sputnink/sputnink.png",
+    "xenoverse_sputnink.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_sputnink.animation.json",
+    "xenoverse_sputnink.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_sputnink.geo.json",
+    "xenoverse_sputnink.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_sputnink.json"
+  }
+}

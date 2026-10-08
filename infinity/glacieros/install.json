@@ -1,0 +1,13 @@
+{
+  "files": {
+    "0_glacieros_base.json": "assets/cobblemon/bedrock/species/infinity/0_glacieros_base.json",
+    "glacieros.png": "assets/cobblemon/textures/pokemon/infinity/glacieros.png",
+    "glacieros_alpha.png": "assets/cobblemon/textures/pokemon/infinity/glacieros/glacieros_alpha.png",
+    "glacieros_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/glacieros_cry.ogg",
+    "glacieros_shiny.png": "assets/cobblemon/textures/pokemon/infinity/glacieros/glacieros_shiny.png",
+    "infinity_glacieros.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_glacieros.animation.json",
+    "infinity_glacieros.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_glacieros.geo.json",
+    "infinity_glacieros.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_glacieros.json",
+    "texture__glacieros.png": "assets/cobblemon/textures/pokemon/infinity/glacieros/glacieros.png"
+  }
+}

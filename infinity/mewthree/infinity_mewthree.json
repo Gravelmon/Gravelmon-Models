@@ -1,0 +1,81 @@
+{
+  "portraitScale": 0.800000011920929,
+  "portraitTranslation": [
+    0.0,
+    1.5,
+    0.0
+  ],
+  "profileScale": 0.800000011920929,
+  "profileTranslation": [
+    0.0,
+    1.5,
+    0.0
+  ],
+  "animations": {
+    "cry": "q.bedrock_stateful('infinity_mewthree', 'cry')",
+    "faint": "q.bedrock_primary('infinity_mewthree', 'faint', q.curve('one'))"
+  },
+  "poses": {
+    "standing": {
+      "poseName": "standing",
+      "animations": [
+        "q.bedrock('infinity_mewthree', 'ground_idle')"
+      ],
+      "poseTypes": [
+        "STAND",
+        "PORTRAIT",
+        "PROFILE",
+        "NONE"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('infinity_mewthree', 'blink')"
+      ],
+      "namedAnimations": {},
+      "transformedParts": []
+    },
+    "walking": {
+      "poseName": "walking",
+      "animations": [
+        "q.bedrock('infinity_mewthree', 'ground_walk')"
+      ],
+      "poseTypes": [
+        "WALK"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('infinity_mewthree', 'blink')"
+      ],
+      "namedAnimations": {},
+      "transformedParts": []
+    },
+    "hovering": {
+      "poseName": "hovering",
+      "animations": [
+        "q.bedrock('infinity_mewthree', 'air_idle')"
+      ],
+      "poseTypes": [
+        "HOVER",
+        "FLOAT"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('infinity_mewthree', 'blink')"
+      ],
+      "namedAnimations": {},
+      "transformedParts": []
+    },
+    "flying": {
+      "poseName": "flying",
+      "animations": [
+        "q.bedrock('infinity_mewthree', 'air_fly')"
+      ],
+      "poseTypes": [
+        "FLY",
+        "SWIM"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('infinity_mewthree', 'blink')"
+      ],
+      "namedAnimations": {},
+      "transformedParts": []
+    }
+  }
+}

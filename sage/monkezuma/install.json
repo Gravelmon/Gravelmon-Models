@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_monkezuma_base.json": "assets/cobblemon/bedrock/species/sage/0_monkezuma_base.json",
+    "monkezuma.png": "assets/cobblemon/textures/pokemon/sage/monkezuma.png",
+    "monkezuma_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/monkezuma_cry.ogg"
+  }
+}

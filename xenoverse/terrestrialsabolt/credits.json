@@ -1,0 +1,37 @@
+{
+  "game": "xenoverse",
+  "pokemon": "sabolt",
+  "formAspects": [
+    "terrestrial"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "terrestrial"
+      ],
+      "contributor": {
+        "login": "Blizt"
+      },
+      "contributors": [
+        {
+          "login": "Blizt"
+        }
+      ],
+      "submittedAt": "2026-09-27T10:02:09.371Z",
+      "models": [
+        "xenoverse/terrestrialsabolt/xenoverse_terrestrialsabolt.geo.json"
+      ],
+      "animations": [
+        "xenoverse/terrestrialsabolt/xenoverse_terrestrialsabolt.animation.json"
+      ],
+      "textures": [
+        "xenoverse/terrestrialsabolt/saboltterrestrial.png",
+        "xenoverse/terrestrialsabolt/saboltterrestrial_alpha.png",
+        "xenoverse/terrestrialsabolt/saboltterrestrial_shiny.png",
+        "assets/cobblemon/xenoverse_saboltterrestrial.png",
+        "xenoverse/terrestrialsabolt/terrestrialsabolt.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

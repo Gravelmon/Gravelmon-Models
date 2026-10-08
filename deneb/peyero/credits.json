@@ -1,0 +1,31 @@
+{
+  "game": "deneb",
+  "pokemon": "peyero",
+  "entries": [
+    {
+      "contributor": {
+        "login": "darkmodz"
+      },
+      "contributors": [
+        {
+          "login": "darkmodz"
+        }
+      ],
+      "submittedAt": "2026-09-27T10:27:16.596Z",
+      "models": [
+        "deneb/peyero/deneb_peyero.geo.json"
+      ],
+      "animations": [
+        "_unreferenced/assets/cobblemon/bedrock/pokemon/animations/deneb_peyero.animation.json"
+      ],
+      "textures": [
+        "deneb/peyero/texture__peyero.png",
+        "deneb/peyero/peyero_alpha.png",
+        "assets/cobblemon/peyero_preview.png",
+        "deneb/peyero/peyero_shiny.png",
+        "deneb/peyero/peyero.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

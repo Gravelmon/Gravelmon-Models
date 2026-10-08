@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_forusk_base.json": "assets/cobblemon/bedrock/species/sage/0_forusk_base.json",
+    "forusk.png": "assets/cobblemon/textures/pokemon/sage/forusk.png",
+    "forusk_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/forusk_cry.ogg"
+  }
+}

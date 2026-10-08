@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_donanas_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_donanas_base.json",
+    "donanas.png": "assets/cobblemon/textures/pokemon/xenoverse/donanas.png",
+    "donanas_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/donanas_cry.ogg"
+  }
+}

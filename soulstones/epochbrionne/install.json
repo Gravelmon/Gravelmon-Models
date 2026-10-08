@@ -1,0 +1,11 @@
+{
+  "files": {
+    "164_brionne_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_brionne_epoch.json",
+    "brionne_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochbrionne/brionne_epoch.png",
+    "brionne_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochbrionne/brionne_epoch_alpha.png",
+    "brionne_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochbrionne/brionne_epoch_shiny.png",
+    "epochbrionne.png": "assets/cobblemon/textures/pokemon/soulstones/epochbrionne.png",
+    "soulstones_epochbrionne.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochbrionne.geo.json",
+    "soulstones_epochbrionne.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochbrionne.json"
+  }
+}

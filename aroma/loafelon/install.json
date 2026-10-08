@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_loafelon_base.json": "assets/cobblemon/bedrock/species/aroma/0_loafelon_base.json",
+    "aroma_loafelon.animation.json": "assets/cobblemon/bedrock/pokemon/animations/aroma_loafelon.animation.json",
+    "aroma_loafelon.geo.json": "assets/cobblemon/bedrock/pokemon/models/aroma_loafelon.geo.json",
+    "aroma_loafelon.json": "assets/cobblemon/bedrock/pokemon/posers/aroma_loafelon.json",
+    "loafelon.png": "assets/cobblemon/textures/pokemon/aroma/loafelon.png",
+    "loafelon_alpha.png": "assets/cobblemon/textures/pokemon/aroma/loafelon/loafelon_alpha.png",
+    "loafelon_shiny.png": "assets/cobblemon/textures/pokemon/aroma/loafelon/loafelon_shiny.png",
+    "texture__loafelon.png": "assets/cobblemon/textures/pokemon/aroma/loafelon/loafelon.png"
+  }
+}

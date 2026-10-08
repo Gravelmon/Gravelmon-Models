@@ -1,0 +1,10 @@
+{
+  "files": {
+    "86_feebas_seviian.json": "assets/cobblemon/bedrock/species/additional_forms/86_feebas_seviian.json",
+    "radical_red_seviianfeebas.geo.json": "assets/cobblemon/bedrock/pokemon/models/radical_red_seviianfeebas.geo.json",
+    "seviianfeebas.png": "assets/cobblemon/textures/pokemon/radical_red/seviianfeebas.png",
+    "seviianfeebas_alpha.png": "assets/cobblemon/textures/pokemon/radical_red/seviianfeebas/seviianfeebas_alpha.png",
+    "seviianfeebas_shiny.png": "assets/cobblemon/textures/pokemon/radical_red/seviianfeebas/seviianfeebas_shiny.png",
+    "texture__seviianfeebas.png": "assets/cobblemon/textures/pokemon/radical_red/seviianfeebas/seviianfeebas.png"
+  }
+}

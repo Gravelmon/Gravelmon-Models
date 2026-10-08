@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_lanthan_base.json": "assets/cobblemon/bedrock/species/uranium/0_lanthan_base.json",
+    "lanthan.png": "assets/cobblemon/textures/pokemon/uranium/lanthan.png",
+    "lanthan_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/lanthan_cry.ogg"
+  }
+}

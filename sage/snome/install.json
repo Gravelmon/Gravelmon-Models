@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_snome_base.json": "assets/cobblemon/bedrock/species/sage/0_snome_base.json",
+    "snome.png": "assets/cobblemon/textures/pokemon/sage/snome.png",
+    "snome_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/snome_cry.ogg"
+  }
+}

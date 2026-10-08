@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_folerog_base.json": "assets/cobblemon/bedrock/species/uranium/0_folerog_base.json",
+    "folerog.png": "assets/cobblemon/textures/pokemon/uranium/folerog.png",
+    "folerog_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/folerog_cry.ogg"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "game": "insurgence",
+  "pokemon": "flygon",
+  "formAspects": [
+    "mega"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "mega"
+      ],
+      "inheritsFrom": {
+        "pokemon": "flygon",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DigitalRaikan"
+      },
+      "contributors": [
+        {
+          "login": "DigitalRaikan"
+        }
+      ],
+      "submittedAt": "2026-09-27T11:14:51.509Z",
+      "models": [
+        "insurgence/flygon_mega/insurgence_flygon_mega.geo.json"
+      ],
+      "animations": [
+        "assets/cobblemon/bedrock/pokemon/animations/insurgence_flygon_mega.animation.json"
+      ],
+      "textures": [
+        "insurgence/flygon_mega/flygon_insurgence_mega.png",
+        "insurgence/flygon_mega/flygon_insurgence_mega_alpha.png",
+        "assets/cobblemon/flygon_insurgence_mega_preview.png",
+        "insurgence/flygon_mega/flygon_insurgence_mega_shiny.png",
+        "insurgence/flygon_mega/flygon_insurgence_mega_shiny_transparency.png",
+        "insurgence/flygon_mega/flygon_insurgence_mega_transparency.png",
+        "insurgence/flygon_mega/flygon_mega.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

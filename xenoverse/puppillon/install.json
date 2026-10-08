@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_puppillon_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_puppillon_base.json",
+    "puppillon.png": "assets/cobblemon/textures/pokemon/xenoverse/puppillon.png",
+    "puppillon_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/puppillon_cry.ogg"
+  }
+}

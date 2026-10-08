@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_rollder_base.json": "assets/cobblemon/bedrock/species/deneb/0_rollder_base.json",
+    "deneb_rollder.animation.json": "assets/cobblemon/bedrock/pokemon/animations/deneb_rollder.animation.json",
+    "deneb_rollder.geo.json": "assets/cobblemon/bedrock/pokemon/models/deneb_rollder.geo.json",
+    "deneb_rollder.json": "assets/cobblemon/bedrock/pokemon/posers/deneb_rollder.json",
+    "rollder.png": "assets/cobblemon/textures/pokemon/deneb/rollder.png",
+    "rollder_alpha.png": "assets/cobblemon/textures/pokemon/deneb/rollder/rollder_alpha.png",
+    "rollder_shiny.png": "assets/cobblemon/textures/pokemon/deneb/rollder/rollder_shiny.png",
+    "texture__rollder.png": "assets/cobblemon/textures/pokemon/deneb/rollder/rollder.png"
+  }
+}

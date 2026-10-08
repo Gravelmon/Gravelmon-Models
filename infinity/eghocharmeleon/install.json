@@ -1,0 +1,23 @@
+{
+  "files": {
+    "117_charmeleon_egho.json": "assets/cobblemon/bedrock/species/additional_forms/117_charmeleon_egho.json",
+    "charmeleon_egho_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/charmeleon_egho_cry.ogg",
+    "egho_charmeleon.png": "assets/cobblemon/textures/pokemon/infinity/eghocharmeleon/egho_charmeleon.png",
+    "egho_charmeleon_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghocharmeleon/egho_charmeleon_shiny.png",
+    "eghocharmeleon.png": "assets/cobblemon/textures/pokemon/infinity/eghocharmeleon.png",
+    "eghocharmeleon_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghocharmeleon/eghocharmeleon_shiny.png",
+    "flame__tail.ase": "assets/cobblemon/textures/pokemon/infinity/eghocharmeleon/flame/tail.ase",
+    "flame__tail1.png": "assets/cobblemon/textures/pokemon/infinity/eghocharmeleon/flame/tail1.png",
+    "flame__tail1_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghocharmeleon/flame/tail1_shiny.png",
+    "flame__tail2.png": "assets/cobblemon/textures/pokemon/infinity/eghocharmeleon/flame/tail2.png",
+    "flame__tail2_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghocharmeleon/flame/tail2_shiny.png",
+    "flame__tail3.png": "assets/cobblemon/textures/pokemon/infinity/eghocharmeleon/flame/tail3.png",
+    "flame__tail3_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghocharmeleon/flame/tail3_shiny.png",
+    "flame__tail4.png": "assets/cobblemon/textures/pokemon/infinity/eghocharmeleon/flame/tail4.png",
+    "flame__tail4_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghocharmeleon/flame/tail4_shiny.png",
+    "infinity_eghocharmeleon.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_eghocharmeleon.animation.json",
+    "infinity_eghocharmeleon.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_eghocharmeleon.geo.json",
+    "infinity_eghocharmeleon.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_eghocharmeleon.json",
+    "texture__eghocharmeleon.png": "assets/cobblemon/textures/pokemon/infinity/eghocharmeleon/eghocharmeleon.png"
+  }
+}

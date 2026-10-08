@@ -1,0 +1,18 @@
+{
+  "files": {
+    "24_eelektross_hoennian.json": "assets/cobblemon/bedrock/species/additional_forms/24_eelektross_hoennian.json",
+    "blazing_emerald_hoennianeelektross.geo.json": "assets/cobblemon/bedrock/pokemon/models/blazing_emerald_hoennianeelektross.geo.json",
+    "blazing_emerald_hoennianeelektross.json": "assets/cobblemon/bedrock/pokemon/posers/blazing_emerald_hoennianeelektross.json",
+    "eelektrik_hoennian.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianeelektross/eelektrik_hoennian.png",
+    "eelektrik_hoennian_alpha.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianeelektross/eelektrik_hoennian_alpha.png",
+    "eelektrik_hoennian_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianeelektross/eelektrik_hoennian_shiny.png",
+    "eelektross_hoennian.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianeelektross/eelektross_hoennian.png",
+    "eelektross_hoennian_alpha.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianeelektross/eelektross_hoennian_alpha.png",
+    "eelektross_hoennian_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/eelektross_hoennian_cry.ogg",
+    "eelektross_hoennian_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianeelektross/eelektross_hoennian_shiny.png",
+    "hoennianeelektross.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianeelektross.png"
+  },
+  "uses": [
+    "blazing_emerald/hoennianeelektrik/eelektrik_hoennian.animation.json"
+  ]
+}

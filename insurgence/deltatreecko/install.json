@@ -1,0 +1,15 @@
+{
+  "files": {
+    "118_treecko_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_treecko_delta.json",
+    "deltatreecko.png": "assets/cobblemon/textures/pokemon/insurgence/deltatreecko.png",
+    "deltatreecko_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltatreecko/deltatreecko_shiny.png",
+    "insurgence_deltatreecko.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltatreecko.animation.json",
+    "insurgence_deltatreecko.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltatreecko.geo.json",
+    "insurgence_deltatreecko.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltatreecko.json",
+    "texture__deltatreecko.png": "assets/cobblemon/textures/pokemon/insurgence/deltatreecko/deltatreecko.png",
+    "treecko_delta.png": "assets/cobblemon/textures/pokemon/insurgence/deltatreecko/treecko_delta.png",
+    "treecko_delta_alpha.png": "assets/cobblemon/textures/pokemon/insurgence/deltatreecko/treecko_delta_alpha.png",
+    "treecko_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/treecko_delta_cry.ogg",
+    "treecko_delta_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltatreecko/treecko_delta_shiny.png"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "game": "soulstones",
+  "pokemon": "dedenne",
+  "formAspects": [
+    "epoch"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "dedenne",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-10-01T16:46:37.973Z",
+      "models": [
+        "soulstones/epochdedenne/soulstones_epochdedenne.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochdedenne/soulstones_epochdedenne.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochdedenne/dedenne_epoch.png",
+        "soulstones/epochdedenne/dedenne_epoch_alpha.png",
+        "assets/cobblemon/dedenne_epoch_emissive.png",
+        "soulstones/epochdedenne/dedenne_epoch_shiny.png",
+        "assets/cobblemon/dedenne_epoch_shiny_emissive.png",
+        "soulstones/epochdedenne/epochdedenne.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

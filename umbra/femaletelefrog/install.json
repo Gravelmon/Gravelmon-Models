@@ -1,0 +1,9 @@
+{
+  "files": {
+    "femaletelefrog.png": "assets/cobblemon/textures/pokemon/umbra/femaletelefrog.png",
+    "telefrog_female.png": "assets/cobblemon/textures/pokemon/umbra/telefrogfemale/telefrog_female.png"
+  },
+  "uses": [
+    "umbra/telefrog/0_telefrog_base.json"
+  ]
+}

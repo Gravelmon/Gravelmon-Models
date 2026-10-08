@@ -1,0 +1,11 @@
+{
+  "files": {
+    "0_cutelon_base.json": "assets/cobblemon/bedrock/species/aroma/0_cutelon_base.json",
+    "aroma_cutelon.geo.json": "assets/cobblemon/bedrock/pokemon/models/aroma_cutelon.geo.json",
+    "aroma_cutelon.json": "assets/cobblemon/bedrock/pokemon/posers/aroma_cutelon.json",
+    "cutelon.png": "assets/cobblemon/textures/pokemon/aroma/cutelon.png",
+    "cutelon_alpha.png": "assets/cobblemon/textures/pokemon/aroma/cutelon/cutelon_alpha.png",
+    "cutelon_shiny.png": "assets/cobblemon/textures/pokemon/aroma/cutelon/cutelon_shiny.png",
+    "texture__cutelon.png": "assets/cobblemon/textures/pokemon/aroma/cutelon/cutelon.png"
+  }
+}

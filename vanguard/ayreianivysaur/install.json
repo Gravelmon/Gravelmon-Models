@@ -1,0 +1,12 @@
+{
+  "files": {
+    "88_ivysaur_ayreian.json": "assets/cobblemon/bedrock/species/additional_forms/88_ivysaur_ayreian.json",
+    "ayreianivysaur.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianivysaur.png",
+    "ivysaur_ayreian.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianivysaur/ivysaur_ayreian.png",
+    "ivysaur_ayreian_alpha.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianivysaur/ivysaur_ayreian_alpha.png",
+    "ivysaur_ayreian_shiny.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianivysaur/ivysaur_ayreian_shiny.png",
+    "vanguard_ayreianivysaur.animation.json": "assets/cobblemon/bedrock/pokemon/animations/vanguard_ayreianivysaur.animation.json",
+    "vanguard_ayreianivysaur.geo.json": "assets/cobblemon/bedrock/pokemon/models/vanguard_ayreianivysaur.geo.json",
+    "vanguard_ayreianivysaur.json": "assets/cobblemon/bedrock/pokemon/posers/vanguard_ayreianivysaur.json"
+  }
+}

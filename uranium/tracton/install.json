@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_tracton_base.json": "assets/cobblemon/bedrock/species/uranium/0_tracton_base.json",
+    "tracton.png": "assets/cobblemon/textures/pokemon/uranium/tracton.png",
+    "tracton_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/tracton_cry.ogg"
+  }
+}

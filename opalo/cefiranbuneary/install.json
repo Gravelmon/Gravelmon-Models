@@ -1,0 +1,11 @@
+{
+  "files": {
+    "116_buneary_cefiran.json": "assets/cobblemon/bedrock/species/additional_forms/116_buneary_cefiran.json",
+    "cefiranbuneary.png": "assets/cobblemon/textures/pokemon/opalo/cefiranbuneary.png",
+    "cefiranbuneary_shiny.png": "assets/cobblemon/textures/pokemon/opalo/cefiranbuneary/cefiranbuneary_shiny.png",
+    "opalo_cefiranbuneary.animation.json": "assets/cobblemon/bedrock/pokemon/animations/opalo_cefiranbuneary.animation.json",
+    "opalo_cefiranbuneary.geo.json": "assets/cobblemon/bedrock/pokemon/models/opalo_cefiranbuneary.geo.json",
+    "opalo_cefiranbuneary.json": "assets/cobblemon/bedrock/pokemon/posers/opalo_cefiranbuneary.json",
+    "texture__cefiranbuneary.png": "assets/cobblemon/textures/pokemon/opalo/cefiranbuneary/cefiranbuneary.png"
+  }
+}

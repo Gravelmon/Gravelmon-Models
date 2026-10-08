@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_peckabone_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_peckabone_base.json",
+    "peckabone.png": "assets/cobblemon/textures/pokemon/xenoverse/peckabone.png",
+    "peckabone_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/peckabone_cry.ogg"
+  }
+}

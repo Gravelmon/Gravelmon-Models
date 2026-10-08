@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_bullverin_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_bullverin_base.json",
+    "bullverin.png": "assets/cobblemon/textures/pokemon/xenoverse/bullverin.png",
+    "bullverin_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/bullverin_cry.ogg"
+  }
+}

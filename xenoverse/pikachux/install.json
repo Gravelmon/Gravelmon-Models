@@ -1,0 +1,11 @@
+{
+  "files": {
+    "25_pikachu_x.json": "assets/cobblemon/bedrock/species/additional_forms/25_pikachu_x.json",
+    "pikachumalex.png": "assets/cobblemon/textures/pokemon/xenoverse/pikachux/pikachumalex.png",
+    "pikachumalex_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/pikachux/pikachumalex_shiny.png",
+    "pikachux.png": "assets/cobblemon/textures/pokemon/xenoverse/pikachux.png",
+    "xenoverse_pikachux.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_pikachux.animation.json",
+    "xenoverse_pikachux.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_pikachux.geo.json",
+    "xenoverse_pikachux.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_pikachux.json"
+  }
+}

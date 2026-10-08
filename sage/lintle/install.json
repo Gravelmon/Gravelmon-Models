@@ -1,0 +1,13 @@
+{
+  "files": {
+    "0_lintle_base.json": "assets/cobblemon/bedrock/species/sage/0_lintle_base.json",
+    "lintle.png": "assets/cobblemon/textures/pokemon/sage/lintle.png",
+    "lintle_alpha.png": "assets/cobblemon/textures/pokemon/sage/lintle/lintle_alpha.png",
+    "lintle_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/lintle_cry.ogg",
+    "lintle_shiny.png": "assets/cobblemon/textures/pokemon/sage/lintle/lintle_shiny.png",
+    "sage_lintle.animation.json": "assets/cobblemon/bedrock/pokemon/animations/sage_lintle.animation.json",
+    "sage_lintle.geo.json": "assets/cobblemon/bedrock/pokemon/models/sage_lintle.geo.json",
+    "sage_lintle.json": "assets/cobblemon/bedrock/pokemon/posers/sage_lintle.json",
+    "texture__lintle.png": "assets/cobblemon/textures/pokemon/sage/lintle/lintle.png"
+  }
+}

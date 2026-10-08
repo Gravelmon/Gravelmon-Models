@@ -1,0 +1,8 @@
+{
+  "files": {
+    "2000_flygon_flygon.json": "assets/cobblemon/bedrock/species/additional_forms/2000_flygon_flygon.json"
+  },
+  "uses": [
+    "insurgence/armoredflygon/armoredflygon.png"
+  ]
+}

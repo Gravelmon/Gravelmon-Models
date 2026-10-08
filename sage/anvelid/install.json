@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_anvelid_base.json": "assets/cobblemon/bedrock/species/sage/0_anvelid_base.json",
+    "anvelid.png": "assets/cobblemon/textures/pokemon/sage/anvelid.png",
+    "anvelid_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/anvelid_cry.ogg"
+  }
+}

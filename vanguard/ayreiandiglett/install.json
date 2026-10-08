@@ -1,0 +1,12 @@
+{
+  "files": {
+    "88_diglett_ayreian.json": "assets/cobblemon/bedrock/species/additional_forms/88_diglett_ayreian.json",
+    "ayreiandiglett.png": "assets/cobblemon/textures/pokemon/vanguard/ayreiandiglett.png",
+    "diglett_ayreian.png": "assets/cobblemon/textures/pokemon/vanguard/ayreiandiglett/diglett_ayreian.png",
+    "diglett_ayreian_alpha.png": "assets/cobblemon/textures/pokemon/vanguard/ayreiandiglett/diglett_ayreian_alpha.png",
+    "diglett_ayreian_shiny.png": "assets/cobblemon/textures/pokemon/vanguard/ayreiandiglett/diglett_ayreian_shiny.png",
+    "vanguard_ayreiandiglett.animation.json": "assets/cobblemon/bedrock/pokemon/animations/vanguard_ayreiandiglett.animation.json",
+    "vanguard_ayreiandiglett.geo.json": "assets/cobblemon/bedrock/pokemon/models/vanguard_ayreiandiglett.geo.json",
+    "vanguard_ayreiandiglett.json": "assets/cobblemon/bedrock/pokemon/posers/vanguard_ayreiandiglett.json"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "files": {
+    "118_koffing_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_koffing_delta.json",
+    "deltakoffing.png": "assets/cobblemon/textures/pokemon/insurgence/deltakoffing.png",
+    "deltakoffing_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltakoffing/deltakoffing_shiny.png",
+    "insurgence_deltakoffing.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltakoffing.animation.json",
+    "insurgence_deltakoffing.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltakoffing.geo.json",
+    "insurgence_deltakoffing.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltakoffing.json",
+    "koffing_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/koffing_delta_cry.ogg",
+    "texture__deltakoffing.png": "assets/cobblemon/textures/pokemon/insurgence/deltakoffing/deltakoffing.png"
+  }
+}

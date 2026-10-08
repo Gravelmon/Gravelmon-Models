@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_phlask_base.json": "assets/cobblemon/bedrock/species/sage/0_phlask_base.json",
+    "phlask.png": "assets/cobblemon/textures/pokemon/sage/phlask.png",
+    "phlask_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/phlask_cry.ogg"
+  }
+}

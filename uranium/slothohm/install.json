@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_slothohm_base.json": "assets/cobblemon/bedrock/species/uranium/0_slothohm_base.json",
+    "slothohm.png": "assets/cobblemon/textures/pokemon/uranium/slothohm.png",
+    "slothohm_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/slothohm_cry.ogg"
+  }
+}

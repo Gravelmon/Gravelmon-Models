@@ -1,0 +1,31 @@
+{
+  "game": "deneb",
+  "pokemon": "kirgicia",
+  "entries": [
+    {
+      "contributor": {
+        "login": "PorousMist"
+      },
+      "contributors": [
+        {
+          "login": "PorousMist"
+        }
+      ],
+      "submittedAt": "2026-09-26T17:41:15.918Z",
+      "models": [
+        "deneb/kirgicia/deneb_kirgicia.geo.json"
+      ],
+      "animations": [
+        "deneb/kirgicia/deneb_kirgicia.animation.json"
+      ],
+      "textures": [
+        "deneb/kirgicia/texture__kirgicia.png",
+        "assets/cobblemon/kirgicia_1.png",
+        "deneb/kirgicia/kirgicia_alpha.png",
+        "deneb/kirgicia/kirgicia_shiny.png",
+        "deneb/kirgicia/kirgicia.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

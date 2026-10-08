@@ -1,0 +1,40 @@
+{
+  "game": "soulstones",
+  "pokemon": "bulbasaur",
+  "formAspects": [
+    "epoch"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "bulbasaur",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-09-22T22:29:37.196Z",
+      "models": [
+        "soulstones/epochbulbasaur/soulstones_epochbulbasaur.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochbulbasaur/soulstones_epochbulbasaur.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochbulbasaur/bulbasaur_epoch.png",
+        "soulstones/epochbulbasaur/bulbasaur_epoch_alpha.png",
+        "soulstones/epochbulbasaur/bulbasaur_epoch_shiny.png",
+        "soulstones/epochbulbasaur/epochbulbasaur.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "game": "opalo",
+  "pokemon": "descargot",
+  "entries": [
+    {
+      "contributor": {
+        "login": "DigitalRaikan"
+      },
+      "contributors": [
+        {
+          "login": "DigitalRaikan"
+        }
+      ],
+      "submittedAt": "2026-09-27T19:23:37.635Z",
+      "models": [
+        "opalo/descargot/opalo_descargot.geo.json"
+      ],
+      "animations": [
+        "assets/cobblemon/bedrock/pokemon/animations/opalo_descargot.animation.json"
+      ],
+      "textures": [
+        "opalo/descargot/texture__descargot.png",
+        "opalo/descargot/descargot_alpha.png",
+        "assets/cobblemon/descargot_preview.png",
+        "opalo/descargot/descargot_shiny.png",
+        "opalo/descargot/descargot.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

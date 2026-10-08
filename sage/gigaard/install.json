@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_gigaard_base.json": "assets/cobblemon/bedrock/species/sage/0_gigaard_base.json",
+    "gigaard.png": "assets/cobblemon/textures/pokemon/sage/gigaard.png",
+    "gigaard_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/gigaard_cry.ogg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_pumpkid_base.json": "assets/cobblemon/bedrock/species/deneb/0_pumpkid_base.json",
+    "deneb_pumpkid.animation.json": "assets/cobblemon/bedrock/pokemon/animations/deneb_pumpkid.animation.json",
+    "deneb_pumpkid.geo.json": "assets/cobblemon/bedrock/pokemon/models/deneb_pumpkid.geo.json",
+    "deneb_pumpkid.json": "assets/cobblemon/bedrock/pokemon/posers/deneb_pumpkid.json",
+    "pumpkid.png": "assets/cobblemon/textures/pokemon/deneb/pumpkid.png",
+    "pumpkid_cry.ogg": "assets/gravelmon/sounds/pokemon/deneb/pumpkid_cry.ogg",
+    "pumpkid_shiny.png": "assets/cobblemon/textures/pokemon/deneb/pumpkid/pumpkid_shiny.png",
+    "texture__pumpkid.png": "assets/cobblemon/textures/pokemon/deneb/pumpkid/pumpkid.png"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_equxic_base.json": "assets/cobblemon/bedrock/species/africanus/0_equxic_base.json",
+    "africanus_equxic.animation.json": "assets/cobblemon/bedrock/pokemon/animations/africanus_equxic.animation.json",
+    "africanus_equxic.geo.json": "assets/cobblemon/bedrock/pokemon/models/africanus_equxic.geo.json",
+    "africanus_equxic.json": "assets/cobblemon/bedrock/pokemon/posers/africanus_equxic.json",
+    "equxic.png": "assets/cobblemon/textures/pokemon/africanus/equxic.png",
+    "equxic_alpha.png": "assets/cobblemon/textures/pokemon/africanus/equxic/equxic_alpha.png",
+    "equxic_shiny.png": "assets/cobblemon/textures/pokemon/africanus/equxic/equxic_shiny.png",
+    "texture__equxic.png": "assets/cobblemon/textures/pokemon/africanus/equxic/equxic.png"
+  }
+}

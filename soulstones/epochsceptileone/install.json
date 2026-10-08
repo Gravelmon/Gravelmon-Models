@@ -1,0 +1,12 @@
+{
+  "files": {
+    "164_sceptile_epochtwo.json": "assets/cobblemon/bedrock/species/additional_forms/164_sceptile_epochtwo.json",
+    "epochsceptileone.png": "assets/cobblemon/textures/pokemon/soulstones/epochsceptileone.png",
+    "sceptile_epochone.png": "assets/cobblemon/textures/pokemon/soulstones/epochsceptileone/sceptile_epochone.png",
+    "sceptile_epochone_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochsceptileone/sceptile_epochone_alpha.png",
+    "sceptile_epochone_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochsceptileone/sceptile_epochone_shiny.png",
+    "soulstones_epochsceptileone.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochsceptileone.animation.json",
+    "soulstones_epochsceptileone.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochsceptileone.geo.json",
+    "soulstones_epochsceptileone.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochsceptileone.json"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_fafninter_base.json": "assets/cobblemon/bedrock/species/uranium/0_fafninter_base.json",
+    "fafninter.png": "assets/cobblemon/textures/pokemon/uranium/fafninter.png",
+    "fafninter_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/fafninter_cry.ogg"
+  }
+}

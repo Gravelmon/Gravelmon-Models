@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_kungfur_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_kungfur_base.json",
+    "kungfur.png": "assets/cobblemon/textures/pokemon/xenoverse/kungfur.png",
+    "kungfur_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/kungfur_cry.ogg",
+    "kungfur_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/kungfur/kungfur_shiny.png",
+    "texture__kungfur.png": "assets/cobblemon/textures/pokemon/xenoverse/kungfur/kungfur.png",
+    "xenoverse_kungfur.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_kungfur.animation.json",
+    "xenoverse_kungfur.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_kungfur.geo.json",
+    "xenoverse_kungfur.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_kungfur.json"
+  }
+}

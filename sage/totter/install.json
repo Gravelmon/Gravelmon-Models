@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_totter_base.json": "assets/cobblemon/bedrock/species/sage/0_totter_base.json",
+    "totter.png": "assets/cobblemon/textures/pokemon/sage/totter.png",
+    "totter_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/totter_cry.ogg"
+  }
+}

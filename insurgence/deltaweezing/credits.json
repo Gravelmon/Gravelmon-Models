@@ -1,0 +1,38 @@
+{
+  "game": "insurgence",
+  "pokemon": "weezing",
+  "formAspects": [
+    "delta"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "delta"
+      ],
+      "inheritsFrom": {
+        "pokemon": "weezing",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "miner740"
+      },
+      "contributors": [
+        {
+          "login": "miner740"
+        }
+      ],
+      "submittedAt": "2026-09-27T11:20:23.843Z",
+      "models": [
+        "insurgence/deltaweezing/insurgence_deltaweezing.geo.json"
+      ],
+      "animations": [],
+      "textures": [
+        "insurgence/deltaweezing/weezing_delta.png",
+        "insurgence/deltaweezing/weezing_delta_alpha.png",
+        "insurgence/deltaweezing/weezing_delta_shiny.png",
+        "insurgence/deltaweezing/deltaweezing.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

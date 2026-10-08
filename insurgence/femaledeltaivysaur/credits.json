@@ -1,0 +1,42 @@
+{
+  "game": "insurgence",
+  "pokemon": "ivysaur",
+  "formAspects": [
+    "delta",
+    "female"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "delta",
+        "female"
+      ],
+      "inheritsFrom": {
+        "pokemon": "ivysaur",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DigitalRaikan"
+      },
+      "contributors": [
+        {
+          "login": "DigitalRaikan"
+        }
+      ],
+      "submittedAt": "2026-09-25T08:59:41.866Z",
+      "models": [
+        "insurgence/femaledeltaivysaur/insurgence_deltaivysaurfemale.geo.json"
+      ],
+      "animations": [
+        "insurgence/femaledeltaivysaur/insurgence_deltaivysaurfemale.animation.json"
+      ],
+      "textures": [
+        "insurgence/femaledeltaivysaur/deltaivysaur_female.png",
+        "insurgence/femaledeltaivysaur/deltaivysaur_female_alpha.png",
+        "insurgence/femaledeltaivysaur/deltaivysaur_female_shiny.png",
+        "insurgence/femaledeltaivysaur/femaledeltaivysaur.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

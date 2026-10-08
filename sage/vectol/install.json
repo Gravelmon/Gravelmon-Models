@@ -1,0 +1,13 @@
+{
+  "files": {
+    "0_vectol_base.json": "assets/cobblemon/bedrock/species/sage/0_vectol_base.json",
+    "sage_vectol.animation.json": "assets/cobblemon/bedrock/pokemon/animations/sage_vectol.animation.json",
+    "sage_vectol.geo.json": "assets/cobblemon/bedrock/pokemon/models/sage_vectol.geo.json",
+    "sage_vectol.json": "assets/cobblemon/bedrock/pokemon/posers/sage_vectol.json",
+    "texture__vectol.png": "assets/cobblemon/textures/pokemon/sage/vectol/vectol.png",
+    "vectol.png": "assets/cobblemon/textures/pokemon/sage/vectol.png",
+    "vectol_alpha.png": "assets/cobblemon/textures/pokemon/sage/vectol/vectol_alpha.png",
+    "vectol_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/vectol_cry.ogg",
+    "vectol_shiny.png": "assets/cobblemon/textures/pokemon/sage/vectol/vectol_shiny.png"
+  }
+}

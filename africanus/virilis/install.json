@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_virilis_base.json": "assets/cobblemon/bedrock/species/africanus/0_virilis_base.json",
+    "virilis.png": "assets/cobblemon/textures/pokemon/africanus/virilis.png",
+    "virilis_cry.ogg": "assets/gravelmon/sounds/pokemon/africanus/virilis_cry.ogg"
+  }
+}

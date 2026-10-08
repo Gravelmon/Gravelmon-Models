@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_brutoad_base.json": "assets/cobblemon/bedrock/species/infinity/0_brutoad_base.json",
+    "brutoad.png": "assets/cobblemon/textures/pokemon/infinity/brutoad.png",
+    "brutoad_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/brutoad_cry.ogg"
+  }
+}

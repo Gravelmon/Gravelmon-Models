@@ -1,0 +1,13 @@
+{
+  "files": {
+    "145_trishout_terrestrial.json": "assets/cobblemon/bedrock/species/additional_forms/145_trishout_terrestrial.json",
+    "terrestrialtrishout.png": "assets/cobblemon/textures/pokemon/xenoverse/terrestrialtrishout.png",
+    "trishout_terrestrial.png": "assets/cobblemon/textures/pokemon/xenoverse/terrestrialtrishout/trishout_terrestrial.png",
+    "trishout_terrestrial_alpha.png": "assets/cobblemon/textures/pokemon/xenoverse/terrestrialtrishout/trishout_terrestrial_alpha.png",
+    "trishout_terrestrial_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/trishout_terrestrial_cry.ogg",
+    "trishout_terrestrial_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/terrestrialtrishout/trishout_terrestrial_shiny.png",
+    "xenoverse_terrestrialtrishout.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_terrestrialtrishout.animation.json",
+    "xenoverse_terrestrialtrishout.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_terrestrialtrishout.geo.json",
+    "xenoverse_terrestrialtrishout.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_terrestrialtrishout.json"
+  }
+}

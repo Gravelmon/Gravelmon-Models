@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_fuelong_base.json": "assets/cobblemon/bedrock/species/sage/0_fuelong_base.json",
+    "fuelong.png": "assets/cobblemon/textures/pokemon/sage/fuelong.png",
+    "fuelong_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/fuelong_cry.ogg"
+  }
+}

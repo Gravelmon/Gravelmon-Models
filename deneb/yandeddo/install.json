@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_yandeddo_base.json": "assets/cobblemon/bedrock/species/deneb/0_yandeddo_base.json",
+    "deneb_yandeddo.animation.json": "assets/cobblemon/bedrock/pokemon/animations/deneb_yandeddo.animation.json",
+    "deneb_yandeddo.geo.json": "assets/cobblemon/bedrock/pokemon/models/deneb_yandeddo.geo.json",
+    "deneb_yandeddo.json": "assets/cobblemon/bedrock/pokemon/posers/deneb_yandeddo.json",
+    "texture__yandeddo.png": "assets/cobblemon/textures/pokemon/deneb/yandeddo/yandeddo.png",
+    "yandeddo.png": "assets/cobblemon/textures/pokemon/deneb/yandeddo.png",
+    "yandeddo_cry.ogg": "assets/gravelmon/sounds/pokemon/deneb/yandeddo_cry.ogg",
+    "yandeddo_shiny.png": "assets/cobblemon/textures/pokemon/deneb/yandeddo/yandeddo_shiny.png"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "files": {
+    "0_floressum_base.json": "assets/cobblemon/bedrock/species/sage/0_floressum_base.json",
+    "floressum.png": "assets/cobblemon/textures/pokemon/sage/floressum.png",
+    "floressum_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/floressum_cry.ogg",
+    "floressum_female.png": "assets/cobblemon/textures/pokemon/sage/floressum/floressum_female.png",
+    "floressum_female_shiny.png": "assets/cobblemon/textures/pokemon/sage/floressum/floressum_female_shiny.png",
+    "floressum_shiny.png": "assets/cobblemon/textures/pokemon/sage/floressum/floressum_shiny.png",
+    "sage_floressum.animation.json": "assets/cobblemon/bedrock/pokemon/animations/sage_floressum.animation.json",
+    "sage_floressum.geo.json": "assets/cobblemon/bedrock/pokemon/models/sage_floressum.geo.json",
+    "sage_floressum.json": "assets/cobblemon/bedrock/pokemon/posers/sage_floressum.json",
+    "texture__floressum.png": "assets/cobblemon/textures/pokemon/sage/floressum/floressum.png"
+  }
+}

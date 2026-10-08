@@ -1,0 +1,9 @@
+{
+  "files": {
+    "budsoar_female.png": "assets/cobblemon/textures/pokemon/solar_light_lunar_dark/budsoarfemale/budsoar_female.png",
+    "femalebudsoar.png": "assets/cobblemon/textures/pokemon/solar_light_lunar_dark/femalebudsoar.png"
+  },
+  "uses": [
+    "solar_light_lunar_dark/budsoar/0_budsoar_base.json"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "files": {
+    "24_dragapult_hoennian.json": "assets/cobblemon/bedrock/species/additional_forms/24_dragapult_hoennian.json",
+    "blazing_emerald_hoenniandragapult.geo.json": "assets/cobblemon/bedrock/pokemon/models/blazing_emerald_hoenniandragapult.geo.json",
+    "blazing_emerald_hoenniandragapult.json": "assets/cobblemon/bedrock/pokemon/posers/blazing_emerald_hoenniandragapult.json",
+    "dragapult_fire.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandragapult/dragapult_fire.png",
+    "dragapult_fire_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandragapult/dragapult_fire_shiny.png",
+    "dragapult_hoennian.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandragapult/dragapult_hoennian.png",
+    "dragapult_hoennian_alpha.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandragapult/dragapult_hoennian_alpha.png",
+    "dragapult_hoennian_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/dragapult_hoennian_cry.ogg",
+    "dragapult_hoennian_emissive.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandragapult/dragapult_hoennian_emissive.png",
+    "dragapult_hoennian_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandragapult/dragapult_hoennian_shiny.png",
+    "dragapult_hoennian_shiny_emissive.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandragapult/dragapult_hoennian_shiny_emissive.png",
+    "hoenniandragapult.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandragapult.png",
+    "hoenniandragapult_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandragapult/hoenniandragapult_shiny.png",
+    "texture__hoenniandragapult.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandragapult/hoenniandragapult.png"
+  }
+}

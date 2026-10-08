@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_kirgicia_base.json": "assets/cobblemon/bedrock/species/deneb/0_kirgicia_base.json",
+    "deneb_kirgicia.animation.json": "assets/cobblemon/bedrock/pokemon/animations/deneb_kirgicia.animation.json",
+    "deneb_kirgicia.geo.json": "assets/cobblemon/bedrock/pokemon/models/deneb_kirgicia.geo.json",
+    "deneb_kirgicia.json": "assets/cobblemon/bedrock/pokemon/posers/deneb_kirgicia.json",
+    "kirgicia.png": "assets/cobblemon/textures/pokemon/deneb/kirgicia.png",
+    "kirgicia_alpha.png": "assets/cobblemon/textures/pokemon/deneb/kirgicia/kirgicia_alpha.png",
+    "kirgicia_shiny.png": "assets/cobblemon/textures/pokemon/deneb/kirgicia/kirgicia_shiny.png",
+    "texture__kirgicia.png": "assets/cobblemon/textures/pokemon/deneb/kirgicia/kirgicia.png"
+  }
+}

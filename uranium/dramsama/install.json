@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_dramsama_base.json": "assets/cobblemon/bedrock/species/uranium/0_dramsama_base.json",
+    "dramsama.png": "assets/cobblemon/textures/pokemon/uranium/dramsama.png",
+    "dramsama_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/dramsama_cry.ogg"
+  }
+}

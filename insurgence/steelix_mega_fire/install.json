@@ -1,0 +1,21 @@
+{
+  "files": {
+    "1000_steelix_mega_fire.json": "assets/cobblemon/bedrock/species/additional_forms/1000_steelix_mega_fire.json",
+    "flame__flame1.png": "assets/cobblemon/textures/pokemon/insurgence/steelix_mega_fire/flame/flame1.png",
+    "flame__flame1_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/steelix_mega_fire/flame/flame1_shiny.png",
+    "flame__flame2.png": "assets/cobblemon/textures/pokemon/insurgence/steelix_mega_fire/flame/flame2.png",
+    "flame__flame2_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/steelix_mega_fire/flame/flame2_shiny.png",
+    "flame__flame3.png": "assets/cobblemon/textures/pokemon/insurgence/steelix_mega_fire/flame/flame3.png",
+    "flame__flame3_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/steelix_mega_fire/flame/flame3_shiny.png",
+    "flame__flame4.png": "assets/cobblemon/textures/pokemon/insurgence/steelix_mega_fire/flame/flame4.png",
+    "flame__flame4_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/steelix_mega_fire/flame/flame4_shiny.png",
+    "insurgence_steelix_mega_fire.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_steelix_mega_fire.animation.json",
+    "insurgence_steelix_mega_fire.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_steelix_mega_fire.geo.json",
+    "insurgence_steelix_mega_fire.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_steelix_mega_fire.json",
+    "steelix_mega.png": "assets/cobblemon/textures/pokemon/insurgence/steelix_mega_fire/steelix_mega.png",
+    "steelix_mega_emissive.png": "assets/cobblemon/textures/pokemon/insurgence/steelix_mega_fire/steelix_mega_emissive.png",
+    "steelix_mega_emissive_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/steelix_mega_fire/steelix_mega_emissive_shiny.png",
+    "steelix_mega_fire.png": "assets/cobblemon/textures/pokemon/insurgence/steelix_mega_fire.png",
+    "steelix_mega_fire_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/steelix_mega_fire/steelix_mega_fire_shiny.png"
+  }
+}

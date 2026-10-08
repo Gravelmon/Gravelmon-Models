@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_goolossal_base.json": "assets/cobblemon/bedrock/species/blazing_emerald/0_goolossal_base.json",
+    "goolossal.png": "assets/cobblemon/textures/pokemon/blazing_emerald/goolossal.png",
+    "goolossal_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/goolossal_cry.ogg"
+  }
+}

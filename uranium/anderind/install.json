@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_anderind_base.json": "assets/cobblemon/bedrock/species/uranium/0_anderind_base.json",
+    "anderind.png": "assets/cobblemon/textures/pokemon/uranium/anderind.png",
+    "anderind_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/anderind_cry.ogg"
+  }
+}

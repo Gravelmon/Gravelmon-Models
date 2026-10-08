@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_carajoule_base.json": "assets/cobblemon/bedrock/species/sage/0_carajoule_base.json",
+    "carajoule.png": "assets/cobblemon/textures/pokemon/sage/carajoule.png",
+    "carajoule_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/carajoule_cry.ogg"
+  }
+}

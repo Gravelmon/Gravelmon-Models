@@ -1,0 +1,11 @@
+{
+  "files": {
+    "88_rillaboom_ayreian.json": "assets/cobblemon/bedrock/species/additional_forms/88_rillaboom_ayreian.json",
+    "ayreianrillaboom.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianrillaboom.png",
+    "rillaboom.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianrillaboom/rillaboom.png",
+    "rillaboom_shiny.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianrillaboom/rillaboom_shiny.png",
+    "rillaboom_transparent.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianrillaboom/rillaboom_transparent.png",
+    "vanguard_ayreianrillaboom.geo.json": "assets/cobblemon/bedrock/pokemon/models/vanguard_ayreianrillaboom.geo.json",
+    "vanguard_ayreianrillaboom.json": "assets/cobblemon/bedrock/pokemon/posers/vanguard_ayreianrillaboom.json"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_actan_base.json": "assets/cobblemon/bedrock/species/uranium/0_actan_base.json",
+    "actan.png": "assets/cobblemon/textures/pokemon/uranium/actan.png",
+    "actan_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/actan_cry.ogg"
+  }
+}

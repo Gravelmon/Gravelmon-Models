@@ -1,0 +1,41 @@
+{
+  "game": "xenoverse",
+  "pokemon": "trishout",
+  "formAspects": [
+    "xenoversal"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "xenoversal"
+      ],
+      "inheritsFrom": {
+        "pokemon": "trishout",
+        "game": "xenoverse"
+      },
+      "contributor": {
+        "login": "Blitz"
+      },
+      "contributors": [
+        {
+          "login": "Blitz"
+        }
+      ],
+      "submittedAt": "2026-09-26T09:49:15.174Z",
+      "models": [
+        "xenoverse/xenoversaltrishout/xenoverse_xenoversaltrishout.geo.json"
+      ],
+      "animations": [
+        "xenoverse/xenoversaltrishout/xenoverse_xenoversaltrishout.animation.json"
+      ],
+      "textures": [
+        "xenoverse/xenoversaltrishout/trishout_xenoversal.png",
+        "xenoverse/xenoversaltrishout/trishout_xenoversal_alpha.png",
+        "xenoverse/xenoversaltrishout/trishout_xenoversal_shiny.png",
+        "assets/cobblemon/xenoverse_trishoutxenoversal_preview.png",
+        "xenoverse/xenoversaltrishout/xenoversaltrishout.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

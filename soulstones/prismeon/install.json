@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_prismeon_base.json": "assets/cobblemon/bedrock/species/soulstones/0_prismeon_base.json",
+    "prismeon.png": "assets/cobblemon/textures/pokemon/soulstones/prismeon.png",
+    "prismeon_cry.ogg": "assets/gravelmon/sounds/pokemon/soulstones/prismeon_cry.ogg"
+  }
+}

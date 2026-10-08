@@ -1,0 +1,15 @@
+{
+  "files": {
+    "117_bulbasaur_egho.json": "assets/cobblemon/bedrock/species/additional_forms/117_bulbasaur_egho.json",
+    "bulbasaur_egho.png": "assets/cobblemon/textures/pokemon/infinity/eghobulbasaur/bulbasaur_egho.png",
+    "bulbasaur_egho_alpha.png": "assets/cobblemon/textures/pokemon/infinity/eghobulbasaur/bulbasaur_egho_alpha.png",
+    "bulbasaur_egho_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/bulbasaur_egho_cry.ogg",
+    "bulbasaur_egho_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghobulbasaur/bulbasaur_egho_shiny.png",
+    "eghobulbasaur.png": "assets/cobblemon/textures/pokemon/infinity/eghobulbasaur.png",
+    "eghobulbasaur_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghobulbasaur/eghobulbasaur_shiny.png",
+    "infinity_eghobulbasaur.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_eghobulbasaur.animation.json",
+    "infinity_eghobulbasaur.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_eghobulbasaur.geo.json",
+    "infinity_eghobulbasaur.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_eghobulbasaur.json",
+    "texture__eghobulbasaur.png": "assets/cobblemon/textures/pokemon/infinity/eghobulbasaur/eghobulbasaur.png"
+  }
+}

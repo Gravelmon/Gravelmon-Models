@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_dusmee_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_dusmee_base.json",
+    "dusmee.png": "assets/cobblemon/textures/pokemon/xenoverse/dusmee.png",
+    "dusmee_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/dusmee_cry.ogg"
+  }
+}

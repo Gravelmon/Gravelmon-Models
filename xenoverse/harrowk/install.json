@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_harrowk_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_harrowk_base.json",
+    "harrowk.png": "assets/cobblemon/textures/pokemon/xenoverse/harrowk.png",
+    "harrowk_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/harrowk_cry.ogg"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_rexquiem_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_rexquiem_base.json",
+    "rexquiem.png": "assets/cobblemon/textures/pokemon/xenoverse/rexquiem.png",
+    "rexquiem_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/rexquiem_cry.ogg"
+  }
+}

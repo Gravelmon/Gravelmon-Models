@@ -1,0 +1,11 @@
+{
+  "files": {
+    "164_electabuzz_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_electabuzz_epoch.json",
+    "electabuzz_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochelectabuzz/electabuzz_epoch.png",
+    "electabuzz_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochelectabuzz/electabuzz_epoch_alpha.png",
+    "electabuzz_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochelectabuzz/electabuzz_epoch_shiny.png",
+    "epochelectabuzz.png": "assets/cobblemon/textures/pokemon/soulstones/epochelectabuzz.png",
+    "soulstones_epochelectabuzz.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochelectabuzz.geo.json",
+    "soulstones_epochelectabuzz.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochelectabuzz.json"
+  }
+}

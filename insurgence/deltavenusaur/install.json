@@ -1,0 +1,22 @@
+{
+  "files": {
+    "118_venusaur_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_venusaur_delta.json",
+    "deltavenusaur.animation.json": "assets/cobblemon/bedrock/pokemon/animations/deltavenusaur.animation.json",
+    "deltavenusaur.png": "assets/cobblemon/textures/pokemon/insurgence/deltavenusaur.png",
+    "deltavenusaur_alpha.png": "assets/cobblemon/textures/pokemon/insurgence/deltavenusaur/deltavenusaur_alpha.png",
+    "deltavenusaur_female.png": "assets/cobblemon/textures/pokemon/insurgence/deltavenusaur/deltavenusaur_female.png",
+    "deltavenusaur_female_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltavenusaur/deltavenusaur_female_shiny.png",
+    "deltavenusaur_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltavenusaur/deltavenusaur_shiny.png",
+    "insurgence_deltavenusaur.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltavenusaur.geo.json",
+    "insurgence_deltavenusaur.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltavenusaur.json",
+    "texture__deltavenusaur.png": "assets/cobblemon/textures/pokemon/insurgence/deltavenusaur/deltavenusaur.png",
+    "venusaur_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/venusaur_delta_cry.ogg",
+    "venusaur_delta_mega.png": "assets/cobblemon/textures/pokemon/insurgence/deltavenusaur/venusaur_delta_mega.png",
+    "venusaur_delta_mega_emissive.png": "assets/cobblemon/textures/pokemon/insurgence/deltavenusaur/venusaur_delta_mega_emissive.png",
+    "venusaur_delta_mega_emissive_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltavenusaur/venusaur_delta_mega_emissive_shiny.png",
+    "venusaur_delta_mega_female.png": "assets/cobblemon/textures/pokemon/insurgence/deltavenusaur/venusaur_delta_mega_female.png",
+    "venusaur_delta_mega_female_emissive.png": "assets/cobblemon/textures/pokemon/insurgence/deltavenusaur/venusaur_delta_mega_female_emissive.png",
+    "venusaur_delta_mega_female_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltavenusaur/venusaur_delta_mega_female_shiny.png",
+    "venusaur_delta_mega_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltavenusaur/venusaur_delta_mega_shiny.png"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "game": "sage",
+  "pokemon": "scovalope",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Carnifax"
+      },
+      "contributors": [
+        {
+          "login": "Carnifax"
+        }
+      ],
+      "submittedAt": "2026-09-25T06:16:09.473Z",
+      "models": [
+        "sage/scovalope/sage_scovalope.geo.json"
+      ],
+      "animations": [
+        "sage/scovalope/sage_scovalope.animation.json"
+      ],
+      "textures": [
+        "sage/scovalope/scovalope_flame__scovalope_flame1.png",
+        "sage/scovalope/scovalope_flame__scovalope_flame2.png",
+        "sage/scovalope/scovalope_flame__scovalope_flame3.png",
+        "sage/scovalope/texture__scovalope.png",
+        "sage/scovalope/scovalope_alpha.png",
+        "sage/scovalope/scovalope_shiny.png",
+        "sage/scovalope/scovalope.png"
+      ],
+      "sounds": [
+        "sage/scovalope/scovalope_cry.ogg"
+      ]
+    }
+  ]
+}

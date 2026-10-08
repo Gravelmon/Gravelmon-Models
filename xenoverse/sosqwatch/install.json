@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_sosqwatch_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_sosqwatch_base.json",
+    "sosqwatch.png": "assets/cobblemon/textures/pokemon/xenoverse/sosqwatch.png",
+    "sosqwatch_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/sosqwatch_cry.ogg"
+  }
+}

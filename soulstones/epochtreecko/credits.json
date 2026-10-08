@@ -1,0 +1,40 @@
+{
+  "game": "soulstones",
+  "pokemon": "treecko",
+  "formAspects": [
+    "epoch"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "treecko",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-09-19T10:35:57.329Z",
+      "models": [
+        "soulstones/epochtreecko/soulstones_epochtreecko.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochtreecko/soulstones_epochtreecko.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochtreecko/treecko_epoch.png",
+        "soulstones/epochtreecko/treecko_epoch_alpha.png",
+        "soulstones/epochtreecko/treecko_epoch_shiny.png",
+        "soulstones/epochtreecko/epochtreecko.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

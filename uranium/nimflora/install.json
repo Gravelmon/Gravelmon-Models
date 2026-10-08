@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_nimflora_base.json": "assets/cobblemon/bedrock/species/uranium/0_nimflora_base.json",
+    "nimflora.png": "assets/cobblemon/textures/pokemon/uranium/nimflora.png",
+    "nimflora_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/nimflora_cry.ogg"
+  }
+}

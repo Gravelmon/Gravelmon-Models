@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_wardern_base.json": "assets/cobblemon/bedrock/species/infinity/0_wardern_base.json",
+    "wardern.png": "assets/cobblemon/textures/pokemon/infinity/wardern.png",
+    "wardern_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/wardern_cry.ogg"
+  }
+}

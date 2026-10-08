@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_wereyena_base.json": "assets/cobblemon/bedrock/species/infinity/0_wereyena_base.json",
+    "infinity_wereyena.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_wereyena.animation.json",
+    "infinity_wereyena.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_wereyena.geo.json",
+    "infinity_wereyena.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_wereyena.json",
+    "texture__wereyena.png": "assets/cobblemon/textures/pokemon/infinity/wereyena/wereyena.png",
+    "wereyena.png": "assets/cobblemon/textures/pokemon/infinity/wereyena.png",
+    "wereyena_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/wereyena_cry.ogg",
+    "wereyena_shiny.png": "assets/cobblemon/textures/pokemon/infinity/wereyena/wereyena_shiny.png"
+  }
+}

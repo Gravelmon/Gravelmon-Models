@@ -1,0 +1,30 @@
+{
+  "game": "xenoverse",
+  "pokemon": "electaburst",
+  "entries": [
+    {
+      "contributor": {
+        "login": "DigitalRaikan"
+      },
+      "contributors": [
+        {
+          "login": "DigitalRaikan"
+        }
+      ],
+      "submittedAt": "2026-09-27T11:02:30.629Z",
+      "models": [
+        "xenoverse/electaburst/xenoverse_electaburst.geo.json"
+      ],
+      "animations": [
+        "assets/cobblemon/bedrock/pokemon/animations/xenoverse_electaburst.animation.json"
+      ],
+      "textures": [
+        "xenoverse/electaburst/texture__electaburst.png",
+        "xenoverse/electaburst/electaburst_alpha.png",
+        "xenoverse/electaburst/electaburst_shiny.png",
+        "xenoverse/electaburst/electaburst.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

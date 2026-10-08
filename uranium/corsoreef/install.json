@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_corsoreef_base.json": "assets/cobblemon/bedrock/species/uranium/0_corsoreef_base.json",
+    "corsoreef.png": "assets/cobblemon/textures/pokemon/uranium/corsoreef.png",
+    "corsoreef_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/corsoreef_cry.ogg"
+  }
+}

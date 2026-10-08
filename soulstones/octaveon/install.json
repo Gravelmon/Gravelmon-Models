@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_octaveon_base.json": "assets/cobblemon/bedrock/species/soulstones/0_octaveon_base.json",
+    "octaveon.png": "assets/cobblemon/textures/pokemon/soulstones/octaveon.png",
+    "octaveon_cry.ogg": "assets/gravelmon/sounds/pokemon/soulstones/octaveon_cry.ogg"
+  }
+}

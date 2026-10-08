@@ -1,0 +1,32 @@
+{
+  "files": {
+    "25_raichu_x.json": "assets/cobblemon/bedrock/species/additional_forms/25_raichu_x.json",
+    "heartbeat__heartbeat1.png": "assets/cobblemon/textures/pokemon/xenoverse/raichux/heartbeat/heartbeat1.png",
+    "heartbeat__heartbeat10.png": "assets/cobblemon/textures/pokemon/xenoverse/raichux/heartbeat/heartbeat10.png",
+    "heartbeat__heartbeat10_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/raichux/heartbeat/heartbeat10_shiny.png",
+    "heartbeat__heartbeat1_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/raichux/heartbeat/heartbeat1_shiny.png",
+    "heartbeat__heartbeat2.png": "assets/cobblemon/textures/pokemon/xenoverse/raichux/heartbeat/heartbeat2.png",
+    "heartbeat__heartbeat2_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/raichux/heartbeat/heartbeat2_shiny.png",
+    "heartbeat__heartbeat3.png": "assets/cobblemon/textures/pokemon/xenoverse/raichux/heartbeat/heartbeat3.png",
+    "heartbeat__heartbeat3_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/raichux/heartbeat/heartbeat3_shiny.png",
+    "heartbeat__heartbeat4.png": "assets/cobblemon/textures/pokemon/xenoverse/raichux/heartbeat/heartbeat4.png",
+    "heartbeat__heartbeat4_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/raichux/heartbeat/heartbeat4_shiny.png",
+    "heartbeat__heartbeat5.png": "assets/cobblemon/textures/pokemon/xenoverse/raichux/heartbeat/heartbeat5.png",
+    "heartbeat__heartbeat5_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/raichux/heartbeat/heartbeat5_shiny.png",
+    "heartbeat__heartbeat6.png": "assets/cobblemon/textures/pokemon/xenoverse/raichux/heartbeat/heartbeat6.png",
+    "heartbeat__heartbeat6_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/raichux/heartbeat/heartbeat6_shiny.png",
+    "heartbeat__heartbeat7.png": "assets/cobblemon/textures/pokemon/xenoverse/raichux/heartbeat/heartbeat7.png",
+    "heartbeat__heartbeat7_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/raichux/heartbeat/heartbeat7_shiny.png",
+    "heartbeat__heartbeat8.png": "assets/cobblemon/textures/pokemon/xenoverse/raichux/heartbeat/heartbeat8.png",
+    "heartbeat__heartbeat8_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/raichux/heartbeat/heartbeat8_shiny.png",
+    "heartbeat__heartbeat9.png": "assets/cobblemon/textures/pokemon/xenoverse/raichux/heartbeat/heartbeat9.png",
+    "heartbeat__heartbeat9_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/raichux/heartbeat/heartbeat9_shiny.png",
+    "raichu_x_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/raichu_x_cry.ogg",
+    "raichux.png": "assets/cobblemon/textures/pokemon/xenoverse/raichux.png",
+    "raichux_form.png": "assets/cobblemon/textures/pokemon/xenoverse/raichux/raichux_form.png",
+    "raichux_form_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/raichux/raichux_form_shiny.png",
+    "xenoverse_raichux.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_raichux.animation.json",
+    "xenoverse_raichux.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_raichux.geo.json",
+    "xenoverse_raichux.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_raichux.json"
+  }
+}

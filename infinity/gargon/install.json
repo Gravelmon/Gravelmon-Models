@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_gargon_base.json": "assets/cobblemon/bedrock/species/infinity/0_gargon_base.json",
+    "gargon.png": "assets/cobblemon/textures/pokemon/infinity/gargon.png",
+    "gargon_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/gargon_cry.ogg"
+  }
+}

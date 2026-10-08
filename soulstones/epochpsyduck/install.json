@@ -1,0 +1,12 @@
+{
+  "files": {
+    "164_psyduck_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_psyduck_epoch.json",
+    "epochpsyduck.png": "assets/cobblemon/textures/pokemon/soulstones/epochpsyduck.png",
+    "psyduck_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochpsyduck/psyduck_epoch.png",
+    "psyduck_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochpsyduck/psyduck_epoch_alpha.png",
+    "psyduck_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochpsyduck/psyduck_epoch_shiny.png",
+    "soulstones_epochpsyduck.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochpsyduck.animation.json",
+    "soulstones_epochpsyduck.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochpsyduck.geo.json",
+    "soulstones_epochpsyduck.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochpsyduck.json"
+  }
+}

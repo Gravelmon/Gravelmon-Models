@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_lupercalis_base.json": "assets/cobblemon/bedrock/species/africanus/0_lupercalis_base.json",
+    "lupercalis.png": "assets/cobblemon/textures/pokemon/africanus/lupercalis.png",
+    "lupercalis_cry.ogg": "assets/gravelmon/sounds/pokemon/africanus/lupercalis_cry.ogg"
+  }
+}

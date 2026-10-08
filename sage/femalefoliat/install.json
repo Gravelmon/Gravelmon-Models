@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_foliat_base__femalefoliat.json": "assets/cobblemon/bedrock/species/sage/0_foliat_base__femalefoliat.json",
+    "femalefoliat.png": "assets/cobblemon/textures/pokemon/sage/femalefoliat.png",
+    "sage_foliatfemale.geo.json": "assets/cobblemon/bedrock/pokemon/models/sage_foliatfemale.geo.json"
+  },
+  "uses": [
+    "sage/foliat/foliat_female.png",
+    "sage/foliat/sage_foliat.animation.json",
+    "sage/foliat/sage_foliat.json"
+  ]
+}

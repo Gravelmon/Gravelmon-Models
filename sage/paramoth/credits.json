@@ -1,0 +1,33 @@
+{
+  "game": "sage",
+  "pokemon": "paramoth",
+  "entries": [
+    {
+      "contributor": {
+        "login": "mitchooart"
+      },
+      "contributors": [
+        {
+          "login": "mitchooart"
+        },
+        {
+          "login": "ivangarcia1.0"
+        }
+      ],
+      "submittedAt": "2026-10-05T07:41:20.319Z",
+      "models": [
+        "sage/paramoth/sage_paramoth.geo.json"
+      ],
+      "animations": [
+        "_unreferenced/assets/cobblemon/bedrock/pokemon/animations/sage_paramoth.animation.json"
+      ],
+      "textures": [
+        "sage/paramoth/paramoth_male.png",
+        "sage/paramoth/paramoth_male_alpha.png",
+        "sage/paramoth/paramoth_male_shiny.png",
+        "sage/paramoth/paramoth.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

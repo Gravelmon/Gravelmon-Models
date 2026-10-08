@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_sponee_base.json": "assets/cobblemon/bedrock/species/uranium/0_sponee_base.json",
+    "sponee.png": "assets/cobblemon/textures/pokemon/uranium/sponee.png",
+    "sponee_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/sponee_cry.ogg"
+  }
+}

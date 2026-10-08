@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_infiris_base.json": "assets/cobblemon/bedrock/species/deneb/0_infiris_base.json",
+    "infiris.png": "assets/cobblemon/textures/pokemon/deneb/infiris.png",
+    "infiris_cry.ogg": "assets/gravelmon/sounds/pokemon/deneb/infiris_cry.ogg"
+  }
+}

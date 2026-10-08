@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_chiripe_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_chiripe_base.json",
+    "chiripe.png": "assets/cobblemon/textures/pokemon/xenoverse/chiripe.png",
+    "chiripe_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/chiripe_cry.ogg"
+  }
+}

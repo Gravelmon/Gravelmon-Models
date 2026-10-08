@@ -1,0 +1,40 @@
+{
+  "game": "insurgence",
+  "pokemon": "munchlax",
+  "formAspects": [
+    "delta"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "delta"
+      ],
+      "inheritsFrom": {
+        "pokemon": "munchlax",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-09-27T12:54:48.809Z",
+      "models": [
+        "insurgence/deltamunchlax/insurgence_deltamunchlax.geo.json"
+      ],
+      "animations": [
+        "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltamunchlax.animation.json"
+      ],
+      "textures": [
+        "insurgence/deltamunchlax/delta_munchlax.png",
+        "insurgence/deltamunchlax/delta_munchlax_alpha.png",
+        "insurgence/deltamunchlax/delta_munchlax_shiny.png",
+        "insurgence/deltamunchlax/deltamunchlax.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

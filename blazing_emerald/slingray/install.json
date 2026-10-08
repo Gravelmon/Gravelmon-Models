@@ -1,0 +1,13 @@
+{
+  "files": {
+    "0_slingray_base.json": "assets/cobblemon/bedrock/species/blazing_emerald/0_slingray_base.json",
+    "blazing_emerald_slingray.animation.json": "assets/cobblemon/bedrock/pokemon/animations/blazing_emerald_slingray.animation.json",
+    "blazing_emerald_slingray.geo.json": "assets/cobblemon/bedrock/pokemon/models/blazing_emerald_slingray.geo.json",
+    "blazing_emerald_slingray.json": "assets/cobblemon/bedrock/pokemon/posers/blazing_emerald_slingray.json",
+    "slingray.png": "assets/cobblemon/textures/pokemon/blazing_emerald/slingray.png",
+    "slingray_alpha.png": "assets/cobblemon/textures/pokemon/blazing_emerald/slingray/slingray_alpha.png",
+    "slingray_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/slingray_cry.ogg",
+    "slingray_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/slingray/slingray_shiny.png",
+    "texture__slingray.png": "assets/cobblemon/textures/pokemon/blazing_emerald/slingray/slingray.png"
+  }
+}

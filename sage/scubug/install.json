@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_scubug_base.json": "assets/cobblemon/bedrock/species/sage/0_scubug_base.json",
+    "scubug.png": "assets/cobblemon/textures/pokemon/sage/scubug.png",
+    "scubug_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/scubug_cry.ogg"
+  }
+}

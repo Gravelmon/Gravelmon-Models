@@ -1,0 +1,12 @@
+{
+  "files": {
+    "118_lombre_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_lombre_delta.json",
+    "deltalombre.png": "assets/cobblemon/textures/pokemon/insurgence/deltalombre.png",
+    "deltalombre_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltalombre/deltalombre_shiny.png",
+    "insurgence_deltalombre.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltalombre.animation.json",
+    "insurgence_deltalombre.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltalombre.geo.json",
+    "insurgence_deltalombre.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltalombre.json",
+    "lombre_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/lombre_delta_cry.ogg",
+    "texture__deltalombre.png": "assets/cobblemon/textures/pokemon/insurgence/deltalombre/deltalombre.png"
+  }
+}

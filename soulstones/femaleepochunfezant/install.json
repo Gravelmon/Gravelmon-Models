@@ -1,0 +1,9 @@
+{
+  "files": {
+    "epochunfezant_female.png": "assets/cobblemon/textures/pokemon/soulstones/epochunfezantfemale/epochunfezant_female.png",
+    "femaleepochunfezant.png": "assets/cobblemon/textures/pokemon/soulstones/femaleepochunfezant.png"
+  },
+  "uses": [
+    "soulstones/epochunfezant/164_unfezant_epoch.json"
+  ]
+}

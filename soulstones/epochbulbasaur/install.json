@@ -1,0 +1,12 @@
+{
+  "files": {
+    "164_bulbasaur_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_bulbasaur_epoch.json",
+    "bulbasaur_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochbulbasaur/bulbasaur_epoch.png",
+    "bulbasaur_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochbulbasaur/bulbasaur_epoch_alpha.png",
+    "bulbasaur_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochbulbasaur/bulbasaur_epoch_shiny.png",
+    "epochbulbasaur.png": "assets/cobblemon/textures/pokemon/soulstones/epochbulbasaur.png",
+    "soulstones_epochbulbasaur.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochbulbasaur.animation.json",
+    "soulstones_epochbulbasaur.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochbulbasaur.geo.json",
+    "soulstones_epochbulbasaur.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochbulbasaur.json"
+  }
+}

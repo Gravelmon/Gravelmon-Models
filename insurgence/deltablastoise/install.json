@@ -1,0 +1,13 @@
+{
+  "files": {
+    "118_blastoise_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_blastoise_delta.json",
+    "blastoise_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/blastoise_delta_cry.ogg",
+    "deltablastoise.png": "assets/cobblemon/textures/pokemon/insurgence/deltablastoise.png",
+    "deltablastoise_alpha.png": "assets/cobblemon/textures/pokemon/insurgence/deltablastoise/deltablastoise_alpha.png",
+    "deltablastoise_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltablastoise/deltablastoise_shiny.png",
+    "insurgence_deltablastoise.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltablastoise.animation.json",
+    "insurgence_deltablastoise.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltablastoise.geo.json",
+    "insurgence_deltablastoise.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltablastoise.json",
+    "texture__deltablastoise.png": "assets/cobblemon/textures/pokemon/insurgence/deltablastoise/deltablastoise.png"
+  }
+}

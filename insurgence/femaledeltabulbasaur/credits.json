@@ -1,0 +1,43 @@
+{
+  "game": "insurgence",
+  "pokemon": "bulbasaur",
+  "formAspects": [
+    "delta",
+    "female"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "delta",
+        "female"
+      ],
+      "inheritsFrom": {
+        "pokemon": "bulbasaur",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DigitalRaikan"
+      },
+      "contributors": [
+        {
+          "login": "DigitalRaikan"
+        }
+      ],
+      "submittedAt": "2026-09-25T08:33:54.133Z",
+      "models": [
+        "insurgence/femaledeltabulbasaur/insurgence_deltabulbasaurfemale.geo.json"
+      ],
+      "animations": [
+        "insurgence/femaledeltabulbasaur/insurgence_deltabulbasaurfemale.animation.json"
+      ],
+      "textures": [
+        "insurgence/femaledeltabulbasaur/deltabulbasaur_female.png",
+        "insurgence/femaledeltabulbasaur/deltabulbasaur_female_alpha.png",
+        "insurgence/femaledeltabulbasaur/deltabulbasaur_female_shiny.png",
+        "assets/cobblemon/insurgence_deltabulbasaur_female_preview.png",
+        "insurgence/femaledeltabulbasaur/femaledeltabulbasaur.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

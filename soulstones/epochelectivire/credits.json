@@ -1,0 +1,31 @@
+{
+  "game": "soulstones",
+  "pokemon": "electivire",
+  "formAspects": [
+    "epoch"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "submittedAt": "2026-09-17T23:17:52.940Z",
+      "models": [
+        "soulstones/epochelectivire/soulstones_epochelectivire.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochelectivire/soulstones_epochelectivire.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochelectivire/electivire_epoch.png",
+        "soulstones/epochelectivire/electivire_epoch_alpha.png",
+        "soulstones/epochelectivire/electivire_epoch_shiny.png",
+        "soulstones/epochelectivire/epochelectivire.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

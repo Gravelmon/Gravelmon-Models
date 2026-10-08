@@ -1,0 +1,9 @@
+{
+  "files": {
+    "budcheep_female.png": "assets/cobblemon/textures/pokemon/solar_light_lunar_dark/budcheepfemale/budcheep_female.png",
+    "femalebudcheep.png": "assets/cobblemon/textures/pokemon/solar_light_lunar_dark/femalebudcheep.png"
+  },
+  "uses": [
+    "solar_light_lunar_dark/budcheep/0_budcheep_base.json"
+  ]
+}

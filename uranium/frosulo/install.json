@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_frosulo_base.json": "assets/cobblemon/bedrock/species/uranium/0_frosulo_base.json",
+    "frosulo.png": "assets/cobblemon/textures/pokemon/uranium/frosulo.png",
+    "frosulo_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/frosulo_cry.ogg"
+  }
+}

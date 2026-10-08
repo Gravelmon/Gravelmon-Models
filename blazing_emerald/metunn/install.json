@@ -1,0 +1,13 @@
+{
+  "files": {
+    "0_metunn_base.json": "assets/cobblemon/bedrock/species/blazing_emerald/0_metunn_base.json",
+    "blazing_emerald_metunn.animation.json": "assets/cobblemon/bedrock/pokemon/animations/blazing_emerald_metunn.animation.json",
+    "blazing_emerald_metunn.geo.json": "assets/cobblemon/bedrock/pokemon/models/blazing_emerald_metunn.geo.json",
+    "blazing_emerald_metunn.json": "assets/cobblemon/bedrock/pokemon/posers/blazing_emerald_metunn.json",
+    "metunn.png": "assets/cobblemon/textures/pokemon/blazing_emerald/metunn.png",
+    "metunn_alpha.png": "assets/cobblemon/textures/pokemon/blazing_emerald/metunn/metunn_alpha.png",
+    "metunn_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/metunn_cry.ogg",
+    "metunn_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/metunn/metunn_shiny.png",
+    "texture__metunn.png": "assets/cobblemon/textures/pokemon/blazing_emerald/metunn/metunn.png"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "game": "insurgence",
+  "pokemon": "charmander",
+  "formAspects": [
+    "delta"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "delta"
+      ],
+      "inheritsFrom": {
+        "pokemon": "charmander",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DigitalRaikan"
+      },
+      "contributors": [
+        {
+          "login": "DigitalRaikan"
+        }
+      ],
+      "submittedAt": "2026-09-25T11:18:29.501Z",
+      "models": [
+        "insurgence/deltacharmander/insurgence_deltacharmander.geo.json"
+      ],
+      "animations": [
+        "_unreferenced/assets/cobblemon/bedrock/pokemon/animations/deltacharmander.animation.json"
+      ],
+      "textures": [
+        "insurgence/deltacharmander/texture__deltacharmander.png",
+        "insurgence/deltacharmander/deltacharmander_alpha.png",
+        "insurgence/deltacharmander/deltacharmander_flame1.png",
+        "insurgence/deltacharmander/deltacharmander_shiny.png",
+        "assets/cobblemon/insurgence_deltacharmander_remodel.png",
+        "insurgence/deltacharmander/deltacharmander.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

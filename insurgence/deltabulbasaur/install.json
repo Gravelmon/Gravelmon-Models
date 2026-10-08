@@ -1,0 +1,15 @@
+{
+  "files": {
+    "118_bulbasaur_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_bulbasaur_delta.json",
+    "bulbasaur_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/bulbasaur_delta_cry.ogg",
+    "deltabulbasaur.png": "assets/cobblemon/textures/pokemon/insurgence/deltabulbasaur.png",
+    "deltabulbasaur_alpha.png": "assets/cobblemon/textures/pokemon/insurgence/deltabulbasaur/deltabulbasaur_alpha.png",
+    "deltabulbasaur_female.png": "assets/cobblemon/textures/pokemon/insurgence/deltabulbasaur/deltabulbasaur_female.png",
+    "deltabulbasaur_female_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltabulbasaur/deltabulbasaur_female_shiny.png",
+    "deltabulbasaur_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltabulbasaur/deltabulbasaur_shiny.png",
+    "insurgence_deltabulbasaur.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltabulbasaur.animation.json",
+    "insurgence_deltabulbasaur.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltabulbasaur.geo.json",
+    "insurgence_deltabulbasaur.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltabulbasaur.json",
+    "texture__deltabulbasaur.png": "assets/cobblemon/textures/pokemon/insurgence/deltabulbasaur/deltabulbasaur.png"
+  }
+}

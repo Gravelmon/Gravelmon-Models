@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_zapalope_base.json": "assets/cobblemon/bedrock/species/infinity/0_zapalope_base.json",
+    "zapalope.png": "assets/cobblemon/textures/pokemon/infinity/zapalope.png",
+    "zapalope_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/zapalope_cry.ogg"
+  }
+}

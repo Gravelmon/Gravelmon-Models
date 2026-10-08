@@ -1,0 +1,12 @@
+{
+  "files": {
+    "117_totodile_egho.json": "assets/cobblemon/bedrock/species/additional_forms/117_totodile_egho.json",
+    "eghototodile.png": "assets/cobblemon/textures/pokemon/infinity/eghototodile.png",
+    "eghototodile_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghototodile/eghototodile_shiny.png",
+    "infinity_eghototodile.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_eghototodile.animation.json",
+    "infinity_eghototodile.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_eghototodile.geo.json",
+    "infinity_eghototodile.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_eghototodile.json",
+    "texture__eghototodile.png": "assets/cobblemon/textures/pokemon/infinity/eghototodile/eghototodile.png",
+    "totodile_egho_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/totodile_egho_cry.ogg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_porygonx_base.json": "assets/cobblemon/bedrock/species/infinity/0_porygonx_base.json",
+    "infinity_porygonx.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_porygonx.animation.json",
+    "infinity_porygonx.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_porygonx.geo.json",
+    "infinity_porygonx.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_porygonx.json",
+    "porygonx.png": "assets/cobblemon/textures/pokemon/infinity/porygonx.png",
+    "porygonx_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/porygonx_cry.ogg",
+    "porygonx_shiny.png": "assets/cobblemon/textures/pokemon/infinity/porygonx/porygonx_shiny.png",
+    "texture__porygonx.png": "assets/cobblemon/textures/pokemon/infinity/porygonx/porygonx.png"
+  }
+}

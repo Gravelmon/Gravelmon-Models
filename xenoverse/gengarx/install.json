@@ -1,0 +1,14 @@
+{
+  "files": {
+    "25_gengar_x.json": "assets/cobblemon/bedrock/species/additional_forms/25_gengar_x.json",
+    "gengar_x_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/gengar_x_cry.ogg",
+    "gengarx.png": "assets/cobblemon/textures/pokemon/xenoverse/gengarx.png",
+    "gengarx_form.png": "assets/cobblemon/textures/pokemon/xenoverse/gengarx/gengarx_form.png",
+    "gengarx_form_emissive.png": "assets/cobblemon/textures/pokemon/xenoverse/gengarx/gengarx_form_emissive.png",
+    "gengarx_form_emissive_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/gengarx/gengarx_form_emissive_shiny.png",
+    "gengarx_form_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/gengarx/gengarx_form_shiny.png",
+    "xenoverse_gengarx.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_gengarx.animation.json",
+    "xenoverse_gengarx.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_gengarx.geo.json",
+    "xenoverse_gengarx.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_gengarx.json"
+  }
+}

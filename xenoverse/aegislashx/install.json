@@ -1,0 +1,12 @@
+{
+  "files": {
+    "25_aegislash_x.json": "assets/cobblemon/bedrock/species/additional_forms/25_aegislash_x.json",
+    "aegislash_x_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/aegislash_x_cry.ogg",
+    "aegislashx.png": "assets/cobblemon/textures/pokemon/xenoverse/aegislashx.png",
+    "aegislashx_form.png": "assets/cobblemon/textures/pokemon/xenoverse/aegislashx/aegislashx_form.png",
+    "aegislashx_form_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/aegislashx/aegislashx_form_shiny.png",
+    "xenoverse_aegislashx.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_aegislashx.animation.json",
+    "xenoverse_aegislashx.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_aegislashx.geo.json",
+    "xenoverse_aegislashx.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_aegislashx.json"
+  }
+}

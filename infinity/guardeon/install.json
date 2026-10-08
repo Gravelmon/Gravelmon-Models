@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_guardeon_base.json": "assets/cobblemon/bedrock/species/infinity/0_guardeon_base.json",
+    "guardeon.png": "assets/cobblemon/textures/pokemon/infinity/guardeon.png",
+    "guardeon_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/guardeon_cry.ogg",
+    "guardeon_shiny.png": "assets/cobblemon/textures/pokemon/infinity/guardeon/guardeon_shiny.png",
+    "infinity_guardeon.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_guardeon.animation.json",
+    "infinity_guardeon.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_guardeon.geo.json",
+    "infinity_guardeon.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_guardeon.json",
+    "texture__guardeon.png": "assets/cobblemon/textures/pokemon/infinity/guardeon/guardeon.png"
+  }
+}

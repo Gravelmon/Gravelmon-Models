@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_gastesla_base.json": "assets/cobblemon/bedrock/species/opalo/0_gastesla_base.json",
+    "gastesla.png": "assets/cobblemon/textures/pokemon/opalo/gastesla.png",
+    "gastesla_alpha.png": "assets/cobblemon/textures/pokemon/opalo/gastesla/gastesla_alpha.png",
+    "gastesla_shiny.png": "assets/cobblemon/textures/pokemon/opalo/gastesla/gastesla_shiny.png",
+    "opalo_gastesla.animation.json": "assets/cobblemon/bedrock/pokemon/animations/opalo_gastesla.animation.json",
+    "opalo_gastesla.geo.json": "assets/cobblemon/bedrock/pokemon/models/opalo_gastesla.geo.json",
+    "opalo_gastesla.json": "assets/cobblemon/bedrock/pokemon/posers/opalo_gastesla.json",
+    "texture__gastesla.png": "assets/cobblemon/textures/pokemon/opalo/gastesla/gastesla.png"
+  }
+}

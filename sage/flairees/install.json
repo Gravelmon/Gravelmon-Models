@@ -1,0 +1,16 @@
+{
+  "files": {
+    "0_flairees_base.json": "assets/cobblemon/bedrock/species/sage/0_flairees_base.json",
+    "flairees.png": "assets/cobblemon/textures/pokemon/sage/flairees.png",
+    "flairees_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/flairees_cry.ogg",
+    "flairees_shiny.png": "assets/cobblemon/textures/pokemon/sage/flairees/flairees_shiny.png",
+    "flame__flame1.png": "assets/cobblemon/textures/pokemon/sage/flairees/flame/flame1.png",
+    "flame__flame2.png": "assets/cobblemon/textures/pokemon/sage/flairees/flame/flame2.png",
+    "flame__flame3.png": "assets/cobblemon/textures/pokemon/sage/flairees/flame/flame3.png",
+    "flame__flame4.png": "assets/cobblemon/textures/pokemon/sage/flairees/flame/flame4.png",
+    "sage_flairees.animation.json": "assets/cobblemon/bedrock/pokemon/animations/sage_flairees.animation.json",
+    "sage_flairees.geo.json": "assets/cobblemon/bedrock/pokemon/models/sage_flairees.geo.json",
+    "sage_flairees.json": "assets/cobblemon/bedrock/pokemon/posers/sage_flairees.json",
+    "texture__flairees.png": "assets/cobblemon/textures/pokemon/sage/flairees/flairees.png"
+  }
+}

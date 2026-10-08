@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_galaxagos_base.json": "assets/cobblemon/bedrock/species/sage/0_galaxagos_base.json",
+    "galaxagos.png": "assets/cobblemon/textures/pokemon/sage/galaxagos.png",
+    "galaxagos_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/galaxagos_cry.ogg"
+  }
+}

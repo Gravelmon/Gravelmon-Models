@@ -1,0 +1,72 @@
+{
+  "portraitScale": 1.2000000476837158,
+  "portraitTranslation": [
+    -0.7,
+    0.4,
+    0.0
+  ],
+  "profileScale": 0.5,
+  "profileTranslation": [
+    0.0,
+    1.0,
+    0.0
+  ],
+  "animations": {
+    "cry": "q.bedrock_stateful('infinity_nidorook', 'cry')"
+  },
+  "poses": {
+    "standing": {
+      "poseName": "standing",
+      "animations": [
+        "q.bedrock('infinity_nidorook', q.look('head_ai'))",
+        "q.bedrock('infinity_nidorook', 'ground_idle')"
+      ],
+      "poseTypes": [
+        "STAND",
+        "HOVER",
+        "FLY",
+        "FLOAT",
+        "SWIM",
+        "GLIDE",
+        "SHOULDER_LEFT",
+        "SHOULDER_RIGHT",
+        "PROFILE",
+        "PORTRAIT",
+        "OPEN",
+        "NONE"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('infinity_nidorook', 'blink')"
+      ],
+      "namedAnimations": {},
+      "transformedParts": []
+    },
+    "walking": {
+      "poseName": "walking",
+      "animations": [
+        "q.bedrock('infinity_nidorook', q.look('head_ai'))",
+        "q.bedrock('infinity_nidorook', 'ground_walk')"
+      ],
+      "poseTypes": [
+        "WALK"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('infinity_nidorook', 'blink')"
+      ],
+      "namedAnimations": {},
+      "transformedParts": []
+    },
+    "sleeping": {
+      "poseName": "sleeping",
+      "animations": [
+        "q.bedrock('infinity_nidorook', 'sleep')"
+      ],
+      "poseTypes": [
+        "SLEEP"
+      ],
+
+      "namedAnimations": {},
+      "transformedParts": []
+    }
+  }
+}

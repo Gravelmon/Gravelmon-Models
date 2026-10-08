@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_hipporos_base.json": "assets/cobblemon/bedrock/species/africanus/0_hipporos_base.json",
+    "africanus_hipporos.animation.json": "assets/cobblemon/bedrock/pokemon/animations/africanus_hipporos.animation.json",
+    "africanus_hipporos.geo.json": "assets/cobblemon/bedrock/pokemon/models/africanus_hipporos.geo.json",
+    "africanus_hipporos.json": "assets/cobblemon/bedrock/pokemon/posers/africanus_hipporos.json",
+    "hipporos.png": "assets/cobblemon/textures/pokemon/africanus/hipporos.png",
+    "hipporos_alpha.png": "assets/cobblemon/textures/pokemon/africanus/hipporos/hipporos_alpha.png",
+    "hipporos_shiny.png": "assets/cobblemon/textures/pokemon/africanus/hipporos/hipporos_shiny.png",
+    "texture__hipporos.png": "assets/cobblemon/textures/pokemon/africanus/hipporos/hipporos.png"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "files": {
+    "118_wailmer_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_wailmer_delta.json",
+    "deltawailmer.png": "assets/cobblemon/textures/pokemon/insurgence/deltawailmer.png",
+    "deltawailmer_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltawailmer/deltawailmer_shiny.png",
+    "insurgence_deltawailmer.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltawailmer.animation.json",
+    "insurgence_deltawailmer.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltawailmer.geo.json",
+    "insurgence_deltawailmer.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltawailmer.json",
+    "texture__deltawailmer.png": "assets/cobblemon/textures/pokemon/insurgence/deltawailmer/deltawailmer.png",
+    "wailmer_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/wailmer_delta_cry.ogg"
+  }
+}

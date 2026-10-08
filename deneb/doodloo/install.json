@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_doodloo_base.json": "assets/cobblemon/bedrock/species/deneb/0_doodloo_base.json",
+    "deneb_doodloo.animation.json": "assets/cobblemon/bedrock/pokemon/animations/deneb_doodloo.animation.json",
+    "deneb_doodloo.geo.json": "assets/cobblemon/bedrock/pokemon/models/deneb_doodloo.geo.json",
+    "deneb_doodloo.json": "assets/cobblemon/bedrock/pokemon/posers/deneb_doodloo.json",
+    "doodloo.png": "assets/cobblemon/textures/pokemon/deneb/doodloo.png",
+    "doodloo_cry.ogg": "assets/gravelmon/sounds/pokemon/deneb/doodloo_cry.ogg",
+    "doodloo_shiny.png": "assets/cobblemon/textures/pokemon/deneb/doodloo/doodloo_shiny.png",
+    "texture__doodloo.png": "assets/cobblemon/textures/pokemon/deneb/doodloo/doodloo.png"
+  }
+}

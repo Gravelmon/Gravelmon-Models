@@ -1,0 +1,34 @@
+{
+  "game": "sage",
+  "pokemon": "llamarsh",
+  "formAspects": [
+    "female"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "female"
+      ],
+      "contributor": {
+        "login": "PorousMist"
+      },
+      "contributors": [
+        {
+          "login": "PorousMist"
+        }
+      ],
+      "submittedAt": "2026-09-26T18:01:53.088Z",
+      "models": [
+        "sage/femalellamarsh/sage_llamarshfemale.geo.json"
+      ],
+      "animations": [],
+      "textures": [
+        "sage/femalellamarsh/llamarsh.png",
+        "sage/femalellamarsh/llamarsh_alpha.png",
+        "sage/femalellamarsh/llamarsh_shiny.png",
+        "assets/cobblemon/textures/pokemon/sage/llamarshfemale.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

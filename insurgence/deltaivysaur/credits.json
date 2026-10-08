@@ -1,0 +1,40 @@
+{
+  "game": "insurgence",
+  "pokemon": "ivysaur",
+  "formAspects": [
+    "delta"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "delta"
+      ],
+      "inheritsFrom": {
+        "pokemon": "ivysaur",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DigitalRaikan"
+      },
+      "contributors": [
+        {
+          "login": "DigitalRaikan"
+        }
+      ],
+      "submittedAt": "2026-09-25T08:54:09.634Z",
+      "models": [
+        "insurgence/deltaivysaur/insurgence_deltaivysaur.geo.json"
+      ],
+      "animations": [
+        "_unreferenced/assets/cobblemon/bedrock/pokemon/animations/deltaivysaur_male.animation.json"
+      ],
+      "textures": [
+        "insurgence/deltaivysaur/texture__deltaivysaur.png",
+        "insurgence/deltaivysaur/deltaivysaur_alpha.png",
+        "insurgence/deltaivysaur/deltaivysaur_shiny.png",
+        "insurgence/deltaivysaur/deltaivysaur.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

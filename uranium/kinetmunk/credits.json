@@ -1,0 +1,30 @@
+{
+  "game": "uranium",
+  "pokemon": "kinetmunk",
+  "entries": [
+    {
+      "contributor": {
+        "login": "mitchooart"
+      },
+      "contributors": [
+        {
+          "login": "mitchooart"
+        }
+      ],
+      "submittedAt": "2026-09-28T15:47:43.175Z",
+      "models": [
+        "uranium/kinetmunk/uranium_kinetmunk.geo.json"
+      ],
+      "animations": [
+        "uranium/kinetmunk/uranium_kinetmunk.animation.json"
+      ],
+      "textures": [
+        "uranium/kinetmunk/texture__kinetmunk.png",
+        "uranium/kinetmunk/kinetmunk_alpha.png",
+        "uranium/kinetmunk/kinetmunk_shiny.png",
+        "uranium/kinetmunk/kinetmunk.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

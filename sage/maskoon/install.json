@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_maskoon_base.json": "assets/cobblemon/bedrock/species/sage/0_maskoon_base.json",
+    "maskoon.png": "assets/cobblemon/textures/pokemon/sage/maskoon.png",
+    "maskoon_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/maskoon_cry.ogg"
+  }
+}

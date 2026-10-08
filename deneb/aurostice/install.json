@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_aurostice_base.json": "assets/cobblemon/bedrock/species/deneb/0_aurostice_base.json",
+    "aurostice.png": "assets/cobblemon/textures/pokemon/deneb/aurostice.png",
+    "aurostice_alpha.png": "assets/cobblemon/textures/pokemon/deneb/aurostice/aurostice_alpha.png",
+    "aurostice_shiny.png": "assets/cobblemon/textures/pokemon/deneb/aurostice/aurostice_shiny.png",
+    "deneb_aurostice.geo.json": "assets/cobblemon/bedrock/pokemon/models/deneb_aurostice.geo.json",
+    "deneb_aurostice.json": "assets/cobblemon/bedrock/pokemon/posers/deneb_aurostice.json",
+    "model.animation.json": "assets/cobblemon/bedrock/pokemon/animations/model.animation.json",
+    "texture__aurostice.png": "assets/cobblemon/textures/pokemon/deneb/aurostice/aurostice.png"
+  }
+}

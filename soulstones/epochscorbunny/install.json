@@ -1,0 +1,12 @@
+{
+  "files": {
+    "164_scorbunny_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_scorbunny_epoch.json",
+    "epochscorbunny.png": "assets/cobblemon/textures/pokemon/soulstones/epochscorbunny.png",
+    "scorbunny_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochscorbunny/scorbunny_epoch.png",
+    "scorbunny_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochscorbunny/scorbunny_epoch_alpha.png",
+    "scorbunny_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochscorbunny/scorbunny_epoch_shiny.png",
+    "soulstones_epochscorbunny.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochscorbunny.animation.json",
+    "soulstones_epochscorbunny.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochscorbunny.geo.json",
+    "soulstones_epochscorbunny.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochscorbunny.json"
+  }
+}

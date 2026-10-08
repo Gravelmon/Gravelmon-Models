@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_s51a_base.json": "assets/cobblemon/bedrock/species/uranium/0_s51a_base.json",
+    "s51a.png": "assets/cobblemon/textures/pokemon/uranium/s51a.png",
+    "s51a_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/s51a_cry.ogg"
+  }
+}

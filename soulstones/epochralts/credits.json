@@ -1,0 +1,40 @@
+{
+  "game": "soulstones",
+  "pokemon": "ralts",
+  "formAspects": [
+    "epoch"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "ralts",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "rcampbellbusiness-boop"
+      },
+      "contributors": [
+        {
+          "login": "rcampbellbusiness-boop"
+        }
+      ],
+      "submittedAt": "2026-09-20T18:19:59.329Z",
+      "models": [
+        "soulstones/epochralts/soulstones_epochralts.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochralts/soulstones_epochralts.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochralts/epochraltsone.png",
+        "soulstones/epochralts/epochraltsone_alpha.png",
+        "soulstones/epochralts/epochraltsone_shiny.png",
+        "soulstones/epochralts/epochralts.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "files": {
+    "buckston_female.png": "assets/cobblemon/textures/pokemon/sage/buckstonfemale/buckston_female.png",
+    "femalebuckston.png": "assets/cobblemon/textures/pokemon/sage/femalebuckston.png"
+  },
+  "uses": [
+    "sage/buckston/0_buckston_base.json"
+  ]
+}

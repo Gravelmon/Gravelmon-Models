@@ -1,0 +1,47 @@
+{
+  "game": "deneb",
+  "pokemon": "glachild",
+  "entries": [
+    {
+      "contributor": {
+        "login": "darkmodz"
+      },
+      "contributors": [
+        {
+          "login": "darkmodz"
+        }
+      ],
+      "submittedAt": "2026-09-27T09:13:41.407Z",
+      "models": [],
+      "animations": [],
+      "textures": [
+        "assets/cobblemon/glachild_preview.png"
+      ],
+      "sounds": []
+    },
+    {
+      "contributor": {
+        "login": "mitchooart"
+      },
+      "contributors": [
+        {
+          "login": "mitchooart"
+        }
+      ],
+      "submittedAt": "2026-10-01T15:23:44.756Z",
+      "models": [
+        "deneb/glachild/deneb_glachild.geo.json"
+      ],
+      "animations": [
+        "deneb/glachild/deneb_glachild.animation.json"
+      ],
+      "textures": [
+        "deneb/glachild/texture__glachild.png",
+        "deneb/glachild/glachild_alpha.png",
+        "deneb/glachild/glachild_shiny.png",
+        "deneb/glachild/glachild.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

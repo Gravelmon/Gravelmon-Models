@@ -1,0 +1,16 @@
+{
+  "files": {
+    "1000_steelix_mega_fire__steelix_mega_x.json": "assets/cobblemon/bedrock/species/additional_forms/1000_steelix_mega_fire__steelix_mega_x.json",
+    "insurgence_steelix_mega_x.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_steelix_mega_x.geo.json"
+  },
+  "uses": [
+    "insurgence/steelix_mega_fire/flame__flame1.png",
+    "insurgence/steelix_mega_fire/flame__flame2.png",
+    "insurgence/steelix_mega_fire/flame__flame3.png",
+    "insurgence/steelix_mega_fire/flame__flame4.png",
+    "insurgence/steelix_mega_fire/insurgence_steelix_mega_fire.animation.json",
+    "insurgence/steelix_mega_fire/insurgence_steelix_mega_fire.json",
+    "insurgence/steelix_mega_fire/steelix_mega.png",
+    "insurgence/steelix_mega_fire/steelix_mega_emissive.png"
+  ]
+}

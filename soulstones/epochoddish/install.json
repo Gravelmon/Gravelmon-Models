@@ -1,0 +1,11 @@
+{
+  "files": {
+    "164_oddish_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_oddish_epoch.json",
+    "epochoddish.png": "assets/cobblemon/textures/pokemon/soulstones/epochoddish.png",
+    "epochoddish_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochoddish/epochoddish_shiny.png",
+    "soulstones_epochoddish.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochoddish.animation.json",
+    "soulstones_epochoddish.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochoddish.geo.json",
+    "soulstones_epochoddish.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochoddish.json",
+    "texture__epochoddish.png": "assets/cobblemon/textures/pokemon/soulstones/epochoddish/epochoddish.png"
+  }
+}

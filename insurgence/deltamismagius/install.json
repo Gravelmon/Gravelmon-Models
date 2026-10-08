@@ -1,0 +1,12 @@
+{
+  "files": {
+    "118_mismagius_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_mismagius_delta.json",
+    "deltamismagius.png": "assets/cobblemon/textures/pokemon/insurgence/deltamismagius.png",
+    "deltamismagius_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltamismagius/deltamismagius_shiny.png",
+    "insurgence_deltamismagius.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltamismagius.animation.json",
+    "insurgence_deltamismagius.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltamismagius.geo.json",
+    "insurgence_deltamismagius.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltamismagius.json",
+    "mismagius_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/mismagius_delta_cry.ogg",
+    "texture__deltamismagius.png": "assets/cobblemon/textures/pokemon/insurgence/deltamismagius/deltamismagius.png"
+  }
+}

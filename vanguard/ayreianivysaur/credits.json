@@ -1,0 +1,40 @@
+{
+  "game": "vanguard",
+  "pokemon": "ivysaur",
+  "formAspects": [
+    "ayreian"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "ayreian"
+      ],
+      "inheritsFrom": {
+        "pokemon": "ivysaur",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-09-26T10:08:20.398Z",
+      "models": [
+        "vanguard/ayreianivysaur/vanguard_ayreianivysaur.geo.json"
+      ],
+      "animations": [
+        "vanguard/ayreianivysaur/vanguard_ayreianivysaur.animation.json"
+      ],
+      "textures": [
+        "vanguard/ayreianivysaur/ivysaur_ayreian.png",
+        "vanguard/ayreianivysaur/ivysaur_ayreian_alpha.png",
+        "vanguard/ayreianivysaur/ivysaur_ayreian_shiny.png",
+        "vanguard/ayreianivysaur/ayreianivysaur.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

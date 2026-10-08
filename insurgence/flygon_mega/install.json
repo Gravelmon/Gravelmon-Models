@@ -1,0 +1,14 @@
+{
+  "files": {
+    "1000_flygon_mega.json": "assets/cobblemon/bedrock/species/additional_forms/1000_flygon_mega.json",
+    "flygon_insurgence_mega.png": "assets/cobblemon/textures/pokemon/insurgence/flygon_mega/flygon_insurgence_mega.png",
+    "flygon_insurgence_mega_alpha.png": "assets/cobblemon/textures/pokemon/insurgence/flygon_mega/flygon_insurgence_mega_alpha.png",
+    "flygon_insurgence_mega_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/flygon_mega/flygon_insurgence_mega_shiny.png",
+    "flygon_insurgence_mega_shiny_transparency.png": "assets/cobblemon/textures/pokemon/insurgence/flygon_mega/flygon_insurgence_mega_shiny_transparency.png",
+    "flygon_insurgence_mega_transparency.png": "assets/cobblemon/textures/pokemon/insurgence/flygon_mega/flygon_insurgence_mega_transparency.png",
+    "flygon_mega.png": "assets/cobblemon/textures/pokemon/insurgence/flygon_mega.png",
+    "insurgence_flygon_mega.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_flygon_mega.animation.json",
+    "insurgence_flygon_mega.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_flygon_mega.geo.json",
+    "insurgence_flygon_mega.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_flygon_mega.json"
+  }
+}

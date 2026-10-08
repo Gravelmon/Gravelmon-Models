@@ -1,0 +1,10 @@
+{
+  "files": {
+    "88_thwackey_ayreian.json": "assets/cobblemon/bedrock/species/additional_forms/88_thwackey_ayreian.json",
+    "ayreianthwackey.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianthwackey.png",
+    "thwackey.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianthwackey/thwackey.png",
+    "thwackey_shiny.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianthwackey/thwackey_shiny.png",
+    "vanguard_ayreianthwackey.geo.json": "assets/cobblemon/bedrock/pokemon/models/vanguard_ayreianthwackey.geo.json",
+    "vanguard_ayreianthwackey.json": "assets/cobblemon/bedrock/pokemon/posers/vanguard_ayreianthwackey.json"
+  }
+}

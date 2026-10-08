@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_paraudio_base.json": "assets/cobblemon/bedrock/species/uranium/0_paraudio_base.json",
+    "paraudio.png": "assets/cobblemon/textures/pokemon/uranium/paraudio.png",
+    "paraudio_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/paraudio_cry.ogg"
+  }
+}

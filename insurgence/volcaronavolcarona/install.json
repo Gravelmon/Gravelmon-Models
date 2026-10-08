@@ -1,0 +1,8 @@
+{
+  "files": {
+    "2000_volcarona_volcarona.json": "assets/cobblemon/bedrock/species/additional_forms/2000_volcarona_volcarona.json"
+  },
+  "uses": [
+    "insurgence/armoredvolcarona_delta/armoreddeltavolcarona.png"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_beliaddon_base.json": "assets/cobblemon/bedrock/species/uranium/0_beliaddon_base.json",
+    "beliaddon.png": "assets/cobblemon/textures/pokemon/uranium/beliaddon.png",
+    "beliaddon_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/beliaddon_cry.ogg"
+  }
+}

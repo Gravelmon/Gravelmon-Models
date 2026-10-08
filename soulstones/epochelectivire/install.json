@@ -1,0 +1,12 @@
+{
+  "files": {
+    "164_electivire_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_electivire_epoch.json",
+    "electivire_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochelectivire/electivire_epoch.png",
+    "electivire_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochelectivire/electivire_epoch_alpha.png",
+    "electivire_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochelectivire/electivire_epoch_shiny.png",
+    "epochelectivire.png": "assets/cobblemon/textures/pokemon/soulstones/epochelectivire.png",
+    "soulstones_epochelectivire.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochelectivire.animation.json",
+    "soulstones_epochelectivire.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochelectivire.geo.json",
+    "soulstones_epochelectivire.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochelectivire.json"
+  }
+}

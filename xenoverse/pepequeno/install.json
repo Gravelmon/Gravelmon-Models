@@ -1,0 +1,11 @@
+{
+  "files": {
+    "0_pepequeno_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_pepequeno_base.json",
+    "pepequeno.png": "assets/cobblemon/textures/pokemon/xenoverse/pepequeno.png",
+    "pepequeno_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/pepequeno_cry.ogg",
+    "pepequeno_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/pepequeno/pepequeno_shiny.png",
+    "texture__pepequeno.png": "assets/cobblemon/textures/pokemon/xenoverse/pepequeno/pepequeno.png",
+    "xenoverse_pepequeno.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_pepequeno.geo.json",
+    "xenoverse_pepequeno.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_pepequeno.json"
+  }
+}

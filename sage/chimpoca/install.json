@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_chimpoca_base.json": "assets/cobblemon/bedrock/species/sage/0_chimpoca_base.json",
+    "chimpoca.png": "assets/cobblemon/textures/pokemon/sage/chimpoca.png",
+    "chimpoca_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/chimpoca_cry.ogg"
+  }
+}

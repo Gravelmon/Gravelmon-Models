@@ -1,0 +1,15 @@
+{
+  "files": {
+    "164_eternatus_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_eternatus_epoch.json",
+    "epocheternatus.png": "assets/cobblemon/textures/pokemon/soulstones/epocheternatus.png",
+    "eternatus_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epocheternatus/eternatus_epoch.png",
+    "eternatus_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epocheternatus/eternatus_epoch_alpha.png",
+    "eternatus_epoch_emissive.png": "assets/cobblemon/textures/pokemon/soulstones/epocheternatus/eternatus_epoch_emissive.png",
+    "eternatus_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epocheternatus/eternatus_epoch_shiny.png",
+    "eternatus_epoch_shiny_emissive.png": "assets/cobblemon/textures/pokemon/soulstones/epocheternatus/eternatus_epoch_shiny_emissive.png",
+    "eternatus_epoch_transparency.png": "assets/cobblemon/textures/pokemon/soulstones/epocheternatus/eternatus_epoch_transparency.png",
+    "soulstones_epocheternatus.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epocheternatus.animation.json",
+    "soulstones_epocheternatus.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epocheternatus.geo.json",
+    "soulstones_epocheternatus.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epocheternatus.json"
+  }
+}

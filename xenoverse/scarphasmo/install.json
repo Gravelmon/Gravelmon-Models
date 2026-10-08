@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_scarphasmo_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_scarphasmo_base.json",
+    "scarphasmo.png": "assets/cobblemon/textures/pokemon/xenoverse/scarphasmo.png",
+    "scarphasmo_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/scarphasmo_cry.ogg"
+  }
+}

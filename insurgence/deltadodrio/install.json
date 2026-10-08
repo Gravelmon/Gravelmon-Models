@@ -1,0 +1,12 @@
+{
+  "files": {
+    "118_dodrio_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_dodrio_delta.json",
+    "deltadodrio.animation.json": "assets/cobblemon/bedrock/pokemon/animations/deltadodrio.animation.json",
+    "deltadodrio.png": "assets/cobblemon/textures/pokemon/insurgence/deltadodrio.png",
+    "deltadodrio_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltadodrio/deltadodrio_shiny.png",
+    "dodrio_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/dodrio_delta_cry.ogg",
+    "insurgence_deltadodrio.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltadodrio.geo.json",
+    "insurgence_deltadodrio.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltadodrio.json",
+    "texture__deltadodrio.png": "assets/cobblemon/textures/pokemon/insurgence/deltadodrio/deltadodrio.png"
+  }
+}

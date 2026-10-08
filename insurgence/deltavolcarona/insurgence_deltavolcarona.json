@@ -1,0 +1,111 @@
+{
+  "portraitScale": 1.83,
+  "portraitTranslation": [ -0.62, 1.89, 0 ],
+  "profileScale": 0.46,
+  "profileTranslation": [ 0, 1.06, 0 ],
+  "rootBone": "deltavolcarona",
+  "firstPersonCameraOffset": {
+    "seat_1": [0, 0.45, 0]
+  },
+  "thirdPersonCameraOffset": {
+    "seat_1": [0, 0.35, 0],
+    "seat_1_reverse": [0, 0.35, 0]
+  },
+  "thirdPersonCameraOffsetNoViewBobbing": {
+    "seat_1": [0, 0.35, 0],
+    "seat_1_reverse": [0, 0.35, 0]
+  },
+  "animations": {
+    "faint": "q.bedrock_primary('insurgence_deltavolcarona', 'faint', q.curve('one'))",
+    "cry": "q.bedrock_stateful('insurgence_deltavolcarona', 'cry')",
+    "recoil": "q.bedrock_stateful('insurgence_deltavolcarona', 'recoil')",
+    "physical": "q.bedrock_primary('insurgence_deltavolcarona', 'physical', q.curve('symmetrical_wide'))",
+    "special": "q.bedrock_primary('insurgence_deltavolcarona', 'special', q.curve('symmetrical_wide'))",
+    "status": "q.bedrock_primary('insurgence_deltavolcarona', 'status', q.curve('symmetrical_wide'))"
+  },
+  "poses": {
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('insurgence_deltavolcarona', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('insurgence_deltavolcarona', 'quirk')"
+      ]
+    },
+    "battle-standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE", "FLOAT", "HOVER"],
+      "isBattle": true,
+      "namedAnimations": {
+        "cry": "q.bedrock_primary('insurgence_deltavolcarona', 'battle_cry', q.curve('symmetrical_wide'))"
+      },
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('insurgence_deltavolcarona', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('insurgence_deltavolcarona', 'quirk')"
+      ]
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "condition": "!q.is_sprinting",
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('insurgence_deltavolcarona', 'ground_walk')"
+      ]
+    },
+    "running": {
+      "poseTypes": ["WALK"],
+      "condition": "q.is_sprinting",
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('insurgence_deltavolcarona', 'ground_run')"
+      ]
+    },
+    "sleeping": {
+      "poseTypes": ["SLEEP"],
+      "animations": [
+        "q.bedrock('insurgence_deltavolcarona', 'sleep')"
+      ]
+    },
+    "hover": {
+      "poseTypes": ["HOVER"],
+      "isBattle": false,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('insurgence_deltavolcarona', 'air_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('insurgence_deltavolcarona', 'quirk')"
+      ]
+    },
+    "fly": {
+      "poseTypes": ["FLY"],
+      "condition": "!q.is_gliding",
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('insurgence_deltavolcarona', 'air_fly')",
+        {
+          "condition": "q.is_ridden",
+          "animation": "q.bedrock('insurgence_deltavolcarona', 'ride_air_fly')"
+        }
+      ]
+    },
+    "glide": {
+      "poseTypes": ["FLY"],
+      "condition": "q.is_gliding",
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('insurgence_deltavolcarona', 'air_glide')",
+        "q.bedrock('insurgence_deltavolcarona', 'ride_dive')",
+        {
+          "condition": "q.is_ridden",
+          "animation": "q.bedrock('insurgence_deltavolcarona', 'ride_air_glide')"
+        }
+      ]
+    }
+  }
+}

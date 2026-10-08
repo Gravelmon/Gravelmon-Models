@@ -1,0 +1,13 @@
+{
+  "files": {
+    "164_rockruff_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_rockruff_epoch.json",
+    "epochrockruff.png": "assets/cobblemon/textures/pokemon/soulstones/epochrockruff.png",
+    "epochrockruff_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochrockruff/epochrockruff_shiny.png",
+    "epochrockruff_shiny_translucent.png": "assets/cobblemon/textures/pokemon/soulstones/epochrockruff/epochrockruff_shiny_translucent.png",
+    "epochrockruff_translucent.png": "assets/cobblemon/textures/pokemon/soulstones/epochrockruff/epochrockruff_translucent.png",
+    "soulstones_epochrockruff.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochrockruff.animation.json",
+    "soulstones_epochrockruff.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochrockruff.geo.json",
+    "soulstones_epochrockruff.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochrockruff.json",
+    "texture__epochrockruff.png": "assets/cobblemon/textures/pokemon/soulstones/epochrockruff/epochrockruff.png"
+  }
+}

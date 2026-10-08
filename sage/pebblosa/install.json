@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_pebblosa_base.json": "assets/cobblemon/bedrock/species/sage/0_pebblosa_base.json",
+    "pebblosa.png": "assets/cobblemon/textures/pokemon/sage/pebblosa.png",
+    "pebblosa_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/pebblosa_cry.ogg"
+  }
+}

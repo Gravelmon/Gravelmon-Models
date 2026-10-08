@@ -1,0 +1,83 @@
+{
+  "portraitScale": 1.0,
+  "portraitTranslation": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "profileScale": 1.0,
+  "profileTranslation": [
+    0.0,
+    0.0,
+    -20.0
+  ],
+  "poses": {
+    "standing": {
+      "poseName": "standing",
+      "animations": [
+        "q.bedrock('sage_harpee', q.look('head_ai'))",
+        "q.bedrock('sage_harpee', 'ground_idle')"
+      ],
+      "poseTypes": [
+        "STAND",
+        "FLOAT",
+        "SWIM",
+        "GLIDE",
+        "SHOULDER_LEFT",
+        "SHOULDER_RIGHT",
+        "PROFILE",
+        "PORTRAIT",
+        "OPEN",
+        "NONE"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('sage_harpee', 'blink')"
+      ],
+      "namedAnimations": {},
+      "transformedParts": []
+    },
+    "hovering": {
+      "poseName": "hovering",
+      "animations": [
+        "q.bedrock('sage_harpee', q.look('head_ai'))",
+        "q.bedrock('sage_harpee', 'air_idle')"
+      ],
+      "poseTypes": [
+        "HOVER"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('sage_harpee', 'blink')"
+      ],
+      "namedAnimations": {},
+      "transformedParts": []
+    },
+    "flying": {
+      "poseName": "flying",
+      "animations": [
+        "q.bedrock('sage_harpee', q.look('head_ai'))",
+        "q.bedrock('sage_harpee', 'air_fly')"
+      ],
+      "poseTypes": [
+        "FLY",
+        "WALK"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('sage_harpee', 'blink')"
+      ],
+      "namedAnimations": {},
+      "transformedParts": []
+    },
+    "sleeping": {
+      "poseName": "sleeping",
+      "animations": [
+        "q.bedrock('sage_harpee', 'sleep')"
+      ],
+      "poseTypes": [
+        "SLEEP"
+      ],
+
+      "namedAnimations": {},
+      "transformedParts": []
+    }
+  }
+}

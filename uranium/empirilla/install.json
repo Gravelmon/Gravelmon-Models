@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_empirilla_base.json": "assets/cobblemon/bedrock/species/uranium/0_empirilla_base.json",
+    "empirilla.png": "assets/cobblemon/textures/pokemon/uranium/empirilla.png",
+    "empirilla_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/empirilla_cry.ogg"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "1000_charizard_delta_mega.json": "assets/cobblemon/bedrock/species/additional_forms/1000_charizard_delta_mega.json",
+    "charizard_delta_mega.png": "assets/cobblemon/textures/pokemon/insurgence/charizard_delta_mega.png",
+    "deltacharizard_mega.animation.json": "assets/cobblemon/bedrock/pokemon/animations/deltacharizard_mega.animation.json",
+    "deltacharizard_mega.png": "assets/cobblemon/textures/pokemon/insurgence/charizard_delta_mega/deltacharizard_mega.png",
+    "deltacharizard_mega_alpha.png": "assets/cobblemon/textures/pokemon/insurgence/charizard_delta_mega/deltacharizard_mega_alpha.png",
+    "deltacharizard_mega_emissive.png": "assets/cobblemon/textures/pokemon/insurgence/charizard_delta_mega/deltacharizard_mega_emissive.png",
+    "deltacharizard_mega_emissive_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/charizard_delta_mega/deltacharizard_mega_emissive_shiny.png",
+    "deltacharizard_mega_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/charizard_delta_mega/deltacharizard_mega_shiny.png",
+    "flame__flame1.png": "assets/cobblemon/textures/pokemon/insurgence/charizard_delta_mega/flame/flame1.png",
+    "flame__flame1_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/charizard_delta_mega/flame/flame1_shiny.png",
+    "flame__flame2.png": "assets/cobblemon/textures/pokemon/insurgence/charizard_delta_mega/flame/flame2.png",
+    "flame__flame2_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/charizard_delta_mega/flame/flame2_shiny.png",
+    "flame__flame3.png": "assets/cobblemon/textures/pokemon/insurgence/charizard_delta_mega/flame/flame3.png",
+    "flame__flame3_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/charizard_delta_mega/flame/flame3_shiny.png",
+    "flame__flame4.png": "assets/cobblemon/textures/pokemon/insurgence/charizard_delta_mega/flame/flame4.png",
+    "flame__flame4_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/charizard_delta_mega/flame/flame4_shiny.png",
+    "insurgence_charizard_delta_mega.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_charizard_delta_mega.geo.json",
+    "insurgence_charizard_delta_mega.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_charizard_delta_mega.json"
+  }
+}

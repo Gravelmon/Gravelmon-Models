@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_vesperfum_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_vesperfum_base.json",
+    "vesperfum.png": "assets/cobblemon/textures/pokemon/xenoverse/vesperfum.png",
+    "vesperfum_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/vesperfum_cry.ogg"
+  }
+}

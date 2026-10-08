@@ -1,0 +1,13 @@
+{
+  "files": {
+    "0_duplicat_base.json": "assets/cobblemon/bedrock/species/uranium/0_duplicat_base.json",
+    "duplicat.animation.json": "assets/cobblemon/bedrock/pokemon/animations/duplicat.animation.json",
+    "duplicat.png": "assets/cobblemon/textures/pokemon/uranium/duplicat.png",
+    "duplicat_alpha.png": "assets/cobblemon/textures/pokemon/uranium/duplicat/duplicat_alpha.png",
+    "duplicat_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/duplicat_cry.ogg",
+    "duplicat_shiny.png": "assets/cobblemon/textures/pokemon/uranium/duplicat/duplicat_shiny.png",
+    "texture__duplicat.png": "assets/cobblemon/textures/pokemon/uranium/duplicat/duplicat.png",
+    "uranium_duplicat.geo.json": "assets/cobblemon/bedrock/pokemon/models/uranium_duplicat.geo.json",
+    "uranium_duplicat.json": "assets/cobblemon/bedrock/pokemon/posers/uranium_duplicat.json"
+  }
+}

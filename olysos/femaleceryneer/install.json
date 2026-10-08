@@ -1,0 +1,9 @@
+{
+  "files": {
+    "ceryneer_female.png": "assets/cobblemon/textures/pokemon/olysos/ceryneerfemale/ceryneer_female.png",
+    "femaleceryneer.png": "assets/cobblemon/textures/pokemon/olysos/femaleceryneer.png"
+  },
+  "uses": [
+    "olysos/ceryneer/0_ceryneer_base.json"
+  ]
+}

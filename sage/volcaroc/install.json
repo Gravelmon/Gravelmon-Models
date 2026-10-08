@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_volcaroc_base.json": "assets/cobblemon/bedrock/species/sage/0_volcaroc_base.json",
+    "volcaroc.png": "assets/cobblemon/textures/pokemon/sage/volcaroc.png",
+    "volcaroc_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/volcaroc_cry.ogg"
+  }
+}

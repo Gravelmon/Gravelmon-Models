@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_slatic_base.json": "assets/cobblemon/bedrock/species/sage/0_slatic_base.json",
+    "slatic.png": "assets/cobblemon/textures/pokemon/sage/slatic.png",
+    "slatic_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/slatic_cry.ogg"
+  }
+}

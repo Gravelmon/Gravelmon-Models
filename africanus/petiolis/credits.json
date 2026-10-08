@@ -1,0 +1,25 @@
+{
+  "game": "africanus",
+  "pokemon": "petiolis",
+  "entries": [
+    {
+      "contributor": {
+        "login": "unclecucky"
+      },
+      "submittedAt": "2026-09-18T22:07:05.503Z",
+      "models": [
+        "africanus/petiolis/africanus_petiolis.geo.json"
+      ],
+      "animations": [
+        "africanus/petiolis/africanus_petiolis.animation.json"
+      ],
+      "textures": [
+        "africanus/petiolis/texture__petiolis.png",
+        "africanus/petiolis/petiolis_alpha.png",
+        "africanus/petiolis/petiolis_shiny.png",
+        "africanus/petiolis/petiolis.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_ratsy_base.json": "assets/cobblemon/bedrock/species/uranium/0_ratsy_base.json",
+    "ratsy.png": "assets/cobblemon/textures/pokemon/uranium/ratsy.png",
+    "ratsy_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/ratsy_cry.ogg"
+  }
+}

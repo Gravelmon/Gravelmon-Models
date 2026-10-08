@@ -1,0 +1,48 @@
+{
+  "game": "infinity",
+  "pokemon": "charmander",
+  "formAspects": [
+    "egho"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "egho"
+      ],
+      "inheritsFrom": {
+        "pokemon": "charmander",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DigitalRaikan"
+      },
+      "contributors": [
+        {
+          "login": "DigitalRaikan"
+        }
+      ],
+      "submittedAt": "2026-09-25T11:07:46.635Z",
+      "models": [
+        "infinity/eghocharmander/infinity_eghocharmander.geo.json"
+      ],
+      "animations": [
+        "infinity/eghocharmander/infinity_eghocharmander.animation.json"
+      ],
+      "textures": [
+        "infinity/eghocharmander/texture__eghocharmander.png",
+        "infinity/eghocharmander/eghocharmander_alpha.png",
+        "infinity/eghocharmander/eghocharmander_flame__eghocharmander_flame1.png",
+        "infinity/eghocharmander/eghocharmander_flame__eghocharmander_flame2.png",
+        "infinity/eghocharmander/eghocharmander_flame__eghocharmander_flame3.png",
+        "infinity/eghocharmander/eghocharmander_flame__eghocharmander_flame4.png",
+        "infinity/eghocharmander/eghocharmander_shiny.png",
+        "infinity/eghocharmander/eghocharmander_shiny_flame1.png",
+        "infinity/eghocharmander/eghocharmander_shiny_flame2.png",
+        "infinity/eghocharmander/eghocharmander_shiny_flame3.png",
+        "infinity/eghocharmander/eghocharmander_shiny_flame4.png",
+        "infinity/eghocharmander/eghocharmander.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

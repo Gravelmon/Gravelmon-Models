@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_minarac_base.json": "assets/cobblemon/bedrock/species/sage/0_minarac_base.json",
+    "minarac.png": "assets/cobblemon/textures/pokemon/sage/minarac.png",
+    "minarac_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/minarac_cry.ogg"
+  }
+}

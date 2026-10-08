@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_shrimputy_base.json": "assets/cobblemon/bedrock/species/uranium/0_shrimputy_base.json",
+    "shrimputy.png": "assets/cobblemon/textures/pokemon/uranium/shrimputy.png",
+    "shrimputy_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/shrimputy_cry.ogg"
+  }
+}

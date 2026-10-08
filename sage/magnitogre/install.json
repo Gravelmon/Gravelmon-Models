@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_magnitogre_base.json": "assets/cobblemon/bedrock/species/sage/0_magnitogre_base.json",
+    "magnitogre.png": "assets/cobblemon/textures/pokemon/sage/magnitogre.png",
+    "magnitogre_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/magnitogre_cry.ogg"
+  }
+}

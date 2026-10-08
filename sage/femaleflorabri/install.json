@@ -1,0 +1,13 @@
+{
+  "files": {
+    "0_florabri_base__femaleflorabri.json": "assets/cobblemon/bedrock/species/sage/0_florabri_base__femaleflorabri.json",
+    "femaleflorabri.png": "assets/cobblemon/textures/pokemon/sage/femaleflorabri.png",
+    "sage_florabrifemale.geo.json": "assets/cobblemon/bedrock/pokemon/models/sage_florabrifemale.geo.json"
+  },
+  "uses": [
+    "sage/florabri/florabri_female.png",
+    "sage/florabri/florabri_female_shiny.png",
+    "sage/florabri/sage_florabri.animation.json",
+    "sage/florabri/sage_florabri.json"
+  ]
+}

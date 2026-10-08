@@ -1,0 +1,12 @@
+{
+  "files": {
+    "118_emolga_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_emolga_delta.json",
+    "deltaemolga.animation.json": "assets/cobblemon/bedrock/pokemon/animations/deltaemolga.animation.json",
+    "deltaemolga.png": "assets/cobblemon/textures/pokemon/insurgence/deltaemolga.png",
+    "deltaemolga_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltaemolga/deltaemolga_shiny.png",
+    "emolga_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/emolga_delta_cry.ogg",
+    "insurgence_deltaemolga.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltaemolga.geo.json",
+    "insurgence_deltaemolga.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltaemolga.json",
+    "texture__deltaemolga.png": "assets/cobblemon/textures/pokemon/insurgence/deltaemolga/deltaemolga.png"
+  }
+}

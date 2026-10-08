@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_draconeon_base.json": "assets/cobblemon/bedrock/species/infinity/0_draconeon_base.json",
+    "draconeon.png": "assets/cobblemon/textures/pokemon/infinity/draconeon.png",
+    "draconeon_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/draconeon_cry.ogg",
+    "draconeon_shiny.png": "assets/cobblemon/textures/pokemon/infinity/draconeon/draconeon_shiny.png",
+    "infinity_draconeon.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_draconeon.animation.json",
+    "infinity_draconeon.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_draconeon.geo.json",
+    "infinity_draconeon.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_draconeon.json",
+    "texture__draconeon.png": "assets/cobblemon/textures/pokemon/infinity/draconeon/draconeon.png"
+  }
+}

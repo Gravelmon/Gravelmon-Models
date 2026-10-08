@@ -1,0 +1,75 @@
+{
+  "species": "cobblemon:floressum",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:sage_floressumfemale.geo",
+      "poser": "cobblemon:sage_floressum",
+      "texture": "cobblemon:textures/pokemon/sage/floressum/floressum_female.png",
+      "layers": [
+        {
+          "name": "emissive"
+        },
+        {
+          "name": "transparentEmissive"
+        },
+        {
+          "name": "tail"
+        },
+        {
+          "name": "transparent_emissive"
+        },
+        {
+          "name": "emissive2"
+        },
+        {
+          "name": "flame"
+        },
+        {
+          "name": "glow"
+        },
+        {
+          "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "model": "cobblemon:sage_floressumfemale.geo",
+      "poser": "cobblemon:sage_floressum",
+      "texture": "cobblemon:textures/pokemon/sage/floressum/floressum_female_shiny.png",
+      "layers": [
+        {
+          "name": "emissive"
+        },
+        {
+          "name": "transparentEmissive"
+        },
+        {
+          "name": "tail"
+        },
+        {
+          "name": "transparent_emissive"
+        },
+        {
+          "name": "emissive2"
+        },
+        {
+          "name": "flame"
+        },
+        {
+          "name": "glow"
+        },
+        {
+          "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    }
+  ]
+}

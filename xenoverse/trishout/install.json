@@ -1,0 +1,13 @@
+{
+  "files": {
+    "0_trishout_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_trishout_base.json",
+    "texture__trishout.png": "assets/cobblemon/textures/pokemon/xenoverse/trishout/trishout.png",
+    "trishout.png": "assets/cobblemon/textures/pokemon/xenoverse/trishout.png",
+    "trishout_alpha.png": "assets/cobblemon/textures/pokemon/xenoverse/trishout/trishout_alpha.png",
+    "trishout_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/trishout_cry.ogg",
+    "trishout_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/trishout/trishout_shiny.png",
+    "xenoverse_trishout.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_trishout.animation.json",
+    "xenoverse_trishout.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_trishout.geo.json",
+    "xenoverse_trishout.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_trishout.json"
+  }
+}

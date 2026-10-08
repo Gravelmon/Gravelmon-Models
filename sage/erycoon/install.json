@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_erycoon_base.json": "assets/cobblemon/bedrock/species/sage/0_erycoon_base.json",
+    "erycoon.png": "assets/cobblemon/textures/pokemon/sage/erycoon.png",
+    "erycoon_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/erycoon_cry.ogg"
+  }
+}

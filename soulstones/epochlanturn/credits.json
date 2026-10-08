@@ -1,0 +1,43 @@
+{
+  "game": "soulstones",
+  "pokemon": "lanturn",
+  "formAspects": [
+    "epoch"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "lanturn",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-10-01T14:25:53.305Z",
+      "models": [
+        "soulstones/epochlanturn/soulstones_epochlanturn.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochlanturn/soulstones_epochlanturn.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochlanturn/lanturn_epoch.png",
+        "soulstones/epochlanturn/lanturn_epoch_alpha.png",
+        "soulstones/epochlanturn/lanturn_epoch_emissive.png",
+        "assets/cobblemon/lanturn_epoch_old.png",
+        "soulstones/epochlanturn/lanturn_epoch_shiny.png",
+        "soulstones/epochlanturn/lanturn_epoch_shiny_emissive.png",
+        "soulstones/epochlanturn/epochlanturn.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

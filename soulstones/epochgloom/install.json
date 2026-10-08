@@ -1,0 +1,11 @@
+{
+  "files": {
+    "164_gloom_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_gloom_epoch.json",
+    "epochgloom.png": "assets/cobblemon/textures/pokemon/soulstones/epochgloom.png",
+    "epochgloom_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochgloom/epochgloom_shiny.png",
+    "soulstones_epochgloom.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochgloom.animation.json",
+    "soulstones_epochgloom.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochgloom.geo.json",
+    "soulstones_epochgloom.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochgloom.json",
+    "texture__epochgloom.png": "assets/cobblemon/textures/pokemon/soulstones/epochgloom/epochgloom.png"
+  }
+}

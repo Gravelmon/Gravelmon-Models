@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_terrabbit_base.json": "assets/cobblemon/bedrock/species/uranium/0_terrabbit_base.json",
+    "terrabbit.png": "assets/cobblemon/textures/pokemon/uranium/terrabbit.png",
+    "terrabbit_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/terrabbit_cry.ogg"
+  }
+}

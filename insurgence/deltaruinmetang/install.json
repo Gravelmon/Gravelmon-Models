@@ -1,0 +1,10 @@
+{
+  "files": {
+    "118_metang_delta_ruin.json": "assets/cobblemon/bedrock/species/additional_forms/118_metang_delta_ruin.json",
+    "deltaruinmetang.png": "assets/cobblemon/textures/pokemon/insurgence/deltaruinmetang.png",
+    "deltaruinmetang_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltaruinmetang/deltaruinmetang_shiny.png",
+    "insurgence_deltaruinmetang.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltaruinmetang.geo.json",
+    "insurgence_deltaruinmetang.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltaruinmetang.json",
+    "texture__deltaruinmetang.png": "assets/cobblemon/textures/pokemon/insurgence/deltaruinmetang/deltaruinmetang.png"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_dermafrost_base.json": "assets/cobblemon/bedrock/species/uranium/0_dermafrost_base.json",
+    "dermafrost.png": "assets/cobblemon/textures/pokemon/uranium/dermafrost.png",
+    "dermafrost_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/dermafrost_cry.ogg"
+  }
+}

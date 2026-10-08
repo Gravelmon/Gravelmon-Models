@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_dreamdery_base.json": "assets/cobblemon/bedrock/species/sage/0_dreamdery_base.json",
+    "dreamdery.png": "assets/cobblemon/textures/pokemon/sage/dreamdery.png",
+    "dreamdery_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/dreamdery_cry.ogg"
+  }
+}

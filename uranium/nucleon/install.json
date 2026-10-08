@@ -1,0 +1,13 @@
+{
+  "files": {
+    "0_nucleon_base.json": "assets/cobblemon/bedrock/species/uranium/0_nucleon_base.json",
+    "nucleon.png": "assets/cobblemon/textures/pokemon/uranium/nucleon.png",
+    "nucleon_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/nucleon_cry.ogg",
+    "nucleon_emissive.png": "assets/cobblemon/textures/pokemon/uranium/nucleon/nucleon_emissive.png",
+    "nucleon_emissive_shiny.png": "assets/cobblemon/textures/pokemon/uranium/nucleon/nucleon_emissive_shiny.png",
+    "nucleon_shiny.png": "assets/cobblemon/textures/pokemon/uranium/nucleon/nucleon_shiny.png",
+    "texture__nucleon.png": "assets/cobblemon/textures/pokemon/uranium/nucleon/nucleon.png",
+    "uranium_nucleon.geo.json": "assets/cobblemon/bedrock/pokemon/models/uranium_nucleon.geo.json",
+    "uranium_nucleon.json": "assets/cobblemon/bedrock/pokemon/posers/uranium_nucleon.json"
+  }
+}

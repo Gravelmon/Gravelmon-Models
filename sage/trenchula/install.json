@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_trenchula_base.json": "assets/cobblemon/bedrock/species/sage/0_trenchula_base.json",
+    "trenchula.png": "assets/cobblemon/textures/pokemon/sage/trenchula.png",
+    "trenchula_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/trenchula_cry.ogg"
+  }
+}

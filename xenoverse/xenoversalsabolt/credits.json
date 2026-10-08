@@ -1,0 +1,37 @@
+{
+  "game": "xenoverse",
+  "pokemon": "sabolt",
+  "formAspects": [
+    "xenoversal"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "xenoversal"
+      ],
+      "contributor": {
+        "login": "Blizt"
+      },
+      "contributors": [
+        {
+          "login": "Blizt"
+        }
+      ],
+      "submittedAt": "2026-09-27T10:11:50.298Z",
+      "models": [
+        "xenoverse/xenoversalsabolt/xenoverse_xenoversalsabolt.geo.json"
+      ],
+      "animations": [
+        "xenoverse/xenoversalsabolt/xenoverse_xenoversalsabolt.animation.json"
+      ],
+      "textures": [
+        "xenoverse/xenoversalsabolt/sabolt_xenoversal.png",
+        "xenoverse/xenoversalsabolt/sabolt_xenoversal_alpha.png",
+        "xenoverse/xenoversalsabolt/sabolt_xenoversal_shiny.png",
+        "assets/cobblemon/xenoverse_saboltxenoversal.png",
+        "xenoverse/xenoversalsabolt/xenoversalsabolt.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

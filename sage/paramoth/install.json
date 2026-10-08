@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_paramoth_base.json": "assets/cobblemon/bedrock/species/sage/0_paramoth_base.json",
+    "paramoth.png": "assets/cobblemon/textures/pokemon/sage/paramoth.png",
+    "paramoth_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/paramoth_cry.ogg",
+    "paramoth_male.png": "assets/cobblemon/textures/pokemon/sage/paramoth/paramoth_male.png",
+    "paramoth_male_alpha.png": "assets/cobblemon/textures/pokemon/sage/paramoth/paramoth_male_alpha.png",
+    "paramoth_male_shiny.png": "assets/cobblemon/textures/pokemon/sage/paramoth/paramoth_male_shiny.png",
+    "sage_paramoth.geo.json": "assets/cobblemon/bedrock/pokemon/models/sage_paramoth.geo.json",
+    "sage_paramoth.json": "assets/cobblemon/bedrock/pokemon/posers/sage_paramoth.json"
+  }
+}

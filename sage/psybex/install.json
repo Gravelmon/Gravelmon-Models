@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_psybex_base.json": "assets/cobblemon/bedrock/species/sage/0_psybex_base.json",
+    "psybex.png": "assets/cobblemon/textures/pokemon/sage/psybex.png",
+    "psybex_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/psybex_cry.ogg"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_manticoeur_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_manticoeur_base.json",
+    "manticoeur.png": "assets/cobblemon/textures/pokemon/xenoverse/manticoeur.png",
+    "manticoeur_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/manticoeur_cry.ogg"
+  }
+}

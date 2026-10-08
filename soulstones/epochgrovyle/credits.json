@@ -1,0 +1,40 @@
+{
+  "game": "soulstones",
+  "pokemon": "grovyle",
+  "formAspects": [
+    "epoch"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "grovyle",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-10-01T15:04:00.774Z",
+      "models": [
+        "soulstones/epochgrovyle/soulstones_epochgrovyle.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochgrovyle/soulstones_epochgrovyle.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochgrovyle/grovyle_epoch.png",
+        "soulstones/epochgrovyle/grovyle_epoch_alpha.png",
+        "soulstones/epochgrovyle/grovyle_epoch_shiny.png",
+        "soulstones/epochgrovyle/epochgrovyle.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

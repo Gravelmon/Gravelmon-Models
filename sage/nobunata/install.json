@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_nobunata_base.json": "assets/cobblemon/bedrock/species/sage/0_nobunata_base.json",
+    "nobunata.png": "assets/cobblemon/textures/pokemon/sage/nobunata.png",
+    "nobunata_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/nobunata_cry.ogg"
+  }
+}

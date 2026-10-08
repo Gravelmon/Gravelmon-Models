@@ -1,0 +1,12 @@
+{
+  "files": {
+    "25_sharpedo_x.json": "assets/cobblemon/bedrock/species/additional_forms/25_sharpedo_x.json",
+    "sharpedo_x_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/sharpedo_x_cry.ogg",
+    "sharpedox.png": "assets/cobblemon/textures/pokemon/xenoverse/sharpedox.png",
+    "sharpedox_form.png": "assets/cobblemon/textures/pokemon/xenoverse/sharpedox/sharpedox_form.png",
+    "sharpedox_form_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/sharpedox/sharpedox_form_shiny.png",
+    "xenoverse_sharpedox.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_sharpedox.animation.json",
+    "xenoverse_sharpedox.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_sharpedox.geo.json",
+    "xenoverse_sharpedox.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_sharpedox.json"
+  }
+}

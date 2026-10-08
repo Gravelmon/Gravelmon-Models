@@ -1,0 +1,9 @@
+{
+  "files": {
+    "deltadeino_female.png": "assets/cobblemon/textures/pokemon/insurgence/deltadeinofemale/deltadeino_female.png",
+    "femaledeltadeino.png": "assets/cobblemon/textures/pokemon/insurgence/femaledeltadeino.png"
+  },
+  "uses": [
+    "insurgence/deltadeino/118_deino_delta.json"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "files": {
+    "femalepsypole.png": "assets/cobblemon/textures/pokemon/umbra/femalepsypole.png",
+    "psypole_female.png": "assets/cobblemon/textures/pokemon/umbra/psypolefemale/psypole_female.png"
+  },
+  "uses": [
+    "umbra/psypole/0_psypole_base.json"
+  ]
+}

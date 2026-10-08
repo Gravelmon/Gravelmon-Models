@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_squink_base.json": "assets/cobblemon/bedrock/species/sage/0_squink_base.json",
+    "squink.png": "assets/cobblemon/textures/pokemon/sage/squink.png",
+    "squink_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/squink_cry.ogg"
+  }
+}

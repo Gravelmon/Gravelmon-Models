@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_harptera_base.json": "assets/cobblemon/bedrock/species/uranium/0_harptera_base.json",
+    "harptera.png": "assets/cobblemon/textures/pokemon/uranium/harptera.png",
+    "harptera_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/harptera_cry.ogg"
+  }
+}

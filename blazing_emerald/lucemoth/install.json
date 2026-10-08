@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_lucemoth_base.json": "assets/cobblemon/bedrock/species/blazing_emerald/0_lucemoth_base.json",
+    "blazing_emerald_lucemoth.animation.json": "assets/cobblemon/bedrock/pokemon/animations/blazing_emerald_lucemoth.animation.json",
+    "blazing_emerald_lucemoth.geo.json": "assets/cobblemon/bedrock/pokemon/models/blazing_emerald_lucemoth.geo.json",
+    "blazing_emerald_lucemoth.json": "assets/cobblemon/bedrock/pokemon/posers/blazing_emerald_lucemoth.json",
+    "lucemoth.png": "assets/cobblemon/textures/pokemon/blazing_emerald/lucemoth.png",
+    "lucemoth_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/lucemoth_cry.ogg",
+    "lucemoth_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/lucemoth/lucemoth_shiny.png",
+    "texture__lucemoth.png": "assets/cobblemon/textures/pokemon/blazing_emerald/lucemoth/lucemoth.png"
+  }
+}

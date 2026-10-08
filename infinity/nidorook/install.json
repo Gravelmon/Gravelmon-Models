@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_nidorook_base.json": "assets/cobblemon/bedrock/species/infinity/0_nidorook_base.json",
+    "infinity_nidorook.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_nidorook.animation.json",
+    "infinity_nidorook.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_nidorook.geo.json",
+    "infinity_nidorook.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_nidorook.json",
+    "nidorook.png": "assets/cobblemon/textures/pokemon/infinity/nidorook.png",
+    "nidorook_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/nidorook_cry.ogg",
+    "nidorook_shiny.png": "assets/cobblemon/textures/pokemon/infinity/nidorook/nidorook_shiny.png",
+    "texture__nidorook.png": "assets/cobblemon/textures/pokemon/infinity/nidorook/nidorook.png"
+  }
+}

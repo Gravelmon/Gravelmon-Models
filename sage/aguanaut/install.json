@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_aguanaut_base.json": "assets/cobblemon/bedrock/species/sage/0_aguanaut_base.json",
+    "aguanaut.png": "assets/cobblemon/textures/pokemon/sage/aguanaut.png",
+    "aguanaut_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/aguanaut_cry.ogg",
+    "aguanaut_shiny.png": "assets/cobblemon/textures/pokemon/sage/aguanaut/aguanaut_shiny.png",
+    "sage_aguanaut.animation.json": "assets/cobblemon/bedrock/pokemon/animations/sage_aguanaut.animation.json",
+    "sage_aguanaut.geo.json": "assets/cobblemon/bedrock/pokemon/models/sage_aguanaut.geo.json",
+    "sage_aguanaut.json": "assets/cobblemon/bedrock/pokemon/posers/sage_aguanaut.json",
+    "texture__aguanaut.png": "assets/cobblemon/textures/pokemon/sage/aguanaut/aguanaut.png"
+  }
+}

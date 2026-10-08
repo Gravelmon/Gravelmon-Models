@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_nimbeon_base.json": "assets/cobblemon/bedrock/species/infinity/0_nimbeon_base.json",
+    "infinity_nimbeon.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_nimbeon.animation.json",
+    "infinity_nimbeon.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_nimbeon.geo.json",
+    "infinity_nimbeon.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_nimbeon.json",
+    "nimbeon.png": "assets/cobblemon/textures/pokemon/infinity/nimbeon.png",
+    "nimbeon_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/nimbeon_cry.ogg",
+    "nimbeon_shiny.png": "assets/cobblemon/textures/pokemon/infinity/nimbeon/nimbeon_shiny.png",
+    "texture__nimbeon.png": "assets/cobblemon/textures/pokemon/infinity/nimbeon/nimbeon.png"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "118_grovyle_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_grovyle_delta.json",
+    "deltagrovyle.png": "assets/cobblemon/textures/pokemon/insurgence/deltagrovyle.png",
+    "deltagrovyle_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltagrovyle/deltagrovyle_shiny.png",
+    "grovyle_delta.png": "assets/cobblemon/textures/pokemon/insurgence/deltagrovyle/grovyle_delta.png",
+    "grovyle_delta_alpha.png": "assets/cobblemon/textures/pokemon/insurgence/deltagrovyle/grovyle_delta_alpha.png",
+    "grovyle_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/grovyle_delta_cry.ogg",
+    "grovyle_delta_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltagrovyle/grovyle_delta_shiny.png",
+    "insurgence_deltagrovyle.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltagrovyle.animation.json",
+    "insurgence_deltagrovyle.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltagrovyle.geo.json",
+    "insurgence_deltagrovyle.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltagrovyle.json",
+    "texture__deltagrovyle.png": "assets/cobblemon/textures/pokemon/insurgence/deltagrovyle/deltagrovyle.png"
+  }
+}

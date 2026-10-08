@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_capabara_base.json": "assets/cobblemon/bedrock/species/sage/0_capabara_base.json",
+    "capabara.png": "assets/cobblemon/textures/pokemon/sage/capabara.png",
+    "capabara_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/capabara_cry.ogg"
+  }
+}

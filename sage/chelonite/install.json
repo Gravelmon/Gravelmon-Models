@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_chelonite_base.json": "assets/cobblemon/bedrock/species/sage/0_chelonite_base.json",
+    "chelonite.png": "assets/cobblemon/textures/pokemon/sage/chelonite.png",
+    "chelonite_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/chelonite_cry.ogg"
+  }
+}

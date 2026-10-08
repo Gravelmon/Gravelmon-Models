@@ -1,0 +1,38 @@
+{
+  "game": "radical_red",
+  "pokemon": "clauncher",
+  "formAspects": [
+    "seviian"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "seviian"
+      ],
+      "contributor": {
+        "login": "elpgeon"
+      },
+      "contributors": [
+        {
+          "login": "elpgeon"
+        }
+      ],
+      "submittedAt": "2026-09-30T20:03:52.438Z",
+      "models": [
+        "radical_red/seviianclauncher/radical_red_seviianclauncher.geo.json"
+      ],
+      "animations": [
+        "assets/cobblemon/bedrock/pokemon/animations/radical_red_seviianclauncher.animation.json"
+      ],
+      "textures": [
+        "radical_red/seviianclauncher/texture__seviianclauncher.png",
+        "radical_red/seviianclauncher/seviianclauncher_alpha.png",
+        "radical_red/seviianclauncher/seviianclauncher_emissive.png",
+        "radical_red/seviianclauncher/seviianclauncher_shiny.png",
+        "radical_red/seviianclauncher/seviianclauncher_shiny_emissive.png",
+        "radical_red/seviianclauncher/seviianclauncher.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

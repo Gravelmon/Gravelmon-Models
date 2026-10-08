@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_rocano_base.json": "assets/cobblemon/bedrock/species/sage/0_rocano_base.json",
+    "rocano.png": "assets/cobblemon/textures/pokemon/sage/rocano.png",
+    "rocano_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/rocano_cry.ogg"
+  }
+}

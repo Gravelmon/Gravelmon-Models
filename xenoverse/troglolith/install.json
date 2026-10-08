@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_troglolith_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_troglolith_base.json",
+    "troglolith.png": "assets/cobblemon/textures/pokemon/xenoverse/troglolith.png",
+    "troglolith_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/troglolith_cry.ogg"
+  }
+}

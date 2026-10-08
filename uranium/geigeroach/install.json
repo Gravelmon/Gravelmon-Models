@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_geigeroach_base.json": "assets/cobblemon/bedrock/species/uranium/0_geigeroach_base.json",
+    "geigeroach.png": "assets/cobblemon/textures/pokemon/uranium/geigeroach.png",
+    "geigeroach_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/geigeroach_cry.ogg"
+  }
+}

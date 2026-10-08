@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_egorgeon_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_egorgeon_base.json",
+    "egorgeon.png": "assets/cobblemon/textures/pokemon/xenoverse/egorgeon.png",
+    "egorgeon_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/egorgeon_cry.ogg"
+  }
+}

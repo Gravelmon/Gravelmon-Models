@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_hagoop_base.json": "assets/cobblemon/bedrock/species/uranium/0_hagoop_base.json",
+    "hagoop.png": "assets/cobblemon/textures/pokemon/uranium/hagoop.png",
+    "hagoop_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/hagoop_cry.ogg"
+  }
+}

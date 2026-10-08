@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_cubzero_base.json": "assets/cobblemon/bedrock/species/sage/0_cubzero_base.json",
+    "cubzero.png": "assets/cobblemon/textures/pokemon/sage/cubzero.png",
+    "cubzero_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/cubzero_cry.ogg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "files": {
+    "24_onix_hoennian.json": "assets/cobblemon/bedrock/species/additional_forms/24_onix_hoennian.json",
+    "blazing_emerald_hoennianonix.animation.json": "assets/cobblemon/bedrock/pokemon/animations/blazing_emerald_hoennianonix.animation.json",
+    "blazing_emerald_hoennianonix.geo.json": "assets/cobblemon/bedrock/pokemon/models/blazing_emerald_hoennianonix.geo.json",
+    "blazing_emerald_hoennianonix.json": "assets/cobblemon/bedrock/pokemon/posers/blazing_emerald_hoennianonix.json",
+    "hoennianonix.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianonix.png",
+    "hoennianonix_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianonix/hoennianonix_shiny.png",
+    "onix_hoennian_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/onix_hoennian_cry.ogg",
+    "texture__hoennianonix.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianonix/hoennianonix.png"
+  }
+}

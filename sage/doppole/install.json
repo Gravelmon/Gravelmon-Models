@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_doppole_base.json": "assets/cobblemon/bedrock/species/sage/0_doppole_base.json",
+    "doppole.png": "assets/cobblemon/textures/pokemon/sage/doppole.png",
+    "doppole_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/doppole_cry.ogg"
+  }
+}

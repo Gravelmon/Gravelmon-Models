@@ -1,0 +1,11 @@
+{
+  "files": {
+    "86_carnivine_seviian.json": "assets/cobblemon/bedrock/species/additional_forms/86_carnivine_seviian.json",
+    "radical_red_seviiancarnivine.animation.json": "assets/cobblemon/bedrock/pokemon/animations/radical_red_seviiancarnivine.animation.json",
+    "radical_red_seviiancarnivine.geo.json": "assets/cobblemon/bedrock/pokemon/models/radical_red_seviiancarnivine.geo.json",
+    "radical_red_seviiancarnivine.json": "assets/cobblemon/bedrock/pokemon/posers/radical_red_seviiancarnivine.json",
+    "seviiancarnivine.png": "assets/cobblemon/textures/pokemon/radical_red/seviiancarnivine.png",
+    "seviiancarnivine_shiny.png": "assets/cobblemon/textures/pokemon/radical_red/seviiancarnivine/seviiancarnivine_shiny.png",
+    "texture__seviiancarnivine.png": "assets/cobblemon/textures/pokemon/radical_red/seviiancarnivine/seviiancarnivine.png"
+  }
+}

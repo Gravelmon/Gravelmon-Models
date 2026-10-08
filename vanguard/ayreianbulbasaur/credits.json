@@ -1,0 +1,40 @@
+{
+  "game": "vanguard",
+  "pokemon": "bulbasaur",
+  "formAspects": [
+    "ayreian"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "ayreian"
+      ],
+      "inheritsFrom": {
+        "pokemon": "bulbasaur",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-09-24T12:34:58.326Z",
+      "models": [
+        "vanguard/ayreianbulbasaur/vanguard_ayreianbulbasaur.geo.json"
+      ],
+      "animations": [
+        "vanguard/ayreianbulbasaur/vanguard_ayreianbulbasaur.animation.json"
+      ],
+      "textures": [
+        "vanguard/ayreianbulbasaur/bulbasaur_ayreian.png",
+        "vanguard/ayreianbulbasaur/bulbasaur_ayreian_alpha.png",
+        "vanguard/ayreianbulbasaur/bulbasaur_ayreian_shiny.png",
+        "vanguard/ayreianbulbasaur/ayreianbulbasaur.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

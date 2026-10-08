@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_kokipound_base.json": "assets/cobblemon/bedrock/species/infinity/0_kokipound_base.json",
+    "infinity_kokipound.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_kokipound.animation.json",
+    "infinity_kokipound.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_kokipound.geo.json",
+    "infinity_kokipound.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_kokipound.json",
+    "kokipound.png": "assets/cobblemon/textures/pokemon/infinity/kokipound.png",
+    "kokipound_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/kokipound_cry.ogg",
+    "kokipound_shiny.png": "assets/cobblemon/textures/pokemon/infinity/kokipound/kokipound_shiny.png",
+    "texture__kokipound.png": "assets/cobblemon/textures/pokemon/infinity/kokipound/kokipound.png"
+  }
+}

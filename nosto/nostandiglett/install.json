@@ -1,0 +1,11 @@
+{
+  "files": {
+    "84_diglett_nostan.json": "assets/cobblemon/bedrock/species/additional_forms/84_diglett_nostan.json",
+    "nostandiglett.png": "assets/cobblemon/textures/pokemon/nosto/nostandiglett.png",
+    "nostandiglett_alpha.png": "assets/cobblemon/textures/pokemon/nosto/nostandiglett/nostandiglett_alpha.png",
+    "nostandiglett_shiny.png": "assets/cobblemon/textures/pokemon/nosto/nostandiglett/nostandiglett_shiny.png",
+    "nosto_nostandiglett.geo.json": "assets/cobblemon/bedrock/pokemon/models/nosto_nostandiglett.geo.json",
+    "nosto_nostandiglett.json": "assets/cobblemon/bedrock/pokemon/posers/nosto_nostandiglett.json",
+    "texture__nostandiglett.png": "assets/cobblemon/textures/pokemon/nosto/nostandiglett/nostandiglett.png"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "files": {
+    "0_oculeus_base.json": "assets/cobblemon/bedrock/species/infinity/0_oculeus_base.json",
+    "infinity_oculeus.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_oculeus.animation.json",
+    "infinity_oculeus.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_oculeus.geo.json",
+    "infinity_oculeus.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_oculeus.json",
+    "oculeus.png": "assets/cobblemon/textures/pokemon/infinity/oculeus.png",
+    "oculeus_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/oculeus_cry.ogg",
+    "oculeus_shiny.png": "assets/cobblemon/textures/pokemon/infinity/oculeus/oculeus_shiny.png",
+    "oculeus_translucent.png": "assets/cobblemon/textures/pokemon/infinity/oculeus/oculeus_translucent.png",
+    "oculeus_translucent_shiny.png": "assets/cobblemon/textures/pokemon/infinity/oculeus/oculeus_translucent_shiny.png",
+    "texture__oculeus.png": "assets/cobblemon/textures/pokemon/infinity/oculeus/oculeus.png"
+  }
+}

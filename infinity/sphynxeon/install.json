@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_sphynxeon_base.json": "assets/cobblemon/bedrock/species/infinity/0_sphynxeon_base.json",
+    "infinity_sphynxeon.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_sphynxeon.animation.json",
+    "infinity_sphynxeon.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_sphynxeon.geo.json",
+    "infinity_sphynxeon.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_sphynxeon.json",
+    "sphynxeon.png": "assets/cobblemon/textures/pokemon/infinity/sphynxeon.png",
+    "sphynxeon_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/sphynxeon_cry.ogg",
+    "sphynxeon_shiny.png": "assets/cobblemon/textures/pokemon/infinity/sphynxeon/sphynxeon_shiny.png",
+    "texture__sphynxeon.png": "assets/cobblemon/textures/pokemon/infinity/sphynxeon/sphynxeon.png"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "game": "soulstones",
+  "pokemon": "kirlia",
+  "formAspects": [
+    "epoch"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "kirlia",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "rcampbellbusiness-boop"
+      },
+      "contributors": [
+        {
+          "login": "rcampbellbusiness-boop"
+        }
+      ],
+      "submittedAt": "2026-09-20T18:23:20.794Z",
+      "models": [
+        "soulstones/epochkirlia/soulstones_epochkirlia.geo.json"
+      ],
+      "animations": [
+        "_unreferenced/assets/cobblemon/bedrock/pokemon/animations/epochkirliaone.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochkirlia/epochkirliaone.png",
+        "soulstones/epochkirlia/epochkirliaone_alpha.png",
+        "soulstones/epochkirlia/epochkirliaone_shiny.png",
+        "soulstones/epochkirlia/epochkirlia.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

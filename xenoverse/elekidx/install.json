@@ -1,0 +1,12 @@
+{
+  "files": {
+    "25_elekid_x.json": "assets/cobblemon/bedrock/species/additional_forms/25_elekid_x.json",
+    "elekid_x_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/elekid_x_cry.ogg",
+    "elekidx.png": "assets/cobblemon/textures/pokemon/xenoverse/elekidx.png",
+    "elekidx_form.png": "assets/cobblemon/textures/pokemon/xenoverse/elekidx/elekidx_form.png",
+    "elekidx_form_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/elekidx/elekidx_form_shiny.png",
+    "xenoverse_elekidx.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_elekidx.animation.json",
+    "xenoverse_elekidx.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_elekidx.geo.json",
+    "xenoverse_elekidx.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_elekidx.json"
+  }
+}

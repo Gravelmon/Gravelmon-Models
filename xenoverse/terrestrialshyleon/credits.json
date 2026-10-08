@@ -1,0 +1,41 @@
+{
+  "game": "xenoverse",
+  "pokemon": "shyleon",
+  "formAspects": [
+    "terrestrial"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "terrestrial"
+      ],
+      "inheritsFrom": {
+        "pokemon": "shyleon",
+        "game": "xenoverse"
+      },
+      "contributor": {
+        "login": "DigitalRaikan"
+      },
+      "contributors": [
+        {
+          "login": "DigitalRaikan"
+        }
+      ],
+      "submittedAt": "2026-09-26T11:25:57.336Z",
+      "models": [
+        "xenoverse/terrestrialshyleon/xenoverse_terrestrialshyleon.geo.json"
+      ],
+      "animations": [
+        "xenoverse/terrestrialshyleon/xenoverse_terrestrialshyleon.animation.json"
+      ],
+      "textures": [
+        "xenoverse/terrestrialshyleon/shyleon_terrestrial.png",
+        "xenoverse/terrestrialshyleon/shyleon_terrestrial_alpha.png",
+        "xenoverse/terrestrialshyleon/shyleon_terrestrial_shiny.png",
+        "assets/cobblemon/xenoverse_shyleonterretrial.png",
+        "xenoverse/terrestrialshyleon/terrestrialshyleon.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

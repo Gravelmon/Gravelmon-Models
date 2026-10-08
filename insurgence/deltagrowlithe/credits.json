@@ -1,0 +1,41 @@
+{
+  "game": "insurgence",
+  "pokemon": "growlithe",
+  "formAspects": [
+    "delta"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "delta"
+      ],
+      "inheritsFrom": {
+        "pokemon": "growlithe",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "tomiqua"
+      },
+      "contributors": [
+        {
+          "login": "tomiqua"
+        }
+      ],
+      "submittedAt": "2026-09-27T17:53:01.209Z",
+      "models": [
+        "insurgence/deltagrowlithe/insurgence_deltagrowlithe.geo.json"
+      ],
+      "animations": [
+        "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltagrowlithe.animation.json"
+      ],
+      "textures": [
+        "assets/cobblemon/delta_growlithe preview.png",
+        "insurgence/deltagrowlithe/growlithe_delta.png",
+        "insurgence/deltagrowlithe/growlithe_delta_alpha.png",
+        "insurgence/deltagrowlithe/growlithe_delta_shiny.png",
+        "insurgence/deltagrowlithe/deltagrowlithe.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

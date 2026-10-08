@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_fantasmare_base.json": "assets/cobblemon/bedrock/species/sage/0_fantasmare_base.json",
+    "fantasmare.png": "assets/cobblemon/textures/pokemon/sage/fantasmare.png",
+    "fantasmare_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/fantasmare_cry.ogg"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_shibalbat_base.json": "assets/cobblemon/bedrock/species/sage/0_shibalbat_base.json",
+    "shibalbat.png": "assets/cobblemon/textures/pokemon/sage/shibalbat.png",
+    "shibalbat_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/shibalbat_cry.ogg"
+  }
+}

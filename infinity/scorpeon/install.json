@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_scorpeon_base.json": "assets/cobblemon/bedrock/species/infinity/0_scorpeon_base.json",
+    "infinity_scorpeon.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_scorpeon.animation.json",
+    "infinity_scorpeon.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_scorpeon.geo.json",
+    "infinity_scorpeon.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_scorpeon.json",
+    "scorpeon.png": "assets/cobblemon/textures/pokemon/infinity/scorpeon.png",
+    "scorpeon_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/scorpeon_cry.ogg",
+    "scorpeon_shiny.png": "assets/cobblemon/textures/pokemon/infinity/scorpeon/scorpeon_shiny.png",
+    "texture__scorpeon.png": "assets/cobblemon/textures/pokemon/infinity/scorpeon/scorpeon.png"
+  }
+}

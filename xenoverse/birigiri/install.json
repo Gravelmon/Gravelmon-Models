@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_birigiri_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_birigiri_base.json",
+    "birigiri.png": "assets/cobblemon/textures/pokemon/xenoverse/birigiri.png",
+    "birigiri_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/birigiri_cry.ogg",
+    "birigiri_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/birigiri/birigiri_shiny.png",
+    "texture__birigiri.png": "assets/cobblemon/textures/pokemon/xenoverse/birigiri/birigiri.png",
+    "xenoverse_birigiri.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_birigiri.animation.json",
+    "xenoverse_birigiri.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_birigiri.geo.json",
+    "xenoverse_birigiri.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_birigiri.json"
+  }
+}

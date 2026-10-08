@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_birchee_base.json": "assets/cobblemon/bedrock/species/atlas/0_birchee_base.json",
+    "atlas_birchee.animation.json": "assets/cobblemon/bedrock/pokemon/animations/atlas_birchee.animation.json",
+    "atlas_birchee.geo.json": "assets/cobblemon/bedrock/pokemon/models/atlas_birchee.geo.json",
+    "atlas_birchee.json": "assets/cobblemon/bedrock/pokemon/posers/atlas_birchee.json",
+    "birchee.png": "assets/cobblemon/textures/pokemon/atlas/birchee.png",
+    "birchee_alpha.png": "assets/cobblemon/textures/pokemon/atlas/birchee/birchee_alpha.png",
+    "birchee_shiny.png": "assets/cobblemon/textures/pokemon/atlas/birchee/birchee_shiny.png",
+    "texture__birchee.png": "assets/cobblemon/textures/pokemon/atlas/birchee/birchee.png"
+  }
+}

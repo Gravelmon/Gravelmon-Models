@@ -1,0 +1,12 @@
+{
+  "files": {
+    "117_meganium_egho.json": "assets/cobblemon/bedrock/species/additional_forms/117_meganium_egho.json",
+    "eghomeganium.png": "assets/cobblemon/textures/pokemon/infinity/eghomeganium.png",
+    "eghomeganium_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghomeganium/eghomeganium_shiny.png",
+    "infinity_eghomeganium.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_eghomeganium.animation.json",
+    "infinity_eghomeganium.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_eghomeganium.geo.json",
+    "infinity_eghomeganium.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_eghomeganium.json",
+    "meganium_egho_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/meganium_egho_cry.ogg",
+    "texture__eghomeganium.png": "assets/cobblemon/textures/pokemon/infinity/eghomeganium/eghomeganium.png"
+  }
+}

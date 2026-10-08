@@ -1,0 +1,14 @@
+{
+  "files": {
+    "118_venusaur_delta_female.json": "assets/cobblemon/bedrock/species/additional_forms/118_venusaur_delta_female.json",
+    "deltavenusaur_female.png": "assets/cobblemon/textures/pokemon/insurgence/deltavenusaurfemale/deltavenusaur_female.png",
+    "deltavenusaur_female_alpha.png": "assets/cobblemon/textures/pokemon/insurgence/deltavenusaurfemale/deltavenusaur_female_alpha.png",
+    "deltavenusaur_female_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltavenusaurfemale/deltavenusaur_female_shiny.png",
+    "femaledeltavenusaur.png": "assets/cobblemon/textures/pokemon/insurgence/femaledeltavenusaur.png",
+    "insurgence_deltavenusaurfemale.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltavenusaurfemale.geo.json",
+    "insurgence_deltavenusaurfemale.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltavenusaurfemale.json"
+  },
+  "uses": [
+    "insurgence/deltavenusaur/deltavenusaur.animation.json"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_caracrust_base.json": "assets/cobblemon/bedrock/species/sage/0_caracrust_base.json",
+    "caracrust.png": "assets/cobblemon/textures/pokemon/sage/caracrust.png",
+    "caracrust_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/caracrust_cry.ogg"
+  }
+}

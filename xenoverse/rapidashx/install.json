@@ -1,0 +1,12 @@
+{
+  "files": {
+    "25_rapidash_x.json": "assets/cobblemon/bedrock/species/additional_forms/25_rapidash_x.json",
+    "rapidash_x_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/rapidash_x_cry.ogg",
+    "rapidashx.png": "assets/cobblemon/textures/pokemon/xenoverse/rapidashx.png",
+    "rapidashx_form.png": "assets/cobblemon/textures/pokemon/xenoverse/rapidashx/rapidashx_form.png",
+    "rapidashx_form_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/rapidashx/rapidashx_form_shiny.png",
+    "xenoverse_rapidashx.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_rapidashx.animation.json",
+    "xenoverse_rapidashx.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_rapidashx.geo.json",
+    "xenoverse_rapidashx.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_rapidashx.json"
+  }
+}

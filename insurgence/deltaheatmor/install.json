@@ -1,0 +1,14 @@
+{
+  "files": {
+    "118_heatmor_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_heatmor_delta.json",
+    "deltaheatmor.png": "assets/cobblemon/textures/pokemon/insurgence/deltaheatmor.png",
+    "deltaheatmor_emissive.png": "assets/cobblemon/textures/pokemon/insurgence/deltaheatmor/deltaheatmor_emissive.png",
+    "deltaheatmor_emissive_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltaheatmor/deltaheatmor_emissive_shiny.png",
+    "deltaheatmor_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltaheatmor/deltaheatmor_shiny.png",
+    "heatmor_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/heatmor_delta_cry.ogg",
+    "insurgence_deltaheatmor.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltaheatmor.animation.json",
+    "insurgence_deltaheatmor.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltaheatmor.geo.json",
+    "insurgence_deltaheatmor.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltaheatmor.json",
+    "texture__deltaheatmor.png": "assets/cobblemon/textures/pokemon/insurgence/deltaheatmor/deltaheatmor.png"
+  }
+}

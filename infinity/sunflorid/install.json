@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_sunflorid_base.json": "assets/cobblemon/bedrock/species/infinity/0_sunflorid_base.json",
+    "sunflorid.png": "assets/cobblemon/textures/pokemon/infinity/sunflorid.png",
+    "sunflorid_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/sunflorid_cry.ogg"
+  }
+}

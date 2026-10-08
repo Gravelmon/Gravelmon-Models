@@ -1,0 +1,40 @@
+{
+  "game": "insurgence",
+  "pokemon": "noibat",
+  "formAspects": [
+    "delta"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "delta"
+      ],
+      "inheritsFrom": {
+        "pokemon": "noibat",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "dylanteteras"
+      },
+      "contributors": [
+        {
+          "login": "dylanteteras"
+        }
+      ],
+      "submittedAt": "2026-10-05T11:03:02.320Z",
+      "models": [
+        "insurgence/deltanoibat/insurgence_deltanoibat.geo.json"
+      ],
+      "animations": [
+        "_unreferenced/assets/cobblemon/bedrock/pokemon/animations/insurgence_deltanoibat.animation.json"
+      ],
+      "textures": [
+        "insurgence/deltanoibat/noibat_delta.png",
+        "insurgence/deltanoibat/noibat_delta_alpha.png",
+        "insurgence/deltanoibat/noibat_delta_shiny.png",
+        "insurgence/deltanoibat/deltanoibat.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

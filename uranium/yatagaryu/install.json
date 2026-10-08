@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_yatagaryu_base.json": "assets/cobblemon/bedrock/species/uranium/0_yatagaryu_base.json",
+    "yatagaryu.png": "assets/cobblemon/textures/pokemon/uranium/yatagaryu.png",
+    "yatagaryu_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/yatagaryu_cry.ogg"
+  }
+}

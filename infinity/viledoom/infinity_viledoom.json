@@ -1,0 +1,66 @@
+{
+  "portraitScale": 1.7000000476837158,
+  "portraitTranslation": [
+    -0.2,
+    0.7,
+    0.0
+  ],
+  "profileScale": 0.699999988079071,
+  "profileTranslation": [
+    0.0,
+    0.95,
+    -20.0
+  ],
+  "animations": {
+    "faint": "q.bedrock_primary('infinity_viledoom', 'faint')"
+  },
+  "poses": {
+    "standing": {
+      "poseName": "standing",
+      "animations": [
+        "q.bedrock('infinity_viledoom', 'ground_idle')"
+      ],
+      "poseTypes": [
+        "STAND",
+        "PORTRAIT",
+        "PROFILE",
+        "NONE",
+        "FLOAT",
+        "HOVER"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('infinity_viledoom', 'blink')"
+      ],
+      "namedAnimations": {},
+      "transformedParts": []
+    },
+    "walking": {
+      "poseName": "walking",
+      "animations": [
+        "q.bedrock('infinity_viledoom', 'ground_walk')"
+      ],
+      "poseTypes": [
+        "WALK",
+        "SWIM",
+        "FLY"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('infinity_viledoom', 'blink')"
+      ],
+      "namedAnimations": {},
+      "transformedParts": []
+    },
+    "sleeping": {
+      "poseName": "sleeping",
+      "animations": [
+        "q.bedrock('infinity_viledoom', 'sleep')"
+      ],
+      "poseTypes": [
+        "SLEEP"
+      ],
+
+      "namedAnimations": {},
+      "transformedParts": []
+    }
+  }
+}

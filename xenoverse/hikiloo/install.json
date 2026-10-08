@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_hikiloo_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_hikiloo_base.json",
+    "hikiloo.png": "assets/cobblemon/textures/pokemon/xenoverse/hikiloo.png",
+    "hikiloo_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/hikiloo_cry.ogg"
+  }
+}

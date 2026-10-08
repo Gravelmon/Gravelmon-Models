@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_madieval_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_madieval_base.json",
+    "madieval.png": "assets/cobblemon/textures/pokemon/xenoverse/madieval.png",
+    "madieval_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/madieval_cry.ogg"
+  }
+}

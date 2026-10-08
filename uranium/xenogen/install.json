@@ -1,0 +1,14 @@
+{
+  "files": {
+    "0_xenogen_base.json": "assets/cobblemon/bedrock/species/uranium/0_xenogen_base.json",
+    "texture__xenogen.png": "assets/cobblemon/textures/pokemon/uranium/xenogen/xenogen.png",
+    "uranium_xenogen.animation.json": "assets/cobblemon/bedrock/pokemon/animations/uranium_xenogen.animation.json",
+    "uranium_xenogen.geo.json": "assets/cobblemon/bedrock/pokemon/models/uranium_xenogen.geo.json",
+    "uranium_xenogen.json": "assets/cobblemon/bedrock/pokemon/posers/uranium_xenogen.json",
+    "xenogen.png": "assets/cobblemon/textures/pokemon/uranium/xenogen.png",
+    "xenogen_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/xenogen_cry.ogg",
+    "xenogen_emissive.png": "assets/cobblemon/textures/pokemon/uranium/xenogen/xenogen_emissive.png",
+    "xenogen_shiny.png": "assets/cobblemon/textures/pokemon/uranium/xenogen/xenogen_shiny.png",
+    "xenogen_shiny_emissive.png": "assets/cobblemon/textures/pokemon/uranium/xenogen/xenogen_shiny_emissive.png"
+  }
+}

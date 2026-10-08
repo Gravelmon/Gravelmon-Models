@@ -1,0 +1,34 @@
+{
+  "game": "sage",
+  "pokemon": "lintle",
+  "entries": [
+    {
+      "contributor": {
+        "login": "ivangarcia1.0"
+      },
+      "contributors": [
+        {
+          "login": "ivangarcia1.0"
+        },
+        {
+          "login": "DigitalRaikan"
+        }
+      ],
+      "submittedAt": "2026-09-26T12:00:10.241Z",
+      "models": [
+        "sage/lintle/sage_lintle.geo.json"
+      ],
+      "animations": [
+        "sage/lintle/sage_lintle.animation.json"
+      ],
+      "textures": [
+        "sage/lintle/texture__lintle.png",
+        "sage/lintle/lintle_alpha.png",
+        "assets/cobblemon/lintle_preview.png",
+        "sage/lintle/lintle_shiny.png",
+        "sage/lintle/lintle.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

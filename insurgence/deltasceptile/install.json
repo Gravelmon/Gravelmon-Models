@@ -1,0 +1,15 @@
+{
+  "files": {
+    "118_sceptile_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_sceptile_delta.json",
+    "deltasceptile.png": "assets/cobblemon/textures/pokemon/insurgence/deltasceptile.png",
+    "deltasceptile_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltasceptile/deltasceptile_shiny.png",
+    "insurgence_deltasceptile.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltasceptile.animation.json",
+    "insurgence_deltasceptile.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltasceptile.geo.json",
+    "insurgence_deltasceptile.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltasceptile.json",
+    "sceptile_delta.png": "assets/cobblemon/textures/pokemon/insurgence/deltasceptile/sceptile_delta.png",
+    "sceptile_delta_alpha.png": "assets/cobblemon/textures/pokemon/insurgence/deltasceptile/sceptile_delta_alpha.png",
+    "sceptile_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/sceptile_delta_cry.ogg",
+    "sceptile_delta_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltasceptile/sceptile_delta_shiny.png",
+    "texture__deltasceptile.png": "assets/cobblemon/textures/pokemon/insurgence/deltasceptile/deltasceptile.png"
+  }
+}

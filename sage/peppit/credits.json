@@ -1,0 +1,32 @@
+{
+  "game": "sage",
+  "pokemon": "peppit",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Carnifax"
+      },
+      "contributors": [
+        {
+          "login": "Carnifax"
+        }
+      ],
+      "submittedAt": "2026-10-01T11:12:47.837Z",
+      "models": [
+        "sage/peppit/sage_peppit.geo.json"
+      ],
+      "animations": [
+        "sage/peppit/sage_peppit.animation.json"
+      ],
+      "textures": [
+        "sage/peppit/texture__peppit.png",
+        "sage/peppit/peppit_alpha.png",
+        "sage/peppit/peppit_shiny.png",
+        "sage/peppit/peppit.png"
+      ],
+      "sounds": [
+        "sage/peppit/peppit_cry.ogg"
+      ]
+    }
+  ]
+}

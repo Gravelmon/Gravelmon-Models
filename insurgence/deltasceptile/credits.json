@@ -1,0 +1,35 @@
+{
+  "game": "insurgence",
+  "pokemon": "sceptile",
+  "formAspects": [
+    "delta"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "delta"
+      ],
+      "inheritsFrom": {
+        "pokemon": "sceptile",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "submittedAt": "2026-09-19T09:30:16.153Z",
+      "models": [
+        "insurgence/deltasceptile/insurgence_deltasceptile.geo.json"
+      ],
+      "animations": [
+        "insurgence/deltasceptile/insurgence_deltasceptile.animation.json"
+      ],
+      "textures": [
+        "insurgence/deltasceptile/sceptile_delta.png",
+        "insurgence/deltasceptile/sceptile_delta_alpha.png",
+        "insurgence/deltasceptile/sceptile_delta_shiny.png",
+        "insurgence/deltasceptile/deltasceptile.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

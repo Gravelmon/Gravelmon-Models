@@ -1,0 +1,14 @@
+{
+  "files": {
+    "164_absol_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_absol_epoch.json",
+    "epochabsol.png": "assets/cobblemon/textures/pokemon/soulstones/epochabsol.png",
+    "epochabsol_emissive.png": "assets/cobblemon/textures/pokemon/soulstones/epochabsol/epochabsol_emissive.png",
+    "epochabsol_emissive_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochabsol/epochabsol_emissive_shiny.png",
+    "epochabsol_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochabsol/epochabsol_shiny.png",
+    "epochabsol_shiny_emissive.png": "assets/cobblemon/textures/pokemon/soulstones/epochabsol/epochabsol_shiny_emissive.png",
+    "soulstones_epochabsol.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochabsol.animation.json",
+    "soulstones_epochabsol.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochabsol.geo.json",
+    "soulstones_epochabsol.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochabsol.json",
+    "texture__epochabsol.png": "assets/cobblemon/textures/pokemon/soulstones/epochabsol/epochabsol.png"
+  }
+}

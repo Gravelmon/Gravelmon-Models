@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_goombear_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_goombear_base.json",
+    "goombear.png": "assets/cobblemon/textures/pokemon/xenoverse/goombear.png",
+    "goombear_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/goombear_cry.ogg"
+  }
+}

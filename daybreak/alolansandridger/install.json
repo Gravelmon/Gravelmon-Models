@@ -1,0 +1,13 @@
+{
+  "files": {
+    "1_sandridger_alolan.json": "assets/cobblemon/bedrock/species/additional_forms/1_sandridger_alolan.json",
+    "alolansandridger.png": "assets/cobblemon/textures/pokemon/daybreak/alolansandridger.png",
+    "alolansandridger_shiny.png": "assets/cobblemon/textures/pokemon/daybreak/alolansandridger/alolansandridger_shiny.png",
+    "daybreak_alolansandridger.geo.json": "assets/cobblemon/bedrock/pokemon/models/daybreak_alolansandridger.geo.json",
+    "daybreak_alolansandridger.json": "assets/cobblemon/bedrock/pokemon/posers/daybreak_alolansandridger.json",
+    "texture__alolansandridger.png": "assets/cobblemon/textures/pokemon/daybreak/alolansandridger/alolansandridger.png"
+  },
+  "uses": [
+    "daybreak/sandridger/daybreak_sandridger.animation.json"
+  ]
+}

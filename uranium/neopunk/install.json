@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_neopunk_base.json": "assets/cobblemon/bedrock/species/uranium/0_neopunk_base.json",
+    "neopunk.png": "assets/cobblemon/textures/pokemon/uranium/neopunk.png",
+    "neopunk_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/neopunk_cry.ogg"
+  }
+}

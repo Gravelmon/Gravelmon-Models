@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_hystearic_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_hystearic_base.json",
+    "hystearic.png": "assets/cobblemon/textures/pokemon/xenoverse/hystearic.png",
+    "hystearic_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/hystearic_cry.ogg",
+    "hystearic_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/hystearic/hystearic_shiny.png",
+    "texture__hystearic.png": "assets/cobblemon/textures/pokemon/xenoverse/hystearic/hystearic.png",
+    "xenoverse_hystearic.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_hystearic.animation.json",
+    "xenoverse_hystearic.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_hystearic.geo.json",
+    "xenoverse_hystearic.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_hystearic.json"
+  }
+}

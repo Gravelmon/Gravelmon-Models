@@ -1,0 +1,9 @@
+{
+  "files": {
+    "femaleviipii.png": "assets/cobblemon/textures/pokemon/sage/femaleviipii.png",
+    "viipii_female.png": "assets/cobblemon/textures/pokemon/sage/viipiifemale/viipii_female.png"
+  },
+  "uses": [
+    "sage/viipii/0_viipii_base.json"
+  ]
+}

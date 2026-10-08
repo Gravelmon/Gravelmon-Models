@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_bremand_base.json": "assets/cobblemon/bedrock/species/xenoverse/0_bremand_base.json",
+    "bremand.png": "assets/cobblemon/textures/pokemon/xenoverse/bremand.png",
+    "bremand_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/bremand_cry.ogg"
+  }
+}

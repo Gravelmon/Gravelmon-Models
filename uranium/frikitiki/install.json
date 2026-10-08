@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_frikitiki_base.json": "assets/cobblemon/bedrock/species/uranium/0_frikitiki_base.json",
+    "frikitiki.png": "assets/cobblemon/textures/pokemon/uranium/frikitiki.png",
+    "frikitiki_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/frikitiki_cry.ogg"
+  }
+}

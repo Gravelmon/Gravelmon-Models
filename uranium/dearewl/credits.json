@@ -1,0 +1,31 @@
+{
+  "game": "uranium",
+  "pokemon": "dearewl",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Mitchooart"
+      },
+      "contributors": [
+        {
+          "login": "Mitchooart"
+        }
+      ],
+      "submittedAt": "2026-09-26T08:35:36.592Z",
+      "models": [
+        "uranium/dearewl/uranium_dearewl.geo.json"
+      ],
+      "animations": [
+        "uranium/dearewl/uranium_dearewl.animation.json"
+      ],
+      "textures": [
+        "assets/cobblemon/dearew_previewl.png",
+        "uranium/dearewl/texture__dearewl.png",
+        "uranium/dearewl/dearewl_alpha.png",
+        "uranium/dearewl/dearewl_shiny.png",
+        "uranium/dearewl/dearewl.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

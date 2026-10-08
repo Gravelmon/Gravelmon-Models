@@ -1,0 +1,11 @@
+{
+  "files": {
+    "0_sandridger_base.json": "assets/cobblemon/bedrock/species/daybreak/0_sandridger_base.json",
+    "daybreak_sandridger.animation.json": "assets/cobblemon/bedrock/pokemon/animations/daybreak_sandridger.animation.json",
+    "daybreak_sandridger.geo.json": "assets/cobblemon/bedrock/pokemon/models/daybreak_sandridger.geo.json",
+    "daybreak_sandridger.json": "assets/cobblemon/bedrock/pokemon/posers/daybreak_sandridger.json",
+    "sandridger.png": "assets/cobblemon/textures/pokemon/daybreak/sandridger.png",
+    "sandridger_shiny.png": "assets/cobblemon/textures/pokemon/daybreak/sandridger/sandridger_shiny.png",
+    "texture__sandridger.png": "assets/cobblemon/textures/pokemon/daybreak/sandridger/sandridger.png"
+  }
+}

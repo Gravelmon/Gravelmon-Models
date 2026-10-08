@@ -1,0 +1,14 @@
+{
+  "files": {
+    "164_shedinja_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_shedinja_epoch.json",
+    "epochshedinja.png": "assets/cobblemon/textures/pokemon/soulstones/epochshedinja.png",
+    "epochshedinja_emissive.png": "assets/cobblemon/textures/pokemon/soulstones/epochshedinja/epochshedinja_emissive.png",
+    "epochshedinja_emissive_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochshedinja/epochshedinja_emissive_shiny.png",
+    "epochshedinja_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochshedinja/epochshedinja_shiny.png",
+    "epochshedinja_shiny_emissive.png": "assets/cobblemon/textures/pokemon/soulstones/epochshedinja/epochshedinja_shiny_emissive.png",
+    "soulstones_epochshedinja.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochshedinja.animation.json",
+    "soulstones_epochshedinja.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochshedinja.geo.json",
+    "soulstones_epochshedinja.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochshedinja.json",
+    "texture__epochshedinja.png": "assets/cobblemon/textures/pokemon/soulstones/epochshedinja/epochshedinja.png"
+  }
+}

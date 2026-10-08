@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_montegrew_base.json": "assets/cobblemon/bedrock/species/sage/0_montegrew_base.json",
+    "montegrew.png": "assets/cobblemon/textures/pokemon/sage/montegrew.png",
+    "montegrew_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/montegrew_cry.ogg"
+  }
+}

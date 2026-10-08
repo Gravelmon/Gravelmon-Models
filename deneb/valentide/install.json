@@ -1,0 +1,11 @@
+{
+  "files": {
+    "0_valentide_base.json": "assets/cobblemon/bedrock/species/deneb/0_valentide_base.json",
+    "deneb_valentide.geo.json": "assets/cobblemon/bedrock/pokemon/models/deneb_valentide.geo.json",
+    "deneb_valentide.json": "assets/cobblemon/bedrock/pokemon/posers/deneb_valentide.json",
+    "texture__valentide.png": "assets/cobblemon/textures/pokemon/deneb/valentide/valentide.png",
+    "valentide.png": "assets/cobblemon/textures/pokemon/deneb/valentide.png",
+    "valentide_cry.ogg": "assets/gravelmon/sounds/pokemon/deneb/valentide_cry.ogg",
+    "valentide_shiny.png": "assets/cobblemon/textures/pokemon/deneb/valentide/valentide_shiny.png"
+  }
+}

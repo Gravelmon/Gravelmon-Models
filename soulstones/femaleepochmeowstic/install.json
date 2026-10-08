@@ -1,0 +1,9 @@
+{
+  "files": {
+    "epochmeowstic_female.png": "assets/cobblemon/textures/pokemon/soulstones/epochmeowsticfemale/epochmeowstic_female.png",
+    "femaleepochmeowstic.png": "assets/cobblemon/textures/pokemon/soulstones/femaleepochmeowstic.png"
+  },
+  "uses": [
+    "soulstones/epochmeowstic/164_meowstic_epoch.json"
+  ]
+}

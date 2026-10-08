@@ -1,0 +1,13 @@
+{
+  "files": {
+    "0_xenomite_base.json": "assets/cobblemon/bedrock/species/uranium/0_xenomite_base.json",
+    "texture__xenomite.png": "assets/cobblemon/textures/pokemon/uranium/xenomite/xenomite.png",
+    "uranium_xenomite.geo.json": "assets/cobblemon/bedrock/pokemon/models/uranium_xenomite.geo.json",
+    "uranium_xenomite.json": "assets/cobblemon/bedrock/pokemon/posers/uranium_xenomite.json",
+    "xenomite.png": "assets/cobblemon/textures/pokemon/uranium/xenomite.png",
+    "xenomite_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/xenomite_cry.ogg",
+    "xenomite_emissive.png": "assets/cobblemon/textures/pokemon/uranium/xenomite/xenomite_emissive.png",
+    "xenomite_shiny.png": "assets/cobblemon/textures/pokemon/uranium/xenomite/xenomite_shiny.png",
+    "xenomite_shiny_emissive.png": "assets/cobblemon/textures/pokemon/uranium/xenomite/xenomite_shiny_emissive.png"
+  }
+}

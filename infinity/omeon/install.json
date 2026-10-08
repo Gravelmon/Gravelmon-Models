@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_omeon_base.json": "assets/cobblemon/bedrock/species/infinity/0_omeon_base.json",
+    "infinity_omeon.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_omeon.animation.json",
+    "infinity_omeon.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_omeon.geo.json",
+    "infinity_omeon.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_omeon.json",
+    "omeon.png": "assets/cobblemon/textures/pokemon/infinity/omeon.png",
+    "omeon_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/omeon_cry.ogg",
+    "omeon_shiny.png": "assets/cobblemon/textures/pokemon/infinity/omeon/omeon_shiny.png",
+    "texture__omeon.png": "assets/cobblemon/textures/pokemon/infinity/omeon/omeon.png"
+  }
+}

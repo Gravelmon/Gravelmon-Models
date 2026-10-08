@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_marecampus_base.json": "assets/cobblemon/bedrock/species/africanus/0_marecampus_base.json",
+    "africanus_marecampus.animation.json": "assets/cobblemon/bedrock/pokemon/animations/africanus_marecampus.animation.json",
+    "africanus_marecampus.geo.json": "assets/cobblemon/bedrock/pokemon/models/africanus_marecampus.geo.json",
+    "africanus_marecampus.json": "assets/cobblemon/bedrock/pokemon/posers/africanus_marecampus.json",
+    "marecampus.png": "assets/cobblemon/textures/pokemon/africanus/marecampus.png",
+    "marecampus_alpha.png": "assets/cobblemon/textures/pokemon/africanus/marecampus/marecampus_alpha.png",
+    "marecampus_shiny.png": "assets/cobblemon/textures/pokemon/africanus/marecampus/marecampus_shiny.png",
+    "texture__marecampus.png": "assets/cobblemon/textures/pokemon/africanus/marecampus/marecampus.png"
+  }
+}

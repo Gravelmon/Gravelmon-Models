@@ -1,0 +1,11 @@
+{
+  "files": {
+    "24_shuckle_hoennian.json": "assets/cobblemon/bedrock/species/additional_forms/24_shuckle_hoennian.json",
+    "blazing_emerald_hoennianshuckle.geo.json": "assets/cobblemon/bedrock/pokemon/models/blazing_emerald_hoennianshuckle.geo.json",
+    "blazing_emerald_hoennianshuckle.json": "assets/cobblemon/bedrock/pokemon/posers/blazing_emerald_hoennianshuckle.json",
+    "hoennianshuckle.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianshuckle.png",
+    "hoennianshuckle_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianshuckle/hoennianshuckle_shiny.png",
+    "shuckle_hoennian_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/shuckle_hoennian_cry.ogg",
+    "texture__hoennianshuckle.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianshuckle/hoennianshuckle.png"
+  }
+}

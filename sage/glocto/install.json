@@ -1,0 +1,7 @@
+{
+  "files": {
+    "0_glocto_base.json": "assets/cobblemon/bedrock/species/sage/0_glocto_base.json",
+    "glocto.png": "assets/cobblemon/textures/pokemon/sage/glocto.png",
+    "glocto_cry.ogg": "assets/gravelmon/sounds/pokemon/sage/glocto_cry.ogg"
+  }
+}

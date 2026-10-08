@@ -1,0 +1,8 @@
+{
+  "files": {
+    "164_linoone_epochtwo.json": "assets/cobblemon/bedrock/species/additional_forms/164_linoone_epochtwo.json"
+  },
+  "uses": [
+    "soulstones/epochlinoone/epochlinoone.png"
+  ]
+}

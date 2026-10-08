@@ -1,0 +1,14 @@
+{
+  "files": {
+    "118_volcarona_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_volcarona_delta.json",
+    "deltavolcarona.png": "assets/cobblemon/textures/pokemon/insurgence/deltavolcarona.png",
+    "deltavolcarona_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltavolcarona/deltavolcarona_shiny.png",
+    "deltavolcarona_transparent.png": "assets/cobblemon/textures/pokemon/insurgence/deltavolcarona/deltavolcarona_transparent.png",
+    "deltavolcarona_transparent_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltavolcarona/deltavolcarona_transparent_shiny.png",
+    "insurgence_deltavolcarona.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltavolcarona.animation.json",
+    "insurgence_deltavolcarona.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltavolcarona.geo.json",
+    "insurgence_deltavolcarona.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltavolcarona.json",
+    "texture__deltavolcarona.png": "assets/cobblemon/textures/pokemon/insurgence/deltavolcarona/deltavolcarona.png",
+    "volcarona_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/volcarona_delta_cry.ogg"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "game": "soulstones",
+  "pokemon": "gallade",
+  "formAspects": [
+    "epoch"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "gallade",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "rcampbellbusiness-boop"
+      },
+      "contributors": [
+        {
+          "login": "rcampbellbusiness-boop"
+        }
+      ],
+      "submittedAt": "2026-09-20T18:15:57.175Z",
+      "models": [
+        "soulstones/epochgallade/soulstones_epochgallade.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochgallade/soulstones_epochgallade.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochgallade/epochgalladeone.png",
+        "soulstones/epochgallade/epochgalladeone_alpha.png",
+        "soulstones/epochgallade/epochgalladeone_shiny.png",
+        "soulstones/epochgallade/epochgallade.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
