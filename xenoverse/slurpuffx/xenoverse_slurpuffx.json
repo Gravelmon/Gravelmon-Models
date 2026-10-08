@@ -1,0 +1,48 @@
+{
+  "portraitScale": 1.57,
+  "portraitTranslation": [
+    -0.28,
+    0.02,
+    0
+  ],
+  "profileScale": 0.66,
+  "profileTranslation": [
+    0,
+    0.71,
+    0
+  ],
+  "rootBone": "slurpuff",
+  "poses": {
+    "standing": {
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "swim",
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('slurpuff_x', 'blink')"
+      ],
+      "animations": [
+        "q.look('head', 1, 1, 7.5, -7.5, 7.5, -7.5)",
+        "q.bedrock('slurpuff_x', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "walk"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('slurpuff_x', 'blink')"
+      ],
+      "animations": [
+        "q.look('head', 1, 1, 7.5, -7.5, 7.5, -7.5)",
+        "q.bedrock('slurpuff_x', 'ground_idle')",
+        "q.biped_walk(0.66, 1.4, 'leg_left', 'leg_right')",
+        "q.bimanual_swing(0.66, 1.4, 'arm_left', 'arm_right')"
+      ]
+    }
+  }
+}

@@ -1,7 +1,13 @@
 {
   "files": {
     "25_slurpuff_x.json": "assets/cobblemon/bedrock/species/additional_forms/25_slurpuff_x.json",
+    "slurpuff_x.png": "assets/cobblemon/textures/pokemon/xenoverse/slurpuffx/slurpuff_x.png",
+    "slurpuff_x_alpha.png": "assets/cobblemon/textures/pokemon/xenoverse/slurpuffx/slurpuff_x_alpha.png",
     "slurpuff_x_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/slurpuff_x_cry.ogg",
-    "slurpuffx.png": "assets/cobblemon/textures/pokemon/xenoverse/slurpuffx.png"
+    "slurpuff_x_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/slurpuffx/slurpuff_x_shiny.png",
+    "slurpuffx.png": "assets/cobblemon/textures/pokemon/xenoverse/slurpuffx.png",
+    "xenoverse_slurpuffx.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_slurpuffx.animation.json",
+    "xenoverse_slurpuffx.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_slurpuffx.geo.json",
+    "xenoverse_slurpuffx.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_slurpuffx.json"
   }
 }
