@@ -12,14 +12,32 @@
         }
       ],
       "submittedAt": "2026-09-27T18:45:49.124Z",
-      "models": [
-        "uranium/smore/uranium_smore.geo.json"
-      ],
+      "models": [],
       "animations": [
         "assets/cobblemon/bedrock/pokemon/animations/uranium_smore.animation.json"
       ],
       "textures": [
-        "assets/cobblemon/smore preview.png",
+        "assets/cobblemon/smore preview.png"
+      ],
+      "sounds": []
+    },
+    {
+      "contributor": {
+        "login": "mitchooart"
+      },
+      "contributors": [
+        {
+          "login": "mitchooart"
+        }
+      ],
+      "submittedAt": "2026-10-09T08:38:09.335Z",
+      "models": [
+        "uranium/smore/uranium_smore.geo.json"
+      ],
+      "animations": [
+        "uranium/smore/uranium_smore.animation.json"
+      ],
+      "textures": [
         "uranium/smore/texture__smore.png",
         "uranium/smore/smore_alpha.png",
         "uranium/smore/smore_shiny.png",
