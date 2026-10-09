@@ -21,11 +21,11 @@ name: Apply data
 on:
   push:
     branches:
-      - holding/holding-branch
+      - main
   workflow_dispatch:
     inputs:
       pr_number:
-        description: "Merged PR (into the holding branch) whose tags to apply"
+        description: "Merged PR (into main) whose tags to apply"
         required: true
 
 permissions:
@@ -52,5 +52,7 @@ jobs:
           POKEMON_STATUS_INTERNAL_TOKEN: ${{ secrets.POKEMON_STATUS_INTERNAL_TOKEN }}
           GRAVELMON_APP_LOGIN: ${{ vars.GRAVELMON_APP_LOGIN }}
           GITHUB_TOKEN: ${{ github.token }}
+          # `main` is the branch submissions land on, so it is the "holding" branch of the script.
+          HOLDING_BRANCH: main
           PR_NUMBER: ${{ github.event.inputs.pr_number }}
         run: node scripts/apply-data.mjs
