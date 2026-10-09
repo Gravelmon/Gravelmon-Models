@@ -1,51 +1,153 @@
 {
-  "portraitScale": 2.0999999046325684,
+  "portraitScale": 1.65,
   "portraitTranslation": [
-    -0.1,
-    1.6,
-    0.0
+    -0.38,
+    2.23,
+    0
   ],
-  "profileScale": 0.6499999761581421,
+  "profileScale": 0.52,
   "profileTranslation": [
-    0.0,
-    0.7,
-    0.0
+    -0.03,
+    0.99,
+    0
   ],
+  "rootBone": "ursaring",
+  "firstPersonCameraOffset": {
+    "seat_1": [
+      0,
+      0.45,
+      0
+    ]
+  },
+  "thirdPersonCameraOffset": {
+    "seat_1": [
+      0,
+      0.45,
+      0.5
+    ],
+    "seat_1_reverse": [
+      0,
+      0.45,
+      0.5
+    ]
+  },
+  "thirdPersonCameraOffsetNoViewBobbing": {
+    "seat_1": [
+      0,
+      0.45,
+      0.5
+    ],
+    "seat_1_reverse": [
+      0,
+      0.45,
+      0.5
+    ]
+  },
   "poses": {
-    "standing": {
-      "poseName": "standing",
+    "in-air": {
+      "isBattle": false,
+      "condition": "q.in_air && q.is_ridden",
       "poseTypes": [
-        "STAND",
-        "FLOAT",
-        "PORTRAIT",
-        "PROFILE",
-        "SLEEP"
+        "walk",
+        "stand",
+        "none"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('blazing_emerald_hoennianursaring', 'blink')"
       ],
       "animations": [
+        "q.bedrock('blazing_emerald_hoennianursaring', 'ride_jump')",
+        "q.bedrock('blazing_emerald_hoennianursaring', 'ride_ground_run')"
+      ],
+      "transformTicks": 3,
+      "transformToTicks": 3
+    },
+    "standing": {
+      "isBattle": false,
+      "condition": "!q.in_air",
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('blazing_emerald_hoennianursaring', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
         "q.bedrock('blazing_emerald_hoennianursaring', 'ground_idle')"
       ],
-      "quirks": [
-        "q.bedrock_quirk('blazing_emerald_hoennianursaring', 'blink')"
-      ],
-      "namedAnimations": {},
-      "transformedParts": []
+      "transformTicks": 5
     },
     "walking": {
-      "poseName": "walk",
+      "isBattle": false,
+      "condition": "!q.in_air && !q.is_sprinting",
       "poseTypes": [
-        "WALK",
-        "SWIM"
-      ],
-      "animations": [
-        "q.bedrock('blazing_emerald_hoennianursaring', 'ground_idle')",
-        "q.biped_walk(0.6, 0.9, 'left_leg', 'right_leg')",
-        "q.bimanual_swing(0.75, 1, 'left_arm', 'right_arm')"
+        "walk",
+        "swim"
       ],
       "quirks": [
         "q.bedrock_quirk('blazing_emerald_hoennianursaring', 'blink')"
       ],
-      "namedAnimations": {},
-      "transformedParts": []
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('blazing_emerald_hoennianursaring', 'ground_walk')",
+        {
+          "condition": "q.is_ridden",
+          "animation": "q.bedrock('blazing_emerald_hoennianursaring', 'ride_ground_walk')"
+        }
+      ],
+      "transformTicks": 5
+    },
+    "run": {
+      "isBattle": false,
+      "condition": "!q.in_air && q.is_sprinting",
+      "poseTypes": [
+        "walk"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('blazing_emerald_hoennianursaring', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('blazing_emerald_hoennianursaring', 'ground_run')",
+        {
+          "condition": "q.is_ridden",
+          "animation": "q.bedrock('blazing_emerald_hoennianursaring', 'ride_ground_run')"
+        }
+      ],
+      "transformTicks": 5
+    },
+    "battle_standing": {
+      "isBattle": true,
+      "poseTypes": [
+        "stand"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('blazing_emerald_hoennianursaring', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('blazing_emerald_hoennianursaring', 'battle_idle')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "namedAnimations": {
+        "cry": "q.bedrock_stateful('blazing_emerald_hoennianursaring', 'cry')"
+      },
+      "animations": [
+        "q.bedrock('blazing_emerald_hoennianursaring', 'sleep')"
+      ],
+      "transformTicks": 10
     }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('blazing_emerald_hoennianursaring', 'cry')",
+    "recoil": "q.bedrock_stateful('blazing_emerald_hoennianursaring', 'recoil')"
   }
 }

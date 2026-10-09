@@ -22,7 +22,7 @@ on:
   pull_request:
     types: [opened, edited, synchronize, reopened]
     branches:
-      - holding/holding-branch
+      - main
 
 permissions:
   contents: read

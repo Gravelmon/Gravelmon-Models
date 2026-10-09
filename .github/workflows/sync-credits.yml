@@ -14,7 +14,6 @@ name: Sync credits
 on:
   push:
     branches:
-      - holding/holding-branch
       - "[0-9]*.[0-9]*.[0-9]*"
       - main
   workflow_dispatch:
@@ -51,7 +50,9 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
           BEFORE_SHA: ${{ github.event.inputs.before || github.event.before }}
           AFTER_SHA: ${{ github.event.inputs.after || github.sha }}
-          # Only the initial PR into the holding branch is credited (decided in the script); a manual
+          # `main` is the branch submissions land on, so it is the "holding" branch of the script.
+          HOLDING_BRANCH: main
+          # Only the initial PR into main is credited (decided in the script); a manual
           # run credits the PR number it is given.
           PR_NUMBER: ${{ github.event.inputs.pr_number }}
           ASSET_BRANCH: ${{ github.event.inputs.branch || github.ref_name }}
