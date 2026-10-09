@@ -23,11 +23,11 @@
         "float"
       ],
       "quirks": [
-        "q.bedrock_quirk('swirlix_x', 'blink')"
+        "q.bedrock_quirk('xenoverse_swirlixx', 'blink')"
       ],
       "animations": [
         "q.look('torso', 1, 1, 10, -10, 30, -30)",
-        "q.bedrock('swirlix_x', 'ground_idle')"
+        "q.bedrock('xenoverse_swirlixx', 'ground_idle')"
       ]
     },
     "walking": {
@@ -35,11 +35,11 @@
         "walk"
       ],
       "quirks": [
-        "q.bedrock_quirk('swirlix_x', 'blink')"
+        "q.bedrock_quirk('xenoverse_swirlixx', 'blink')"
       ],
       "animations": [
         "q.look('torso', 1, 1, 10, -10, 30, -30)",
-        "q.bedrock('swirlix_x', 'ground_idle')",
+        "q.bedrock('xenoverse_swirlixx', 'ground_idle')",
         "q.biped_walk(0.66, 1.4, 'leg_left', 'leg_right')"
       ]
     },
@@ -48,11 +48,11 @@
         "hover"
       ],
       "quirks": [
-        "q.bedrock_quirk('swirlix_x', 'blink')"
+        "q.bedrock_quirk('xenoverse_swirlixx', 'blink')"
       ],
       "animations": [
         "q.look('torso_only', 1, 1, 20, -20, 30, -30)",
-        "q.bedrock('swirlix_x', 'air_idle')"
+        "q.bedrock('xenoverse_swirlixx', 'air_idle')"
       ]
     },
     "fly": {
@@ -60,11 +60,11 @@
         "fly"
       ],
       "quirks": [
-        "q.bedrock_quirk('swirlix_x', 'blink')"
+        "q.bedrock_quirk('xenoverse_swirlixx', 'blink')"
       ],
       "animations": [
         "q.look('torso_only', 1, 1, 20, -20, 30, -30)",
-        "q.bedrock('swirlix_x', 'air_idle')"
+        "q.bedrock('xenoverse_swirlixx', 'air_idle')"
       ]
     }
   }
