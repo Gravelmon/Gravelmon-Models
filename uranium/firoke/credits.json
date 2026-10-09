@@ -1,0 +1,30 @@
+{
+  "game": "uranium",
+  "pokemon": "firoke",
+  "entries": [
+    {
+      "contributor": {
+        "login": "mitchooart"
+      },
+      "contributors": [
+        {
+          "login": "mitchooart"
+        }
+      ],
+      "submittedAt": "2026-10-09T10:44:09.571Z",
+      "models": [
+        "uranium/firoke/uranium_firoke.geo.json"
+      ],
+      "animations": [
+        "uranium/firoke/uranium_firoke.animation.json"
+      ],
+      "textures": [
+        "uranium/firoke/texture__firoke.png",
+        "uranium/firoke/firoke_alpha.png",
+        "uranium/firoke/firoke_shiny.png",
+        "uranium/firoke/firoke.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

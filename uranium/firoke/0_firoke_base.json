@@ -4,9 +4,9 @@
   "variations": [
     {
       "aspects": [],
-      "model": "cobblemon:cutout_gravelmon_54_by_69.geo",
-      "poser": "cobblemon:cutout_gravelmon_54_by_69",
-      "texture": "cobblemon:textures/pokemon/uranium/firoke.png",
+      "poser": "cobblemon:uranium_firoke",
+      "model": "cobblemon:uranium_firoke.geo",
+      "texture": "cobblemon:textures/pokemon/uranium/firoke/firoke.png",
       "layers": [
         {
           "name": "emissive"
@@ -31,6 +31,24 @@
         },
         {
           "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/uranium/firoke/firoke_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/uranium/firoke/firoke_alpha.png",
+          "emissive": true
         }
       ]
     }

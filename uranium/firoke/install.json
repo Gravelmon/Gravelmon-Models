@@ -2,6 +2,12 @@
   "files": {
     "0_firoke_base.json": "assets/cobblemon/bedrock/species/uranium/0_firoke_base.json",
     "firoke.png": "assets/cobblemon/textures/pokemon/uranium/firoke.png",
-    "firoke_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/firoke_cry.ogg"
+    "firoke_alpha.png": "assets/cobblemon/textures/pokemon/uranium/firoke/firoke_alpha.png",
+    "firoke_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/firoke_cry.ogg",
+    "firoke_shiny.png": "assets/cobblemon/textures/pokemon/uranium/firoke/firoke_shiny.png",
+    "texture__firoke.png": "assets/cobblemon/textures/pokemon/uranium/firoke/firoke.png",
+    "uranium_firoke.animation.json": "assets/cobblemon/bedrock/pokemon/animations/uranium_firoke.animation.json",
+    "uranium_firoke.geo.json": "assets/cobblemon/bedrock/pokemon/models/uranium_firoke.geo.json",
+    "uranium_firoke.json": "assets/cobblemon/bedrock/pokemon/posers/uranium_firoke.json"
   }
 }
