@@ -1,0 +1,35 @@
+{
+  "portraitScale": 1,
+  "portraitTranslation": [
+    0,
+    0,
+    0
+  ],
+  "profileScale": 1,
+  "profileTranslation": [
+    0,
+    0,
+    0
+  ],
+  "rootBone": "sponee",
+  "poses": {
+    "standing": {
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "walk",
+        "swim",
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('uranium_sponee', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('uranium_sponee', 'ground_idle')"
+      ]
+    }
+  }
+}

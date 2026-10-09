@@ -4,9 +4,9 @@
   "variations": [
     {
       "aspects": [],
-      "model": "cobblemon:cutout_gravelmon_35_by_28.geo",
-      "poser": "cobblemon:cutout_gravelmon_35_by_28",
-      "texture": "cobblemon:textures/pokemon/uranium/sponee.png",
+      "poser": "cobblemon:uranium_sponee",
+      "model": "cobblemon:uranium_sponee.geo",
+      "texture": "cobblemon:textures/pokemon/uranium/sponee/sponee.png",
       "layers": [
         {
           "name": "emissive"
@@ -31,6 +31,24 @@
         },
         {
           "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/uranium/sponee/sponee_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/uranium/sponee/sponee_alpha.png",
+          "emissive": true
         }
       ]
     }

@@ -2,6 +2,12 @@
   "files": {
     "0_sponee_base.json": "assets/cobblemon/bedrock/species/uranium/0_sponee_base.json",
     "sponee.png": "assets/cobblemon/textures/pokemon/uranium/sponee.png",
-    "sponee_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/sponee_cry.ogg"
+    "sponee_alpha.png": "assets/cobblemon/textures/pokemon/uranium/sponee/sponee_alpha.png",
+    "sponee_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/sponee_cry.ogg",
+    "sponee_shiny.png": "assets/cobblemon/textures/pokemon/uranium/sponee/sponee_shiny.png",
+    "texture__sponee.png": "assets/cobblemon/textures/pokemon/uranium/sponee/sponee.png",
+    "uranium_sponee.animation.json": "assets/cobblemon/bedrock/pokemon/animations/uranium_sponee.animation.json",
+    "uranium_sponee.geo.json": "assets/cobblemon/bedrock/pokemon/models/uranium_sponee.geo.json",
+    "uranium_sponee.json": "assets/cobblemon/bedrock/pokemon/posers/uranium_sponee.json"
   }
 }
