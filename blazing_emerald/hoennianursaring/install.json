@@ -7,6 +7,9 @@
     "hoennianursaring.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianursaring.png",
     "hoennianursaring_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianursaring/hoennianursaring_shiny.png",
     "texture__hoennianursaring.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianursaring/hoennianursaring.png",
-    "ursaring_hoennian_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/ursaring_hoennian_cry.ogg"
+    "ursaring_hoennian.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianursaring/ursaring_hoennian.png",
+    "ursaring_hoennian_alpha.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianursaring/ursaring_hoennian_alpha.png",
+    "ursaring_hoennian_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/ursaring_hoennian_cry.ogg",
+    "ursaring_hoennian_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianursaring/ursaring_hoennian_shiny.png"
   }
 }
