@@ -8,7 +8,7 @@
       ],
       "poser": "cobblemon:radical_red_seviianmantine",
       "model": "cobblemon:radical_red_seviianmantine.geo",
-      "texture": "cobblemon:textures/pokemon/radical_red/seviianmantine/seviianmantine.png",
+      "texture": "cobblemon:textures/pokemon/radical_red/seviianmantine/texture__seviianmantine.png",
       "layers": [
         {
           "name": "emissive",
