@@ -53,11 +53,11 @@
         "none"
       ],
       "quirks": [
-        "q.bedrock_quirk('ursaring', 'blink')"
+        "q.bedrock_quirk('blazing_emerald_hoennianursaring', 'blink')"
       ],
       "animations": [
-        "q.bedrock('ursaring', 'ride_jump')",
-        "q.bedrock('ursaring', 'ride_ground_run')"
+        "q.bedrock('blazing_emerald_hoennianursaring', 'ride_jump')",
+        "q.bedrock('blazing_emerald_hoennianursaring', 'ride_ground_run')"
       ],
       "transformTicks": 3,
       "transformToTicks": 3
@@ -73,11 +73,11 @@
         "float"
       ],
       "quirks": [
-        "q.bedrock_quirk('ursaring', 'blink')"
+        "q.bedrock_quirk('blazing_emerald_hoennianursaring', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('ursaring', 'ground_idle')"
+        "q.bedrock('blazing_emerald_hoennianursaring', 'ground_idle')"
       ],
       "transformTicks": 5
     },
@@ -89,14 +89,14 @@
         "swim"
       ],
       "quirks": [
-        "q.bedrock_quirk('ursaring', 'blink')"
+        "q.bedrock_quirk('blazing_emerald_hoennianursaring', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('ursaring', 'ground_walk')",
+        "q.bedrock('blazing_emerald_hoennianursaring', 'ground_walk')",
         {
           "condition": "q.is_ridden",
-          "animation": "q.bedrock('ursaring', 'ride_ground_walk')"
+          "animation": "q.bedrock('blazing_emerald_hoennianursaring', 'ride_ground_walk')"
         }
       ],
       "transformTicks": 5
@@ -108,14 +108,14 @@
         "walk"
       ],
       "quirks": [
-        "q.bedrock_quirk('ursaring', 'blink')"
+        "q.bedrock_quirk('blazing_emerald_hoennianursaring', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('ursaring', 'ground_run')",
+        "q.bedrock('blazing_emerald_hoennianursaring', 'ground_run')",
         {
           "condition": "q.is_ridden",
-          "animation": "q.bedrock('ursaring', 'ride_ground_run')"
+          "animation": "q.bedrock('blazing_emerald_hoennianursaring', 'ride_ground_run')"
         }
       ],
       "transformTicks": 5
@@ -126,11 +126,11 @@
         "stand"
       ],
       "quirks": [
-        "q.bedrock_quirk('ursaring', 'blink')"
+        "q.bedrock_quirk('blazing_emerald_hoennianursaring', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('ursaring', 'battle_idle')"
+        "q.bedrock('blazing_emerald_hoennianursaring', 'battle_idle')"
       ]
     },
     "sleep": {
@@ -138,16 +138,16 @@
         "sleep"
       ],
       "namedAnimations": {
-        "cry": "q.bedrock_stateful('ursaring', 'cry')"
+        "cry": "q.bedrock_stateful('blazing_emerald_hoennianursaring', 'cry')"
       },
       "animations": [
-        "q.bedrock('ursaring', 'sleep')"
+        "q.bedrock('blazing_emerald_hoennianursaring', 'sleep')"
       ],
       "transformTicks": 10
     }
   },
   "animations": {
-    "cry": "q.bedrock_stateful('ursaring', 'cry')",
-    "recoil": "q.bedrock_stateful('ursaring', 'recoil')"
+    "cry": "q.bedrock_stateful('blazing_emerald_hoennianursaring', 'cry')",
+    "recoil": "q.bedrock_stateful('blazing_emerald_hoennianursaring', 'recoil')"
   }
 }
