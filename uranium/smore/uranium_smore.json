@@ -14,7 +14,6 @@
   "rootBone": "smore",
   "poses": {
     "standing": {
-      "isBattle": false,
       "poseTypes": [
         "stand",
         "none",
@@ -41,20 +40,7 @@
       "animations": [
         "q.look('head')",
         "q.bedrock('uranium_smore', 'ground_idle')",
-        "q.quadruped_walk(0.6662, 1.4, 'leg_front_left', 'leg_front_right', 'leg_back_left', 'leg_back_right')"
-      ]
-    },
-    "battle-standing": {
-      "isBattle": true,
-      "poseTypes": [
-        "stand"
-      ],
-      "quirks": [
-        "q.bedrock_quirk('uranium_smore', 'blink')"
-      ],
-      "animations": [
-        "q.look('head')",
-        "q.bedrock('uranium_smore', 'battle_idle')"
+        "q.quadruped_walk(0.6662, 1.4, 'leg1_left', 'leg1_right', 'leg2_left', 'leg2_right')"
       ]
     }
   }
