@@ -1,0 +1,37 @@
+{
+  "game": "pokemon",
+  "pokemon": "swirlix",
+  "entries": [
+    {
+      "formAspects": [
+        "x"
+      ],
+      "inheritsFrom": {
+        "pokemon": "swirlix",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "burgorton"
+      },
+      "contributors": [
+        {
+          "login": "burgorton"
+        }
+      ],
+      "submittedAt": "2026-10-08T20:16:23.586Z",
+      "models": [
+        "xenoverse/swirlixx/xenoverse_swirlixx.geo.json"
+      ],
+      "animations": [
+        "xenoverse/swirlixx/xenoverse_swirlixx.animation.json"
+      ],
+      "textures": [
+        "xenoverse/swirlixx/swirlix_x.png",
+        "xenoverse/swirlixx/swirlix_x_alpha.png",
+        "xenoverse/swirlixx/swirlix_x_shiny.png",
+        "xenoverse/swirlixx/swirlixx.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
