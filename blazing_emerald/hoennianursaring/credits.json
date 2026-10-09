@@ -1,0 +1,37 @@
+{
+  "game": "pokemon",
+  "pokemon": "ursaring",
+  "entries": [
+    {
+      "formAspects": [
+        "hoennian"
+      ],
+      "inheritsFrom": {
+        "pokemon": "ursaring",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "Neoxaivus"
+      },
+      "contributors": [
+        {
+          "login": "Neoxaivus"
+        }
+      ],
+      "submittedAt": "2026-10-09T00:39:16.536Z",
+      "models": [
+        "blazing_emerald/hoennianursaring/blazing_emerald_hoennianursaring.geo.json"
+      ],
+      "animations": [
+        "blazing_emerald/hoennianursaring/blazing_emerald_hoennianursaring.animation.json"
+      ],
+      "textures": [
+        "blazing_emerald/hoennianursaring/ursaring_hoennian.png",
+        "blazing_emerald/hoennianursaring/ursaring_hoennian_alpha.png",
+        "blazing_emerald/hoennianursaring/ursaring_hoennian_shiny.png",
+        "blazing_emerald/hoennianursaring/hoennianursaring.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

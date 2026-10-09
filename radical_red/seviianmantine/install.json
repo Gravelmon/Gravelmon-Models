@@ -1,6 +1,14 @@
 {
   "files": {
     "86_mantine_seviian.json": "assets/cobblemon/bedrock/species/additional_forms/86_mantine_seviian.json",
-    "seviianmantine.png": "assets/cobblemon/textures/pokemon/radical_red/seviianmantine.png"
+    "radical_red_seviianmantine.animation.json": "assets/cobblemon/bedrock/pokemon/animations/radical_red_seviianmantine.animation.json",
+    "radical_red_seviianmantine.geo.json": "assets/cobblemon/bedrock/pokemon/models/radical_red_seviianmantine.geo.json",
+    "radical_red_seviianmantine.json": "assets/cobblemon/bedrock/pokemon/posers/radical_red_seviianmantine.json",
+    "seviianmantine.png": "assets/cobblemon/textures/pokemon/radical_red/seviianmantine.png",
+    "seviianmantine_alpha.png": "assets/cobblemon/textures/pokemon/radical_red/seviianmantine/seviianmantine_alpha.png",
+    "seviianmantine_emissive.png": "assets/cobblemon/textures/pokemon/radical_red/seviianmantine/seviianmantine_emissive.png",
+    "seviianmantine_shiny.png": "assets/cobblemon/textures/pokemon/radical_red/seviianmantine/seviianmantine_shiny.png",
+    "seviianmantine_shiny_emissive.png": "assets/cobblemon/textures/pokemon/radical_red/seviianmantine/seviianmantine_shiny_emissive.png",
+    "texture__seviianmantine.png": "assets/cobblemon/textures/pokemon/radical_red/seviianmantine/seviianmantine.png"
   }
 }

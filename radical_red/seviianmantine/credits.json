@@ -1,0 +1,39 @@
+{
+  "game": "pokemon",
+  "pokemon": "mantine",
+  "entries": [
+    {
+      "formAspects": [
+        "seviian"
+      ],
+      "inheritsFrom": {
+        "pokemon": "mantine",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "elpgeon"
+      },
+      "contributors": [
+        {
+          "login": "elpgeon"
+        }
+      ],
+      "submittedAt": "2026-10-08T21:30:44.293Z",
+      "models": [
+        "radical_red/seviianmantine/radical_red_seviianmantine.geo.json"
+      ],
+      "animations": [
+        "radical_red/seviianmantine/radical_red_seviianmantine.animation.json"
+      ],
+      "textures": [
+        "radical_red/seviianmantine/texture__seviianmantine.png",
+        "radical_red/seviianmantine/seviianmantine_alpha.png",
+        "radical_red/seviianmantine/seviianmantine_emissive.png",
+        "radical_red/seviianmantine/seviianmantine_shiny.png",
+        "radical_red/seviianmantine/seviianmantine_shiny_emissive.png",
+        "radical_red/seviianmantine/seviianmantine.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
