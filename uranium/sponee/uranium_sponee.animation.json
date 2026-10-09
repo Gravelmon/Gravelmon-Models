@@ -1,0 +1,197 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.uranium_sponee.ground_idle": {
+      "loop": true,
+      "bones": {
+        "torso": {
+          "rotation": [
+            -2.5,
+            0,
+            0
+          ]
+        },
+        "bubble": {
+          "rotation": [
+            -5,
+            0,
+            0
+          ]
+        },
+        "leg1_left": {
+          "rotation": [
+            1.6322,
+            7.3212,
+            12.6044
+          ]
+        },
+        "leg1_left2": {
+          "rotation": [
+            0,
+            0,
+            15
+          ]
+        },
+        "leg2_left": {
+          "rotation": [
+            0,
+            0,
+            12.5
+          ]
+        },
+        "leg2_left2": {
+          "rotation": [
+            0,
+            0,
+            15
+          ]
+        },
+        "leg3_left": {
+          "rotation": [
+            -1.6322,
+            -7.3212,
+            12.6044
+          ]
+        },
+        "leg3_left2": {
+          "rotation": [
+            0,
+            0,
+            15
+          ]
+        },
+        "leg1_right": {
+          "rotation": [
+            1.6322,
+            -7.3212,
+            -12.6044
+          ]
+        },
+        "leg1_right2": {
+          "rotation": [
+            0,
+            0,
+            -15
+          ]
+        },
+        "leg2_right": {
+          "rotation": [
+            0,
+            0,
+            -12.5
+          ]
+        },
+        "leg2_right2": {
+          "rotation": [
+            0,
+            0,
+            -15
+          ]
+        },
+        "leg3_right": {
+          "rotation": [
+            -1.6322,
+            7.3212,
+            -12.6044
+          ]
+        },
+        "leg3_right2": {
+          "rotation": [
+            0,
+            0,
+            -15
+          ]
+        }
+      }
+    },
+    "animation.uranium_sponee.blink": {
+      "animation_length": 0.1667,
+      "bones": {
+        "eyelid_left": {
+          "position": {
+            "0.0": [
+              0,
+              0,
+              -0.1
+            ],
+            "0.1667": {
+              "pre": [
+                0,
+                0,
+                -0.1
+              ],
+              "post": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "eyelid_right": {
+          "position": {
+            "0.0": [
+              0,
+              0,
+              -0.1
+            ],
+            "0.1667": {
+              "pre": [
+                0,
+                0,
+                -0.1
+              ],
+              "post": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "eyelid_left2": {
+          "position": {
+            "0.0": [
+              0,
+              0,
+              -0.1
+            ],
+            "0.1667": {
+              "pre": [
+                0,
+                0,
+                -0.1
+              ],
+              "post": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "eyelid_right2": {
+          "position": {
+            "0.0": [
+              0,
+              0,
+              -0.1
+            ],
+            "0.1667": {
+              "pre": [
+                0,
+                0,
+                -0.1
+              ],
+              "post": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}
