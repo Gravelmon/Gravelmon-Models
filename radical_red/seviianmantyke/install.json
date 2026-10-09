@@ -1,6 +1,14 @@
 {
   "files": {
     "86_mantyke_seviian.json": "assets/cobblemon/bedrock/species/additional_forms/86_mantyke_seviian.json",
-    "seviianmantyke.png": "assets/cobblemon/textures/pokemon/radical_red/seviianmantyke.png"
+    "radical_red_seviianmantyke.animation.json": "assets/cobblemon/bedrock/pokemon/animations/radical_red_seviianmantyke.animation.json",
+    "radical_red_seviianmantyke.geo.json": "assets/cobblemon/bedrock/pokemon/models/radical_red_seviianmantyke.geo.json",
+    "radical_red_seviianmantyke.json": "assets/cobblemon/bedrock/pokemon/posers/radical_red_seviianmantyke.json",
+    "seviianmantyke.png": "assets/cobblemon/textures/pokemon/radical_red/seviianmantyke.png",
+    "seviianmantyke_alpha.png": "assets/cobblemon/textures/pokemon/radical_red/seviianmantyke/seviianmantyke_alpha.png",
+    "seviianmantyke_emissive.png": "assets/cobblemon/textures/pokemon/radical_red/seviianmantyke/seviianmantyke_emissive.png",
+    "seviianmantyke_shiny.png": "assets/cobblemon/textures/pokemon/radical_red/seviianmantyke/seviianmantyke_shiny.png",
+    "seviianmantyke_shiny_emissive.png": "assets/cobblemon/textures/pokemon/radical_red/seviianmantyke/seviianmantyke_shiny_emissive.png",
+    "texture__seviianmantyke.png": "assets/cobblemon/textures/pokemon/radical_red/seviianmantyke/seviianmantyke.png"
   }
 }
