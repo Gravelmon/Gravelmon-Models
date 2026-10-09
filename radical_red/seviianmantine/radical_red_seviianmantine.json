@@ -52,10 +52,10 @@
         "swim"
       ],
       "animations": [
-        "q.bedrock('seviianmantine', 'water_swim')",
+        "q.bedrock('radical_red_seviianmantine', 'water_swim')",
         {
           "condition": "q.is_ridden",
-          "animation": "q.bedrock('seviianmantine', 'ride_jump')"
+          "animation": "q.bedrock('radical_red_seviianmantine', 'ride_jump')"
         }
       ]
     },
@@ -68,11 +68,11 @@
         "profile"
       ],
       "quirks": [
-        "q.bedrock_quirk('seviianmantine', 'blink')"
+        "q.bedrock_quirk('radical_red_seviianmantine', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('seviianmantine', 'ground_idle')"
+        "q.bedrock('radical_red_seviianmantine', 'ground_idle')"
       ]
     },
     "walking": {
@@ -80,11 +80,11 @@
         "walk"
       ],
       "quirks": [
-        "q.bedrock_quirk('seviianmantine', 'blink')"
+        "q.bedrock_quirk('radical_red_seviianmantine', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('seviianmantine', 'ground_walk')"
+        "q.bedrock('radical_red_seviianmantine', 'ground_walk')"
       ]
     },
     "surface-float": {
@@ -95,14 +95,14 @@
         "float"
       ],
       "quirks": [
-        "q.bedrock_quirk('seviianmantine', 'blink')"
+        "q.bedrock_quirk('radical_red_seviianmantine', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('seviianmantine', 'water_idle')",
+        "q.bedrock('radical_red_seviianmantine', 'water_idle')",
         {
           "condition": "q.is_ridden",
-          "animation": "q.bedrock('seviianmantine', 'ride_water_swim')"
+          "animation": "q.bedrock('radical_red_seviianmantine', 'ride_water_swim')"
         }
       ]
     },
@@ -113,14 +113,14 @@
         "float"
       ],
       "quirks": [
-        "q.bedrock_quirk('seviianmantine', 'blink')"
+        "q.bedrock_quirk('radical_red_seviianmantine', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('seviianmantine', 'water_idle')",
+        "q.bedrock('radical_red_seviianmantine', 'water_idle')",
         {
           "condition": "q.is_ridden",
-          "animation": "q.bedrock('seviianmantine', 'ride_water_swim')"
+          "animation": "q.bedrock('radical_red_seviianmantine', 'ride_water_swim')"
         }
       ]
     },
@@ -132,14 +132,14 @@
         "swim"
       ],
       "quirks": [
-        "q.bedrock_quirk('seviianmantine', 'blink')"
+        "q.bedrock_quirk('radical_red_seviianmantine', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('seviianmantine', 'water_swim')",
+        "q.bedrock('radical_red_seviianmantine', 'water_swim')",
         {
           "condition": "q.is_ridden",
-          "animation": "q.bedrock('seviianmantine', 'ride_water_swim')"
+          "animation": "q.bedrock('radical_red_seviianmantine', 'ride_water_swim')"
         }
       ]
     },
@@ -150,14 +150,14 @@
         "swim"
       ],
       "quirks": [
-        "q.bedrock_quirk('seviianmantine', 'blink')"
+        "q.bedrock_quirk('radical_red_seviianmantine', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('seviianmantine', 'water_swim')",
+        "q.bedrock('radical_red_seviianmantine', 'water_swim')",
         {
           "condition": "q.is_ridden",
-          "animation": "q.bedrock('seviianmantine', 'ride_water_swim')"
+          "animation": "q.bedrock('radical_red_seviianmantine', 'ride_water_swim')"
         }
       ]
     },
@@ -167,14 +167,14 @@
         "fly"
       ],
       "quirks": [
-        "q.bedrock_quirk('seviianmantine', 'blink')"
+        "q.bedrock_quirk('radical_red_seviianmantine', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('seviianmantine', 'water_idle')",
+        "q.bedrock('radical_red_seviianmantine', 'water_idle')",
         {
           "condition": "q.is_ridden",
-          "animation": "q.bedrock('seviianmantine', 'ride_water_swim')"
+          "animation": "q.bedrock('radical_red_seviianmantine', 'ride_water_swim')"
         }
       ]
     },
@@ -183,14 +183,14 @@
         "sleep"
       ],
       "namedAnimations": {
-        "cry": "q.bedrock_stateful('seviianmantine', 'cry')"
+        "cry": "q.bedrock_stateful('radical_red_seviianmantine', 'cry')"
       },
       "animations": [
-        "q.bedrock('seviianmantine', 'sleep')"
+        "q.bedrock('radical_red_seviianmantine', 'sleep')"
       ]
     }
   },
   "animations": {
-    "cry": "q.bedrock_stateful('seviianmantine', 'cry')"
+    "cry": "q.bedrock_stateful('radical_red_seviianmantine', 'cry')"
   }
 }
