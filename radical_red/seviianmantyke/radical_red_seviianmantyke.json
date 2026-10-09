@@ -22,11 +22,11 @@
         "float"
       ],
       "quirks": [
-        "q.bedrock_quirk('seviianmantyke', 'blink')"
+        "q.bedrock_quirk('radical_red_seviianmantyke', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('seviianmantyke', 'ground_idle')"
+        "q.bedrock('radical_red_seviianmantyke', 'ground_idle')"
       ]
     },
     "walking": {
@@ -35,11 +35,11 @@
         "swim"
       ],
       "quirks": [
-        "q.bedrock_quirk('seviianmantyke', 'blink')"
+        "q.bedrock_quirk('radical_red_seviianmantyke', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('seviianmantyke', 'ground_walk')"
+        "q.bedrock('radical_red_seviianmantyke', 'ground_walk')"
       ]
     },
     "sleep": {
@@ -47,12 +47,12 @@
         "sleep"
       ],
       "animations": [
-        "q.bedrock('seviianmantyke', 'sleep')"
+        "q.bedrock('radical_red_seviianmantyke', 'sleep')"
       ]
     }
   },
   "animations": {
-    "cry": "q.bedrock_stateful('seviianmantyke', 'cry')",
-    "recoil": "q.bedrock_stateful('seviianmantyke', 'recoil')"
+    "cry": "q.bedrock_stateful('radical_red_seviianmantyke', 'cry')",
+    "recoil": "q.bedrock_stateful('radical_red_seviianmantyke', 'recoil')"
   }
 }
