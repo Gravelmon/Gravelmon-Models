@@ -1,0 +1,58 @@
+{
+  "portraitScale": 1,
+  "portraitTranslation": [
+    0,
+    0,
+    0
+  ],
+  "profileScale": 1,
+  "profileTranslation": [
+    0,
+    0,
+    0
+  ],
+  "rootBone": "seviianmantyke",
+  "poses": {
+    "standing": {
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('radical_red_seviianmantyke', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('radical_red_seviianmantyke', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "walk",
+        "swim"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('radical_red_seviianmantyke', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('radical_red_seviianmantyke', 'ground_walk')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "animations": [
+        "q.bedrock('radical_red_seviianmantyke', 'sleep')"
+      ]
+    }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('radical_red_seviianmantyke', 'cry')",
+    "recoil": "q.bedrock_stateful('radical_red_seviianmantyke', 'recoil')"
+  }
+}

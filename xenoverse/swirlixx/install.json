@@ -1,7 +1,13 @@
 {
   "files": {
     "25_swirlix_x.json": "assets/cobblemon/bedrock/species/additional_forms/25_swirlix_x.json",
+    "swirlix_x.png": "assets/cobblemon/textures/pokemon/xenoverse/swirlixx/swirlix_x.png",
+    "swirlix_x_alpha.png": "assets/cobblemon/textures/pokemon/xenoverse/swirlixx/swirlix_x_alpha.png",
     "swirlix_x_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/swirlix_x_cry.ogg",
-    "swirlixx.png": "assets/cobblemon/textures/pokemon/xenoverse/swirlixx.png"
+    "swirlix_x_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/swirlixx/swirlix_x_shiny.png",
+    "swirlixx.png": "assets/cobblemon/textures/pokemon/xenoverse/swirlixx.png",
+    "xenoverse_swirlixx.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_swirlixx.animation.json",
+    "xenoverse_swirlixx.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_swirlixx.geo.json",
+    "xenoverse_swirlixx.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_swirlixx.json"
   }
 }
