@@ -1,14 +1,14 @@
 {
-  "portraitScale": 1,
+  "portraitScale": 1.21,
   "portraitTranslation": [
-    0,
-    0,
+    -0.23,
+    0.43,
     0
   ],
-  "profileScale": 1,
+  "profileScale": 0.67,
   "profileTranslation": [
-    0,
-    0,
+    -0.06,
+    0.67,
     0
   ],
   "rootBone": "loafelon",
