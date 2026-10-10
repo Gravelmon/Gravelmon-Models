@@ -12,9 +12,7 @@
         }
       ],
       "submittedAt": "2026-09-27T11:02:30.629Z",
-      "models": [
-        "xenoverse/electaburst/xenoverse_electaburst.geo.json"
-      ],
+      "models": [],
       "animations": [
         "assets/cobblemon/bedrock/pokemon/animations/xenoverse_electaburst.animation.json"
       ],
@@ -24,6 +22,25 @@
         "xenoverse/electaburst/electaburst_shiny.png",
         "xenoverse/electaburst/electaburst.png"
       ],
+      "sounds": []
+    },
+    {
+      "contributor": {
+        "login": "DigitalRaikan"
+      },
+      "contributors": [
+        {
+          "login": "DigitalRaikan"
+        }
+      ],
+      "submittedAt": "2026-10-10T07:49:03.958Z",
+      "models": [
+        "xenoverse/electaburst/xenoverse_electaburst.geo.json"
+      ],
+      "animations": [
+        "xenoverse/electaburst/xenoverse_electaburst.animation.json"
+      ],
+      "textures": [],
       "sounds": []
     }
   ]
