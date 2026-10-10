@@ -2,6 +2,12 @@
   "files": {
     "25_roserade_x.json": "assets/cobblemon/bedrock/species/additional_forms/25_roserade_x.json",
     "roserade_x_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/roserade_x_cry.ogg",
-    "roseradex.png": "assets/cobblemon/textures/pokemon/xenoverse/roseradex.png"
+    "roseradex.png": "assets/cobblemon/textures/pokemon/xenoverse/roseradex.png",
+    "roseradex_alpha.png": "assets/cobblemon/textures/pokemon/xenoverse/roseradex/roseradex_alpha.png",
+    "roseradex_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/roseradex/roseradex_shiny.png",
+    "texture__roseradex.png": "assets/cobblemon/textures/pokemon/xenoverse/roseradex/roseradex.png",
+    "xenoverse_roseradex.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_roseradex.animation.json",
+    "xenoverse_roseradex.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_roseradex.geo.json",
+    "xenoverse_roseradex.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_roseradex.json"
   }
 }

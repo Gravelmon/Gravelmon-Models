@@ -1,0 +1,90 @@
+{
+  "portraitScale": 1,
+  "portraitTranslation": [
+    0,
+    0,
+    0
+  ],
+  "profileScale": 1,
+  "profileTranslation": [
+    0,
+    0,
+    0
+  ],
+  "rootBone": "roserade",
+  "poses": {
+    "standing": {
+      "isBattle": false,
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('xenoverse_roseradex', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('xenoverse_roseradex', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "condition": "!q.is_sprinting",
+      "poseTypes": [
+        "walk",
+        "swim"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('xenoverse_roseradex', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('xenoverse_roseradex', 'ground_walk')"
+      ]
+    },
+    "battle-standing": {
+      "isBattle": true,
+      "poseTypes": [
+        "stand"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('xenoverse_roseradex', 'blink')",
+        "q.bedrock_quirk('xenoverse_roseradex', 'battle_quirk1')",
+        "q.bedrock_quirk('xenoverse_roseradex', 'battle_quirk2')"
+      ],
+      "namedAnimations": {
+        "cry": "q.bedrock_stateful('xenoverse_roseradex', 'battle_cry')"
+      },
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('xenoverse_roseradex', 'battle_idle')"
+      ]
+    },
+    "running": {
+      "condition": "q.is_sprinting",
+      "poseTypes": [
+        "walk"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('xenoverse_roseradex', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('xenoverse_roseradex', 'ground_run')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "animations": [
+        "q.bedrock('xenoverse_roseradex', 'sleep')"
+      ]
+    }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('xenoverse_roseradex', 'cry')"
+  }
+}
