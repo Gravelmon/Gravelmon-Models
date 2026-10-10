@@ -1,35 +1,20 @@
 {
-  "portraitScale": 1,
+  "portraitScale": 2.86,
   "portraitTranslation": [
-    0,
-    0,
+    -0.12,
+    -0.86,
     0
   ],
-  "profileScale": 1,
+  "profileScale": 1.26,
   "profileTranslation": [
-    0,
-    0,
+    0.01,
+    -0.01,
     0
   ],
   "rootBone": "urayne",
   "poses": {
     "standing": {
-      "poseTypes": [
-        "stand",
-        "portrait",
-        "profile",
-        "walk",
-        "hover",
-        "fly",
-        "float",
-        "swim",
-        "glide",
-        "sleep",
-        "shoulder_left",
-        "shoulder_right",
-        "open",
-        "none"
-      ],
+      "allPoseTypes": true,
       "animations": [
         "q.look('head')",
         "q.bedrock('uranium_urayne', 'ground_idle')"
