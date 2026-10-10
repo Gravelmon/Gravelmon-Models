@@ -24,7 +24,7 @@
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('electivire', 'ground_idle')"
+        "q.bedrock('xenoverse_electaburst', 'ground_idle')"
       ]
     },
     "walking": {
@@ -34,7 +34,7 @@
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('electivire', 'ground_walk')"
+        "q.bedrock('xenoverse_electaburst', 'ground_walk')"
       ]
     },
     "battle-standing": {
@@ -45,12 +45,12 @@
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('electivire', 'battle_idle')"
+        "q.bedrock('xenoverse_electaburst', 'battle_idle')"
       ]
     }
   },
   "animations": {
-    "cry": "q.bedrock_stateful('electivire', 'cry')",
-    "faint": "q.bedrock_primary('electivire', 'faint', q.curve('one'))"
+    "cry": "q.bedrock_stateful('xenoverse_electaburst', 'cry')",
+    "faint": "q.bedrock_primary('xenoverse_electaburst', 'faint', q.curve('one'))"
   }
 }

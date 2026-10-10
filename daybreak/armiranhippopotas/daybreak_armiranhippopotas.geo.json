@@ -16,7 +16,7 @@
       },
       "bones": [
         {
-          "name": "hippopotas_armiran",
+          "name": "hippopotas",
           "pivot": [
             0,
             0,
@@ -25,7 +25,7 @@
         },
         {
           "name": "body",
-          "parent": "hippopotas_armiran",
+          "parent": "hippopotas",
           "pivot": [
             0,
             9.5,

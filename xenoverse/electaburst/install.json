@@ -6,6 +6,7 @@
     "electaburst_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/electaburst_cry.ogg",
     "electaburst_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/electaburst/electaburst_shiny.png",
     "texture__electaburst.png": "assets/cobblemon/textures/pokemon/xenoverse/electaburst/electaburst.png",
+    "xenoverse_electaburst.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_electaburst.animation.json",
     "xenoverse_electaburst.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_electaburst.geo.json",
     "xenoverse_electaburst.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_electaburst.json"
   }
