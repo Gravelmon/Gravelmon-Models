@@ -1,14 +1,14 @@
 {
-  "portraitScale": 1,
+  "portraitScale": 1.36,
   "portraitTranslation": [
-    0,
-    0,
+    -0.2,
+    0.3,
     0
   ],
-  "profileScale": 1,
+  "profileScale": 0.46,
   "profileTranslation": [
     0,
-    0,
+    1.02,
     0
   ],
   "rootBone": "electivire",
