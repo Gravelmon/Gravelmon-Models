@@ -5,6 +5,11 @@
     "epoch-eevee_alpha.png": "assets/cobblemon/epoch-eevee_alpha.png",
     "epoch-eevee_shiny.png": "assets/cobblemon/epoch-eevee_shiny.png",
     "epocheevee.png": "assets/cobblemon/textures/pokemon/soulstones/epocheevee.png",
-    "soulstones_epocheevee.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epocheevee.json"
+    "soulstones_epocheevee.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epocheevee.animation.json",
+    "soulstones_epocheevee.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epocheevee.geo.json",
+    "soulstones_epocheevee.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epocheevee.json",
+    "texture__epoch-eevee.png": "assets/cobblemon/textures/pokemon/soulstones/epocheevee/epoch-eevee.png",
+    "texture__epoch-eevee_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epocheevee/epoch-eevee_alpha.png",
+    "texture__epoch-eevee_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epocheevee/epoch-eevee_shiny.png"
   }
 }

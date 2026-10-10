@@ -1,21 +1,94 @@
 {
-  "portraitScale": 1,
+  "portraitScale": 1.94,
   "portraitTranslation": [
-    0,
-    0,
+    -0.32,
+    -0.41,
     0
   ],
-  "profileScale": 1,
+  "profileScale": 0.77,
   "profileTranslation": [
     0,
-    0,
+    0.6,
     0
   ],
-  "rootBone": "",
+  "rootBone": "eevee",
   "poses": {
     "standing": {
-      "poseTypes": [],
-      "animations": []
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epocheevee', 'blink')"
+      ],
+      "animations": [
+        "q.look('head', 1, 1, 70, -45, 45, -45)",
+        "q.bedrock('soulstones_epocheevee', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "walk",
+        "swim"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epocheevee', 'blink')"
+      ],
+      "animations": [
+        "q.look('head', 1, 1, 70, -45, 45, -45)",
+        "q.bedrock('soulstones_epocheevee', 'ground_idle')",
+        "q.quadruped_walk(0.6662, 1.4, 'front_leg_left', 'front_leg_right', 'back_leg_left', 'back_leg_right')"
+      ]
+    },
+    "shoulder_left": {
+      "poseTypes": [
+        "shoulder_left"
+      ],
+      "transformedParts": [
+        {
+          "part": "body",
+          "position": [
+            5,
+            0,
+            0
+          ]
+        }
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epocheevee', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('soulstones_epocheevee', 'ground_idle')"
+      ]
+    },
+    "shoulder_right": {
+      "poseTypes": [
+        "shoulder_right"
+      ],
+      "transformedParts": [
+        {
+          "part": "body",
+          "position": [
+            -5,
+            0,
+            0
+          ]
+        }
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epocheevee', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('soulstones_epocheevee', 'ground_idle')"
+      ]
     }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('soulstones_epocheevee', 'cry')"
   }
 }
