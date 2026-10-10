@@ -1,9 +1,6 @@
 {
   "files": {
     "164_eevee_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_eevee_epoch.json",
-    "epoch-eevee.png": "assets/cobblemon/epoch-eevee.png",
-    "epoch-eevee_alpha.png": "assets/cobblemon/epoch-eevee_alpha.png",
-    "epoch-eevee_shiny.png": "assets/cobblemon/epoch-eevee_shiny.png",
     "epocheevee.png": "assets/cobblemon/textures/pokemon/soulstones/epocheevee.png",
     "soulstones_epocheevee.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epocheevee.animation.json",
     "soulstones_epocheevee.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epocheevee.geo.json",
