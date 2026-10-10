@@ -1,14 +1,14 @@
 {
-  "portraitScale": 1,
+  "portraitScale": 3.63,
   "portraitTranslation": [
-    0,
-    0,
+    -0.17,
+    -3.25,
     0
   ],
-  "profileScale": 1,
+  "profileScale": 1.73,
   "profileTranslation": [
-    0,
-    0,
+    0.03,
+    -1.02,
     0
   ],
   "rootBone": "kwiklik",
