@@ -32,6 +32,24 @@
           "texture": "cobblemon:textures/empty_texture.png"
         }
       ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/deneb/glachild/glachild_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/deneb/glachild/glachild_alpha.png",
+          "emissive": true
+        }
+      ]
     }
   ]
 }
