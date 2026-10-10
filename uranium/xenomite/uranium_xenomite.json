@@ -1,1 +1,64 @@
-{"rootBone":"xenomite","head":"head","portraitScale":1.2,"portraitTranslation":[0.0,-0.2,0.0],"profileScale":0.8,"profileTranslation":[0.0,0.5,-8.0],"poses":{"battle-standing":{"poseName":"battle-standing","animations":["q.bedrock('xenomite', 'battle_idle')"],"poseTypes":["STAND"],"isBattle":true,"quirks":["q.bedrock_quirk('xenomite', 'blink')"],"namedAnimations":{},"transformedParts":[]},"sleeping":{"poseName":"sleeping","animations":["q.bedrock('xenomite', 'sleep')"],"poseTypes":["SLEEP"],"quirks":[],"namedAnimations":{},"transformedParts":[]},"standing":{"poseName":"standing","animations":["q.bedrock('xenomite', 'ground_idle')"],"poseTypes":["STAND","PROFILE","PORTRAIT","OPEN","NONE"],"isBattle":false,"quirks":["q.bedrock_quirk('xenomite', 'blink')"],"namedAnimations":{},"transformedParts":[]},"walking":{"poseName":"walking","animations":["q.bedrock('xenomite', 'ground_walk')"],"poseTypes":["WALK"],"quirks":["q.bedrock_quirk('xenomite', 'blink')"],"namedAnimations":{},"transformedParts":[]}}}
+{
+  "portraitScale": 1.4,
+  "portraitTranslation": [
+    -0.3,
+    -0.5,
+    0
+  ],
+  "profileScale": 0.7,
+  "profileTranslation": [
+    0,
+    0.7,
+    -8
+  ],
+  "rootBone": "xenomite",
+  "poses": {
+    "battle-standing": {
+      "isBattle": true,
+      "poseTypes": [
+        "stand"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('xenomite', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('xenomite', 'battle_idle')"
+      ]
+    },
+    "sleeping": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "animations": [
+        "q.bedrock('xenomite', 'sleep')"
+      ]
+    },
+    "standing": {
+      "isBattle": false,
+      "poseTypes": [
+        "stand",
+        "profile",
+        "portrait",
+        "open",
+        "none"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('xenomite', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('xenomite', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "walk"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('xenomite', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('xenomite', 'ground_walk')"
+      ]
+    }
+  }
+}
