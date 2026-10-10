@@ -1,14 +1,14 @@
 {
-  "portraitScale": 1,
+  "portraitScale": 2.37,
   "portraitTranslation": [
-    0,
-    0,
+    -0.4,
+    -1.64,
     0
   ],
-  "profileScale": 1,
+  "profileScale": 1.16,
   "profileTranslation": [
-    0,
-    0,
+    0.02,
+    -0.05,
     0
   ],
   "rootBone": "cutelon",
@@ -29,15 +29,6 @@
         "shoulder_right"
       ],
       "animations": []
-    },
-    "walking": {
-      "poseTypes": [
-        "walk",
-        "swim"
-      ],
-      "animations": [
-        "q.biped_walk(0.6662, 1.4, 'left_leg', 'right_leg')"
-      ]
     }
   }
 }
