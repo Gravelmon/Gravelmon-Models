@@ -1,7 +1,15 @@
 {
   "files": {
     "133_unown_earth.json": "assets/cobblemon/bedrock/species/additional_forms/133_unown_earth.json",
+    "earthunown.png": "assets/cobblemon/textures/pokemon/xenoverse/earthunown.png",
+    "earthunown_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/earthunown_cry.ogg",
     "unown_earth_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/unown_earth_cry.ogg",
-    "unownearth.png": "assets/cobblemon/textures/pokemon/xenoverse/earthunown/unownearth.png"
+    "unown_terra.png": "assets/cobblemon/textures/pokemon/xenoverse/earthunown/unown_terra.png",
+    "unown_terra_alpha.png": "assets/cobblemon/textures/pokemon/xenoverse/earthunown/unown_terra_alpha.png",
+    "unown_terra_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/earthunown/unown_terra_shiny.png",
+    "unownearth.png": "assets/cobblemon/textures/pokemon/xenoverse/earthunown/unownearth.png",
+    "xenoverse_earthunown.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_earthunown.animation.json",
+    "xenoverse_earthunown.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_earthunown.geo.json",
+    "xenoverse_earthunown.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_earthunown.json"
   }
 }
