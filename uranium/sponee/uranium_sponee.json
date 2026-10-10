@@ -1,14 +1,14 @@
 {
-  "portraitScale": 1,
+  "portraitScale": 2.8,
   "portraitTranslation": [
-    0,
-    0,
+    -0.22,
+    -2.52,
     0
   ],
-  "profileScale": 1,
+  "profileScale": 1.2,
   "profileTranslation": [
     0,
-    0,
+    -0.1,
     0
   ],
   "rootBone": "sponee",
