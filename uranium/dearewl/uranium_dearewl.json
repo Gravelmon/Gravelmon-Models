@@ -1,11 +1,15 @@
 {
   "portraitScale": 1.7199993,
   "portraitTranslation": [
-    -0.5400000000000003, -0.05, 0.0
+    -0.5400000000000003,
+    -0.05,
+    0
   ],
-  "profileScale": 0.81,
+  "profileScale": 0.71,
   "profileTranslation": [
-    -0.01, 0.57, 0.00
+    -0.01,
+    0.67,
+    0
   ],
   "rootBone": "dearewl",
   "poses": {
