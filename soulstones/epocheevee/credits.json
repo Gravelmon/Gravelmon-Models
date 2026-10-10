@@ -1,0 +1,38 @@
+{
+  "game": "pokemon",
+  "pokemon": "eevee",
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "eevee",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "lilpuppenstein"
+      },
+      "contributors": [
+        {
+          "login": "lilpuppenstein"
+        }
+      ],
+      "pullRequestNumber": 13,
+      "submittedAt": "2026-10-10T15:02:46.139Z",
+      "models": [
+        "soulstones/epocheevee/soulstones_epocheevee.geo.json"
+      ],
+      "animations": [
+        "soulstones/epocheevee/soulstones_epocheevee.animation.json"
+      ],
+      "textures": [
+        "soulstones/epocheevee/texture__epoch-eevee.png",
+        "soulstones/epocheevee/texture__epoch-eevee_alpha.png",
+        "soulstones/epocheevee/texture__epoch-eevee_shiny.png",
+        "soulstones/epocheevee/epocheevee.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
