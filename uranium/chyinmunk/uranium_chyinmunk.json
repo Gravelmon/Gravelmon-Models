@@ -1,11 +1,15 @@
 {
-  "portraitScale": 1.9599991,
+  "portraitScale": 1.86,
   "portraitTranslation": [
-    -0.15, -0.12999999999999998, 0.0
+    -0.05,
+    -0.03,
+    0
   ],
-  "profileScale": 0.91,
+  "profileScale": 0.71,
   "profileTranslation": [
-    0.06, 0.41, 0.00
+    0.06,
+    0.71,
+    0
   ],
   "rootBone": "chyinmunk",
   "poses": {
