@@ -1,14 +1,14 @@
 {
-  "portraitScale": 1,
+  "portraitScale": 1.93,
   "portraitTranslation": [
-    0,
-    0,
+    -0.29,
+    0.32,
     0
   ],
-  "profileScale": 1,
+  "profileScale": 0.79,
   "profileTranslation": [
-    0,
-    0,
+    0.01,
+    0.57,
     0
   ],
   "rootBone": "ninfae",
