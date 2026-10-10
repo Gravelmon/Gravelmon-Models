@@ -6,7 +6,7 @@
       "aspects": [
         "epoch"
       ],
-      "poser": "cobblemon:soulstones_epocheevee",
+      "poser": "cobblemon:eevee",
       "model": "cobblemon:soulstones_epocheevee.geo",
       "texture": "cobblemon:textures/pokemon/soulstones/epocheevee/epoch-eevee.png",
       "layers": [
