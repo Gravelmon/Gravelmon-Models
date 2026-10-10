@@ -1,11 +1,15 @@
 {
   "portraitScale": 1.989999,
   "portraitTranslation": [
-    -0.6900000000000004, -1.2100000000000009, 0.0
+    -0.6900000000000004,
+    -1.2100000000000009,
+    0
   ],
-  "profileScale": 0.82,
+  "profileScale": 0.72,
   "profileTranslation": [
-    0.07, 0.51, 0.00
+    0.07,
+    0.61,
+    0
   ],
   "rootBone": "harylect",
   "poses": {
