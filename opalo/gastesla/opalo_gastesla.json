@@ -1,14 +1,14 @@
 {
-  "portraitScale": 1,
+  "portraitScale": 1.47,
   "portraitTranslation": [
-    0,
-    0,
+    -1.07,
+    2.52,
     0
   ],
-  "profileScale": 1,
+  "profileScale": 0.38,
   "profileTranslation": [
-    0,
-    0,
+    -0.05,
+    1.13,
     0
   ],
   "rootBone": "gastesla",
