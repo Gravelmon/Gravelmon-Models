@@ -1,0 +1,35 @@
+{
+  "game": "pokemon",
+  "pokemon": "unown",
+  "entries": [
+    {
+      "formAspects": [
+        "earth"
+      ],
+      "contributor": {
+        "login": "Lubasa"
+      },
+      "contributors": [
+        {
+          "login": "Lubasa"
+        }
+      ],
+      "submittedAt": "2026-10-10T23:45:26.979Z",
+      "models": [
+        "xenoverse/earthunown/xenoverse_earthunown.geo.json"
+      ],
+      "animations": [
+        "xenoverse/earthunown/xenoverse_earthunown.animation.json"
+      ],
+      "textures": [
+        "xenoverse/earthunown/unown_terra.png",
+        "xenoverse/earthunown/unown_terra_alpha.png",
+        "xenoverse/earthunown/unown_terra_shiny.png",
+        "xenoverse/earthunown/earthunown.png"
+      ],
+      "sounds": [
+        "xenoverse/earthunown/earthunown_cry.ogg"
+      ]
+    }
+  ]
+}
