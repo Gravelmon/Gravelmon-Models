@@ -1,0 +1,37 @@
+{
+  "game": "pokemon",
+  "pokemon": "roserade",
+  "entries": [
+    {
+      "formAspects": [
+        "x"
+      ],
+      "inheritsFrom": {
+        "pokemon": "roserade",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "Nissan101"
+      },
+      "contributors": [
+        {
+          "login": "Nissan101"
+        }
+      ],
+      "submittedAt": "2026-10-10T05:05:39.433Z",
+      "models": [
+        "xenoverse/roseradex/xenoverse_roseradex.geo.json"
+      ],
+      "animations": [
+        "xenoverse/roseradex/xenoverse_roseradex.animation.json"
+      ],
+      "textures": [
+        "xenoverse/roseradex/texture__roseradex.png",
+        "xenoverse/roseradex/roseradex_alpha.png",
+        "xenoverse/roseradex/roseradex_shiny.png",
+        "xenoverse/roseradex/roseradex.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
