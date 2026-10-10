@@ -1,52 +1,46 @@
 {
-  "portraitScale": 2.4100000858306885,
+  "portraitScale": 1.81,
   "portraitTranslation": [
-    -0.71,
-    -0.73,
-    0.0
+    -0.61,
+    -0.23,
+    0
   ],
-  "profileScale": 0.8999999761581421,
+  "profileScale": 0.8,
   "profileTranslation": [
-    0.0,
-    0.35,
-    0.0
+    0,
+    0.55,
+    0
   ],
-  "animations": {
-    "cry": "q.bedrock_stateful('umbreon', 'cry')"
-  },
   "poses": {
     "standing": {
-      "poseName": "standing",
+      "isBattle": false,
+      "poseTypes": [
+        "stand",
+        "portrait",
+        "profile",
+        "none"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('umbreon', 'blink')"
+      ],
       "animations": [
         "q.bedrock('umbreon', 'ground_idle')"
-      ],
-      "poseTypes": [
-        "STAND",
-        "PORTRAIT",
-        "PROFILE",
-        "NONE"
-      ],
-      "isBattle": false,
-      "quirks": [
-        "q.bedrock_quirk('umbreon', 'blink')"
-      ],
-      "namedAnimations": {},
-      "transformedParts": []
+      ]
     },
     "walking": {
-      "poseName": "walking",
-      "animations": [
-        "q.bedrock('umbreon', 'ground_walk')"
-      ],
       "poseTypes": [
-        "WALK",
-        "SWIM"
+        "walk",
+        "swim"
       ],
       "quirks": [
         "q.bedrock_quirk('umbreon', 'blink')"
       ],
-      "namedAnimations": {},
-      "transformedParts": []
+      "animations": [
+        "q.bedrock('umbreon', 'ground_walk')"
+      ]
     }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('umbreon', 'cry')"
   }
 }
