@@ -14,8 +14,8 @@
   "rootBone": "kwiklik",
   "poses": {
     "standing": {
-      "poseTypes": [],
-      "animations": []
+      "animations": [],
+      "allPoseTypes": true
     }
   }
 }
