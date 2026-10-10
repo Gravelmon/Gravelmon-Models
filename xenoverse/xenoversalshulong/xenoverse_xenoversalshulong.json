@@ -1,31 +1,20 @@
 {
   "portraitScale": 1.7600017,
   "portraitTranslation": [
-    -1.7500000000000013, 2.189999999999984, 0.0
+    -1.7500000000000013,
+    2.189999999999984,
+    0
   ],
-  "profileScale": 0.41,
+  "profileScale": 0.35,
   "profileTranslation": [
-    -0.06, 1.05, 0.00
+    -0.06,
+    1.05,
+    0
   ],
   "rootBone": "shulong_xenoversal",
   "poses": {
     "standing": {
-      "poseTypes": [
-        "stand",
-        "sleep",
-        "hover",
-        "fly",
-        "glide",
-        "shoulder_left",
-        "shoulder_right",
-        "profile",
-        "portrait",
-        "open",
-        "none",
-        "walk",
-        "swim",
-        "float"
-      ],
+      "allPoseTypes": true,
       "animations": [
         "q.bedrock('xenoverse_xenoversalshulong', 'ground_idle')"
       ]
