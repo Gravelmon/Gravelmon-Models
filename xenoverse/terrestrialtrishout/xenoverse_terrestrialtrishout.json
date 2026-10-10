@@ -1,11 +1,15 @@
 {
   "portraitScale": 1.9800014,
   "portraitTranslation": [
-    -0.6200000000000004, 1.7899999999999943, 0.0
+    -0.6200000000000004,
+    1.7899999999999943,
+    0
   ],
-  "profileScale": 0.59,
+  "profileScale": 0.49,
   "profileTranslation": [
-    0.00, 0.89, 0.00
+    0,
+    0.99,
+    0
   ],
   "rootBone": "trishout_terrestrial",
   "poses": {
