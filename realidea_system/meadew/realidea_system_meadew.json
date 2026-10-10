@@ -1,14 +1,14 @@
 {
-  "portraitScale": 1,
+  "portraitScale": 2.09,
   "portraitTranslation": [
-    0,
-    0,
+    -0.13,
+    -0.97,
     0
   ],
-  "profileScale": 1,
+  "profileScale": 1.12,
   "profileTranslation": [
-    0,
-    0,
+    0.01,
+    0.06,
     0
   ],
   "rootBone": "meadew",
