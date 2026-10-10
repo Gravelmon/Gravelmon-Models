@@ -1,14 +1,14 @@
 {
-  "portraitScale": 1,
+  "portraitScale": 2.3,
   "portraitTranslation": [
-    0,
-    0,
+    -0.7,
+    -1.5,
     0
   ],
-  "profileScale": 1,
+  "profileScale": 0.9,
   "profileTranslation": [
     0,
-    0,
+    0.3,
     0
   ],
   "rootBone": "firoke",
