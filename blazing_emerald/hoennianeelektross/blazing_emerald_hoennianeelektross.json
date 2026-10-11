@@ -19,7 +19,13 @@
         "none",
         "portrait",
         "profile",
-        "float"
+        "float",
+        "walk",
+        "swim",
+        "fly",
+        "hover",
+        "sleep",
+        "open"
       ],
       "quirks": [
         "q.bedrock_quirk('blazing_emerald_hoennianeelektross', 'blink')"
@@ -27,19 +33,6 @@
       "animations": [
         "q.look('head')",
         "q.bedrock('blazing_emerald_hoennianeelektross', 'ground_idle')"
-      ]
-    },
-    "walking": {
-      "poseTypes": [
-        "walk",
-        "swim"
-      ],
-      "quirks": [
-        "q.bedrock_quirk('blazing_emerald_hoennianeelektross', 'blink')"
-      ],
-      "animations": [
-        "q.look('head')",
-        "q.bedrock('blazing_emerald_hoennianeelektross', 'ground_walk')"
       ]
     }
   }
