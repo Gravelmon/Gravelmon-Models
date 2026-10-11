@@ -6,6 +6,7 @@
       "aspects": [
         "seviian"
       ],
+      "poser": "cobblemon:radical_red_seviianfeebas",
       "model": "cobblemon:radical_red_seviianfeebas.geo",
       "texture": "cobblemon:textures/pokemon/radical_red/seviianfeebas/seviianfeebas.png"
     },
