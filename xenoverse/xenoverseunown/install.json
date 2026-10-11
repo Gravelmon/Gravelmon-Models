@@ -1,7 +1,15 @@
 {
   "files": {
     "161_unown_xenoverse.json": "assets/cobblemon/bedrock/species/additional_forms/161_unown_xenoverse.json",
+    "unown_xeno.png": "assets/cobblemon/textures/pokemon/xenoverse/xenoverseunown/unown_xeno.png",
+    "unown_xeno_alpha.png": "assets/cobblemon/textures/pokemon/xenoverse/xenoverseunown/unown_xeno_alpha.png",
+    "unown_xeno_shiny.png": "assets/cobblemon/textures/pokemon/xenoverse/xenoverseunown/unown_xeno_shiny.png",
     "unown_xenoverse_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/unown_xenoverse_cry.ogg",
-    "unownxenoverse.png": "assets/cobblemon/textures/pokemon/xenoverse/xenoverseunown/unownxenoverse.png"
+    "unownxenoverse.png": "assets/cobblemon/textures/pokemon/xenoverse/xenoverseunown/unownxenoverse.png",
+    "xenoverse_xenoverseunown.animation.json": "assets/cobblemon/bedrock/pokemon/animations/xenoverse_xenoverseunown.animation.json",
+    "xenoverse_xenoverseunown.geo.json": "assets/cobblemon/bedrock/pokemon/models/xenoverse_xenoverseunown.geo.json",
+    "xenoverse_xenoverseunown.json": "assets/cobblemon/bedrock/pokemon/posers/xenoverse_xenoverseunown.json",
+    "xenoverseunown.png": "assets/cobblemon/textures/pokemon/xenoverse/xenoverseunown.png",
+    "xenoverseunown_cry.ogg": "assets/gravelmon/sounds/pokemon/xenoverse/xenoverseunown_cry.ogg"
   }
 }
