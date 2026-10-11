@@ -19,11 +19,11 @@
         "stand"
       ],
       "quirks": [
-        "q.bedrock_quirk('brionne_epoch', 'blink')"
+        "q.bedrock_quirk('soulstones_epochbrionne', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('brionne_epoch', 'battle_idle')"
+        "q.bedrock('soulstones_epochbrionne', 'battle_idle')"
       ]
     },
     "standing": {
@@ -35,11 +35,11 @@
         "profile"
       ],
       "quirks": [
-        "q.bedrock_quirk('brionne_epoch', 'blink')"
+        "q.bedrock_quirk('soulstones_epochbrionne', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('brionne_epoch', 'ground_idle')"
+        "q.bedrock('soulstones_epochbrionne', 'ground_idle')"
       ]
     },
     "walking": {
@@ -47,11 +47,11 @@
         "walk"
       ],
       "quirks": [
-        "q.bedrock_quirk('brionne_epoch', 'blink')"
+        "q.bedrock_quirk('soulstones_epochbrionne', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('brionne_epoch', 'ground_walk')"
+        "q.bedrock('soulstones_epochbrionne', 'ground_walk')"
       ]
     },
     "float": {
@@ -59,11 +59,11 @@
         "float"
       ],
       "quirks": [
-        "q.bedrock_quirk('brionne_epoch', 'blink')"
+        "q.bedrock_quirk('soulstones_epochbrionne', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('brionne_epoch', 'water_idle')"
+        "q.bedrock('soulstones_epochbrionne', 'water_idle')"
       ]
     },
     "swim": {
@@ -71,16 +71,16 @@
         "swim"
       ],
       "quirks": [
-        "q.bedrock_quirk('brionne_epoch', 'blink')"
+        "q.bedrock_quirk('soulstones_epochbrionne', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('brionne_epoch', 'water_swim')"
+        "q.bedrock('soulstones_epochbrionne', 'water_swim')"
       ]
     }
   },
   "animations": {
-    "faint": "q.bedrock_primary('brionne_epoch', 'faint', q.curve('one'))",
-    "cry": "q.bedrock_stateful('brionne_epoch', 'cry')"
+    "faint": "q.bedrock_primary('soulstones_epochbrionne', 'faint', q.curve('one'))",
+    "cry": "q.bedrock_stateful('soulstones_epochbrionne', 'cry')"
   }
 }
