@@ -2,6 +2,7 @@
   "files": {
     "24_dragapult_hoennian.json": "assets/cobblemon/bedrock/species/additional_forms/24_dragapult_hoennian.json",
     "blazing_emerald_hoenniandragapult.geo.json": "assets/cobblemon/bedrock/pokemon/models/blazing_emerald_hoenniandragapult.geo.json",
+    "blazing_emerald_hoenniandragapult.animation.json": "assets/cobblemon/bedrock/pokemon/animations/blazing_emerald_hoenniandragapult.animation.json",
     "blazing_emerald_hoenniandragapult.json": "assets/cobblemon/bedrock/pokemon/posers/blazing_emerald_hoenniandragapult.json",
     "dragapult_fire.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandragapult/dragapult_fire.png",
     "dragapult_fire_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandragapult/dragapult_fire_shiny.png",
