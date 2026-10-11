@@ -1,14 +1,14 @@
 {
-  "portraitScale": 1,
+  "portraitScale": 1.65,
   "portraitTranslation": [
-    0,
-    0,
+    -0.11,
+    0.08,
     0
   ],
-  "profileScale": 1,
+  "profileScale": 0.64,
   "profileTranslation": [
-    0,
-    0,
+    0.05,
+    0.73,
     0
   ],
   "rootBone": "tentacool_hoennian",
