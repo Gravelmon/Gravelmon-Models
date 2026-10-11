@@ -1,14 +1,14 @@
 {
   "species": "cobblemon:unown",
-  "order": 170,
+  "order": 161,
   "variations": [
     {
       "aspects": [
         "xenoverse"
       ],
-      "model": "cobblemon:cutout_gravelmon_128_by_128.geo",
-      "poser": "cobblemon:cutout_gravelmon_128_by_128",
-      "texture": "cobblemon:textures/pokemon/xenoverse/xenoverseunown/unownxenoverse.png",
+      "poser": "cobblemon:xenoverse_xenoverseunown",
+      "model": "cobblemon:xenoverse_xenoverseunown.geo",
+      "texture": "cobblemon:textures/pokemon/xenoverse/xenoverseunown/unown_xeno.png",
       "layers": [
         {
           "name": "emissive"
@@ -33,6 +33,26 @@
         },
         {
           "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "xenoverse"
+      ],
+      "texture": "cobblemon:textures/pokemon/xenoverse/xenoverseunown/unown_xeno_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "xenoverse"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/xenoverse/xenoverseunown/unown_xeno_alpha.png",
+          "emissive": true
         }
       ]
     }
