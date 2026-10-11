@@ -37,7 +37,7 @@
       "aspects": [
         "shiny"
       ],
-      "texture": "cobblemon:textures/pokemon/deneb/glachild/glachild_shiny.png"
+      "texture": "cobblemon:textures/pokemon/deneb/frozaiden/frozaiden_shiny.png"
     },
     {
       "aspects": [
@@ -46,7 +46,7 @@
       "layers": [
         {
           "name": "alpha_eyes",
-          "texture": "cobblemon:textures/pokemon/deneb/glachild/glachild_alpha.png",
+          "texture": "cobblemon:textures/pokemon/deneb/frozaiden/frozaiden_alpha.png",
           "emissive": true
         }
       ]

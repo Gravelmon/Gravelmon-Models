@@ -1,7 +1,10 @@
 {
   "files": {
     "0_frozaiden_base.json": "assets/cobblemon/bedrock/species/deneb/0_frozaiden_base.json",
+    "deneb_frozaiden.animation.json": "assets/cobblemon/bedrock/pokemon/animations/deneb_frozaiden.animation.json",
     "deneb_frozaiden.geo.json": "assets/cobblemon/bedrock/pokemon/models/deneb_frozaiden.geo.json",
+    "deneb_frozaiden.json": "assets/cobblemon/bedrock/pokemon/posers/deneb_frozaiden.json",
+    "empty_texture.png": "assets/cobblemon/textures/empty_texture.png",
     "frozaiden.png": "assets/cobblemon/textures/pokemon/deneb/frozaiden.png",
     "frozaiden_alpha.png": "assets/cobblemon/textures/pokemon/deneb/frozaiden/frozaiden_alpha.png",
     "frozaiden_shiny.png": "assets/cobblemon/textures/pokemon/deneb/frozaiden/frozaiden_shiny.png",

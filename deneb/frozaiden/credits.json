@@ -16,10 +16,7 @@
       "animations": [
         "_unreferenced/assets/cobblemon/bedrock/pokemon/animations/frozaiden.animation.json"
       ],
-      "textures": [
-        "deneb/frozaiden/frozaiden_alpha.png",
-        "deneb/frozaiden/frozaiden_shiny.png"
-      ],
+      "textures": [],
       "sounds": []
     },
     {
@@ -32,14 +29,33 @@
         }
       ],
       "submittedAt": "2026-10-05T08:34:08.095Z",
-      "models": [
-        "deneb/frozaiden/deneb_frozaiden.geo.json"
-      ],
+      "models": [],
       "animations": [
         "_unreferenced/assets/cobblemon/bedrock/pokemon/animations/deneb_frozaiden.animation.json"
       ],
       "textures": [
-        "assets/cobblemon/textures/empty_texture.png",
+        "assets/cobblemon/textures/empty_texture.png"
+      ],
+      "sounds": []
+    },
+    {
+      "contributor": {
+        "login": "Dromedary5050"
+      },
+      "contributors": [
+        {
+          "login": "Dromedary5050"
+        }
+      ],
+      "submittedAt": "2026-10-10T22:33:51.444Z",
+      "models": [
+        "deneb/frozaiden/deneb_frozaiden.geo.json"
+      ],
+      "animations": [
+        "deneb/frozaiden/deneb_frozaiden.animation.json"
+      ],
+      "textures": [
+        "deneb/frozaiden/empty_texture.png",
         "deneb/frozaiden/texture__frozaiden.png",
         "deneb/frozaiden/frozaiden_alpha.png",
         "deneb/frozaiden/frozaiden_shiny.png",
