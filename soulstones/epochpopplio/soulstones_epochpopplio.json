@@ -19,11 +19,11 @@
         "stand"
       ],
       "quirks": [
-        "q.bedrock_quirk('popplio_epoch', 'blink')"
+        "q.bedrock_quirk('soulstones_epochpopplio', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('popplio_epoch', 'battle_idle')"
+        "q.bedrock('soulstones_epochpopplio', 'battle_idle')"
       ]
     },
     "standing": {
@@ -35,11 +35,11 @@
         "profile"
       ],
       "quirks": [
-        "q.bedrock_quirk('popplio_epoch', 'blink')"
+        "q.bedrock_quirk('soulstones_epochpopplio', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('popplio_epoch', 'ground_idle')"
+        "q.bedrock('soulstones_epochpopplio', 'ground_idle')"
       ]
     },
     "walking": {
@@ -47,11 +47,11 @@
         "walk"
       ],
       "quirks": [
-        "q.bedrock_quirk('popplio_epoch', 'blink')"
+        "q.bedrock_quirk('soulstones_epochpopplio', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('popplio_epoch', 'ground_walk')"
+        "q.bedrock('soulstones_epochpopplio', 'ground_walk')"
       ]
     },
     "float": {
@@ -59,11 +59,11 @@
         "float"
       ],
       "quirks": [
-        "q.bedrock_quirk('popplio_epoch', 'blink')"
+        "q.bedrock_quirk('soulstones_epochpopplio', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('popplio_epoch', 'water_idle')"
+        "q.bedrock('soulstones_epochpopplio', 'water_idle')"
       ]
     },
     "swim": {
@@ -71,11 +71,11 @@
         "swim"
       ],
       "quirks": [
-        "q.bedrock_quirk('popplio_epoch', 'blink')"
+        "q.bedrock_quirk('soulstones_epochpopplio', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('popplio_epoch', 'water_swim')"
+        "q.bedrock('soulstones_epochpopplio', 'water_swim')"
       ]
     },
     "sleep": {
@@ -83,15 +83,15 @@
         "sleep"
       ],
       "namedAnimations": {
-        "cry": "q.bedrock_stateful('popplio_epoch', 'cry')"
+        "cry": "q.bedrock_stateful('soulstones_epochpopplio', 'cry')"
       },
       "animations": [
-        "q.bedrock('popplio_epoch', 'sleep')"
+        "q.bedrock('soulstones_epochpopplio', 'sleep')"
       ]
     }
   },
   "animations": {
-    "faint": "q.bedrock_primary('popplio_epoch', 'faint', q.curve('one'))",
-    "cry": "q.bedrock_stateful('popplio_epoch', 'cry')"
+    "faint": "q.bedrock_primary('soulstones_epochpopplio', 'faint', q.curve('one'))",
+    "cry": "q.bedrock_stateful('soulstones_epochpopplio', 'cry')"
   }
 }
