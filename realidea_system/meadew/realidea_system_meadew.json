@@ -5,26 +5,26 @@
     -0.97,
     0
   ],
-  "profileScale": 1.12,
+  "profileScale": 0.92,
   "profileTranslation": [
     0.01,
-    0.06,
+    0.36,
     0
   ],
   "rootBone": "meadew",
   "poses": {
     "standing": {
       "poseTypes": [
-        "STAND",
-        "HOVER",
-        "FLY",
-        "GLIDE",
-        "SHOULDER_LEFT",
-        "SHOULDER_RIGHT",
-        "PROFILE",
-        "PORTRAIT",
-        "OPEN",
-        "NONE"
+        "stand",
+        "hover",
+        "fly",
+        "glide",
+        "shoulder_left",
+        "shoulder_right",
+        "profile",
+        "portrait",
+        "open",
+        "none"
       ],
       "animations": []
     },
