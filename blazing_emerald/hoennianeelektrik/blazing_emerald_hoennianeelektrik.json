@@ -1,5 +1,5 @@
 {
-  "portraitScale": 1,
+  "portraitScale": 0.96,
   "portraitTranslation": [
     0,
     0,
@@ -7,8 +7,8 @@
   ],
   "profileScale": 1,
   "profileTranslation": [
-    0,
-    0,
+    0.12,
+    0.23,
     0
   ],
   "rootBone": "eelektrik_hoennian",
