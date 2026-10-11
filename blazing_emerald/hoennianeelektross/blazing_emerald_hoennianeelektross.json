@@ -1,14 +1,14 @@
 {
   "portraitScale": 1.07,
   "portraitTranslation": [
-    0,
-    0,
+    -0.79,
+    0.81,
     0
   ],
   "profileScale": 0.62,
   "profileTranslation": [
-    -0.18,
-    0.86,
+    -0.13,
+    0.72,
     0
   ],
   "rootBone": "eelektross_hoennian",
@@ -19,7 +19,14 @@
         "none",
         "portrait",
         "profile",
-        "float"
+        "float",
+        "walk",
+        "hover",
+        "fly",
+        "swim",
+        "glide",
+        "open",
+        "sleep"
       ],
       "quirks": [
         "q.bedrock_quirk('blazing_emerald_hoennianeelektross', 'blink')"
@@ -27,19 +34,6 @@
       "animations": [
         "q.look('head')",
         "q.bedrock('blazing_emerald_hoennianeelektross', 'ground_idle')"
-      ]
-    },
-    "walking": {
-      "poseTypes": [
-        "walk",
-        "swim"
-      ],
-      "quirks": [
-        "q.bedrock_quirk('blazing_emerald_hoennianeelektross', 'blink')"
-      ],
-      "animations": [
-        "q.look('head')",
-        "q.bedrock('blazing_emerald_hoennianeelektross', 'ground_walk')"
       ]
     }
   }
