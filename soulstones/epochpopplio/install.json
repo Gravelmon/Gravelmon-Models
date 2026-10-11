@@ -6,6 +6,7 @@
     "popplio_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochpopplio/popplio_epoch_alpha.png",
     "popplio_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochpopplio/popplio_epoch_shiny.png",
     "soulstones_epochpopplio.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochpopplio.geo.json",
+    "soulstones_epochpopplio.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochpopplio.animation.json",
     "soulstones_epochpopplio.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochpopplio.json"
   }
 }
