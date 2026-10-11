@@ -1,12 +1,14 @@
 {
-  "portraitScale": 3.0300004,
+  "portraitScale": 1.83,
   "portraitTranslation": [
-    -0.34000000000000014, 0.31999999999998663, 0.0
+    -0.14,
+    0.82,
+    0
   ],
-  "profileScale": 0.71,
+  "profileScale": 0.61,
   "profileTranslation": [
     0,
-    0,
+    0.9,
     0
   ],
   "rootBone": "shulong_terrestrial",
