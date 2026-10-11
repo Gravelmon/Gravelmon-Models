@@ -1,0 +1,10 @@
+{
+  "files": {
+    "0_elemuttal_base.json": "assets/cobblemon/bedrock/species/urzavos/0_elemuttal_base.json",
+    "10_elemuttal_blue.json": "assets/cobblemon/bedrock/species/urzavos/10_elemuttal_blue.json",
+    "10_elemuttal_yellow.json": "assets/cobblemon/bedrock/species/urzavos/10_elemuttal_yellow.json",
+    "blue_elemuttal.png": "assets/cobblemon/textures/pokemon/urzavos/blue_elemuttal.png",
+    "elemuttal.png": "assets/cobblemon/textures/pokemon/urzavos/elemuttal.png",
+    "yellow_elemuttal.png": "assets/cobblemon/textures/pokemon/urzavos/yellow_elemuttal.png"
+  }
+}

@@ -1,6 +1,7 @@
 {
   "files": {
     "24_drakloak_hoennian.json": "assets/cobblemon/bedrock/species/additional_forms/24_drakloak_hoennian.json",
+    "blazing_emerald_hoenniandrakloak.animation.json": "assets/cobblemon/bedrock/pokemon/animations/blazing_emerald_hoenniandrakloak.animation.json",
     "blazing_emerald_hoenniandrakloak.geo.json": "assets/cobblemon/bedrock/pokemon/models/blazing_emerald_hoenniandrakloak.geo.json",
     "blazing_emerald_hoenniandrakloak.json": "assets/cobblemon/bedrock/pokemon/posers/blazing_emerald_hoenniandrakloak.json",
     "drakloak_fire.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniandrakloak/drakloak_fire.png",

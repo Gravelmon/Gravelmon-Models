@@ -1,0 +1,10 @@
+{
+  "files": {
+    "0_mushmol_base.json": "assets/cobblemon/bedrock/species/hub/0_mushmol_base.json",
+    "10_mushmol_browpattern.json": "assets/cobblemon/bedrock/species/hub/10_mushmol_browpattern.json",
+    "10_mushmol_nosepattern.json": "assets/cobblemon/bedrock/species/hub/10_mushmol_nosepattern.json",
+    "browpattern_mushmol.png": "assets/cobblemon/textures/pokemon/hub/browpattern_mushmol.png",
+    "mushmol.png": "assets/cobblemon/textures/pokemon/hub/mushmol.png",
+    "nosepattern_mushmol.png": "assets/cobblemon/textures/pokemon/hub/nosepattern_mushmol.png"
+  }
+}
