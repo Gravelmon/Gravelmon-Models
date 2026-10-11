@@ -23,7 +23,7 @@
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('binarray', 'ground_idle')"
+        "q.bedrock('varitas_binarray', 'ground_idle')"
       ]
     },
     "float": {
@@ -32,7 +32,7 @@
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('binarray', 'water_idle')"
+        "q.bedrock('varitas_binarray', 'water_idle')"
       ]
     }
   }
