@@ -26,7 +26,7 @@
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('seviianclawitzer', 'ground_idle')"
+        "q.bedrock('radical_red_seviianclawitzer', 'ground_idle')"
       ]
     },
     "battle-standing": {
@@ -36,7 +36,7 @@
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('seviianclawitzer', 'battle_idle')"
+        "q.bedrock('radical_red_seviianclawitzer', 'battle_idle')"
       ]
     }
   }
