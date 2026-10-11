@@ -5,10 +5,10 @@
     2.3,
     0
   ],
-  "profileScale": 0.5,
+  "profileScale": 0.42,
   "profileTranslation": [
-    0,
-    1.1,
+    -0.07,
+    1.12,
     0
   ],
   "rootBone": "paramoth",
@@ -40,7 +40,7 @@
       "animations": [
         "q.look('head')",
         "q.bedrock('sage_paramoth', 'ground_idle')",
-        "q.biped_walk(0.6662, 1.4, 'leg_left', 'leg_right')"
+        "q.biped_walk(0.49, 0.26, 'leg_left', 'leg_right')"
       ]
     }
   }
