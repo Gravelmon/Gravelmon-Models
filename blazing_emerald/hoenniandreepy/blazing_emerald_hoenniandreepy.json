@@ -20,11 +20,11 @@
         "hover"
       ],
       "quirks": [
-        "q.bedrock_quirk('dreepy', 'blink')"
+        "q.bedrock_quirk('blazing_emerald_hoenniandreepy', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('dreepy', 'battle_idle')"
+        "q.bedrock('blazing_emerald_hoenniandreepy', 'battle_idle')"
       ]
     },
     "standing": {
@@ -37,11 +37,11 @@
         "hover"
       ],
       "quirks": [
-        "q.bedrock_quirk('dreepy', 'blink')"
+        "q.bedrock_quirk('blazing_emerald_hoenniandreepy', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('dreepy', 'ground_idle')"
+        "q.bedrock('blazing_emerald_hoenniandreepy', 'ground_idle')"
       ]
     },
     "walking": {
@@ -50,11 +50,11 @@
         "fly"
       ],
       "quirks": [
-        "q.bedrock_quirk('dreepy', 'blink')"
+        "q.bedrock_quirk('blazing_emerald_hoenniandreepy', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('dreepy', 'ground_walk')"
+        "q.bedrock('blazing_emerald_hoenniandreepy', 'ground_walk')"
       ]
     },
     "sleep": {
@@ -62,7 +62,7 @@
         "sleep"
       ],
       "animations": [
-        "q.bedrock('dreepy', 'sleep')"
+        "q.bedrock('blazing_emerald_hoenniandreepy', 'sleep')"
       ]
     },
     "shoulder_left": {
@@ -80,11 +80,11 @@
         }
       ],
       "quirks": [
-        "q.bedrock_quirk('dreepy', 'blink')"
+        "q.bedrock_quirk('blazing_emerald_hoenniandreepy', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('dreepy', 'shoulder_left')"
+        "q.bedrock('blazing_emerald_hoenniandreepy', 'shoulder_left')"
       ]
     },
     "shoulder_right": {
@@ -102,11 +102,11 @@
         }
       ],
       "quirks": [
-        "q.bedrock_quirk('dreepy', 'blink')"
+        "q.bedrock_quirk('blazing_emerald_hoenniandreepy', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('dreepy', 'shoulder_right')"
+        "q.bedrock('blazing_emerald_hoenniandreepy', 'shoulder_right')"
       ]
     },
     "fly": {
@@ -114,11 +114,11 @@
         "swim"
       ],
       "quirks": [
-        "q.bedrock_quirk('dreepy', 'blink')"
+        "q.bedrock_quirk('blazing_emerald_hoenniandreepy', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('dreepy', 'air_fly')"
+        "q.bedrock('blazing_emerald_hoenniandreepy', 'air_fly')"
       ]
     },
     "hover": {
@@ -126,16 +126,16 @@
         "float"
       ],
       "quirks": [
-        "q.bedrock_quirk('dreepy', 'blink')"
+        "q.bedrock_quirk('blazing_emerald_hoenniandreepy', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('dreepy', 'air_idle')"
+        "q.bedrock('blazing_emerald_hoenniandreepy', 'air_idle')"
       ]
     }
   },
   "animations": {
-    "faint": "q.bedrock_primary('dreepy', 'faint', q.curve('one'))",
-    "cry": "q.bedrock_stateful('dreepy', 'cry')"
+    "faint": "q.bedrock_primary('blazing_emerald_hoenniandreepy', 'faint', q.curve('one'))",
+    "cry": "q.bedrock_stateful('blazing_emerald_hoenniandreepy', 'cry')"
   }
 }
