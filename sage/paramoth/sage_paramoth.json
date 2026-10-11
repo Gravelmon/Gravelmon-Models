@@ -22,11 +22,11 @@
         "float"
       ],
       "quirks": [
-        "q.bedrock_quirk('paramoth_male', 'blink')"
+        "q.bedrock_quirk('sage_paramoth', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('paramoth_male', 'ground_idle')"
+        "q.bedrock('sage_paramoth', 'ground_idle')"
       ]
     },
     "walking": {
@@ -35,11 +35,11 @@
         "swim"
       ],
       "quirks": [
-        "q.bedrock_quirk('paramoth_male', 'blink')"
+        "q.bedrock_quirk('sage_paramoth', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('paramoth_male', 'ground_idle')",
+        "q.bedrock('sage_paramoth', 'ground_idle')",
         "q.biped_walk(0.6662, 1.4, 'leg_left', 'leg_right')"
       ]
     }
