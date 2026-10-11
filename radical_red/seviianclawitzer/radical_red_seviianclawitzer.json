@@ -1,14 +1,14 @@
 {
-  "portraitScale": 1,
+  "portraitScale": 1.56,
   "portraitTranslation": [
-    0,
-    0,
+    -0.07,
+    -0.09,
     0
   ],
-  "profileScale": 1,
+  "profileScale": 0.56,
   "profileTranslation": [
-    0,
-    0,
+    0.31,
+    0.62,
     0
   ],
   "rootBone": "seviianclawitzer",
