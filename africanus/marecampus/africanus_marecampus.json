@@ -1,14 +1,14 @@
 {
-  "portraitScale": 1,
+  "portraitScale": 1.86,
   "portraitTranslation": [
-    0,
-    0,
+    -0.86,
+    2.59,
     0
   ],
-  "profileScale": 1,
+  "profileScale": 0.38,
   "profileTranslation": [
-    0,
-    0,
+    0.14,
+    1.21,
     0
   ],
   "rootBone": "marecampus",
