@@ -40,8 +40,8 @@
       "animations": [
         "q.look('head', 1, 1, 7.5, -7.5, 7.5, -7.5)",
         "q.bedrock('xenoverse_slurpuffx', 'ground_idle')",
-        "q.biped_walk(0.66, 1.4, 'leg_left', 'leg_right')",
-        "q.bimanual_swing(0.66, 1.4, 'arm_left', 'arm_right')"
+        "q.biped_walk(0.66, 0.61, 'leg_left', 'leg_right')",
+        "q.bimanual_swing(0.66, 0.61, 'arm_left', 'arm_right')"
       ]
     }
   }
