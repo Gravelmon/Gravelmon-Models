@@ -4,6 +4,7 @@
   "variations": [
     {
       "aspects": [],
+      "poser": "cobblemon:deneb_frozaiden",
       "model": "cobblemon:deneb_frozaiden.geo",
       "texture": "cobblemon:textures/pokemon/deneb/frozaiden/frozaiden.png",
       "layers": [
