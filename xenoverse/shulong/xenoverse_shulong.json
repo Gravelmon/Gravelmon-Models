@@ -1,11 +1,15 @@
 {
-  "portraitScale": 2.009999,
+  "portraitScale": 1.5,
   "portraitTranslation": [
-    -0.26000000000000006, 0.009999999999999997, 0.0
+    -0.06,
+    0.31,
+    0
   ],
-  "profileScale": 0.90,
+  "profileScale": 0.7,
   "profileTranslation": [
-    0.00, 0.45, 0.00
+    0,
+    0.75,
+    0
   ],
   "rootBone": "shulong",
   "poses": {
