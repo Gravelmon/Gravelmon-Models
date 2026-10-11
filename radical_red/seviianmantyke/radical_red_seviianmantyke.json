@@ -1,14 +1,14 @@
 {
-  "portraitScale": 1,
+  "portraitScale": 1.88,
   "portraitTranslation": [
-    0,
-    0,
+    -0.22,
+    -0.98,
     0
   ],
-  "profileScale": 1,
+  "profileScale": 0.78,
   "profileTranslation": [
-    0,
-    0,
+    -0.01,
+    0.52,
     0
   ],
   "rootBone": "seviianmantyke",
