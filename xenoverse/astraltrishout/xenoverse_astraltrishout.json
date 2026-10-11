@@ -1,27 +1,23 @@
 {
-  "portraitScale": 1.4500000476837158,
+  "portraitScale": 1.45,
   "portraitTranslation": [
-    -0.38,
+    -0.58,
     2.88,
-    0.0
+    0
   ],
-  "profileScale": 0.4399999976158142,
+  "profileScale": 0.38,
   "profileTranslation": [
-    0.0,
-    1.1,
-    0.0
+    -0.03,
+    1.16,
+    0
   ],
   "poses": {
     "standing": {
-      "poseName": "standing",
+      "allPoseTypes": true,
       "animations": [
         "q.bedrock('xenoverse_astraltrishout', q.look('head_ai'))",
         "q.bedrock('xenoverse_astraltrishout', 'ground_idle')"
-      ],
-      "allPoseTypes": true,
-
-      "namedAnimations": {},
-      "transformedParts": []
+      ]
     }
   }
 }
