@@ -1,14 +1,14 @@
 {
-  "portraitScale": 1,
+  "portraitScale": 1.07,
   "portraitTranslation": [
     0,
     0,
     0
   ],
-  "profileScale": 1,
+  "profileScale": 0.62,
   "profileTranslation": [
-    0,
-    0,
+    -0.18,
+    0.86,
     0
   ],
   "rootBone": "eelektross_hoennian",
