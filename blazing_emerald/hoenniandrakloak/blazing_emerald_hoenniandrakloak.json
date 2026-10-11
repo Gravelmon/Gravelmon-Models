@@ -20,12 +20,12 @@
         "hover"
       ],
       "quirks": [
-        "q.bedrock_quirk('drakloak', 'blink')",
-        "q.bedrock_quirk('drakloak', 'blink2')"
+        "q.bedrock_quirk('blazing_emerald_hoenniandrakloak', 'blink')",
+        "q.bedrock_quirk('blazing_emerald_hoenniandrakloak', 'blink2')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('drakloak', 'battle_idle')"
+        "q.bedrock('blazing_emerald_hoenniandrakloak', 'battle_idle')"
       ]
     },
     "standing": {
@@ -38,12 +38,12 @@
         "hover"
       ],
       "quirks": [
-        "q.bedrock_quirk('drakloak', 'blink')",
-        "q.bedrock_quirk('drakloak', 'blink2')"
+        "q.bedrock_quirk('blazing_emerald_hoenniandrakloak', 'blink')",
+        "q.bedrock_quirk('blazing_emerald_hoenniandrakloak', 'blink2')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('drakloak', 'ground_idle')"
+        "q.bedrock('blazing_emerald_hoenniandrakloak', 'ground_idle')"
       ]
     },
     "walking": {
@@ -52,12 +52,12 @@
         "fly"
       ],
       "quirks": [
-        "q.bedrock_quirk('drakloak', 'blink')",
-        "q.bedrock_quirk('drakloak', 'blink2')"
+        "q.bedrock_quirk('blazing_emerald_hoenniandrakloak', 'blink')",
+        "q.bedrock_quirk('blazing_emerald_hoenniandrakloak', 'blink2')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('drakloak', 'ground_walk')"
+        "q.bedrock('blazing_emerald_hoenniandrakloak', 'ground_walk')"
       ]
     },
     "sleep": {
@@ -65,7 +65,7 @@
         "sleep"
       ],
       "animations": [
-        "q.bedrock('drakloak', 'sleep')"
+        "q.bedrock('blazing_emerald_hoenniandrakloak', 'sleep')"
       ]
     },
     "fly": {
@@ -73,12 +73,12 @@
         "swim"
       ],
       "quirks": [
-        "q.bedrock_quirk('drakloak', 'blink')",
-        "q.bedrock_quirk('drakloak', 'blink2')"
+        "q.bedrock_quirk('blazing_emerald_hoenniandrakloak', 'blink')",
+        "q.bedrock_quirk('blazing_emerald_hoenniandrakloak', 'blink2')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('drakloak', 'air_fly')"
+        "q.bedrock('blazing_emerald_hoenniandrakloak', 'air_fly')"
       ]
     },
     "hover": {
@@ -86,16 +86,16 @@
         "float"
       ],
       "quirks": [
-        "q.bedrock_quirk('drakloak', 'blink')",
-        "q.bedrock_quirk('drakloak', 'blink2')"
+        "q.bedrock_quirk('blazing_emerald_hoenniandrakloak', 'blink')",
+        "q.bedrock_quirk('blazing_emerald_hoenniandrakloak', 'blink2')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('drakloak', 'air_idle')"
+        "q.bedrock('blazing_emerald_hoenniandrakloak', 'air_idle')"
       ]
     }
   },
   "animations": {
-    "cry": "q.bedrock_stateful('drakloak', 'cry')"
+    "cry": "q.bedrock_stateful('blazing_emerald_hoenniandrakloak', 'cry')"
   }
 }
