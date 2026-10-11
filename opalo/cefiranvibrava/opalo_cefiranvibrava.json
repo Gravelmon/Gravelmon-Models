@@ -1,14 +1,14 @@
 {
-  "portraitScale": 1.36,
+  "portraitScale": 1.79,
   "portraitTranslation": [
-    -0.37,
-    -0.55,
+    -0.38,
+    -1.18,
     0
   ],
-  "profileScale": 0.54,
+  "profileScale": 0.88,
   "profileTranslation": [
-    -0.01,
-    0.71,
+    0.12,
+    0.31,
     0
   ],
   "headBone": "head",
