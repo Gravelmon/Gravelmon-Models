@@ -40,7 +40,7 @@
       "animations": [
         "q.look('head', 1, 1, 70, -45, 45, -45)",
         "q.bedrock('soulstones_epocheevee', 'ground_idle')",
-        "q.quadruped_walk(0.6662, 1.4, 'front_leg_left', 'front_leg_right', 'back_leg_left', 'back_leg_right')"
+        "q.quadruped_walk(0.66, 1.4, 'front_leg_left', 'front_leg_right', 'back_leg_left', 'back_leg_right')"
       ]
     },
     "shoulder_left": {
