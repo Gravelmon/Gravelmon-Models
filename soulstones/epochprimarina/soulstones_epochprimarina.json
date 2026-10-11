@@ -19,11 +19,11 @@
         "stand"
       ],
       "quirks": [
-        "q.bedrock_quirk('primarina_epoch', 'blink')"
+        "q.bedrock_quirk('soulstones_epochprimarina', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('primarina_epoch', 'battle_idle')"
+        "q.bedrock('soulstones_epochprimarina', 'battle_idle')"
       ]
     },
     "standing": {
@@ -35,11 +35,11 @@
         "profile"
       ],
       "quirks": [
-        "q.bedrock_quirk('primarina_epoch', 'blink')"
+        "q.bedrock_quirk('soulstones_epochprimarina', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('primarina_epoch', 'ground_idle')"
+        "q.bedrock('soulstones_epochprimarina', 'ground_idle')"
       ]
     },
     "walking": {
@@ -47,11 +47,11 @@
         "walk"
       ],
       "quirks": [
-        "q.bedrock_quirk('primarina_epoch', 'blink')"
+        "q.bedrock_quirk('soulstones_epochprimarina', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('primarina_epoch', 'ground_walk')"
+        "q.bedrock('soulstones_epochprimarina', 'ground_walk')"
       ]
     },
     "float": {
@@ -59,11 +59,11 @@
         "float"
       ],
       "quirks": [
-        "q.bedrock_quirk('primarina_epoch', 'blink')"
+        "q.bedrock_quirk('soulstones_epochprimarina', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('primarina_epoch', 'water_idle')"
+        "q.bedrock('soulstones_epochprimarina', 'water_idle')"
       ]
     },
     "swim": {
@@ -71,11 +71,11 @@
         "swim"
       ],
       "quirks": [
-        "q.bedrock_quirk('primarina_epoch', 'blink')"
+        "q.bedrock_quirk('soulstones_epochprimarina', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('primarina_epoch', 'water_swim')"
+        "q.bedrock('soulstones_epochprimarina', 'water_swim')"
       ]
     },
     "sleep": {
@@ -83,15 +83,15 @@
         "sleep"
       ],
       "namedAnimations": {
-        "cry": "q.bedrock_stateful('primarina_epoch', 'cry')"
+        "cry": "q.bedrock_stateful('soulstones_epochprimarina', 'cry')"
       },
       "animations": [
-        "q.bedrock('primarina_epoch', 'sleep')"
+        "q.bedrock('soulstones_epochprimarina', 'sleep')"
       ]
     }
   },
   "animations": {
-    "faint": "q.bedrock_primary('primarina_epoch', 'faint', q.curve('one'))",
-    "cry": "q.bedrock_stateful('primarina_epoch', 'cry')"
+    "faint": "q.bedrock_primary('soulstones_epochprimarina', 'faint', q.curve('one'))",
+    "cry": "q.bedrock_stateful('soulstones_epochprimarina', 'cry')"
   }
 }
