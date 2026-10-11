@@ -1,14 +1,14 @@
 {
-  "portraitScale": 2.27,
+  "portraitScale": 2.1,
   "portraitTranslation": [
-    -0.69,
-    2.22,
+    -0.6,
+    2.57,
     0
   ],
-  "profileScale": 0.63,
+  "profileScale": 0.47,
   "profileTranslation": [
-    0.06,
-    0.91,
+    -0.05,
+    1.05,
     0
   ],
   "rootBone": "sceptile",
