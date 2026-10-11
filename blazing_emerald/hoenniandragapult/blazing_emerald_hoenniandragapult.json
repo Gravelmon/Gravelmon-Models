@@ -5,10 +5,10 @@
     3.3,
     0
   ],
-  "profileScale": 0.45,
+  "profileScale": 0.39,
   "profileTranslation": [
-    0,
-    1.25,
+    -0.01,
+    1.16,
     0
   ],
   "rootBone": "dragapult",
