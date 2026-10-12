@@ -7,6 +7,7 @@
         "delta"
       ],
       "poser": "cobblemon:insurgence_deltakirlia",
+      "model": "cobblemon:insurgence_deltakirlia.geo",
       "texture": "cobblemon:textures/pokemon/insurgence/deltakirlia/deltakirlia.png",
       "layers": [
         {
