@@ -1,0 +1,88 @@
+{
+  "game": "palmia",
+  "pokemon": "glidird",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Ammonite616"
+      },
+      "contributors": [
+        {
+          "login": "Ammonite616"
+        }
+      ],
+      "submittedAt": "2026-10-12T00:45:49.339Z",
+      "models": [
+        "palmia/glidird/palmia_glidird.geo.json"
+      ],
+      "animations": [
+        "palmia/glidird/palmia_glidird.animation.json"
+      ],
+      "textures": [
+        "palmia/glidird/texture__glidird.png",
+        "palmia/glidird/glidird_alpha.png",
+        "palmia/glidird/glidird_blood.png",
+        "palmia/glidird/glidird_bug.png",
+        "palmia/glidird/glidird_cosmic.png",
+        "palmia/glidird/glidird_crystal.png",
+        "palmia/glidird/glidird_dark.png",
+        "palmia/glidird/glidird_digital.png",
+        "palmia/glidird/glidird_dragon.png",
+        "palmia/glidird/glidird_eldritch.png",
+        "palmia/glidird/glidird_electric.png",
+        "palmia/glidird/glidird_fairy.png",
+        "palmia/glidird/glidird_fighting.png",
+        "palmia/glidird/glidird_fire.png",
+        "palmia/glidird/glidird_ghost.png",
+        "palmia/glidird/glidird_grass.png",
+        "palmia/glidird/glidird_ground.png",
+        "palmia/glidird/glidird_ice.png",
+        "palmia/glidird/glidird_light.png",
+        "palmia/glidird/glidird_nuclear.png",
+        "palmia/glidird/glidird_plastic.png",
+        "palmia/glidird/glidird_poison.png",
+        "palmia/glidird/glidird_psychic.png",
+        "palmia/glidird/glidird_questionmark.png",
+        "palmia/glidird/glidird_rock.png",
+        "palmia/glidird/glidird_shadow.png",
+        "palmia/glidird/glidird_shiny.png",
+        "palmia/glidird/glidird_shiny_blood.png",
+        "palmia/glidird/glidird_shiny_bug.png",
+        "palmia/glidird/glidird_shiny_cosmic.png",
+        "palmia/glidird/glidird_shiny_crystal.png",
+        "palmia/glidird/glidird_shiny_dark.png",
+        "palmia/glidird/glidird_shiny_digital.png",
+        "palmia/glidird/glidird_shiny_dragon.png",
+        "palmia/glidird/glidird_shiny_eldritch.png",
+        "palmia/glidird/glidird_shiny_electric.png",
+        "palmia/glidird/glidird_shiny_fairy.png",
+        "palmia/glidird/glidird_shiny_fighting.png",
+        "palmia/glidird/glidird_shiny_fire.png",
+        "palmia/glidird/glidird_shiny_ghost.png",
+        "palmia/glidird/glidird_shiny_grass.png",
+        "palmia/glidird/glidird_shiny_ground.png",
+        "palmia/glidird/glidird_shiny_ice.png",
+        "palmia/glidird/glidird_shiny_light.png",
+        "palmia/glidird/glidird_shiny_nuclear.png",
+        "palmia/glidird/glidird_shiny_plastic.png",
+        "palmia/glidird/glidird_shiny_poison.png",
+        "palmia/glidird/glidird_shiny_psychic.png",
+        "palmia/glidird/glidird_shiny_questionmark.png",
+        "palmia/glidird/glidird_shiny_rock.png",
+        "palmia/glidird/glidird_shiny_shadow.png",
+        "palmia/glidird/glidird_shiny_slime.png",
+        "palmia/glidird/glidird_shiny_sound.png",
+        "palmia/glidird/glidird_shiny_steel.png",
+        "palmia/glidird/glidird_shiny_water.png",
+        "palmia/glidird/glidird_shiny_wind.png",
+        "palmia/glidird/glidird_slime.png",
+        "palmia/glidird/glidird_sound.png",
+        "palmia/glidird/glidird_steel.png",
+        "palmia/glidird/glidird_water.png",
+        "palmia/glidird/glidird_wind.png",
+        "palmia/glidird/glidird.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

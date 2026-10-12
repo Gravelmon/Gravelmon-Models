@@ -4,9 +4,9 @@
   "variations": [
     {
       "aspects": [],
-      "model": "cobblemon:cutout_gravelmon_512_by_512.geo",
-      "poser": "cobblemon:cutout_gravelmon_512_by_512",
-      "texture": "cobblemon:textures/pokemon/palmia/glidird.png",
+      "poser": "cobblemon:palmia_glidird",
+      "model": "cobblemon:palmia_glidird.geo",
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird.png",
       "layers": [
         {
           "name": "emissive"
@@ -33,6 +33,401 @@
           "texture": "cobblemon:textures/empty_texture.png"
         }
       ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_alpha.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "blood"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_blood.png"
+    },
+    {
+      "aspects": [
+        "blood",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_blood.png"
+    },
+    {
+      "aspects": [
+        "bug"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_bug.png"
+    },
+    {
+      "aspects": [
+        "bug",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_bug.png"
+    },
+    {
+      "aspects": [
+        "cosmic"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_cosmic.png"
+    },
+    {
+      "aspects": [
+        "cosmic",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_cosmic.png"
+    },
+    {
+      "aspects": [
+        "crystal"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_crystal.png"
+    },
+    {
+      "aspects": [
+        "crystal",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_crystal.png"
+    },
+    {
+      "aspects": [
+        "dark"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_dark.png"
+    },
+    {
+      "aspects": [
+        "dark",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_dark.png"
+    },
+    {
+      "aspects": [
+        "digital"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_digital.png"
+    },
+    {
+      "aspects": [
+        "digital",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_digital.png"
+    },
+    {
+      "aspects": [
+        "eldritch"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_eldritch.png"
+    },
+    {
+      "aspects": [
+        "eldritch",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_eldritch.png"
+    },
+    {
+      "aspects": [
+        "electric"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_electric.png"
+    },
+    {
+      "aspects": [
+        "electric",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_electric.png"
+    },
+    {
+      "aspects": [
+        "fairy"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_fairy.png"
+    },
+    {
+      "aspects": [
+        "fairy",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_fairy.png"
+    },
+    {
+      "aspects": [
+        "fighting"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_fighting.png"
+    },
+    {
+      "aspects": [
+        "fighting",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_fighting.png"
+    },
+    {
+      "aspects": [
+        "fire"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_fire.png"
+    },
+    {
+      "aspects": [
+        "fire",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_fire.png"
+    },
+    {
+      "aspects": [
+        "ghost"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_ghost.png"
+    },
+    {
+      "aspects": [
+        "ghost",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_ghost.png"
+    },
+    {
+      "aspects": [
+        "grass"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_grass.png"
+    },
+    {
+      "aspects": [
+        "grass",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_grass.png"
+    },
+    {
+      "aspects": [
+        "ground"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_ground.png"
+    },
+    {
+      "aspects": [
+        "shiny",
+        "ground"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_ground.png"
+    },
+    {
+      "aspects": [
+        "ice"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_ice.png"
+    },
+    {
+      "aspects": [
+        "shiny",
+        "ice"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_ice.png"
+    },
+    {
+      "aspects": [
+        "light"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_light.png"
+    },
+    {
+      "aspects": [
+        "shiny",
+        "light"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_light.png"
+    },
+    {
+      "aspects": [
+        "nuclear"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_nuclear.png"
+    },
+    {
+      "aspects": [
+        "nuclear",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_nuclear.png"
+    },
+    {
+      "aspects": [
+        "plastic"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_plastic.png"
+    },
+    {
+      "aspects": [
+        "plastic",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_plastic.png"
+    },
+    {
+      "aspects": [
+        "poison"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_poison.png"
+    },
+    {
+      "aspects": [
+        "poison",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_poison.png"
+    },
+    {
+      "aspects": [
+        "psychic"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_psychic.png"
+    },
+    {
+      "aspects": [
+        "psychic",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_psychic.png"
+    },
+    {
+      "aspects": [
+        "questionmark"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_questionmark.png"
+    },
+    {
+      "aspects": [
+        "questionmark",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_questionmark.png"
+    },
+    {
+      "aspects": [
+        "rock"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_rock.png"
+    },
+    {
+      "aspects": [
+        "shiny",
+        "rock"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_rock.png"
+    },
+    {
+      "aspects": [
+        "shadow"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shadow.png"
+    },
+    {
+      "aspects": [
+        "shadow",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_shadow.png"
+    },
+    {
+      "aspects": [
+        "slime"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_slime.png"
+    },
+    {
+      "aspects": [
+        "shiny",
+        "slime"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_slime.png"
+    },
+    {
+      "aspects": [
+        "sound"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_sound.png"
+    },
+    {
+      "aspects": [
+        "shiny",
+        "sound"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_sound.png"
+    },
+    {
+      "aspects": [
+        "steel"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_steel.png"
+    },
+    {
+      "aspects": [
+        "shiny",
+        "steel"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_steel.png"
+    },
+    {
+      "aspects": [
+        "water"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_water.png"
+    },
+    {
+      "aspects": [
+        "water",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_water.png"
+    },
+    {
+      "aspects": [
+        "wind"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_wind.png"
+    },
+    {
+      "aspects": [
+        "wind",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_wind.png"
+    },
+    {
+      "aspects": [
+        "dragon"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_dragon.png"
+    },
+    {
+      "aspects": [
+        "shiny",
+        "dragon"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_dragon.png"
     }
   ]
 }

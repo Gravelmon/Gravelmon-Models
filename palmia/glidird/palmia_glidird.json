@@ -1,0 +1,71 @@
+{
+  "portraitScale": 2.59,
+  "portraitTranslation": [
+    0.04,
+    -1.29,
+    0
+  ],
+  "profileScale": 1,
+  "profileTranslation": [
+    0.08,
+    0.41,
+    0
+  ],
+  "rootBone": "glidird",
+  "poses": {
+    "standing": {
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "walk"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('palmia_glidird', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('palmia_glidird', 'ground_idle')"
+      ]
+    },
+    "fly": {
+      "poseTypes": [
+        "swim",
+        "fly"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('palmia_glidird', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('palmia_glidird', 'air_fly')"
+      ]
+    },
+    "hover": {
+      "poseTypes": [
+        "float",
+        "hover"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('palmia_glidird', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('palmia_glidird', 'air_idle')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "animations": [
+        "q.bedrock('palmia_glidird', 'sleep')"
+      ]
+    }
+  },
+  "animations": {
+    "recoil": "q.bedrock_stateful('palmia_glidird', 'recoil')",
+    "faint": "q.bedrock_primary('palmia_glidird', 'faint', q.curve('one'))"
+  }
+}
