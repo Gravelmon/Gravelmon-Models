@@ -1,11 +1,15 @@
 {
-  "portraitScale": 2.16,
+  "portraitScale": 1.86,
   "portraitTranslation": [
-    0.0, 0.4100000000000002, 0.0
+    0.1,
+    0.51,
+    0
   ],
-  "profileScale": 1,
+  "profileScale": 0.7,
   "profileTranslation": [
-    0.04, 0.63, 0.00
+    0.04,
+    0.73,
+    0
   ],
   "rootBone": "silkinder",
   "poses": {
