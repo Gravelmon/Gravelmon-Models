@@ -1,14 +1,14 @@
 {
-  "portraitScale": 1.86,
+  "portraitScale": 1.76,
   "portraitTranslation": [
     -0.05,
-    -0.03,
+    0.07,
     0
   ],
-  "profileScale": 0.71,
+  "profileScale": 0.7,
   "profileTranslation": [
-    0.06,
-    0.71,
+    0,
+    0.75,
     0
   ],
   "rootBone": "chyinmunk",
@@ -39,7 +39,8 @@
       ],
       "animations": [
         "q.look('head')",
-        "q.biped_walk(0.6662, 1.4, 'leg_left', 'leg_right')"
+        "q.bedrock('uranium_chyinmunk', 'ground_idle')",
+        "q.biped_walk(0.4, 0.5, 'leg_left', 'leg_right')"
       ]
     }
   }
