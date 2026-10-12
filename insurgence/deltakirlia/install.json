@@ -8,6 +8,7 @@
     "deltakirlia_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltakirlia/deltakirlia_shiny.png",
     "insurgence_deltakirlia.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltakirlia.animation.json",
     "insurgence_deltakirlia.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltakirlia.json",
+    "insurgence_deltakirlia.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltakirlia.geo.json",
     "kirlia_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/kirlia_delta_cry.ogg",
     "texture__deltakirlia.png": "assets/cobblemon/textures/pokemon/insurgence/deltakirlia/deltakirlia.png"
   }
