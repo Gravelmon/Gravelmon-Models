@@ -40,7 +40,7 @@
       "animations": [
         "q.look('head')",
         "q.bedrock('uranium_smore', 'ground_idle')",
-        "q.quadruped_walk(0.6662, 1.4, 'leg1_left', 'leg1_right', 'leg2_left', 'leg2_right')"
+        "q.quadruped_walk(0.7, 0.5, 'leg1_left', 'leg1_right', 'leg2_left', 'leg2_right')"
       ]
     }
   }
