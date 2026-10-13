@@ -1,0 +1,30 @@
+{
+  "game": "uranium",
+  "pokemon": "sponaree",
+  "entries": [
+    {
+      "contributor": {
+        "login": "mitchooart"
+      },
+      "contributors": [
+        {
+          "login": "mitchooart"
+        }
+      ],
+      "submittedAt": "2026-10-13T07:15:04.079Z",
+      "models": [
+        "uranium/sponaree/uranium_sponaree.geo.json"
+      ],
+      "animations": [
+        "uranium/sponaree/uranium_sponaree.animation.json"
+      ],
+      "textures": [
+        "uranium/sponaree/texture__sponaree.png",
+        "uranium/sponaree/sponaree_alpha.png",
+        "uranium/sponaree/sponaree_shiny.png",
+        "uranium/sponaree/sponaree.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
