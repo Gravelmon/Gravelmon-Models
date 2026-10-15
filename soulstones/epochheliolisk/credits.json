@@ -1,0 +1,37 @@
+{
+  "game": "pokemon",
+  "pokemon": "heliolisk",
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "heliolisk",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-10-15T23:27:48.217Z",
+      "models": [
+        "soulstones/epochheliolisk/soulstones_epochheliolisk.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochheliolisk/soulstones_epochheliolisk.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochheliolisk/heliolisk_epoch.png",
+        "soulstones/epochheliolisk/heliolisk_epoch_alpha.png",
+        "soulstones/epochheliolisk/heliolisk_epoch_shiny.png",
+        "soulstones/epochheliolisk/epochheliolisk.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "files": {
     "164_heliolisk_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_heliolisk_epoch.json",
-    "epochheliolisk.png": "assets/cobblemon/textures/pokemon/soulstones/epochheliolisk.png"
+    "epochheliolisk.png": "assets/cobblemon/textures/pokemon/soulstones/epochheliolisk.png",
+    "heliolisk_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochheliolisk/heliolisk_epoch.png",
+    "heliolisk_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochheliolisk/heliolisk_epoch_alpha.png",
+    "heliolisk_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochheliolisk/heliolisk_epoch_shiny.png",
+    "soulstones_epochheliolisk.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochheliolisk.animation.json",
+    "soulstones_epochheliolisk.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochheliolisk.geo.json",
+    "soulstones_epochheliolisk.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochheliolisk.json"
   }
 }

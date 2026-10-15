@@ -1,0 +1,78 @@
+{
+  "portraitScale": 1.41,
+  "portraitTranslation": [
+    -0.3,
+    1.25,
+    0
+  ],
+  "profileScale": 0.52,
+  "profileTranslation": [
+    0,
+    1,
+    0
+  ],
+  "rootBone": "heliolisk",
+  "poses": {
+    "standing": {
+      "isBattle": false,
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochheliolisk', 'blink')",
+        "q.bedrock_quirk('soulstones_epochheliolisk', 'blink1')",
+        "q.bedrock_quirk('soulstones_epochheliolisk', 'blink2')",
+        "q.bedrock_quirk('soulstones_epochheliolisk', 'blink3')",
+        "q.bedrock_quirk('soulstones_epochheliolisk', 'blink4')",
+        "q.bedrock_quirk('soulstones_epochheliolisk', 'blink5')",
+        "q.bedrock_quirk('soulstones_epochheliolisk', 'blink6')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('soulstones_epochheliolisk', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "walk",
+        "swim"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochheliolisk', 'blink')",
+        "q.bedrock_quirk('soulstones_epochheliolisk', 'blink1')",
+        "q.bedrock_quirk('soulstones_epochheliolisk', 'blink2')",
+        "q.bedrock_quirk('soulstones_epochheliolisk', 'blink3')",
+        "q.bedrock_quirk('soulstones_epochheliolisk', 'blink4')",
+        "q.bedrock_quirk('soulstones_epochheliolisk', 'blink5')",
+        "q.bedrock_quirk('soulstones_epochheliolisk', 'blink6')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('soulstones_epochheliolisk', 'ground_idle')",
+        "q.biped_walk(0.5, 0.5, 'leg_left', 'leg_right')"
+      ]
+    },
+    "battle-standing": {
+      "isBattle": true,
+      "poseTypes": [
+        "stand"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochheliolisk', 'blink')",
+        "q.bedrock_quirk('soulstones_epochheliolisk', 'blink1')",
+        "q.bedrock_quirk('soulstones_epochheliolisk', 'blink2')",
+        "q.bedrock_quirk('soulstones_epochheliolisk', 'blink3')",
+        "q.bedrock_quirk('soulstones_epochheliolisk', 'blink4')",
+        "q.bedrock_quirk('soulstones_epochheliolisk', 'blink5')",
+        "q.bedrock_quirk('soulstones_epochheliolisk', 'blink6')"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochheliolisk', 'battle_idle')"
+      ]
+    }
+  }
+}
