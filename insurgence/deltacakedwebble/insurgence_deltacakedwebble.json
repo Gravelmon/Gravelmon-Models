@@ -25,11 +25,11 @@
         "swim"
       ],
       "quirks": [
-        "q.bedrock_quirk('deltacake_dwebble', 'blink')"
+        "q.bedrock_quirk('insurgence_deltacakedwebble', 'blink')"
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('deltacake_dwebble', 'ground_idle')"
+        "q.bedrock('insurgence_deltacakedwebble', 'ground_idle')"
       ]
     },
     "sleep": {
@@ -37,7 +37,7 @@
         "sleep"
       ],
       "animations": [
-        "q.bedrock('deltacake_dwebble', 'sleep')"
+        "q.bedrock('insurgence_deltacakedwebble', 'sleep')"
       ]
     }
   }
