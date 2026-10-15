@@ -1,0 +1,32 @@
+{
+  "game": "rica",
+  "pokemon": "lunorca",
+  "entries": [
+    {
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-10-15T15:58:30.342Z",
+      "models": [
+        "rica/lunorca/rica_lunorca.geo.json"
+      ],
+      "animations": [
+        "rica/lunorca/rica_lunorca.animation.json"
+      ],
+      "textures": [
+        "rica/lunorca/texture__lunorca.png",
+        "rica/lunorca/lunorca_alpha.png",
+        "rica/lunorca/lunorca_preview.png",
+        "rica/lunorca/lunorca_shiny.png",
+        "rica/lunorca/lunorca_translucent.png",
+        "rica/lunorca/lunorca.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

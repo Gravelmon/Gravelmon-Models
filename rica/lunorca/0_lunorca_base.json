@@ -4,10 +4,16 @@
   "variations": [
     {
       "aspects": [],
-      "model": "cobblemon:cutout_gravelmon_77_by_83.geo",
-      "poser": "cobblemon:cutout_gravelmon_77_by_83",
-      "texture": "cobblemon:textures/pokemon/rica/lunorca.png",
+      "poser": "cobblemon:rica_lunorca",
+      "model": "cobblemon:rica_lunorca.geo",
+      "texture": "cobblemon:textures/pokemon/rica/lunorca/lunorca.png",
       "layers": [
+        {
+          "name": "translucent",
+          "texture": "cobblemon:textures/pokemon/rica/lunorca/lunorca_translucent.png",
+          "emissive": true,
+          "translucent": true
+        },
         {
           "name": "emissive"
         },
@@ -31,6 +37,32 @@
         },
         {
           "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/rica/lunorca/lunorca_shiny.png",
+      "layers": [
+        {
+          "name": "translucent",
+          "texture": "cobblemon:textures/pokemon/rica/lunorca/lunorca_translucent.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/rica/lunorca/lunorca_alpha.png",
+          "emissive": true
         }
       ]
     }
