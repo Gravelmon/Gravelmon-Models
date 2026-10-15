@@ -1,0 +1,33 @@
+{
+  "portraitScale": 1.7,
+  "portraitTranslation": [
+    -0.4,
+    -0.8,
+    0
+  ],
+  "profileScale": 0.9,
+  "profileTranslation": [
+    0,
+    0.4,
+    0
+  ],
+  "rootBone": "starphin",
+  "poses": {
+    "float": {
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('rica_starphin', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('rica_starphin', 'water_idle')"
+      ]
+    }
+  }
+}
