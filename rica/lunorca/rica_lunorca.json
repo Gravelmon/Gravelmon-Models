@@ -1,0 +1,67 @@
+{
+  "portraitScale": 1,
+  "portraitTranslation": [
+    -0.59,
+    0.13,
+    0
+  ],
+  "profileScale": 0.38,
+  "profileTranslation": [
+    0.12,
+    0.96,
+    0
+  ],
+  "rootBone": "lunorca",
+  "poses": {
+    "float": {
+      "isBattle": false,
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('rica_lunorca', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('rica_lunorca', 'water_idle')"
+      ]
+    },
+    "swim": {
+      "poseTypes": [
+        "swim"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('rica_lunorca', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('rica_lunorca', 'water_swim')"
+      ]
+    },
+    "battle-standing": {
+      "isBattle": true,
+      "poseTypes": [
+        "stand"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('rica_lunorca', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('rica_lunorca', 'battle_idle')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "animations": [
+        "q.bedrock('rica_lunorca', 'sleep')"
+      ]
+    }
+  }
+}

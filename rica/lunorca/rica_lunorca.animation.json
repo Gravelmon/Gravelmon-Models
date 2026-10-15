@@ -1,0 +1,306 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.rica_lunorca.water_idle": {
+      "loop": true
+    },
+    "animation.rica_lunorca.water_swim": {
+      "loop": true,
+      "bones": {
+        "lunorca": {
+          "position": [
+            0,
+            5,
+            0
+          ]
+        }
+      }
+    },
+    "animation.rica_lunorca.air_idle": {
+      "loop": true
+    },
+    "animation.rica_lunorca.air_fly": {
+      "loop": true
+    },
+    "animation.rica_lunorca.battle_idle": {
+      "loop": true,
+      "bones": {
+        "body": {
+          "rotation": [
+            "-30.1-Math.sin(query.anim_time * 90 * 1.25) * -1.25",
+            0,
+            0
+          ],
+          "position": [
+            0,
+            "42+Math.sin(query.anim_time * 90 * 1.25 - 75) * -2",
+            "Math.sin(query.anim_time * 90 * 1.25 - 75) * -1"
+          ]
+        },
+        "neck": {
+          "rotation": [
+            "19.4-Math.sin(query.anim_time * 90 * 1.25-25) * 4",
+            0,
+            0
+          ]
+        },
+        "jaw": {
+          "rotation": [
+            "9-Math.sin(query.anim_time * 90 * 1.25 - 75) * 1.8",
+            0,
+            0
+          ]
+        },
+        "tail": {
+          "rotation": [
+            "-37.5946789058-Math.sin(query.anim_time * 90 * 1.25 - 25) * -5",
+            0,
+            0
+          ]
+        },
+        "tail2": {
+          "rotation": [
+            "-42.6088-Math.sin(query.anim_time * 90 * 1.25 - 50) * -10",
+            0,
+            0
+          ]
+        },
+        "tail_pearl_main": {
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "tail3": {
+          "rotation": [
+            "-22.5-Math.sin(query.anim_time * 90 * 1.25 - 75) * -10",
+            0,
+            0
+          ]
+        },
+        "fin_left": {
+          "rotation": [
+            0,
+            0,
+            "15+Math.sin(query.anim_time * 90 * 1.25 - 50) * -15"
+          ],
+          "position": [
+            0,
+            0.07612,
+            0.38268
+          ]
+        },
+        "fin_right": {
+          "rotation": [
+            0,
+            0,
+            "-15+Math.sin(query.anim_time * 90 * 1.25 - 50) * 15"
+          ],
+          "position": [
+            0,
+            -0.92388,
+            0.38268
+          ]
+        },
+        "fin_left2": {
+          "rotation": [
+            -0.96815,
+            2.59188,
+            "24.9582+Math.sin(query.anim_time * 90 * 1.25 - 75) * -8"
+          ]
+        },
+        "fin_right2": {
+          "rotation": [
+            -0.96815,
+            -2.59188,
+            "-24.9582+Math.sin(query.anim_time * 90 * 1.25 - 75) * 8"
+          ]
+        },
+        "head": {
+          "rotation": [
+            "13.1-Math.sin(query.anim_time * 90 * 1.25 - 50) * 3",
+            0,
+            0
+          ]
+        },
+        "pupil_right": {
+          "position": [
+            0,
+            0,
+            1
+          ]
+        }
+      }
+    },
+    "animation.rica_lunorca.sleep": {
+      "loop": true
+    },
+    "animation.rica_lunorca.blink": {
+      "animation_length": 1.25,
+      "bones": {
+        "eyelid_left": {
+          "position": {
+            "0.0": [
+              0,
+              0,
+              0
+            ],
+            "0.375": [
+              0.2,
+              0,
+              0
+            ],
+            "1.25": [
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "eyelid_right": {
+          "position": {
+            "0.0": [
+              0,
+              0,
+              0
+            ],
+            "0.375": [
+              -0.2,
+              0,
+              0
+            ],
+            "1.25": [
+              0,
+              0,
+              0
+            ]
+          }
+        }
+      }
+    },
+    "animation.rica_lunorca.ring_move": {
+      "loop": true,
+      "bones": {
+        "ring": {
+          "rotation": [
+            0,
+            0,
+            "math.mod(q.anim_time*0.05,1)*360"
+          ]
+        }
+      }
+    },
+    "animation.rica_lunorca.pose": {
+      "loop": true,
+      "bones": {
+        "body": {
+          "rotation": [
+            -22.67458,
+            -6.92618,
+            2.88419
+          ],
+          "position": [
+            0,
+            37,
+            0
+          ]
+        },
+        "neck": {
+          "rotation": [
+            11.95,
+            -10.66462,
+            -9.87484
+          ]
+        },
+        "jaw": {
+          "rotation": [
+            9,
+            0,
+            0
+          ]
+        },
+        "tail": {
+          "rotation": [
+            -30.09468,
+            -4.32875,
+            2.50477
+          ]
+        },
+        "tail2": {
+          "rotation": [
+            -47.60879,
+            -3.37562,
+            3.69066
+          ]
+        },
+        "tail_pearl_main": {
+          "rotation": [
+            0,
+            0,
+            -15
+          ]
+        },
+        "tail3": {
+          "rotation": [
+            -22.5,
+            0,
+            0
+          ]
+        },
+        "fin_left": {
+          "rotation": [
+            5.50412,
+            -7.91931,
+            -28.07517
+          ],
+          "position": [
+            0,
+            0.07612,
+            0.38268
+          ]
+        },
+        "fin_right": {
+          "rotation": [
+            0,
+            0,
+            -15
+          ],
+          "position": [
+            0,
+            -0.92388,
+            0.38268
+          ]
+        },
+        "fin_left2": {
+          "rotation": [
+            9.75934,
+            -7.30654,
+            -18.78274
+          ]
+        },
+        "fin_right2": {
+          "rotation": [
+            -0.98294,
+            2.40682,
+            -25.07296
+          ]
+        },
+        "head": {
+          "rotation": [
+            10.68307,
+            -6.48365,
+            -6.26395
+          ]
+        },
+        "pupil_right": {
+          "position": [
+            0,
+            0,
+            1
+          ]
+        }
+      }
+    }
+  }
+}
