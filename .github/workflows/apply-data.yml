@@ -39,6 +39,9 @@ concurrency:
 
 jobs:
   apply:
+    # A submission accepted on the website is merged into main by the API, which then does this job
+    # itself (species data and Mod notes). Its merge commit carries `Gravelmon-Submission: <number>`.
+    if: github.event_name != 'push' || !contains(github.event.head_commit.message, 'Gravelmon-Submission:')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

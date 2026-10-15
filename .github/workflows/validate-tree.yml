@@ -7,12 +7,19 @@ name: Validate tree
 #
 # The validator comes from the BASE branch (checked out beside the PR's tree), so a PR cannot weaken
 # the rules it is checked against. No secrets are needed.
+#
+# Submissions accepted on the website reach main without a pull request, so the whole tree of main is
+# also checked once a week (and by hand with "Run workflow"). A failed run is the signal to fix it.
 
 on:
   pull_request:
     branches:
       - "[0-9]*.[0-9]*.[0-9]*"
       - main
+  schedule:
+    # Mondays, 06:00 UTC.
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -24,12 +31,13 @@ jobs:
       - name: Check out the validator (base branch)
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.event.pull_request.base.sha }}
+          ref: ${{ github.event.pull_request.base.sha || 'main' }}
           path: trusted
           sparse-checkout: scripts
           sparse-checkout-cone-mode: true
 
-      - name: Check out the pull request's tree
+      # A pull request's tree, or (on the schedule) main's.
+      - name: Check out the tree
         uses: actions/checkout@v4
         with:
           path: tree
