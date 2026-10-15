@@ -1,0 +1,30 @@
+{
+  "game": "rica",
+  "pokemon": "starphin",
+  "entries": [
+    {
+      "contributor": {
+        "login": "mitchooart"
+      },
+      "contributors": [
+        {
+          "login": "mitchooart"
+        }
+      ],
+      "submittedAt": "2026-10-15T07:51:24.409Z",
+      "models": [
+        "rica/starphin/rica_starphin.geo.json"
+      ],
+      "animations": [
+        "rica/starphin/rica_starphin.animation.json"
+      ],
+      "textures": [
+        "rica/starphin/texture__starphin.png",
+        "rica/starphin/starphin_alpha.png",
+        "rica/starphin/starphin_shiny.png",
+        "rica/starphin/starphin.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

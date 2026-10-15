@@ -4,9 +4,9 @@
   "variations": [
     {
       "aspects": [],
-      "model": "cobblemon:cutout_gravelmon_63_by_39.geo",
-      "poser": "cobblemon:cutout_gravelmon_63_by_39",
-      "texture": "cobblemon:textures/pokemon/rica/starphin.png",
+      "poser": "cobblemon:rica_starphin",
+      "model": "cobblemon:rica_starphin.geo",
+      "texture": "cobblemon:textures/pokemon/rica/starphin/starphin.png",
       "layers": [
         {
           "name": "emissive"
@@ -31,6 +31,24 @@
         },
         {
           "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/rica/starphin/starphin_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/rica/starphin/starphin_alpha.png",
+          "emissive": true
         }
       ]
     }

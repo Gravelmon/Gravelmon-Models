@@ -1,6 +1,12 @@
 {
   "files": {
     "0_starphin_base.json": "assets/cobblemon/bedrock/species/rica/0_starphin_base.json",
-    "starphin.png": "assets/cobblemon/textures/pokemon/rica/starphin.png"
+    "rica_starphin.animation.json": "assets/cobblemon/bedrock/pokemon/animations/rica_starphin.animation.json",
+    "rica_starphin.geo.json": "assets/cobblemon/bedrock/pokemon/models/rica_starphin.geo.json",
+    "rica_starphin.json": "assets/cobblemon/bedrock/pokemon/posers/rica_starphin.json",
+    "starphin.png": "assets/cobblemon/textures/pokemon/rica/starphin.png",
+    "starphin_alpha.png": "assets/cobblemon/textures/pokemon/rica/starphin/starphin_alpha.png",
+    "starphin_shiny.png": "assets/cobblemon/textures/pokemon/rica/starphin/starphin_shiny.png",
+    "texture__starphin.png": "assets/cobblemon/textures/pokemon/rica/starphin/starphin.png"
   }
 }

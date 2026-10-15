@@ -1,0 +1,202 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.rica_starphin.water_idle": {
+      "loop": true,
+      "bones": {
+        "body": {
+          "rotation": [
+            2.5,
+            0,
+            0
+          ]
+        },
+        "segment": {
+          "rotation": [
+            -2.5,
+            0,
+            0
+          ]
+        },
+        "segment2": {
+          "rotation": [
+            -5,
+            0,
+            0
+          ]
+        },
+        "fin_left": {
+          "rotation": [
+            0,
+            0,
+            27.5
+          ]
+        },
+        "fin_left2": {
+          "rotation": [
+            0,
+            0,
+            10
+          ]
+        },
+        "fin_right": {
+          "rotation": [
+            0,
+            0,
+            -27.5
+          ]
+        },
+        "fin_right2": {
+          "rotation": [
+            0,
+            0,
+            -10
+          ]
+        },
+        "tail": {
+          "rotation": [
+            10,
+            0,
+            0
+          ]
+        },
+        "tail_left": {
+          "rotation": [
+            0,
+            12.5,
+            0
+          ]
+        },
+        "tail_right": {
+          "rotation": [
+            0,
+            -12.5,
+            0
+          ]
+        }
+      }
+    },
+    "animation.rica_starphin.blink": {
+      "animation_length": 0.1667,
+      "bones": {
+        "eyelid_left": {
+          "position": {
+            "0.0": [
+              0.1,
+              0,
+              -0.1
+            ],
+            "0.1667": {
+              "pre": [
+                0.1,
+                0,
+                -0.1
+              ],
+              "post": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "eyelid_right": {
+          "position": {
+            "0.0": [
+              -0.1,
+              0,
+              -0.1
+            ],
+            "0.1667": {
+              "pre": [
+                -0.1,
+                0,
+                -0.1
+              ],
+              "post": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        }
+      }
+    },
+    "animation.rica_starphin.render": {
+      "loop": true,
+      "bones": {
+        "body": {
+          "rotation": [
+            13.7714,
+            54.6394,
+            5.1767
+          ]
+        },
+        "segment": {
+          "rotation": [
+            7.5,
+            -12.5,
+            0
+          ]
+        },
+        "segment2": {
+          "rotation": [
+            17.5,
+            -12.5,
+            0
+          ]
+        },
+        "fin_left": {
+          "rotation": [
+            0,
+            0,
+            27.5
+          ]
+        },
+        "fin_left2": {
+          "rotation": [
+            0,
+            0,
+            -12.5
+          ]
+        },
+        "fin_right": {
+          "rotation": [
+            0,
+            0,
+            -27.5
+          ]
+        },
+        "fin_right2": {
+          "rotation": [
+            0,
+            0,
+            12.5
+          ]
+        },
+        "tail": {
+          "rotation": [
+            20,
+            0,
+            0
+          ]
+        },
+        "pupil_left": {
+          "position": [
+            0,
+            0,
+            1
+          ]
+        },
+        "pupil_right": {
+          "position": [
+            0,
+            0,
+            1
+          ]
+        }
+      }
+    }
+  }
+}
