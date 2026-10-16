@@ -6,12 +6,35 @@
       "aspects": [
         "seviian"
       ],
+      "poser": "cobblemon:radical_red_seviiannymble",
+      "model": "cobblemon:radical_red_seviiannymble.geo",
       "texture": "cobblemon:textures/pokemon/radical_red/seviiannymble/seviiannymble.png",
       "layers": [
         {
           "name": "emissive",
           "texture": "cobblemon:textures/pokemon/radical_red/seviiannymble/seviiannymble_emissive.png",
           "emissive": true
+        },
+        {
+          "name": "transparentEmissive"
+        },
+        {
+          "name": "tail"
+        },
+        {
+          "name": "transparent_emissive"
+        },
+        {
+          "name": "emissive2"
+        },
+        {
+          "name": "flame"
+        },
+        {
+          "name": "glow"
+        },
+        {
+          "texture": "cobblemon:textures/empty_texture.png"
         }
       ]
     },
