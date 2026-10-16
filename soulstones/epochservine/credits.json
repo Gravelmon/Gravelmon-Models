@@ -1,0 +1,38 @@
+{
+  "game": "pokemon",
+  "pokemon": "servine",
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "servine",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-10-16T17:09:19.724Z",
+      "models": [
+        "soulstones/epochservine/soulstones_epochservine.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochservine/soulstones_epochservine.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochservine/servine_epoch.png",
+        "soulstones/epochservine/servine_epoch_alpha.png",
+        "soulstones/epochservine/servine_epoch_preview.png",
+        "soulstones/epochservine/servine_epoch_shiny.png",
+        "soulstones/epochservine/epochservine.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
