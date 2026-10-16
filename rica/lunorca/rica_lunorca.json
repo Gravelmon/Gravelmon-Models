@@ -27,7 +27,8 @@
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('rica_lunorca', 'water_idle')"
+        "q.bedrock('rica_lunorca', 'water_idle')",
+        "q.bedrock('rica_lunorca', 'ring_move')"
       ]
     },
     "swim": {
@@ -39,7 +40,8 @@
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('rica_lunorca', 'water_swim')"
+        "q.bedrock('rica_lunorca', 'water_swim')",
+        "q.bedrock('rica_lunorca', 'ring_move')"
       ]
     },
     "battle-standing": {
@@ -52,7 +54,8 @@
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('rica_lunorca', 'battle_idle')"
+        "q.bedrock('rica_lunorca', 'battle_idle')",
+        "q.bedrock('rica_lunorca', 'ring_move')"
       ]
     },
     "sleep": {
@@ -60,7 +63,8 @@
         "sleep"
       ],
       "animations": [
-        "q.bedrock('rica_lunorca', 'sleep')"
+        "q.bedrock('rica_lunorca', 'sleep')",
+        "q.bedrock('rica_lunorca', 'ring_move')"
       ]
     }
   }
