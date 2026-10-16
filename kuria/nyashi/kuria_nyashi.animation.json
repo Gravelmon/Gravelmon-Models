@@ -1,0 +1,363 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.kuria_nyashi.ground_idle": {
+      "loop": true,
+      "bones": {
+        "leg_left": {
+          "rotation": [
+            0,
+            5,
+            0
+          ]
+        },
+        "chest": {
+          "rotation": [
+            5,
+            0,
+            0
+          ]
+        },
+        "head": {
+          "rotation": [
+            -5,
+            0,
+            0
+          ]
+        },
+        "skirt_left": {
+          "rotation": [
+            0,
+            0,
+            -10
+          ]
+        },
+        "skirt_right": {
+          "rotation": [
+            0,
+            0,
+            10
+          ]
+        },
+        "skirt_front": {
+          "rotation": [
+            -10,
+            0,
+            0
+          ]
+        },
+        "skirt_back": {
+          "rotation": [
+            10,
+            0,
+            0
+          ]
+        },
+        "leg_right": {
+          "rotation": [
+            0,
+            -5,
+            0
+          ]
+        },
+        "arm_left": {
+          "rotation": [
+            13.2689,
+            40.5313,
+            32.6839
+          ]
+        },
+        "arm_left2": {
+          "rotation": [
+            -3.8535,
+            26.1801,
+            -7.001
+          ]
+        },
+        "arm_right": {
+          "rotation": [
+            13.2689,
+            -40.5313,
+            -32.6839
+          ]
+        },
+        "arm_right2": {
+          "rotation": [
+            -3.8535,
+            -26.1801,
+            7.001
+          ]
+        },
+        "hair": {
+          "rotation": [
+            -25.1891,
+            6.7938,
+            -3.1846
+          ]
+        },
+        "hair2": {
+          "rotation": [
+            -15.2207,
+            -9.656,
+            2.6129
+          ]
+        },
+        "hair3": {
+          "rotation": [
+            30.2135,
+            -6.4906,
+            -3.7662
+          ]
+        },
+        "hair4": {
+          "rotation": [
+            27.8609,
+            8.8605,
+            4.6546
+          ]
+        },
+        "hair5": {
+          "rotation": [
+            7.7616,
+            14.8687,
+            2.0031
+          ]
+        },
+        "hair6": {
+          "rotation": [
+            0,
+            -20,
+            0
+          ]
+        },
+        "paper": {
+          "rotation": [
+            15,
+            0,
+            0
+          ]
+        },
+        "paper2": {
+          "rotation": [
+            -15,
+            0,
+            0
+          ]
+        },
+        "ear_left2": {
+          "rotation": [
+            12.5,
+            0,
+            0
+          ]
+        },
+        "ear_right2": {
+          "rotation": [
+            12.5,
+            0,
+            0
+          ]
+        }
+      }
+    },
+    "animation.kuria_nyashi.blink": {
+      "animation_length": 0.1667,
+      "bones": {
+        "eyelid_left": {
+          "position": {
+            "0.0": [
+              0.1,
+              0,
+              -0.1
+            ],
+            "0.1667": {
+              "pre": [
+                0.1,
+                0,
+                -0.1
+              ],
+              "post": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "eyelid_right": {
+          "position": {
+            "0.0": [
+              -0.1,
+              0,
+              -0.1
+            ],
+            "0.1667": {
+              "pre": [
+                -0.1,
+                0,
+                -0.1
+              ],
+              "post": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        }
+      }
+    },
+    "animation.kuria_nyashi.render": {
+      "loop": true,
+      "bones": {
+        "body": {
+          "rotation": [
+            0,
+            27.5,
+            0
+          ]
+        },
+        "leg_left": {
+          "rotation": [
+            5,
+            0,
+            0
+          ]
+        },
+        "head": {
+          "rotation": [
+            0,
+            0,
+            -7.5
+          ]
+        },
+        "skirt_left": {
+          "rotation": [
+            0,
+            0,
+            -15
+          ]
+        },
+        "skirt_right": {
+          "rotation": [
+            0,
+            0,
+            15
+          ]
+        },
+        "skirt_front": {
+          "rotation": [
+            -17.5,
+            0,
+            0
+          ]
+        },
+        "leg_right": {
+          "rotation": [
+            -37.5,
+            0,
+            0
+          ]
+        },
+        "leg_right2": {
+          "rotation": [
+            10,
+            0,
+            0
+          ]
+        },
+        "arm_left": {
+          "rotation": [
+            4.9773,
+            35.6518,
+            17.5347
+          ]
+        },
+        "arm_left2": {
+          "rotation": [
+            0,
+            0,
+            5
+          ]
+        },
+        "arm_right": {
+          "rotation": [
+            4.9773,
+            -35.6518,
+            -17.5347
+          ]
+        },
+        "arm_right2": {
+          "rotation": [
+            0,
+            0,
+            -5
+          ]
+        },
+        "hair": {
+          "rotation": [
+            -12.5,
+            0,
+            0
+          ]
+        },
+        "hair2": {
+          "rotation": [
+            15.1235,
+            7.2431,
+            1.9515
+          ]
+        },
+        "hair3": {
+          "rotation": [
+            28.0669,
+            11.0687,
+            5.8448
+          ]
+        },
+        "hair4": {
+          "rotation": [
+            -5.4096,
+            22.4098,
+            -2.0675
+          ]
+        },
+        "hair5": {
+          "rotation": [
+            -20.4458,
+            11.7351,
+            -4.336
+          ]
+        },
+        "hair6": {
+          "rotation": [
+            0,
+            15,
+            0
+          ]
+        },
+        "paper": {
+          "rotation": [
+            10,
+            0,
+            0
+          ]
+        },
+        "paper2": {
+          "rotation": [
+            -17.5,
+            0,
+            0
+          ]
+        },
+        "pupil_left": {
+          "position": [
+            0.8,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  }
+}

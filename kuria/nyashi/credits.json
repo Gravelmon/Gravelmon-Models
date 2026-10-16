@@ -1,0 +1,30 @@
+{
+  "game": "kuria",
+  "pokemon": "nyashi",
+  "entries": [
+    {
+      "contributor": {
+        "login": "mitchooart"
+      },
+      "contributors": [
+        {
+          "login": "mitchooart"
+        }
+      ],
+      "submittedAt": "2026-10-16T11:00:18.732Z",
+      "models": [
+        "kuria/nyashi/kuria_nyashi.geo.json"
+      ],
+      "animations": [
+        "kuria/nyashi/kuria_nyashi.animation.json"
+      ],
+      "textures": [
+        "kuria/nyashi/texture__nyashi.png",
+        "kuria/nyashi/nyashi_alpha.png",
+        "kuria/nyashi/nyashi_shiny.png",
+        "kuria/nyashi/nyashi.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

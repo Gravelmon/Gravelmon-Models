@@ -4,9 +4,9 @@
   "variations": [
     {
       "aspects": [],
-      "model": "cobblemon:cutout_gravelmon_56_by_56.geo",
-      "poser": "cobblemon:cutout_gravelmon_56_by_56",
-      "texture": "cobblemon:textures/pokemon/kuria/nyashi.png",
+      "poser": "cobblemon:kuria_nyashi",
+      "model": "cobblemon:kuria_nyashi.geo",
+      "texture": "cobblemon:textures/pokemon/kuria/nyashi/nyashi.png",
       "layers": [
         {
           "name": "emissive"
@@ -31,6 +31,24 @@
         },
         {
           "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/kuria/nyashi/nyashi_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/kuria/nyashi/nyashi_alpha.png",
+          "emissive": true
         }
       ]
     }
