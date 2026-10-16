@@ -1,14 +1,14 @@
 {
-  "portraitScale": 1.4,
+  "portraitScale": 1.9,
   "portraitTranslation": [
-    0,
-    1,
+    -0.2,
+    0.9,
     0
   ],
   "profileScale": 0.56,
   "profileTranslation": [
     0,
-    1,
+    0.9,
     0
   ],
   "rootBone": "seviianlokix",
