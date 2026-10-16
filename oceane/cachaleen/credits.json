@@ -1,0 +1,31 @@
+{
+  "game": "oceane",
+  "pokemon": "cachaleen",
+  "entries": [
+    {
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-10-16T15:36:28.573Z",
+      "models": [
+        "oceane/cachaleen/oceane_cachaleen.geo.json"
+      ],
+      "animations": [
+        "oceane/cachaleen/oceane_cachaleen.animation.json"
+      ],
+      "textures": [
+        "oceane/cachaleen/texture__cachaleen.png",
+        "oceane/cachaleen/cachaleen_alpha.png",
+        "oceane/cachaleen/cachaleen_preview.png",
+        "oceane/cachaleen/cachaleen_shiny.png",
+        "oceane/cachaleen/cachaleen.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

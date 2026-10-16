@@ -1,6 +1,13 @@
 {
   "files": {
     "0_cachaleen_base.json": "assets/cobblemon/bedrock/species/oceane/0_cachaleen_base.json",
-    "cachaleen.png": "assets/cobblemon/textures/pokemon/oceane/cachaleen.png"
+    "cachaleen.png": "assets/cobblemon/textures/pokemon/oceane/cachaleen.png",
+    "cachaleen_alpha.png": "assets/cobblemon/textures/pokemon/oceane/cachaleen/cachaleen_alpha.png",
+    "cachaleen_preview.png": "assets/cobblemon/cachaleen_preview.png",
+    "cachaleen_shiny.png": "assets/cobblemon/textures/pokemon/oceane/cachaleen/cachaleen_shiny.png",
+    "oceane_cachaleen.animation.json": "assets/cobblemon/bedrock/pokemon/animations/oceane_cachaleen.animation.json",
+    "oceane_cachaleen.geo.json": "assets/cobblemon/bedrock/pokemon/models/oceane_cachaleen.geo.json",
+    "oceane_cachaleen.json": "assets/cobblemon/bedrock/pokemon/posers/oceane_cachaleen.json",
+    "texture__cachaleen.png": "assets/cobblemon/textures/pokemon/oceane/cachaleen/cachaleen.png"
   }
 }
