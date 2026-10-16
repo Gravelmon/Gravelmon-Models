@@ -1,6 +1,13 @@
 {
   "files": {
     "86_nymble_seviian.json": "assets/cobblemon/bedrock/species/additional_forms/86_nymble_seviian.json",
-    "seviiannymble.png": "assets/cobblemon/textures/pokemon/radical_red/seviiannymble.png"
+    "radical_red_seviiannymble.json": "assets/cobblemon/bedrock/pokemon/posers/radical_red_seviiannymble.json",
+    "seviiannymble.geo.json": "assets/cobblemon/bedrock/pokemon/models/seviiannymble.geo.json",
+    "seviiannymble.png": "assets/cobblemon/textures/pokemon/radical_red/seviiannymble.png",
+    "seviiannymble_alpha.png": "assets/cobblemon/textures/pokemon/radical_red/seviiannymble/seviiannymble_alpha.png",
+    "seviiannymble_emissive.png": "assets/cobblemon/textures/pokemon/radical_red/seviiannymble/seviiannymble_emissive.png",
+    "seviiannymble_shiny.png": "assets/cobblemon/textures/pokemon/radical_red/seviiannymble/seviiannymble_shiny.png",
+    "seviiannymble_shiny_emissive.png": "assets/cobblemon/textures/pokemon/radical_red/seviiannymble/seviiannymble_shiny_emissive.png",
+    "texture__seviiannymble.png": "assets/cobblemon/textures/pokemon/radical_red/seviiannymble/seviiannymble.png"
   }
 }
