@@ -128,22 +128,22 @@
       "bones": {
         "body": {
           "rotation": [
-            13.7714,
-            54.6394,
-            5.1767
+            5,
+            62.5,
+            0
           ]
         },
         "segment": {
           "rotation": [
-            7.5,
-            -12.5,
+            10,
+            0,
             0
           ]
         },
         "segment2": {
           "rotation": [
-            17.5,
-            -12.5,
+            7.5,
+            0,
             0
           ]
         },
@@ -151,49 +151,49 @@
           "rotation": [
             0,
             0,
-            27.5
+            60
           ]
         },
         "fin_left2": {
           "rotation": [
             0,
             0,
-            -12.5
+            -2.5
           ]
         },
         "fin_right": {
           "rotation": [
             0,
             0,
-            -27.5
+            -60
           ]
         },
         "fin_right2": {
           "rotation": [
             0,
             0,
-            12.5
+            2.5
           ]
         },
         "tail": {
           "rotation": [
-            20,
+            15,
             0,
             0
           ]
         },
-        "pupil_left": {
-          "position": [
+        "tail_left": {
+          "rotation": [
             0,
-            0,
-            1
+            12.5,
+            0
           ]
         },
-        "pupil_right": {
-          "position": [
+        "tail_right": {
+          "rotation": [
             0,
-            0,
-            1
+            -12.5,
+            0
           ]
         }
       }
