@@ -1,6 +1,12 @@
 {
   "files": {
     "0_nyashi_base.json": "assets/cobblemon/bedrock/species/kuria/0_nyashi_base.json",
-    "nyashi.png": "assets/cobblemon/textures/pokemon/kuria/nyashi.png"
+    "kuria_nyashi.animation.json": "assets/cobblemon/bedrock/pokemon/animations/kuria_nyashi.animation.json",
+    "kuria_nyashi.geo.json": "assets/cobblemon/bedrock/pokemon/models/kuria_nyashi.geo.json",
+    "kuria_nyashi.json": "assets/cobblemon/bedrock/pokemon/posers/kuria_nyashi.json",
+    "nyashi.png": "assets/cobblemon/textures/pokemon/kuria/nyashi.png",
+    "nyashi_alpha.png": "assets/cobblemon/textures/pokemon/kuria/nyashi/nyashi_alpha.png",
+    "nyashi_shiny.png": "assets/cobblemon/textures/pokemon/kuria/nyashi/nyashi_shiny.png",
+    "texture__nyashi.png": "assets/cobblemon/textures/pokemon/kuria/nyashi/nyashi.png"
   }
 }
