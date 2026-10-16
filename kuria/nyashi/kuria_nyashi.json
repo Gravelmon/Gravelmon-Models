@@ -40,7 +40,7 @@
       "animations": [
         "q.look('head')",
         "q.bedrock('kuria_nyashi', 'ground_idle')",
-        "q.biped_walk(0.5, 0.75, 'leg_left', 'leg_right')"
+        "q.biped_walk(0.5, 0.62, 'leg_left', 'leg_right')"
       ]
     }
   }
