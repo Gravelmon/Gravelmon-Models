@@ -1,0 +1,37 @@
+{
+  "game": "pokemon",
+  "pokemon": "lokix",
+  "entries": [
+    {
+      "formAspects": [
+        "seviian"
+      ],
+      "inheritsFrom": {
+        "pokemon": "lokix",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "elpgeon"
+      },
+      "contributors": [
+        {
+          "login": "elpgeon"
+        }
+      ],
+      "submittedAt": "2026-10-16T14:00:53.868Z",
+      "models": [
+        "radical_red/seviianlokix/radical_red_seviianlokix.geo.json"
+      ],
+      "animations": [
+        "radical_red/seviianlokix/radical_red_seviianlokix.animation.json"
+      ],
+      "textures": [
+        "radical_red/seviianlokix/texture__seviianlokix.png",
+        "radical_red/seviianlokix/seviianlokix_alpha.png",
+        "radical_red/seviianlokix/seviianlokix_shiny.png",
+        "radical_red/seviianlokix/seviianlokix.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

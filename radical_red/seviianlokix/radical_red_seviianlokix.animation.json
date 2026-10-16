@@ -1,0 +1,143 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.radical_red_seviianlokix.ground_idle": {
+      "loop": true,
+      "bones": {
+        "abdomen": {
+          "rotation": [
+            -7.5,
+            0,
+            0
+          ]
+        },
+        "torso2": {
+          "rotation": [
+            -5,
+            0,
+            0
+          ]
+        },
+        "torso3": {
+          "rotation": [
+            15,
+            0,
+            0
+          ]
+        },
+        "head_angle": {
+          "rotation": [
+            10,
+            0,
+            0
+          ]
+        },
+        "eyes_ditto": {
+          "position": [
+            0,
+            0,
+            0
+          ]
+        },
+        "antenna_left": {
+          "rotation": [
+            -40,
+            0,
+            20
+          ]
+        },
+        "antenna_right": {
+          "rotation": [
+            -40,
+            0,
+            -20
+          ]
+        },
+        "arm_right": {
+          "rotation": [
+            0,
+            0,
+            -60
+          ]
+        },
+        "arm_right2": {
+          "rotation": [
+            0,
+            -60,
+            0
+          ]
+        },
+        "arm_left": {
+          "rotation": [
+            0,
+            0,
+            60
+          ]
+        },
+        "arm_left2": {
+          "rotation": [
+            0,
+            52.5,
+            0
+          ]
+        },
+        "hind_leg_right2": {
+          "rotation": [
+            0,
+            -52.5,
+            0
+          ]
+        },
+        "hind_leg_left2": {
+          "rotation": [
+            0,
+            55,
+            0
+          ]
+        },
+        "leg_right": {
+          "rotation": [
+            0,
+            7.5,
+            10
+          ]
+        },
+        "leg_right3": {
+          "rotation": [
+            2,
+            0,
+            -5
+          ]
+        },
+        "toe_right": {
+          "rotation": [
+            0,
+            0,
+            -5
+          ]
+        },
+        "leg_left": {
+          "rotation": [
+            0,
+            -7.5,
+            -10
+          ]
+        },
+        "leg_left3": {
+          "rotation": [
+            2,
+            0,
+            5
+          ]
+        },
+        "toe_left": {
+          "rotation": [
+            0,
+            0,
+            5
+          ]
+        }
+      }
+    }
+  }
+}

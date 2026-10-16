@@ -1,6 +1,12 @@
 {
   "files": {
     "86_lokix_seviian.json": "assets/cobblemon/bedrock/species/additional_forms/86_lokix_seviian.json",
-    "seviianlokix.png": "assets/cobblemon/textures/pokemon/radical_red/seviianlokix.png"
+    "radical_red_seviianlokix.animation.json": "assets/cobblemon/bedrock/pokemon/animations/radical_red_seviianlokix.animation.json",
+    "radical_red_seviianlokix.geo.json": "assets/cobblemon/bedrock/pokemon/models/radical_red_seviianlokix.geo.json",
+    "radical_red_seviianlokix.json": "assets/cobblemon/bedrock/pokemon/posers/radical_red_seviianlokix.json",
+    "seviianlokix.png": "assets/cobblemon/textures/pokemon/radical_red/seviianlokix.png",
+    "seviianlokix_alpha.png": "assets/cobblemon/textures/pokemon/radical_red/seviianlokix/seviianlokix_alpha.png",
+    "seviianlokix_shiny.png": "assets/cobblemon/textures/pokemon/radical_red/seviianlokix/seviianlokix_shiny.png",
+    "texture__seviianlokix.png": "assets/cobblemon/textures/pokemon/radical_red/seviianlokix/seviianlokix.png"
   }
 }

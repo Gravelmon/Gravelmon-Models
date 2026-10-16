@@ -1,14 +1,14 @@
 {
   "species": "cobblemon:lokix",
-  "order": 95,
+  "order": 86,
   "variations": [
     {
       "aspects": [
         "seviian"
       ],
-      "model": "cobblemon:cutout_gravelmon_64_by_64.geo",
-      "poser": "cobblemon:cutout_gravelmon_64_by_64",
-      "texture": "cobblemon:textures/pokemon/radical_red/seviianlokix.png",
+      "poser": "cobblemon:radical_red_seviianlokix",
+      "model": "cobblemon:radical_red_seviianlokix.geo",
+      "texture": "cobblemon:textures/pokemon/radical_red/seviianlokix/seviianlokix.png",
       "layers": [
         {
           "name": "emissive"
@@ -33,6 +33,26 @@
         },
         {
           "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "seviian"
+      ],
+      "texture": "cobblemon:textures/pokemon/radical_red/seviianlokix/seviianlokix_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "seviian"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/radical_red/seviianlokix/seviianlokix_alpha.png",
+          "emissive": true
         }
       ]
     }
