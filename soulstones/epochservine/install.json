@@ -1,6 +1,13 @@
 {
   "files": {
     "164_servine_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_servine_epoch.json",
-    "epochservine.png": "assets/cobblemon/textures/pokemon/soulstones/epochservine.png"
+    "epochservine.png": "assets/cobblemon/textures/pokemon/soulstones/epochservine.png",
+    "servine_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochservine/servine_epoch.png",
+    "servine_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochservine/servine_epoch_alpha.png",
+    "servine_epoch_preview.png": "assets/cobblemon/servine_epoch_preview.png",
+    "servine_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochservine/servine_epoch_shiny.png",
+    "soulstones_epochservine.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochservine.animation.json",
+    "soulstones_epochservine.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochservine.geo.json",
+    "soulstones_epochservine.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochservine.json"
   }
 }
