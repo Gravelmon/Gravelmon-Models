@@ -1,0 +1,43 @@
+{
+  "portraitScale": 1.9,
+  "portraitTranslation": [
+    -0.2,
+    0.9,
+    0
+  ],
+  "profileScale": 0.56,
+  "profileTranslation": [
+    0,
+    0.9,
+    0
+  ],
+  "rootBone": "seviianlokix",
+  "poses": {
+    "standing": {
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "float"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('radical_red_seviianlokix', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "walk",
+        "swim"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('radical_red_seviianlokix', 'ground_idle')",
+        "q.biped_walk(0.68, 0.56, 'leg_left2', 'leg_right2')",
+        "q.bimanual_swing(0.6662, 1, 'arm_left', 'arm_right')",
+        "q.biped_walk(0.6662, 0.44, 'leg_left', 'leg_right')"
+      ]
+    }
+  }
+}
