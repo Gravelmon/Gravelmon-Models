@@ -1,0 +1,61 @@
+{
+  "portraitScale": 0.92,
+  "portraitTranslation": [
+    -0.54,
+    0.05,
+    0
+  ],
+  "profileScale": 0.46,
+  "profileTranslation": [
+    0.06,
+    0.87,
+    0
+  ],
+  "rootBone": "cachaleen",
+  "poses": {
+    "standing": {
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('oceane_cachaleen', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('oceane_cachaleen', 'ground_idle')"
+      ]
+    },
+    "swim": {
+      "poseTypes": [
+        "swim"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('oceane_cachaleen', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('oceane_cachaleen', 'water_swim')"
+      ]
+    },
+    "float": {
+      "poseTypes": [
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('oceane_cachaleen', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('oceane_cachaleen', 'water_idle')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "animations": [
+        "q.bedrock('oceane_cachaleen', 'sleep')"
+      ]
+    }
+  }
+}
