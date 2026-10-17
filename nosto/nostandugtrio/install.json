@@ -1,6 +1,12 @@
 {
   "files": {
     "84_dugtrio_nostan.json": "assets/cobblemon/bedrock/species/additional_forms/84_dugtrio_nostan.json",
-    "nostandugtrio.png": "assets/cobblemon/textures/pokemon/nosto/nostandugtrio.png"
+    "nostandugtrio.png": "assets/cobblemon/textures/pokemon/nosto/nostandugtrio.png",
+    "nostandugtrio_alpha.png": "assets/cobblemon/textures/pokemon/nosto/nostandugtrio/nostandugtrio_alpha.png",
+    "nostandugtrio_shiny.png": "assets/cobblemon/textures/pokemon/nosto/nostandugtrio/nostandugtrio_shiny.png",
+    "nosto_nostandugtrio.animation.json": "assets/cobblemon/bedrock/pokemon/animations/nosto_nostandugtrio.animation.json",
+    "nosto_nostandugtrio.geo.json": "assets/cobblemon/bedrock/pokemon/models/nosto_nostandugtrio.geo.json",
+    "nosto_nostandugtrio.json": "assets/cobblemon/bedrock/pokemon/posers/nosto_nostandugtrio.json",
+    "texture__nostandugtrio.png": "assets/cobblemon/textures/pokemon/nosto/nostandugtrio/nostandugtrio.png"
   }
 }
