@@ -1,6 +1,11 @@
 {
   "files": {
     "164_cyndaquil_epochtwo.json": "assets/cobblemon/bedrock/species/additional_forms/164_cyndaquil_epochtwo.json",
-    "epochcyndaquilone.png": "assets/cobblemon/textures/pokemon/soulstones/epochcyndaquilone.png"
+    "epochcyndaquilone.png": "assets/cobblemon/textures/pokemon/soulstones/epochcyndaquilone.png",
+    "epochtwo-cyndaquil.png": "assets/cobblemon/textures/pokemon/soulstones/epochcyndaquilone/epochtwo-cyndaquil.png",
+    "epochtwo-cyndaquil_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochcyndaquilone/epochtwo-cyndaquil_alpha.png",
+    "epochtwo-cyndaquil_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochcyndaquilone/epochtwo-cyndaquil_shiny.png",
+    "soulstones_epochcyndaquilone.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochcyndaquilone.geo.json",
+    "soulstones_epochcyndaquilone.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochcyndaquilone.json"
   }
 }

@@ -1,0 +1,35 @@
+{
+  "game": "pokemon",
+  "pokemon": "cyndaquil",
+  "entries": [
+    {
+      "formAspects": [
+        "epochtwo"
+      ],
+      "inheritsFrom": {
+        "pokemon": "cyndaquil",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "lilpuppenstein"
+      },
+      "contributors": [
+        {
+          "login": "lilpuppenstein"
+        }
+      ],
+      "submittedAt": "2026-10-17T14:40:29.332Z",
+      "models": [
+        "soulstones/epochcyndaquilone/soulstones_epochcyndaquilone.geo.json"
+      ],
+      "animations": [],
+      "textures": [
+        "soulstones/epochcyndaquilone/epochtwo-cyndaquil.png",
+        "soulstones/epochcyndaquilone/epochtwo-cyndaquil_alpha.png",
+        "soulstones/epochcyndaquilone/epochtwo-cyndaquil_shiny.png",
+        "soulstones/epochcyndaquilone/epochcyndaquilone.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
