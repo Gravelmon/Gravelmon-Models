@@ -1,0 +1,60 @@
+{
+  "portraitScale": 1.7,
+  "portraitTranslation": [
+    -0.35,
+    -0.3,
+    0
+  ],
+  "profileScale": 0.75,
+  "profileTranslation": [
+    0,
+    0.575,
+    0
+  ],
+  "headBone": "head",
+  "rootBone": "slugma",
+  "poses": {
+    "pose": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "animations": [
+        "q.bedrock('opalo_cefiranslugma', 'sleep')"
+      ]
+    },
+    "standing": {
+      "poseTypes": [
+        "stand",
+        "float",
+        "hover",
+        "profile",
+        "portrait",
+        "none"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('opalo_cefiranslugma', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('opalo_cefiranslugma', 'ground_idle')"
+      ]
+    },
+    "walk": {
+      "poseTypes": [
+        "walk",
+        "swim",
+        "fly"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('opalo_cefiranslugma', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('opalo_cefiranslugma', 'ground_walk')"
+      ],
+      "transformTicks": 10
+    }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('opalo_cefiranslugma', 'cry')"
+  }
+}

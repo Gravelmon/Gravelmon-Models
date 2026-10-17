@@ -1,6 +1,13 @@
 {
   "files": {
     "116_slugma_cefiran.json": "assets/cobblemon/bedrock/species/additional_forms/116_slugma_cefiran.json",
-    "cefiranslugma.png": "assets/cobblemon/textures/pokemon/opalo/cefiranslugma.png"
+    "cefiran_slugma.png": "assets/cobblemon/textures/pokemon/opalo/cefiranslugma/cefiran_slugma.png",
+    "cefiran_slugma_alpha.png": "assets/cobblemon/textures/pokemon/opalo/cefiranslugma/cefiran_slugma_alpha.png",
+    "cefiran_slugma_preview.png": "assets/cobblemon/cefiran_slugma_preview.png",
+    "cefiran_slugma_shiny.png": "assets/cobblemon/textures/pokemon/opalo/cefiranslugma/cefiran_slugma_shiny.png",
+    "cefiranslugma.png": "assets/cobblemon/textures/pokemon/opalo/cefiranslugma.png",
+    "opalo_cefiranslugma.animation.json": "assets/cobblemon/bedrock/pokemon/animations/opalo_cefiranslugma.animation.json",
+    "opalo_cefiranslugma.geo.json": "assets/cobblemon/bedrock/pokemon/models/opalo_cefiranslugma.geo.json",
+    "opalo_cefiranslugma.json": "assets/cobblemon/bedrock/pokemon/posers/opalo_cefiranslugma.json"
   }
 }

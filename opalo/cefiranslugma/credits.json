@@ -1,0 +1,38 @@
+{
+  "game": "pokemon",
+  "pokemon": "slugma",
+  "entries": [
+    {
+      "formAspects": [
+        "cefiran"
+      ],
+      "inheritsFrom": {
+        "pokemon": "slugma",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-10-17T13:51:21.236Z",
+      "models": [
+        "opalo/cefiranslugma/opalo_cefiranslugma.geo.json"
+      ],
+      "animations": [
+        "opalo/cefiranslugma/opalo_cefiranslugma.animation.json"
+      ],
+      "textures": [
+        "opalo/cefiranslugma/cefiran_slugma.png",
+        "opalo/cefiranslugma/cefiran_slugma_alpha.png",
+        "opalo/cefiranslugma/cefiran_slugma_preview.png",
+        "opalo/cefiranslugma/cefiran_slugma_shiny.png",
+        "opalo/cefiranslugma/cefiranslugma.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
