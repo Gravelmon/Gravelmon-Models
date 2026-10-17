@@ -1,0 +1,40 @@
+{
+  "game": "pokemon",
+  "pokemon": "snivy",
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "snivy",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-10-17T13:18:41.094Z",
+      "models": [
+        "soulstones/epochsnivy/soulstones_epochsnivy.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochsnivy/soulstones_epochsnivy.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochsnivy/snivy_epoch.png",
+        "soulstones/epochsnivy/snivy_epoch_alpha.png",
+        "soulstones/epochsnivy/snivy_epoch_emissive.png",
+        "soulstones/epochsnivy/snivy_epoch_emissive_shiny.png",
+        "soulstones/epochsnivy/snivy_epoch_preview.png",
+        "soulstones/epochsnivy/snivy_epoch_shiny.png",
+        "soulstones/epochsnivy/epochsnivy.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

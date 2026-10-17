@@ -1,6 +1,15 @@
 {
   "files": {
     "164_snivy_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_snivy_epoch.json",
-    "epochsnivy.png": "assets/cobblemon/textures/pokemon/soulstones/epochsnivy.png"
+    "epochsnivy.png": "assets/cobblemon/textures/pokemon/soulstones/epochsnivy.png",
+    "snivy_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochsnivy/snivy_epoch.png",
+    "snivy_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochsnivy/snivy_epoch_alpha.png",
+    "snivy_epoch_emissive.png": "assets/cobblemon/textures/pokemon/soulstones/epochsnivy/snivy_epoch_emissive.png",
+    "snivy_epoch_emissive_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochsnivy/snivy_epoch_emissive_shiny.png",
+    "snivy_epoch_preview.png": "assets/cobblemon/snivy_epoch_preview.png",
+    "snivy_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochsnivy/snivy_epoch_shiny.png",
+    "soulstones_epochsnivy.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochsnivy.animation.json",
+    "soulstones_epochsnivy.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochsnivy.geo.json",
+    "soulstones_epochsnivy.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochsnivy.json"
   }
 }
