@@ -1,0 +1,39 @@
+{
+  "game": "pokemon",
+  "pokemon": "mareep",
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "mareep",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-10-17T13:46:02.208Z",
+      "models": [
+        "soulstones/epochmareep/soulstones_epochmareep.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochmareep/soulstones_epochmareep.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochmareep/mareep_epoch.png",
+        "soulstones/epochmareep/mareep_epoch_alpha.png",
+        "soulstones/epochmareep/mareep_epoch_emissive.png",
+        "soulstones/epochmareep/mareep_epoch_shiny.png",
+        "soulstones/epochmareep/mareep_epoch_shiny_emissive.png",
+        "soulstones/epochmareep/epochmareep.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

@@ -1,6 +1,14 @@
 {
   "files": {
     "164_mareep_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_mareep_epoch.json",
-    "epochmareep.png": "assets/cobblemon/textures/pokemon/soulstones/epochmareep.png"
+    "epochmareep.png": "assets/cobblemon/textures/pokemon/soulstones/epochmareep.png",
+    "mareep_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochmareep/mareep_epoch.png",
+    "mareep_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochmareep/mareep_epoch_alpha.png",
+    "mareep_epoch_emissive.png": "assets/cobblemon/textures/pokemon/soulstones/epochmareep/mareep_epoch_emissive.png",
+    "mareep_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochmareep/mareep_epoch_shiny.png",
+    "mareep_epoch_shiny_emissive.png": "assets/cobblemon/textures/pokemon/soulstones/epochmareep/mareep_epoch_shiny_emissive.png",
+    "soulstones_epochmareep.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochmareep.animation.json",
+    "soulstones_epochmareep.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochmareep.geo.json",
+    "soulstones_epochmareep.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochmareep.json"
   }
 }
