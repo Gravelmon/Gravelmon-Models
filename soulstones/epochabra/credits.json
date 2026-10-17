@@ -1,0 +1,38 @@
+{
+  "game": "pokemon",
+  "pokemon": "abra",
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "abra",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-10-17T13:47:37.900Z",
+      "models": [
+        "soulstones/epochabra/soulstones_epochabra.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochabra/soulstones_epochabra.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochabra/abra_epoch.png",
+        "soulstones/epochabra/abra_epoch_alpha.png",
+        "soulstones/epochabra/abra_epoch_preview.png",
+        "soulstones/epochabra/abra_epoch_shiny.png",
+        "soulstones/epochabra/epochabra.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

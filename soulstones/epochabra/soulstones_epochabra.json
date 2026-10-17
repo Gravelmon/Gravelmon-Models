@@ -1,0 +1,73 @@
+{
+  "portraitScale": 1.8,
+  "portraitTranslation": [
+    -0.04,
+    -0.55,
+    0
+  ],
+  "profileScale": 0.85,
+  "profileTranslation": [
+    0,
+    0.4,
+    0
+  ],
+  "rootBone": "abra",
+  "poses": {
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "namedAnimations": {
+        "cry": "q.bedrock_stateful('soulstones_epochabra', 'cry')"
+      },
+      "animations": [
+        "q.bedrock('soulstones_epochabra', 'sleep')"
+      ]
+    },
+    "standing": {
+      "condition": "!q.in_battle",
+      "poseTypes": [
+        "stand",
+        "float",
+        "hover",
+        "profile",
+        "portrait",
+        "none"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('soulstones_epochabra', 'ground_idle')"
+      ],
+      "transformTicks": 10
+    },
+    "walking": {
+      "poseTypes": [
+        "walk",
+        "swim",
+        "fly"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('soulstones_epochabra', 'ground_walk')"
+      ],
+      "transformTicks": 10
+    },
+    "battle_idle": {
+      "condition": "q.in_battle",
+      "poseTypes": [
+        "stand",
+        "float",
+        "hover"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('soulstones_epochabra', 'battle_idle')"
+      ],
+      "transformTicks": 10
+    }
+  },
+  "animations": {
+    "faint": "q.bedrock_stateful('abra', 'faint')",
+    "cry": "q.bedrock_stateful('soulstones_epochabra', 'cry')"
+  }
+}
