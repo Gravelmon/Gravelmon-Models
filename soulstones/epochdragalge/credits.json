@@ -1,0 +1,38 @@
+{
+  "game": "pokemon",
+  "pokemon": "dragalge",
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "dragalge",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-10-17T13:25:45.765Z",
+      "models": [
+        "soulstones/epochdragalge/soulstones_epochdragalge.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochdragalge/soulstones_epochdragalge.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochdragalge/dragalge_epoch.png",
+        "soulstones/epochdragalge/dragalge_epoch_alpha.png",
+        "soulstones/epochdragalge/dragalge_epoch_preview.png",
+        "soulstones/epochdragalge/dragalge_epoch_shiny.png",
+        "soulstones/epochdragalge/epochdragalge.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
