@@ -1,78 +1,71 @@
 {
-  "rootBone": "komala_epoch",
-  "head": "head",
   "portraitScale": 1.2,
   "portraitTranslation": [
-    -1.0,
-    1.75,
-    -0.0
+    -0.82,
+    2.11,
+    0
   ],
-  "profileScale": 0.7,
+  "profileScale": 0.48,
   "profileTranslation": [
-    0.0,
-    1.1,
-    -10.0
+    -0.01,
+    1.19,
+    -10
   ],
+  "rootBone": "komala_epoch",
   "poses": {
     "standing": {
-      "poseName": "standing",
-      "animations": [
-        "q.bedrock('soulstones_epochkomala', 'ground_idle')"
-      ],
-      "poseTypes": [
-        "STAND",
-        "PROFILE",
-        "PORTRAIT",
-        "OPEN",
-        "NONE"
-      ],
       "isBattle": false,
+      "poseTypes": [
+        "stand",
+        "profile",
+        "portrait",
+        "open",
+        "none",
+        "swim",
+        "float",
+        "hover",
+        "fly"
+      ],
       "quirks": [
         "q.bedrock_quirk('soulstones_epochkomala', 'blink')"
       ],
-      "namedAnimations": {},
-      "transformedParts": []
+      "animations": [
+        "q.bedrock('soulstones_epochkomala', 'ground_idle')"
+      ]
     },
     "walking": {
-      "poseName": "walking",
-      "animations": [
-        "q.bedrock('soulstones_epochkomala', 'ground_idle')"
-      ],
       "poseTypes": [
-        "WALK"
+        "walk"
       ],
       "quirks": [
         "q.bedrock_quirk('soulstones_epochkomala', 'blink')"
       ],
-      "namedAnimations": {},
-      "transformedParts": []
+      "animations": [
+        "q.bedrock('soulstones_epochkomala', 'ground_idle')"
+      ]
     },
     "battle-standing": {
-      "poseName": "battle-standing",
-      "animations": [
-        "q.bedrock('soulstones_epochkomala', 'ground_idle')"
-      ],
-      "poseTypes": [
-        "STAND"
-      ],
       "isBattle": true,
+      "poseTypes": [
+        "stand"
+      ],
       "quirks": [
         "q.bedrock_quirk('soulstones_epochkomala', 'blink')"
       ],
-      "namedAnimations": {},
-      "transformedParts": []
+      "animations": [
+        "q.bedrock('soulstones_epochkomala', 'ground_idle')"
+      ]
     },
     "sleeping": {
-      "poseName": "sleeping",
+      "poseTypes": [
+        "sleep"
+      ],
       "animations": [
         "q.bedrock('soulstones_epochkomala', 'sleep')"
-      ],
-      "poseTypes": [
-        "SLEEP"
-      ],
-
-      "namedAnimations": {},
-      "transformedParts": []
+      ]
     }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('soulstones_epochkomala', 'cry')"
   }
 }
