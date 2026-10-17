@@ -1,6 +1,13 @@
 {
   "files": {
     "164_solrock_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_solrock_epoch.json",
-    "epochsolrock.png": "assets/cobblemon/textures/pokemon/soulstones/epochsolrock.png"
+    "epochsolrock.png": "assets/cobblemon/textures/pokemon/soulstones/epochsolrock.png",
+    "epochsolrock_cry.ogg": "assets/gravelmon/sounds/pokemon/soulstones/epochsolrock_cry.ogg",
+    "solrock_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochsolrock/solrock_epoch.png",
+    "solrock_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochsolrock/solrock_epoch_alpha.png",
+    "solrock_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochsolrock/solrock_epoch_shiny.png",
+    "soulstones_epochsolrock.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochsolrock.animation.json",
+    "soulstones_epochsolrock.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochsolrock.geo.json",
+    "soulstones_epochsolrock.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochsolrock.json"
   }
 }

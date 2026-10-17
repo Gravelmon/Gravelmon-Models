@@ -1,0 +1,111 @@
+{
+  "portraitScale": 1.25,
+  "portraitTranslation": [
+    -0.1,
+    0.59,
+    0
+  ],
+  "profileScale": 0.62,
+  "profileTranslation": [
+    0,
+    0.94,
+    0
+  ],
+  "headBone": "body",
+  "rootBone": "body",
+  "poses": {
+    "portrait": {
+      "poseTypes": [
+        "portrait",
+        "profile"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochsolrock', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochsolrock', 'ground_idle')"
+      ]
+    },
+    "battle-standing": {
+      "isBattle": true,
+      "poseTypes": [
+        "stand",
+        "hover",
+        "fly"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochsolrock', 'blink')",
+        "q.bedrock_quirk('soulstones_epochsolrock', 'quirk')"
+      ],
+      "namedAnimations": {
+        "cry": "q.bedrock_primary('soulstones_epochsolrock', 'battle_cry', q.curve('symmetrical_wide'))"
+      },
+      "animations": [
+        "q.bedrock('soulstones_epochsolrock', 'battle_idle')"
+      ]
+    },
+    "standing": {
+      "isBattle": false,
+      "poseTypes": [
+        "stand",
+        "float",
+        "hover",
+        "none",
+        "portrait",
+        "profile"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochsolrock', 'blink')",
+        "q.bedrock_quirk('soulstones_epochsolrock', 'quirk')"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochsolrock', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "isBattle": false,
+      "poseTypes": [
+        "walk",
+        "fly",
+        "swim"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochsolrock', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochsolrock', 'ground_walk')"
+      ]
+    },
+    "battle-sleep": {
+      "condition": "q.is_standing_on_blocks(2, 'minecraft:sand', 'minecraft:red_sand')",
+      "poseTypes": [
+        "sleep"
+      ],
+      "namedAnimations": {
+        "cry": "q.bedrock_stateful('soulstones_epochsolrock', 'cry')"
+      },
+      "animations": [
+        "q.bedrock('soulstones_epochsolrock', 'sleep')"
+      ]
+    },
+    "sleep": {
+      "condition": "!q.is_standing_on_blocks(2, 'minecraft:sand', 'minecraft:red_sand')",
+      "poseTypes": [
+        "sleep"
+      ],
+      "namedAnimations": {
+        "cry": "q.bedrock_stateful('soulstones_epochsolrock', 'cry')"
+      },
+      "animations": [
+        "q.bedrock('soulstones_epochsolrock', 'sleep_alt')"
+      ]
+    }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('soulstones_epochsolrock', 'cry')",
+    "recoil": "q.bedrock_stateful('soulstones_epochsolrock', 'recoil')",
+    "physical": "q.bedrock_primary('soulstones_epochsolrock', 'physical', q.curve('symmetrical_wide'))",
+    "special": "q.bedrock_primary('soulstones_epochsolrock', 'special', q.curve('symmetrical_wide'))",
+    "status": "q.bedrock_primary('soulstones_epochsolrock', 'status', q.curve('symmetrical_wide'))"
+  }
+}
