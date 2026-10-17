@@ -1,17 +1,19 @@
 {
   "species": "cobblemon:venusaur",
-  "order": 97,
+  "order": 88,
   "variations": [
     {
       "aspects": [
         "ayreian"
       ],
-      "model": "cobblemon:cutout_gravelmon_77_by_75.geo",
-      "poser": "cobblemon:cutout_gravelmon_77_by_75",
-      "texture": "cobblemon:textures/pokemon/vanguard/ayreianvenusaur.png",
+      "poser": "cobblemon:vanguard_ayreianvenusaur",
+      "model": "cobblemon:vanguard_ayreianvenusaur.geo",
+      "texture": "cobblemon:textures/pokemon/vanguard/ayreianvenusaur/ayreianvenusaur.png",
       "layers": [
         {
-          "name": "emissive"
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/vanguard/ayreianvenusaur/ayreianvenusaur_emmissive.png",
+          "emissive": true
         },
         {
           "name": "transparentEmissive"
@@ -33,6 +35,33 @@
         },
         {
           "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "ayreian"
+      ],
+      "texture": "cobblemon:textures/pokemon/vanguard/ayreianvenusaur/ayreianvenusaur_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/vanguard/ayreianvenusaur/ayreianvenusaur_emmissive_shiny.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "ayreian"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/vanguard/ayreianvenusaur/ayreianvenusaur_alpha.png",
+          "emissive": true
         }
       ]
     }
