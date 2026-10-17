@@ -1,6 +1,13 @@
 {
   "files": {
     "88_numel_ayreian.json": "assets/cobblemon/bedrock/species/additional_forms/88_numel_ayreian.json",
-    "ayreiannumel.png": "assets/cobblemon/textures/pokemon/vanguard/ayreiannumel.png"
+    "ayreian_numel.png": "assets/cobblemon/textures/pokemon/vanguard/ayreiannumel/ayreian_numel.png",
+    "ayreian_numel_alpha.png": "assets/cobblemon/textures/pokemon/vanguard/ayreiannumel/ayreian_numel_alpha.png",
+    "ayreian_numel_preview.png": "assets/cobblemon/ayreian_numel_preview.png",
+    "ayreian_numel_shiny.png": "assets/cobblemon/textures/pokemon/vanguard/ayreiannumel/ayreian_numel_shiny.png",
+    "ayreiannumel.png": "assets/cobblemon/textures/pokemon/vanguard/ayreiannumel.png",
+    "vanguard_ayreiannumel.animation.json": "assets/cobblemon/bedrock/pokemon/animations/vanguard_ayreiannumel.animation.json",
+    "vanguard_ayreiannumel.geo.json": "assets/cobblemon/bedrock/pokemon/models/vanguard_ayreiannumel.geo.json",
+    "vanguard_ayreiannumel.json": "assets/cobblemon/bedrock/pokemon/posers/vanguard_ayreiannumel.json"
   }
 }

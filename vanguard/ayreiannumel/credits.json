@@ -1,0 +1,38 @@
+{
+  "game": "pokemon",
+  "pokemon": "numel",
+  "entries": [
+    {
+      "formAspects": [
+        "ayreian"
+      ],
+      "inheritsFrom": {
+        "pokemon": "numel",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-10-17T13:54:42.768Z",
+      "models": [
+        "vanguard/ayreiannumel/vanguard_ayreiannumel.geo.json"
+      ],
+      "animations": [
+        "vanguard/ayreiannumel/vanguard_ayreiannumel.animation.json"
+      ],
+      "textures": [
+        "vanguard/ayreiannumel/ayreian_numel.png",
+        "vanguard/ayreiannumel/ayreian_numel_alpha.png",
+        "vanguard/ayreiannumel/ayreian_numel_preview.png",
+        "vanguard/ayreiannumel/ayreian_numel_shiny.png",
+        "vanguard/ayreiannumel/ayreiannumel.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
