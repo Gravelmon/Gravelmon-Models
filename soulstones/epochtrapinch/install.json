@@ -1,6 +1,13 @@
 {
   "files": {
     "164_trapinch_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_trapinch_epoch.json",
-    "epochtrapinch.png": "assets/cobblemon/textures/pokemon/soulstones/epochtrapinch.png"
+    "epochtrapinch.png": "assets/cobblemon/textures/pokemon/soulstones/epochtrapinch.png",
+    "soulstones_epochtrapinch.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochtrapinch.animation.json",
+    "soulstones_epochtrapinch.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochtrapinch.geo.json",
+    "soulstones_epochtrapinch.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochtrapinch.json",
+    "trapinch_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochtrapinch/trapinch_epoch.png",
+    "trapinch_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochtrapinch/trapinch_epoch_alpha.png",
+    "trapinch_epoch_preview.png": "assets/cobblemon/trapinch_epoch_preview.png",
+    "trapinch_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochtrapinch/trapinch_epoch_shiny.png"
   }
 }
