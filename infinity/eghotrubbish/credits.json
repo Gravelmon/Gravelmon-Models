@@ -1,0 +1,37 @@
+{
+  "game": "pokemon",
+  "pokemon": "trubbish",
+  "entries": [
+    {
+      "formAspects": [
+        "egho"
+      ],
+      "inheritsFrom": {
+        "pokemon": "trubbish",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-10-17T20:58:03.453Z",
+      "models": [
+        "infinity/eghotrubbish/infinity_eghotrubbish.geo.json"
+      ],
+      "animations": [
+        "infinity/eghotrubbish/infinity_eghotrubbish.animation.json"
+      ],
+      "textures": [
+        "infinity/eghotrubbish/trubbish_egho.png",
+        "infinity/eghotrubbish/trubbish_egho_alpha.png",
+        "infinity/eghotrubbish/trubbish_egho_shiny.png",
+        "infinity/eghotrubbish/eghotrubbish.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

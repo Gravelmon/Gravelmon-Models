@@ -2,6 +2,12 @@
   "files": {
     "117_trubbish_egho.json": "assets/cobblemon/bedrock/species/additional_forms/117_trubbish_egho.json",
     "eghotrubbish.png": "assets/cobblemon/textures/pokemon/infinity/eghotrubbish.png",
-    "trubbish_egho_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/trubbish_egho_cry.ogg"
+    "infinity_eghotrubbish.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_eghotrubbish.animation.json",
+    "infinity_eghotrubbish.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_eghotrubbish.geo.json",
+    "infinity_eghotrubbish.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_eghotrubbish.json",
+    "trubbish_egho.png": "assets/cobblemon/textures/pokemon/infinity/eghotrubbish/trubbish_egho.png",
+    "trubbish_egho_alpha.png": "assets/cobblemon/textures/pokemon/infinity/eghotrubbish/trubbish_egho_alpha.png",
+    "trubbish_egho_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/trubbish_egho_cry.ogg",
+    "trubbish_egho_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghotrubbish/trubbish_egho_shiny.png"
   }
 }
