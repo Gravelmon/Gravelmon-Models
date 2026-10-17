@@ -1,15 +1,18 @@
 {
   "species": "cobblemon:slugma",
-  "order": 125,
+  "order": 116,
   "variations": [
     {
       "aspects": [
         "cefiran"
       ],
-      "model": "cobblemon:cutout_gravelmon_62_by_72.geo",
-      "poser": "cobblemon:cutout_gravelmon_62_by_72",
-      "texture": "cobblemon:textures/pokemon/opalo/cefiranslugma.png",
+      "poser": "cobblemon:opalo_cefiranslugma",
+      "model": "cobblemon:opalo_cefiranslugma.geo",
+      "texture": "cobblemon:textures/pokemon/opalo/cefiranslugma/cefiran_slugma.png",
       "layers": [
+        {
+          "name": "flame_emissive"
+        },
         {
           "name": "emissive"
         },
@@ -33,6 +36,26 @@
         },
         {
           "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "cefiran"
+      ],
+      "texture": "cobblemon:textures/pokemon/opalo/cefiranslugma/cefiran_slugma_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "cefiran"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/opalo/cefiranslugma/cefiran_slugma_alpha.png",
+          "emissive": true
         }
       ]
     }
