@@ -1,0 +1,61 @@
+{
+  "portraitScale": 1.44,
+  "portraitTranslation": [
+    -0.4,
+    -0.6,
+    0
+  ],
+  "profileScale": 0.9,
+  "profileTranslation": [
+    0.12,
+    0.33,
+    0
+  ],
+  "headBone": "head",
+  "rootBone": "trapinch",
+  "poses": {
+    "standing": {
+      "poseTypes": [
+        "profile",
+        "portrait",
+        "stand",
+        "float",
+        "hover",
+        "none"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochtrapinch', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('soulstones_epochtrapinch', 'ground_idle')"
+      ]
+    },
+    "walk": {
+      "poseTypes": [
+        "walk",
+        "swim",
+        "fly"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochtrapinch', 'blink')"
+      ],
+      "animations": [
+        "QuadrupedWalkAnimation(this, periodMultiplier = 1.1F)",
+        "q.look('head')",
+        "q.bedrock('soulstones_epochtrapinch', 'ground_idle')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochtrapinch', 'sleep')"
+      ]
+    }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('soulstones_epochtrapinch', 'cry')"
+  }
+}

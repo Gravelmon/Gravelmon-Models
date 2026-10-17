@@ -1,0 +1,38 @@
+{
+  "game": "pokemon",
+  "pokemon": "trapinch",
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "trapinch",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-10-17T13:23:02.965Z",
+      "models": [
+        "soulstones/epochtrapinch/soulstones_epochtrapinch.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochtrapinch/soulstones_epochtrapinch.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochtrapinch/trapinch_epoch.png",
+        "soulstones/epochtrapinch/trapinch_epoch_alpha.png",
+        "soulstones/epochtrapinch/trapinch_epoch_preview.png",
+        "soulstones/epochtrapinch/trapinch_epoch_shiny.png",
+        "soulstones/epochtrapinch/epochtrapinch.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
