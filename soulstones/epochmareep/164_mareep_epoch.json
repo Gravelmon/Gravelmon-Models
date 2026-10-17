@@ -1,17 +1,19 @@
 {
   "species": "cobblemon:mareep",
-  "order": 173,
+  "order": 164,
   "variations": [
     {
       "aspects": [
         "epoch"
       ],
-      "model": "cobblemon:cutout_gravelmon_43_by_45.geo",
-      "poser": "cobblemon:cutout_gravelmon_43_by_45",
-      "texture": "cobblemon:textures/pokemon/soulstones/epochmareep.png",
+      "poser": "cobblemon:soulstones_epochmareep",
+      "model": "cobblemon:soulstones_epochmareep.geo",
+      "texture": "cobblemon:textures/pokemon/soulstones/epochmareep/mareep_epoch.png",
       "layers": [
         {
-          "name": "emissive"
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/soulstones/epochmareep/mareep_epoch_emissive.png",
+          "emissive": true
         },
         {
           "name": "transparentEmissive"
@@ -33,6 +35,33 @@
         },
         {
           "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "epoch"
+      ],
+      "texture": "cobblemon:textures/pokemon/soulstones/epochmareep/mareep_epoch_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/soulstones/epochmareep/mareep_epoch_shiny_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "epoch"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/soulstones/epochmareep/mareep_epoch_alpha.png",
+          "emissive": true
         }
       ]
     }
