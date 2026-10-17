@@ -44,37 +44,6 @@
     ]
   },
   "poses": {
-    "ride_jump": {
-      "isBattle": false,
-      "condition": "q.in_air && q.has_entity",
-      "poseTypes": [
-        "walk",
-        "stand",
-        "float",
-        "none"
-      ],
-      "quirks": [
-        "q.bedrock_quirk('vanguard_ayreianvenusaur', 'blink')"
-      ],
-      "animations": [
-        "q.look('head', 1, 0, 10, -20, 0, 0)",
-        "q.bedrock('vanguard_ayreianvenusaur', 'ride_jump')",
-        {
-          "condition": "q.is_holding_item",
-          "animation": "q.bedrock('vanguard_ayreianvenusaur', 'hold_item')"
-        },
-        {
-          "condition": "q.is_ridden",
-          "animation": "q.bedrock('vanguard_ayreianvenusaur', 'ride_ground_run')"
-        },
-        {
-          "condition": "q.is_ridden",
-          "animation": "q.bedrock('vanguard_ayreianvenusaur', 'rider_overlay')"
-        }
-      ],
-      "transformTicks": 4,
-      "transformToTicks": 4
-    },
     "battle-standing": {
       "isBattle": true,
       "poseTypes": [
@@ -85,11 +54,7 @@
       ],
       "animations": [
         "q.look('head', 1, 0, 10, -20, 0, 0)",
-        "q.bedrock('vanguard_ayreianvenusaur', 'battle_idle')",
-        {
-          "condition": "q.is_holding_item",
-          "animation": "q.bedrock('vanguard_ayreianvenusaur', 'hold_item')"
-        }
+        "q.bedrock('vanguard_ayreianvenusaur', 'battle_idle')"
       ]
     },
     "standing": {
@@ -107,15 +72,7 @@
       ],
       "animations": [
         "q.look('head', 1, 0, 10, -20, 0, 0)",
-        "q.bedrock('vanguard_ayreianvenusaur', 'ground_idle')",
-        {
-          "condition": "q.is_holding_item",
-          "animation": "q.bedrock('vanguard_ayreianvenusaur', 'hold_item')"
-        },
-        {
-          "condition": "q.is_ridden",
-          "animation": "q.bedrock('vanguard_ayreianvenusaur', 'rider_overlay')"
-        }
+        "q.bedrock('vanguard_ayreianvenusaur', 'ground_idle')"
       ],
       "transformTicks": 5
     },
@@ -130,47 +87,9 @@
       ],
       "animations": [
         "q.look('head', 1, 0, 10, -20, 0, 0)",
-        "q.bedrock('vanguard_ayreianvenusaur', 'ground_walk')",
-        {
-          "condition": "q.is_holding_item",
-          "animation": "q.bedrock('vanguard_ayreianvenusaur', 'hold_item')"
-        },
-        {
-          "condition": "q.is_ridden",
-          "animation": "q.bedrock('vanguard_ayreianvenusaur', 'ride_ground_walk')"
-        },
-        {
-          "condition": "q.is_ridden",
-          "animation": "q.bedrock('vanguard_ayreianvenusaur', 'rider_overlay')"
-        }
+        "q.bedrock('vanguard_ayreianvenusaur', 'ground_walk')"
       ],
       "transformTicks": 5
-    },
-    "run": {
-      "isBattle": false,
-      "condition": "!q.in_air && q.is_sprinting && q.has_entity",
-      "poseTypes": [
-        "walk"
-      ],
-      "quirks": [
-        "q.bedrock_quirk('vanguard_ayreianvenusaur', 'blink')"
-      ],
-      "animations": [
-        "q.look('head', 1, 0, 10, -20, 0, 0)",
-        "q.bedrock('vanguard_ayreianvenusaur', 'ground_run')",
-        {
-          "condition": "q.is_holding_item",
-          "animation": "q.bedrock('vanguard_ayreianvenusaur', 'hold_item')"
-        },
-        {
-          "condition": "q.is_ridden",
-          "animation": "q.bedrock('vanguard_ayreianvenusaur', 'ride_ground_run')"
-        },
-        {
-          "condition": "q.is_ridden",
-          "animation": "q.bedrock('vanguard_ayreianvenusaur', 'rider_overlay')"
-        }
-      ]
     },
     "sleep": {
       "poseTypes": [
@@ -180,11 +99,7 @@
         "cry": "q.bedrock_stateful('vanguard_ayreianvenusaur', 'cry')"
       },
       "animations": [
-        "q.bedrock('vanguard_ayreianvenusaur', 'sleep')",
-        {
-          "condition": "q.is_holding_item",
-          "animation": "q.bedrock('vanguard_ayreianvenusaur', 'hold_item')"
-        }
+        "q.bedrock('vanguard_ayreianvenusaur', 'sleep')"
       ]
     }
   },
