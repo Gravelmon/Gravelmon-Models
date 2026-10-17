@@ -1,6 +1,13 @@
 {
   "files": {
     "164_natu_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_natu_epoch.json",
-    "epochnatu.png": "assets/cobblemon/textures/pokemon/soulstones/epochnatu.png"
+    "epochnatu.png": "assets/cobblemon/textures/pokemon/soulstones/epochnatu.png",
+    "natu_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochnatu/natu_epoch.png",
+    "natu_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochnatu/natu_epoch_alpha.png",
+    "natu_epoch_preview.png": "assets/cobblemon/natu_epoch_preview.png",
+    "natu_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochnatu/natu_epoch_shiny.png",
+    "soulstones_epochnatu.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochnatu.animation.json",
+    "soulstones_epochnatu.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochnatu.geo.json",
+    "soulstones_epochnatu.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochnatu.json"
   }
 }
