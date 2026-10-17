@@ -1,0 +1,71 @@
+{
+  "portraitScale": 2.17,
+  "portraitTranslation": [
+    -1.16,
+    -1.64,
+    0
+  ],
+  "profileScale": 0.76,
+  "profileTranslation": [
+    0.09,
+    0.47,
+    0
+  ],
+  "rootBone": "modra",
+  "poses": {
+    "standing": {
+      "isBattle": false,
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('deneb_modra', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('deneb_modra', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "walk",
+        "swim"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('deneb_modra', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('deneb_modra', 'ground_walk')"
+      ]
+    },
+    "battle-standing": {
+      "isBattle": true,
+      "poseTypes": [
+        "stand"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('deneb_modra', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('deneb_modra', 'battle_idle')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "animations": [
+        "q.bedrock('deneb_modra', 'sleep')"
+      ]
+    }
+  },
+  "animations": {
+    "faint": "q.bedrock_primary('deneb_modra', 'faint', q.curve('one'))"
+  }
+}
