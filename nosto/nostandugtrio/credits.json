@@ -1,0 +1,37 @@
+{
+  "game": "pokemon",
+  "pokemon": "dugtrio",
+  "entries": [
+    {
+      "formAspects": [
+        "nostan"
+      ],
+      "inheritsFrom": {
+        "pokemon": "dugtrio",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "lilpuppenstein"
+      },
+      "contributors": [
+        {
+          "login": "lilpuppenstein"
+        }
+      ],
+      "submittedAt": "2026-10-17T03:35:55.755Z",
+      "models": [
+        "nosto/nostandugtrio/nosto_nostandugtrio.geo.json"
+      ],
+      "animations": [
+        "nosto/nostandugtrio/nosto_nostandugtrio.animation.json"
+      ],
+      "textures": [
+        "nosto/nostandugtrio/texture__nostandugtrio.png",
+        "nosto/nostandugtrio/nostandugtrio_alpha.png",
+        "nosto/nostandugtrio/nostandugtrio_shiny.png",
+        "nosto/nostandugtrio/nostandugtrio.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
