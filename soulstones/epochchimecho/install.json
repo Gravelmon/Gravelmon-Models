@@ -1,6 +1,15 @@
 {
   "files": {
     "164_chimecho_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_chimecho_epoch.json",
-    "epochchimecho.png": "assets/cobblemon/textures/pokemon/soulstones/epochchimecho.png"
+    "chimecho_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochchimecho/chimecho_epoch.png",
+    "chimecho_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochchimecho/chimecho_epoch_alpha.png",
+    "chimecho_epoch_emissive.png": "assets/cobblemon/textures/pokemon/soulstones/epochchimecho/chimecho_epoch_emissive.png",
+    "chimecho_epoch_preview.png": "assets/cobblemon/chimecho_epoch_preview.png",
+    "chimecho_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochchimecho/chimecho_epoch_shiny.png",
+    "chimecho_epoch_shiny_emissive.png": "assets/cobblemon/textures/pokemon/soulstones/epochchimecho/chimecho_epoch_shiny_emissive.png",
+    "epochchimecho.png": "assets/cobblemon/textures/pokemon/soulstones/epochchimecho.png",
+    "soulstones_epochchimecho.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochchimecho.animation.json",
+    "soulstones_epochchimecho.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochchimecho.geo.json",
+    "soulstones_epochchimecho.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochchimecho.json"
   }
 }

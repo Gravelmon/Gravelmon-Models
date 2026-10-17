@@ -1,0 +1,40 @@
+{
+  "game": "pokemon",
+  "pokemon": "chimecho",
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "chimecho",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DigitalRaikan"
+      },
+      "contributors": [
+        {
+          "login": "DigitalRaikan"
+        }
+      ],
+      "submittedAt": "2026-10-17T13:36:11.347Z",
+      "models": [
+        "soulstones/epochchimecho/soulstones_epochchimecho.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochchimecho/soulstones_epochchimecho.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochchimecho/chimecho_epoch.png",
+        "soulstones/epochchimecho/chimecho_epoch_alpha.png",
+        "soulstones/epochchimecho/chimecho_epoch_emissive.png",
+        "soulstones/epochchimecho/chimecho_epoch_preview.png",
+        "soulstones/epochchimecho/chimecho_epoch_shiny.png",
+        "soulstones/epochchimecho/chimecho_epoch_shiny_emissive.png",
+        "soulstones/epochchimecho/epochchimecho.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
