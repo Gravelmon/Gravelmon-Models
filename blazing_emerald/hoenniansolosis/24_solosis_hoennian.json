@@ -1,15 +1,20 @@
 {
   "species": "cobblemon:solosis",
-  "order": 33,
+  "order": 24,
   "variations": [
     {
       "aspects": [
         "hoennian"
       ],
-      "model": "cobblemon:cutout_gravelmon_31_by_33.geo",
-      "poser": "cobblemon:cutout_gravelmon_31_by_33",
-      "texture": "cobblemon:textures/pokemon/blazing_emerald/hoenniansolosis.png",
+      "poser": "cobblemon:blazing_emerald_hoenniansolosis",
+      "model": "cobblemon:blazing_emerald_hoenniansolosis.geo",
+      "texture": "cobblemon:textures/pokemon/blazing_emerald/hoenniansolosis/solosis_hoennian.png",
       "layers": [
+        {
+          "name": "liquid",
+          "texture": "cobblemon:textures/pokemon/blazing_emerald/hoenniansolosis/solosis_hoennian_liquid.png",
+          "translucent": true
+        },
         {
           "name": "emissive"
         },
@@ -33,6 +38,38 @@
         },
         {
           "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "hoennian"
+      ],
+      "texture": "cobblemon:textures/pokemon/blazing_emerald/hoenniansolosis/solosis_hoennian_shiny.png",
+      "layers": [
+        {
+          "name": "liquid_shiny",
+          "texture": "cobblemon:textures/pokemon/blazing_emerald/hoenniansolosis/solosis_hoennian_liquid_shiny.png",
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "hoennian"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/blazing_emerald/hoenniansolosis/solosis_hoennian_alpha.png",
+          "emissive": true
+        },
+        {
+          "name": "liquid",
+          "texture": "cobblemon:textures/pokemon/blazing_emerald/hoenniansolosis/solosis_hoennian_liquid.png",
+          "translucent": true
         }
       ]
     }
