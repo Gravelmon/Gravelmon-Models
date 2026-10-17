@@ -1,6 +1,13 @@
 {
   "files": {
     "88_mudkip_ayreian.json": "assets/cobblemon/bedrock/species/additional_forms/88_mudkip_ayreian.json",
-    "ayreianmudkip.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianmudkip.png"
+    "ayreianmudkip.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianmudkip.png",
+    "mudkip_ayreian.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianmudkip/mudkip_ayreian.png",
+    "mudkip_ayreian_alpha.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianmudkip/mudkip_ayreian_alpha.png",
+    "mudkip_ayreian_preview.png": "assets/cobblemon/mudkip_ayreian_preview.png",
+    "mudkip_ayreian_shiny.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianmudkip/mudkip_ayreian_shiny.png",
+    "vanguard_ayreianmudkip.animation.json": "assets/cobblemon/bedrock/pokemon/animations/vanguard_ayreianmudkip.animation.json",
+    "vanguard_ayreianmudkip.geo.json": "assets/cobblemon/bedrock/pokemon/models/vanguard_ayreianmudkip.geo.json",
+    "vanguard_ayreianmudkip.json": "assets/cobblemon/bedrock/pokemon/posers/vanguard_ayreianmudkip.json"
   }
 }
