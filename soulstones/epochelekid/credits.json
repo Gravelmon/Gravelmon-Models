@@ -1,0 +1,38 @@
+{
+  "game": "pokemon",
+  "pokemon": "elekid",
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "elekid",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-10-17T13:21:03.664Z",
+      "models": [
+        "soulstones/epochelekid/soulstones_epochelekid.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochelekid/soulstones_epochelekid.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochelekid/elekid_epoch.png",
+        "soulstones/epochelekid/elekid_epoch_alpha.png",
+        "soulstones/epochelekid/elekid_epoch_preview.png",
+        "soulstones/epochelekid/elekid_epoch_shiny.png",
+        "soulstones/epochelekid/epochelekid.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

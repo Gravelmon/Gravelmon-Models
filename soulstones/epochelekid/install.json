@@ -1,6 +1,13 @@
 {
   "files": {
     "164_elekid_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_elekid_epoch.json",
-    "epochelekid.png": "assets/cobblemon/textures/pokemon/soulstones/epochelekid.png"
+    "elekid_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochelekid/elekid_epoch.png",
+    "elekid_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochelekid/elekid_epoch_alpha.png",
+    "elekid_epoch_preview.png": "assets/cobblemon/elekid_epoch_preview.png",
+    "elekid_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochelekid/elekid_epoch_shiny.png",
+    "epochelekid.png": "assets/cobblemon/textures/pokemon/soulstones/epochelekid.png",
+    "soulstones_epochelekid.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochelekid.animation.json",
+    "soulstones_epochelekid.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochelekid.geo.json",
+    "soulstones_epochelekid.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochelekid.json"
   }
 }

@@ -1,14 +1,14 @@
 {
   "species": "cobblemon:elekid",
-  "order": 173,
+  "order": 164,
   "variations": [
     {
       "aspects": [
         "epoch"
       ],
-      "model": "cobblemon:cutout_gravelmon_43_by_37.geo",
-      "poser": "cobblemon:cutout_gravelmon_43_by_37",
-      "texture": "cobblemon:textures/pokemon/soulstones/epochelekid.png",
+      "poser": "cobblemon:soulstones_epochelekid",
+      "model": "cobblemon:soulstones_epochelekid.geo",
+      "texture": "cobblemon:textures/pokemon/soulstones/epochelekid/elekid_epoch.png",
       "layers": [
         {
           "name": "emissive"
@@ -33,6 +33,26 @@
         },
         {
           "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "epoch"
+      ],
+      "texture": "cobblemon:textures/pokemon/soulstones/epochelekid/elekid_epoch_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "epoch"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/soulstones/epochelekid/elekid_epoch_alpha.png",
+          "emissive": true
         }
       ]
     }

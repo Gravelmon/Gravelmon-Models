@@ -1,0 +1,57 @@
+{
+  "portraitScale": 2.5,
+  "portraitTranslation": [
+    -0.15,
+    -1.4,
+    0
+  ],
+  "profileScale": 0.8,
+  "profileTranslation": [
+    0,
+    0.6,
+    0
+  ],
+  "rootBone": "elekid",
+  "poses": {
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochelekid', 'sleep')"
+      ]
+    },
+    "standing": {
+      "poseTypes": [
+        "stand",
+        "float",
+        "hover",
+        "profile",
+        "portrait",
+        "none"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochelekid', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochelekid', 'ground_idle')"
+      ]
+    },
+    "walk": {
+      "poseTypes": [
+        "walk",
+        "swim",
+        "fly"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochelekid', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochelekid', 'ground_walk')"
+      ]
+    }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('soulstones_epochelekid', 'cry')"
+  }
+}
