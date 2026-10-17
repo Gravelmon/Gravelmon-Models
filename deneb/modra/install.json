@@ -1,6 +1,13 @@
 {
   "files": {
     "0_modra_base.json": "assets/cobblemon/bedrock/species/deneb/0_modra_base.json",
-    "modra.png": "assets/cobblemon/textures/pokemon/deneb/modra.png"
+    "deneb_modra.animation.json": "assets/cobblemon/bedrock/pokemon/animations/deneb_modra.animation.json",
+    "deneb_modra.geo.json": "assets/cobblemon/bedrock/pokemon/models/deneb_modra.geo.json",
+    "deneb_modra.json": "assets/cobblemon/bedrock/pokemon/posers/deneb_modra.json",
+    "modra.png": "assets/cobblemon/textures/pokemon/deneb/modra.png",
+    "modra_alpha.png": "assets/cobblemon/textures/pokemon/deneb/modra/modra_alpha.png",
+    "modra_preview.png": "assets/cobblemon/modra_preview.png",
+    "modra_shiny.png": "assets/cobblemon/textures/pokemon/deneb/modra/modra_shiny.png",
+    "texture__modra.png": "assets/cobblemon/textures/pokemon/deneb/modra/modra.png"
   }
 }

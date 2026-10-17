@@ -1,0 +1,31 @@
+{
+  "game": "deneb",
+  "pokemon": "modra",
+  "entries": [
+    {
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-10-17T14:02:08.874Z",
+      "models": [
+        "deneb/modra/deneb_modra.geo.json"
+      ],
+      "animations": [
+        "deneb/modra/deneb_modra.animation.json"
+      ],
+      "textures": [
+        "deneb/modra/texture__modra.png",
+        "deneb/modra/modra_alpha.png",
+        "deneb/modra/modra_preview.png",
+        "deneb/modra/modra_shiny.png",
+        "deneb/modra/modra.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
