@@ -1,6 +1,13 @@
 {
   "files": {
     "164_abra_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_abra_epoch.json",
-    "epochabra.png": "assets/cobblemon/textures/pokemon/soulstones/epochabra.png"
+    "abra_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochabra/abra_epoch.png",
+    "abra_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochabra/abra_epoch_alpha.png",
+    "abra_epoch_preview.png": "assets/cobblemon/abra_epoch_preview.png",
+    "abra_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochabra/abra_epoch_shiny.png",
+    "epochabra.png": "assets/cobblemon/textures/pokemon/soulstones/epochabra.png",
+    "soulstones_epochabra.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochabra.animation.json",
+    "soulstones_epochabra.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochabra.geo.json",
+    "soulstones_epochabra.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochabra.json"
   }
 }
