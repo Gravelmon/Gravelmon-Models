@@ -1,0 +1,58 @@
+{
+  "portraitScale": 2.33,
+  "portraitTranslation": [
+    -0.14,
+    -1.67,
+    0
+  ],
+  "profileScale": 1.09,
+  "profileTranslation": [
+    0,
+    0.03,
+    0
+  ],
+  "headBone": "torso",
+  "rootBone": "natu",
+  "poses": {
+    "pose": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochnatu', 'sleep')"
+      ]
+    },
+    "standing": {
+      "poseTypes": [
+        "stand",
+        "float",
+        "hover",
+        "profile",
+        "portrait",
+        "none"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochnatu', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('soulstones_epochnatu', 'ground_idle')"
+      ]
+    },
+    "walk": {
+      "poseTypes": [
+        "walk",
+        "swim",
+        "fly"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochnatu', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('soulstones_epochnatu', 'ground_idle')",
+        "BipedWalkAnimation(this, periodMultiplier = 0.8F, amplitudeMultiplier = 0.6F)"
+      ]
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "game": "pokemon",
+  "pokemon": "natu",
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "natu",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-10-17T13:39:02.544Z",
+      "models": [
+        "soulstones/epochnatu/soulstones_epochnatu.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochnatu/soulstones_epochnatu.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochnatu/natu_epoch.png",
+        "soulstones/epochnatu/natu_epoch_alpha.png",
+        "soulstones/epochnatu/natu_epoch_preview.png",
+        "soulstones/epochnatu/natu_epoch_shiny.png",
+        "soulstones/epochnatu/epochnatu.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
