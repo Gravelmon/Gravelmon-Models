@@ -1,0 +1,42 @@
+{
+  "game": "pokemon",
+  "pokemon": "mareanie",
+  "entries": [
+    {
+      "formAspects": [
+        "hoennian"
+      ],
+      "inheritsFrom": {
+        "pokemon": "mareanie",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "Ivan0519"
+      },
+      "contributors": [
+        {
+          "login": "Ivan0519"
+        }
+      ],
+      "submittedAt": "2026-10-17T14:36:23.773Z",
+      "models": [
+        "blazing_emerald/hoennianmareanie/hoennian_mareanie.geo.json",
+        "blazing_emerald/hoennianmareanie/hoennian_toxapex.geo.json"
+      ],
+      "animations": [
+        "blazing_emerald/hoennianmareanie/hoennain_toxapex.animation.json",
+        "blazing_emerald/hoennianmareanie/hoennian_mareanie.animation.json"
+      ],
+      "textures": [
+        "blazing_emerald/hoennianmareanie/hoennian_marenie.png",
+        "blazing_emerald/hoennianmareanie/hoennian_marenie_alpha.png",
+        "blazing_emerald/hoennianmareanie/hoennian_marenie_shiny.png",
+        "blazing_emerald/hoennianmareanie/hoennian_toxapex.png",
+        "blazing_emerald/hoennianmareanie/hoennian_toxapex_alpha.png",
+        "blazing_emerald/hoennianmareanie/hoennian_toxapex_shiny.png",
+        "blazing_emerald/hoennianmareanie/hoennianmareanie.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

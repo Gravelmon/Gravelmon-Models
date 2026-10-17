@@ -1,6 +1,17 @@
 {
   "files": {
     "24_mareanie_hoennian.json": "assets/cobblemon/bedrock/species/additional_forms/24_mareanie_hoennian.json",
+    "blazing_emerald_hoennianmareanie.json": "assets/cobblemon/bedrock/pokemon/posers/blazing_emerald_hoennianmareanie.json",
+    "hoennain_toxapex.animation.json": "assets/cobblemon/bedrock/pokemon/animations/hoennain_toxapex.animation.json",
+    "hoennian_mareanie.animation.json": "assets/cobblemon/bedrock/pokemon/animations/hoennian_mareanie.animation.json",
+    "hoennian_mareanie.geo.json": "assets/cobblemon/bedrock/pokemon/models/hoennian_mareanie.geo.json",
+    "hoennian_marenie.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianmareanie/hoennian_marenie.png",
+    "hoennian_marenie_alpha.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianmareanie/hoennian_marenie_alpha.png",
+    "hoennian_marenie_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianmareanie/hoennian_marenie_shiny.png",
+    "hoennian_toxapex.geo.json": "assets/cobblemon/bedrock/pokemon/models/hoennian_toxapex.geo.json",
+    "hoennian_toxapex.png": "assets/cobblemon/hoennian_toxapex.png",
+    "hoennian_toxapex_alpha.png": "assets/cobblemon/hoennian_toxapex_alpha.png",
+    "hoennian_toxapex_shiny.png": "assets/cobblemon/hoennian_toxapex_shiny.png",
     "hoennianmareanie.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoennianmareanie.png",
     "mareanie_hoennian_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/mareanie_hoennian_cry.ogg"
   }
