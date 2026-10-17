@@ -1,0 +1,38 @@
+{
+  "game": "pokemon",
+  "pokemon": "mudkip",
+  "entries": [
+    {
+      "formAspects": [
+        "ayreian"
+      ],
+      "inheritsFrom": {
+        "pokemon": "mudkip",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-10-17T13:40:51.831Z",
+      "models": [
+        "vanguard/ayreianmudkip/vanguard_ayreianmudkip.geo.json"
+      ],
+      "animations": [
+        "vanguard/ayreianmudkip/vanguard_ayreianmudkip.animation.json"
+      ],
+      "textures": [
+        "vanguard/ayreianmudkip/mudkip_ayreian.png",
+        "vanguard/ayreianmudkip/mudkip_ayreian_alpha.png",
+        "vanguard/ayreianmudkip/mudkip_ayreian_preview.png",
+        "vanguard/ayreianmudkip/mudkip_ayreian_shiny.png",
+        "vanguard/ayreianmudkip/ayreianmudkip.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
