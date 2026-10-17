@@ -1,6 +1,13 @@
 {
   "files": {
     "164_lunatone_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_lunatone_epoch.json",
-    "epochlunatone.png": "assets/cobblemon/textures/pokemon/soulstones/epochlunatone.png"
+    "epochlunatone.png": "assets/cobblemon/textures/pokemon/soulstones/epochlunatone.png",
+    "epochlunatone_cry.ogg": "assets/gravelmon/sounds/pokemon/soulstones/epochlunatone_cry.ogg",
+    "lunatone_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochlunatone/lunatone_epoch.png",
+    "lunatone_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochlunatone/lunatone_epoch_alpha.png",
+    "lunatone_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochlunatone/lunatone_epoch_shiny.png",
+    "soulstones_epochlunatone.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochlunatone.animation.json",
+    "soulstones_epochlunatone.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochlunatone.geo.json",
+    "soulstones_epochlunatone.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochlunatone.json"
   }
 }

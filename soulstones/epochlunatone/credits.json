@@ -1,0 +1,39 @@
+{
+  "game": "pokemon",
+  "pokemon": "lunatone",
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "lunatone",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "Lubasa"
+      },
+      "contributors": [
+        {
+          "login": "Lubasa"
+        }
+      ],
+      "submittedAt": "2026-10-17T22:22:25.024Z",
+      "models": [
+        "soulstones/epochlunatone/soulstones_epochlunatone.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochlunatone/soulstones_epochlunatone.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochlunatone/lunatone_epoch.png",
+        "soulstones/epochlunatone/lunatone_epoch_alpha.png",
+        "soulstones/epochlunatone/lunatone_epoch_shiny.png",
+        "soulstones/epochlunatone/epochlunatone.png"
+      ],
+      "sounds": [
+        "soulstones/epochlunatone/epochlunatone_cry.ogg"
+      ]
+    }
+  ]
+}
