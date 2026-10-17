@@ -1,14 +1,14 @@
 {
   "species": "cobblemon:cyndaquil",
-  "order": 173,
+  "order": 164,
   "variations": [
     {
       "aspects": [
         "epochtwo"
       ],
-      "model": "cobblemon:cutout_gravelmon_38_by_41.geo",
-      "poser": "cobblemon:cutout_gravelmon_38_by_41",
-      "texture": "cobblemon:textures/pokemon/soulstones/epochcyndaquilone.png",
+      "poser": "cobblemon:soulstones_epochcyndaquilone",
+      "model": "cobblemon:soulstones_epochcyndaquilone.geo",
+      "texture": "cobblemon:textures/pokemon/soulstones/epochcyndaquilone/epochtwo-cyndaquil.png",
       "layers": [
         {
           "name": "emissive"
@@ -32,9 +32,26 @@
           "name": "glow"
         },
         {
+          "texture": "cobblemon:textures/pokemon/soulstones/epochcyndaquilone/epochtwo-cyndaquil.png"
+        },
+        {
           "texture": "cobblemon:textures/empty_texture.png"
         }
       ]
+    },
+    {
+      "aspects": [
+        "epochtwo",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/soulstones/epochcyndaquilone/epochtwo-cyndaquil_shiny.png"
+    },
+    {
+      "aspects": [
+        "epochtwo",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/pokemon/soulstones/epochcyndaquilone/epochtwo-cyndaquil_alpha.png"
     }
   ]
 }
