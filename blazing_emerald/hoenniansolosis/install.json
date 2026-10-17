@@ -1,7 +1,15 @@
 {
   "files": {
     "24_solosis_hoennian.json": "assets/cobblemon/bedrock/species/additional_forms/24_solosis_hoennian.json",
+    "blazing_emerald_hoenniansolosis.animation.json": "assets/cobblemon/bedrock/pokemon/animations/blazing_emerald_hoenniansolosis.animation.json",
+    "blazing_emerald_hoenniansolosis.geo.json": "assets/cobblemon/bedrock/pokemon/models/blazing_emerald_hoenniansolosis.geo.json",
+    "blazing_emerald_hoenniansolosis.json": "assets/cobblemon/bedrock/pokemon/posers/blazing_emerald_hoenniansolosis.json",
     "hoenniansolosis.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniansolosis.png",
-    "solosis_hoennian_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/solosis_hoennian_cry.ogg"
+    "solosis_hoennian.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniansolosis/solosis_hoennian.png",
+    "solosis_hoennian_alpha.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniansolosis/solosis_hoennian_alpha.png",
+    "solosis_hoennian_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/solosis_hoennian_cry.ogg",
+    "solosis_hoennian_liquid.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniansolosis/solosis_hoennian_liquid.png",
+    "solosis_hoennian_liquid_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniansolosis/solosis_hoennian_liquid_shiny.png",
+    "solosis_hoennian_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniansolosis/solosis_hoennian_shiny.png"
   }
 }

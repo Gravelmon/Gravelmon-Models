@@ -1,0 +1,39 @@
+{
+  "game": "pokemon",
+  "pokemon": "solosis",
+  "entries": [
+    {
+      "formAspects": [
+        "hoennian"
+      ],
+      "inheritsFrom": {
+        "pokemon": "solosis",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "Lubasa"
+      },
+      "contributors": [
+        {
+          "login": "Lubasa"
+        }
+      ],
+      "submittedAt": "2026-10-17T14:46:24.653Z",
+      "models": [
+        "blazing_emerald/hoenniansolosis/blazing_emerald_hoenniansolosis.geo.json"
+      ],
+      "animations": [
+        "blazing_emerald/hoenniansolosis/blazing_emerald_hoenniansolosis.animation.json"
+      ],
+      "textures": [
+        "blazing_emerald/hoenniansolosis/solosis_hoennian.png",
+        "blazing_emerald/hoenniansolosis/solosis_hoennian_alpha.png",
+        "blazing_emerald/hoenniansolosis/solosis_hoennian_liquid.png",
+        "blazing_emerald/hoenniansolosis/solosis_hoennian_liquid_shiny.png",
+        "blazing_emerald/hoenniansolosis/solosis_hoennian_shiny.png",
+        "blazing_emerald/hoenniansolosis/hoenniansolosis.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
