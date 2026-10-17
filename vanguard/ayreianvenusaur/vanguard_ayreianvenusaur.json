@@ -1,0 +1,110 @@
+{
+  "portraitScale": 1.03,
+  "portraitTranslation": [
+    -0.31,
+    0.12,
+    0
+  ],
+  "profileScale": 0.45,
+  "profileTranslation": [
+    0.11,
+    1.03,
+    0
+  ],
+  "rootBone": "venusaur",
+  "firstPersonCameraOffset": {
+    "seat_1": [
+      0,
+      0.25,
+      0
+    ]
+  },
+  "thirdPersonCameraOffset": {
+    "seat_1": [
+      0,
+      0.45,
+      1
+    ],
+    "seat_1_reverse": [
+      0,
+      0.45,
+      1
+    ]
+  },
+  "thirdPersonCameraOffsetNoViewBobbing": {
+    "seat_1": [
+      0,
+      0.45,
+      1
+    ],
+    "seat_1_reverse": [
+      0,
+      0.45,
+      1
+    ]
+  },
+  "poses": {
+    "battle-standing": {
+      "isBattle": true,
+      "poseTypes": [
+        "stand"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('vanguard_ayreianvenusaur', 'blink')"
+      ],
+      "animations": [
+        "q.look('head', 1, 0, 10, -20, 0, 0)",
+        "q.bedrock('vanguard_ayreianvenusaur', 'battle_idle')"
+      ]
+    },
+    "standing": {
+      "isBattle": false,
+      "condition": "!q.in_air",
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('vanguard_ayreianvenusaur', 'blink')",
+        "q.bedrock_quirk('vanguard_ayreianvenusaur', 'look_quirk')"
+      ],
+      "animations": [
+        "q.look('head', 1, 0, 10, -20, 0, 0)",
+        "q.bedrock('vanguard_ayreianvenusaur', 'ground_idle')"
+      ],
+      "transformTicks": 5
+    },
+    "walking": {
+      "condition": "!q.in_air && !q.is_sprinting",
+      "poseTypes": [
+        "walk",
+        "swim"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('vanguard_ayreianvenusaur', 'blink')"
+      ],
+      "animations": [
+        "q.look('head', 1, 0, 10, -20, 0, 0)",
+        "q.bedrock('vanguard_ayreianvenusaur', 'ground_walk')"
+      ],
+      "transformTicks": 5
+    },
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "namedAnimations": {
+        "cry": "q.bedrock_stateful('vanguard_ayreianvenusaur', 'cry')"
+      },
+      "animations": [
+        "q.bedrock('vanguard_ayreianvenusaur', 'sleep')"
+      ]
+    }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('vanguard_ayreianvenusaur', 'cry')",
+    "recoil": "q.bedrock_stateful('vanguard_ayreianvenusaur', 'recoil')"
+  }
+}

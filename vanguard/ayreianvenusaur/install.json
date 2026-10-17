@@ -1,6 +1,15 @@
 {
   "files": {
     "88_venusaur_ayreian.json": "assets/cobblemon/bedrock/species/additional_forms/88_venusaur_ayreian.json",
-    "ayreianvenusaur.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianvenusaur.png"
+    "ayreian_venusaur_preview.png": "assets/cobblemon/ayreian_venusaur_preview.png",
+    "ayreianvenusaur.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianvenusaur.png",
+    "ayreianvenusaur_alpha.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianvenusaur/ayreianvenusaur_alpha.png",
+    "ayreianvenusaur_emmissive.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianvenusaur/ayreianvenusaur_emmissive.png",
+    "ayreianvenusaur_emmissive_shiny.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianvenusaur/ayreianvenusaur_emmissive_shiny.png",
+    "ayreianvenusaur_shiny.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianvenusaur/ayreianvenusaur_shiny.png",
+    "texture__ayreianvenusaur.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianvenusaur/ayreianvenusaur.png",
+    "vanguard_ayreianvenusaur.animation.json": "assets/cobblemon/bedrock/pokemon/animations/vanguard_ayreianvenusaur.animation.json",
+    "vanguard_ayreianvenusaur.geo.json": "assets/cobblemon/bedrock/pokemon/models/vanguard_ayreianvenusaur.geo.json",
+    "vanguard_ayreianvenusaur.json": "assets/cobblemon/bedrock/pokemon/posers/vanguard_ayreianvenusaur.json"
   }
 }

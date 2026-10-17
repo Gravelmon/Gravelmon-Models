@@ -1,0 +1,40 @@
+{
+  "game": "pokemon",
+  "pokemon": "venusaur",
+  "entries": [
+    {
+      "formAspects": [
+        "ayreian"
+      ],
+      "inheritsFrom": {
+        "pokemon": "venusaur",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-10-17T14:09:11.311Z",
+      "models": [
+        "vanguard/ayreianvenusaur/vanguard_ayreianvenusaur.geo.json"
+      ],
+      "animations": [
+        "vanguard/ayreianvenusaur/vanguard_ayreianvenusaur.animation.json"
+      ],
+      "textures": [
+        "vanguard/ayreianvenusaur/ayreian_venusaur_preview.png",
+        "vanguard/ayreianvenusaur/texture__ayreianvenusaur.png",
+        "vanguard/ayreianvenusaur/ayreianvenusaur_alpha.png",
+        "vanguard/ayreianvenusaur/ayreianvenusaur_emmissive.png",
+        "vanguard/ayreianvenusaur/ayreianvenusaur_emmissive_shiny.png",
+        "vanguard/ayreianvenusaur/ayreianvenusaur_shiny.png",
+        "vanguard/ayreianvenusaur/ayreianvenusaur.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
