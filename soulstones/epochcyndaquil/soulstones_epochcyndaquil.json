@@ -1,0 +1,72 @@
+{
+  "portraitScale": 1.4,
+  "portraitTranslation": [
+    -0.26,
+    0,
+    0
+  ],
+  "profileScale": 0.65,
+  "profileTranslation": [
+    0,
+    0.8,
+    0
+  ],
+  "headBone": "head",
+  "rootBone": "cyndaquil",
+  "poses": {
+    "pose": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochcyndaquil', 'sleep')"
+      ]
+    },
+    "standing": {
+      "isBattle": false,
+      "condition": "{ !it.isBattling }",
+      "poseTypes": [
+        "stand",
+        "float",
+        "hover",
+        "profile",
+        "portrait",
+        "none"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('soulstones_epochcyndaquil', 'ground_idle')"
+      ],
+      "transformTicks": 10
+    },
+    "walking": {
+      "poseTypes": [
+        "walk",
+        "swim",
+        "fly"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('soulstones_epochcyndaquil', 'ground_walk')"
+      ],
+      "transformTicks": 10
+    },
+    "battle_idle": {
+      "isBattle": true,
+      "condition": "{ it.isBattling }",
+      "poseTypes": [
+        "stand",
+        "float",
+        "hover"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('soulstones_epochcyndaquil', 'battle_idle')"
+      ],
+      "transformTicks": 10
+    }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('cyndaquil', 'battle_cry')"
+  }
+}
