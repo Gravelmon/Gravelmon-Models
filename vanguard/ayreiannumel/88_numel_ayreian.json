@@ -1,14 +1,14 @@
 {
   "species": "cobblemon:numel",
-  "order": 97,
+  "order": 88,
   "variations": [
     {
       "aspects": [
         "ayreian"
       ],
-      "model": "cobblemon:cutout_gravelmon_43_by_47.geo",
-      "poser": "cobblemon:cutout_gravelmon_43_by_47",
-      "texture": "cobblemon:textures/pokemon/vanguard/ayreiannumel.png",
+      "poser": "cobblemon:vanguard_ayreiannumel",
+      "model": "cobblemon:vanguard_ayreiannumel.geo",
+      "texture": "cobblemon:textures/pokemon/vanguard/ayreiannumel/ayreian_numel.png",
       "layers": [
         {
           "name": "emissive"
@@ -33,6 +33,26 @@
         },
         {
           "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "ayreian"
+      ],
+      "texture": "cobblemon:textures/pokemon/vanguard/ayreiannumel/ayreian_numel_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "ayreian"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/vanguard/ayreiannumel/ayreian_numel_alpha.png",
+          "emissive": true
         }
       ]
     }

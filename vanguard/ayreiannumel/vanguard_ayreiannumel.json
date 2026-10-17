@@ -1,0 +1,75 @@
+{
+  "portraitScale": 1.8,
+  "portraitTranslation": [
+    -0.6,
+    -0.25,
+    0
+  ],
+  "profileScale": 0.9,
+  "profileTranslation": [
+    0,
+    0.35,
+    0
+  ],
+  "headBone": "head",
+  "rootBone": "numel",
+  "poses": {
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "animations": [
+        "q.bedrock('vanguard_ayreiannumel', 'sleep')"
+      ]
+    },
+    "standing": {
+      "isBattle": false,
+      "condition": "{ !it.isBattling }",
+      "poseTypes": [
+        "profile",
+        "portrait",
+        "stand",
+        "float",
+        "hover",
+        "none"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('vanguard_ayreiannumel', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('vanguard_ayreiannumel', 'ground_idle')"
+      ]
+    },
+    "walk": {
+      "poseTypes": [
+        "walk",
+        "swim",
+        "fly"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('vanguard_ayreiannumel', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('vanguard_ayreiannumel', 'ground_walk')"
+      ]
+    },
+    "battle_idle": {
+      "isBattle": true,
+      "condition": "{ it.isBattling }",
+      "poseTypes": [
+        "stand",
+        "float",
+        "hover"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('vanguard_ayreiannumel', 'battle_idle')"
+      ]
+    }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('vanguard_ayreiannumel', 'cry')"
+  }
+}
