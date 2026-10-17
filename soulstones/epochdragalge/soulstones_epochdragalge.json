@@ -1,0 +1,50 @@
+{
+  "portraitScale": 2.4,
+  "portraitTranslation": [
+    -1.1,
+    1.09,
+    0
+  ],
+  "profileScale": 0.7,
+  "profileTranslation": [
+    -0.02,
+    0.77,
+    -6
+  ],
+  "headBone": "head",
+  "rootBone": "dragalge",
+  "poses": {
+    "standing": {
+      "poseTypes": [
+        "stand",
+        "float",
+        "hover",
+        "profile",
+        "portrait",
+        "none"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochdragalge', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochdragalge', 'water_idle')"
+      ]
+    },
+    "walk": {
+      "poseTypes": [
+        "walk",
+        "swim",
+        "fly"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochdragalge', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochdragalge', 'water_idle')"
+      ]
+    }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('soulstones_epochdragalge', 'cry')"
+  }
+}

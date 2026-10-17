@@ -1,6 +1,13 @@
 {
   "files": {
     "164_dragalge_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_dragalge_epoch.json",
-    "epochdragalge.png": "assets/cobblemon/textures/pokemon/soulstones/epochdragalge.png"
+    "dragalge_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochdragalge/dragalge_epoch.png",
+    "dragalge_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochdragalge/dragalge_epoch_alpha.png",
+    "dragalge_epoch_preview.png": "assets/cobblemon/dragalge_epoch_preview.png",
+    "dragalge_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochdragalge/dragalge_epoch_shiny.png",
+    "epochdragalge.png": "assets/cobblemon/textures/pokemon/soulstones/epochdragalge.png",
+    "soulstones_epochdragalge.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochdragalge.animation.json",
+    "soulstones_epochdragalge.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochdragalge.geo.json",
+    "soulstones_epochdragalge.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochdragalge.json"
   }
 }

@@ -1,14 +1,14 @@
 {
   "species": "cobblemon:dragalge",
-  "order": 173,
+  "order": 164,
   "variations": [
     {
       "aspects": [
         "epoch"
       ],
-      "model": "cobblemon:cutout_gravelmon_76_by_93.geo",
-      "poser": "cobblemon:cutout_gravelmon_76_by_93",
-      "texture": "cobblemon:textures/pokemon/soulstones/epochdragalge.png",
+      "poser": "cobblemon:soulstones_epochdragalge",
+      "model": "cobblemon:soulstones_epochdragalge.geo",
+      "texture": "cobblemon:textures/pokemon/soulstones/epochdragalge/dragalge_epoch.png",
       "layers": [
         {
           "name": "emissive"
@@ -33,6 +33,26 @@
         },
         {
           "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "epoch"
+      ],
+      "texture": "cobblemon:textures/pokemon/soulstones/epochdragalge/dragalge_epoch_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "epoch"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/soulstones/epochdragalge/dragalge_epoch_alpha.png",
+          "emissive": true
         }
       ]
     }
