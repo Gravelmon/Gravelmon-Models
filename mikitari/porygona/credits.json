@@ -1,0 +1,30 @@
+{
+  "game": "mikitari",
+  "pokemon": "porygona",
+  "entries": [
+    {
+      "contributor": {
+        "login": "lapislizuli"
+      },
+      "contributors": [
+        {
+          "login": "lapislizuli"
+        }
+      ],
+      "submittedAt": "2026-10-17T18:11:47.089Z",
+      "models": [
+        "mikitari/porygona/mikitari_porygona.geo.json"
+      ],
+      "animations": [
+        "mikitari/porygona/mikitari_porygona.animation.json"
+      ],
+      "textures": [
+        "mikitari/porygona/texture__porygona.png",
+        "mikitari/porygona/porygona_alpha.png",
+        "mikitari/porygona/porygona_shiny.png",
+        "mikitari/porygona/porygona.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

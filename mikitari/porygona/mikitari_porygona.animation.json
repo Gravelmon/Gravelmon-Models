@@ -1,0 +1,129 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.mikitari_porygona.ground_idle": {
+      "loop": true,
+      "bones": {
+        "body": {
+          "position": [
+            0,
+            3,
+            0
+          ]
+        },
+        "leg1": {
+          "rotation": [
+            0,
+            -15,
+            0
+          ]
+        },
+        "pupil2": {
+          "position": [
+            0,
+            0,
+            -1
+          ]
+        },
+        "pupil1": {
+          "position": [
+            0,
+            0,
+            -1
+          ]
+        },
+        "leg2": {
+          "rotation": [
+            0,
+            15,
+            0
+          ]
+        }
+      }
+    },
+    "animation.mikitari_porygona.ground_walk": {
+      "loop": true,
+      "animation_length": 1.25,
+      "bones": {
+        "head": {
+          "rotation": {
+            "0.0": [
+              -7.5,
+              0,
+              0
+            ],
+            "1.25": [
+              -7.5,
+              0,
+              0
+            ]
+          }
+        },
+        "body": {
+          "rotation": [
+            12.5,
+            0,
+            0
+          ],
+          "position": [
+            0,
+            3,
+            0
+          ]
+        },
+        "leg1": {
+          "rotation": {
+            "0.0": [
+              12.5,
+              -15,
+              0
+            ],
+            "0.625": [
+              -2.5,
+              -15,
+              0
+            ],
+            "1.25": [
+              16.6667,
+              -15,
+              0
+            ]
+          }
+        },
+        "pupil2": {
+          "position": [
+            0,
+            0,
+            -1
+          ]
+        },
+        "pupil1": {
+          "position": [
+            0,
+            0,
+            -1
+          ]
+        },
+        "leg2": {
+          "rotation": {
+            "0.0": [
+              -2.5,
+              15,
+              0
+            ],
+            "0.625": [
+              12.5,
+              15,
+              0
+            ],
+            "1.25": [
+              0,
+              15,
+              0
+            ]
+          }
+        }
+      }
+    }
+  }
+}
