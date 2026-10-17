@@ -1,6 +1,12 @@
 {
   "files": {
     "0_porygona_base.json": "assets/cobblemon/bedrock/species/mikitari/0_porygona_base.json",
-    "porygona.png": "assets/cobblemon/textures/pokemon/mikitari/porygona.png"
+    "mikitari_porygona.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mikitari_porygona.animation.json",
+    "mikitari_porygona.geo.json": "assets/cobblemon/bedrock/pokemon/models/mikitari_porygona.geo.json",
+    "mikitari_porygona.json": "assets/cobblemon/bedrock/pokemon/posers/mikitari_porygona.json",
+    "porygona.png": "assets/cobblemon/textures/pokemon/mikitari/porygona.png",
+    "porygona_alpha.png": "assets/cobblemon/textures/pokemon/mikitari/porygona/porygona_alpha.png",
+    "porygona_shiny.png": "assets/cobblemon/textures/pokemon/mikitari/porygona/porygona_shiny.png",
+    "texture__porygona.png": "assets/cobblemon/textures/pokemon/mikitari/porygona/porygona.png"
   }
 }
