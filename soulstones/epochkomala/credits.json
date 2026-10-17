@@ -1,0 +1,38 @@
+{
+  "game": "pokemon",
+  "pokemon": "komala",
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "komala",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-10-17T13:30:56.488Z",
+      "models": [
+        "soulstones/epochkomala/soulstones_epochkomala.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochkomala/soulstones_epochkomala.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochkomala/komala_epoch.png",
+        "soulstones/epochkomala/komala_epoch_alpha.png",
+        "soulstones/epochkomala/komala_epoch_preview.png",
+        "soulstones/epochkomala/komala_epoch_shiny.png",
+        "soulstones/epochkomala/epochkomala.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
