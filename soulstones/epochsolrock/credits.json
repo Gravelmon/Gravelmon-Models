@@ -1,0 +1,39 @@
+{
+  "game": "pokemon",
+  "pokemon": "solrock",
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "solrock",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "Lubasa"
+      },
+      "contributors": [
+        {
+          "login": "Lubasa"
+        }
+      ],
+      "submittedAt": "2026-10-17T22:06:48.627Z",
+      "models": [
+        "soulstones/epochsolrock/soulstones_epochsolrock.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochsolrock/soulstones_epochsolrock.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochsolrock/solrock_epoch.png",
+        "soulstones/epochsolrock/solrock_epoch_alpha.png",
+        "soulstones/epochsolrock/solrock_epoch_shiny.png",
+        "soulstones/epochsolrock/epochsolrock.png"
+      ],
+      "sounds": [
+        "soulstones/epochsolrock/epochsolrock_cry.ogg"
+      ]
+    }
+  ]
+}
