@@ -1,6 +1,13 @@
 {
   "files": {
     "24_toxapex_hoennian.json": "assets/cobblemon/bedrock/species/additional_forms/24_toxapex_hoennian.json",
+    "blazing_emerald_hoenniantoxapex.animation.json": "assets/cobblemon/bedrock/pokemon/animations/blazing_emerald_hoenniantoxapex.animation.json",
+    "blazing_emerald_hoenniantoxapex.geo.json": "assets/cobblemon/bedrock/pokemon/models/blazing_emerald_hoenniantoxapex.geo.json",
+    "blazing_emerald_hoenniantoxapex.json": "assets/cobblemon/bedrock/pokemon/posers/blazing_emerald_hoenniantoxapex.json",
+    "cap_hoennian_toxapex.png": "assets/cobblemon/cap_hoennian_toxapex.png",
+    "hoennian_toxapex.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniantoxapex/hoennian_toxapex.png",
+    "hoennian_toxapex_alpha.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniantoxapex/hoennian_toxapex_alpha.png",
+    "hoennian_toxapex_shiny.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniantoxapex/hoennian_toxapex_shiny.png",
     "hoenniantoxapex.png": "assets/cobblemon/textures/pokemon/blazing_emerald/hoenniantoxapex.png",
     "toxapex_hoennian_cry.ogg": "assets/gravelmon/sounds/pokemon/blazing_emerald/toxapex_hoennian_cry.ogg"
   }

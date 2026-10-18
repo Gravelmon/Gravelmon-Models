@@ -1,0 +1,38 @@
+{
+  "game": "pokemon",
+  "pokemon": "toxapex",
+  "entries": [
+    {
+      "formAspects": [
+        "hoennian"
+      ],
+      "inheritsFrom": {
+        "pokemon": "toxapex",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "Ivan0519"
+      },
+      "contributors": [
+        {
+          "login": "Ivan0519"
+        }
+      ],
+      "submittedAt": "2026-10-18T21:15:35.722Z",
+      "models": [
+        "blazing_emerald/hoenniantoxapex/blazing_emerald_hoenniantoxapex.geo.json"
+      ],
+      "animations": [
+        "blazing_emerald/hoenniantoxapex/blazing_emerald_hoenniantoxapex.animation.json"
+      ],
+      "textures": [
+        "blazing_emerald/hoenniantoxapex/cap_hoennian_toxapex.png",
+        "blazing_emerald/hoenniantoxapex/hoennian_toxapex.png",
+        "blazing_emerald/hoenniantoxapex/hoennian_toxapex_alpha.png",
+        "blazing_emerald/hoenniantoxapex/hoennian_toxapex_shiny.png",
+        "blazing_emerald/hoenniantoxapex/hoenniantoxapex.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
