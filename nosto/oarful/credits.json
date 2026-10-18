@@ -1,0 +1,30 @@
+{
+  "game": "nosto",
+  "pokemon": "oarful",
+  "entries": [
+    {
+      "contributor": {
+        "login": "nqwebasaurus"
+      },
+      "contributors": [
+        {
+          "login": "nqwebasaurus"
+        }
+      ],
+      "submittedAt": "2026-10-18T17:07:00.996Z",
+      "models": [
+        "nosto/oarful/nosto_oarful.geo.json"
+      ],
+      "animations": [
+        "nosto/oarful/nosto_oarful.animation.json"
+      ],
+      "textures": [
+        "nosto/oarful/texture__oarful.png",
+        "nosto/oarful/oarful_alpha.png",
+        "nosto/oarful/oarful_shiny.png",
+        "nosto/oarful/oarful.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

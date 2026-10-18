@@ -1,6 +1,12 @@
 {
   "files": {
     "0_oarful_base.json": "assets/cobblemon/bedrock/species/nosto/0_oarful_base.json",
-    "oarful.png": "assets/cobblemon/textures/pokemon/nosto/oarful.png"
+    "nosto_oarful.animation.json": "assets/cobblemon/bedrock/pokemon/animations/nosto_oarful.animation.json",
+    "nosto_oarful.geo.json": "assets/cobblemon/bedrock/pokemon/models/nosto_oarful.geo.json",
+    "nosto_oarful.json": "assets/cobblemon/bedrock/pokemon/posers/nosto_oarful.json",
+    "oarful.png": "assets/cobblemon/textures/pokemon/nosto/oarful.png",
+    "oarful_alpha.png": "assets/cobblemon/textures/pokemon/nosto/oarful/oarful_alpha.png",
+    "oarful_shiny.png": "assets/cobblemon/textures/pokemon/nosto/oarful/oarful_shiny.png",
+    "texture__oarful.png": "assets/cobblemon/textures/pokemon/nosto/oarful/oarful.png"
   }
 }

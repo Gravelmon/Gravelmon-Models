@@ -1,0 +1,46 @@
+{
+  "portraitScale": 1.04,
+  "portraitTranslation": [
+    -0.31,
+    -0.23,
+    0
+  ],
+  "profileScale": 0.96,
+  "profileTranslation": [
+    -0.27,
+    0.02,
+    0
+  ],
+  "headBone": "head",
+  "rootBone": "oarful",
+  "poses": {
+    "float": {
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('nosto_oarful', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('nosto_oarful', 'water_idle')"
+      ]
+    },
+    "swim": {
+      "poseTypes": [
+        "swim"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('nosto_oarful', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('nosto_oarful', 'water_swim')"
+      ]
+    }
+  }
+}
