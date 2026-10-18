@@ -1,6 +1,12 @@
 {
   "files": {
     "0_buttereef_base.json": "assets/cobblemon/bedrock/species/nosto/0_buttereef_base.json",
-    "buttereef.png": "assets/cobblemon/textures/pokemon/nosto/buttereef.png"
+    "buttereef.png": "assets/cobblemon/textures/pokemon/nosto/buttereef.png",
+    "buttereef_alpha.png": "assets/cobblemon/textures/pokemon/nosto/buttereef/buttereef_alpha.png",
+    "buttereef_shiny.png": "assets/cobblemon/textures/pokemon/nosto/buttereef/buttereef_shiny.png",
+    "nosto_buttereef.animation.json": "assets/cobblemon/bedrock/pokemon/animations/nosto_buttereef.animation.json",
+    "nosto_buttereef.geo.json": "assets/cobblemon/bedrock/pokemon/models/nosto_buttereef.geo.json",
+    "nosto_buttereef.json": "assets/cobblemon/bedrock/pokemon/posers/nosto_buttereef.json",
+    "texture__buttereef.png": "assets/cobblemon/textures/pokemon/nosto/buttereef/buttereef.png"
   }
 }
