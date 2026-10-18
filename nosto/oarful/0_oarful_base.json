@@ -4,9 +4,9 @@
   "variations": [
     {
       "aspects": [],
-      "model": "cobblemon:cutout_gravelmon_75_by_92.geo",
-      "poser": "cobblemon:cutout_gravelmon_75_by_92",
-      "texture": "cobblemon:textures/pokemon/nosto/oarful.png",
+      "poser": "cobblemon:nosto_oarful",
+      "model": "cobblemon:nosto_oarful.geo",
+      "texture": "cobblemon:textures/pokemon/nosto/oarful/oarful.png",
       "layers": [
         {
           "name": "emissive"
@@ -31,6 +31,24 @@
         },
         {
           "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/nosto/oarful/oarful_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/nosto/oarful/oarful_alpha.png",
+          "emissive": true
         }
       ]
     }
