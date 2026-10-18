@@ -4,9 +4,9 @@
   "variations": [
     {
       "aspects": [],
-      "model": "cobblemon:cutout_gravelmon_44_by_51.geo",
-      "poser": "cobblemon:cutout_gravelmon_44_by_51",
-      "texture": "cobblemon:textures/pokemon/nosto/buttereef.png",
+      "poser": "cobblemon:nosto_buttereef",
+      "model": "cobblemon:nosto_buttereef.geo",
+      "texture": "cobblemon:textures/pokemon/nosto/buttereef/buttereef.png",
       "layers": [
         {
           "name": "emissive"
@@ -31,6 +31,24 @@
         },
         {
           "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/nosto/buttereef/buttereef_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/nosto/buttereef/buttereef_alpha.png",
+          "emissive": true
         }
       ]
     }

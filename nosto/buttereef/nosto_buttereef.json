@@ -1,0 +1,73 @@
+{
+  "portraitScale": 1.41,
+  "portraitTranslation": [
+    -0.08,
+    -0.25,
+    0
+  ],
+  "profileScale": 1.12,
+  "profileTranslation": [
+    -0.05,
+    0.1,
+    0
+  ],
+  "rootBone": "Buttereef",
+  "poses": {
+    "standing": {
+      "poseTypes": [
+        "stand",
+        "none"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('nosto_buttereef', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('nosto_buttereef', 'ground_idle')"
+      ]
+    },
+    "swim": {
+      "poseTypes": [
+        "swim",
+        "portrait",
+        "profile"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('nosto_buttereef', 'blink')"
+      ],
+      "namedAnimations": {
+        "faint": "q.bedrock_primary('nosto_buttereef', 'water_faint', q.curve('one'))"
+      },
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('nosto_buttereef', 'water_swim')"
+      ]
+    },
+    "float": {
+      "poseTypes": [
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('nosto_buttereef', 'blink')"
+      ],
+      "namedAnimations": {
+        "faint": "q.bedrock_primary('nosto_buttereef', 'water_faint', q.curve('one'))"
+      },
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('nosto_buttereef', 'water_idle')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "animations": [
+        "q.bedrock('nosto_buttereef', 'sleep')"
+      ]
+    }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('nosto_buttereef', 'cry')"
+  }
+}

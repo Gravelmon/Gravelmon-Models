@@ -1,0 +1,30 @@
+{
+  "game": "nosto",
+  "pokemon": "buttereef",
+  "entries": [
+    {
+      "contributor": {
+        "login": "nqwebasaurus"
+      },
+      "contributors": [
+        {
+          "login": "nqwebasaurus"
+        }
+      ],
+      "submittedAt": "2026-10-18T17:01:02.080Z",
+      "models": [
+        "nosto/buttereef/nosto_buttereef.geo.json"
+      ],
+      "animations": [
+        "nosto/buttereef/nosto_buttereef.animation.json"
+      ],
+      "textures": [
+        "nosto/buttereef/texture__buttereef.png",
+        "nosto/buttereef/buttereef_alpha.png",
+        "nosto/buttereef/buttereef_shiny.png",
+        "nosto/buttereef/buttereef.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
