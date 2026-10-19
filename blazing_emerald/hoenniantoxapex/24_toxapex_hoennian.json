@@ -1,14 +1,14 @@
 {
   "species": "cobblemon:toxapex",
-  "order": 33,
+  "order": 24,
   "variations": [
     {
       "aspects": [
         "hoennian"
       ],
-      "model": "cobblemon:cutout_gravelmon_64_by_64.geo",
-      "poser": "cobblemon:cutout_gravelmon_64_by_64",
-      "texture": "cobblemon:textures/pokemon/blazing_emerald/hoenniantoxapex.png",
+      "poser": "cobblemon:blazing_emerald_hoenniantoxapex",
+      "model": "cobblemon:blazing_emerald_hoenniantoxapex.geo",
+      "texture": "cobblemon:textures/pokemon/blazing_emerald/hoenniantoxapex/hoennian_toxapex.png",
       "layers": [
         {
           "name": "emissive"
@@ -33,6 +33,26 @@
         },
         {
           "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "hoennian"
+      ],
+      "texture": "cobblemon:textures/pokemon/blazing_emerald/hoenniantoxapex/hoennian_toxapex_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "hoennian"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/blazing_emerald/hoenniantoxapex/hoennian_toxapex_alpha.png",
+          "emissive": true
         }
       ]
     }
