@@ -1,17 +1,19 @@
 {
   "species": "cobblemon:turtwig",
-  "order": 173,
+  "order": 164,
   "variations": [
     {
       "aspects": [
         "epoch"
       ],
-      "model": "cobblemon:cutout_gravelmon_38_by_51.geo",
-      "poser": "cobblemon:cutout_gravelmon_38_by_51",
-      "texture": "cobblemon:textures/pokemon/soulstones/epochturtwig.png",
+      "poser": "cobblemon:soulstones_epochturtwig",
+      "model": "cobblemon:soulstones_epochturtwig.geo",
+      "texture": "cobblemon:textures/pokemon/soulstones/epochturtwig/turtwig_epoch.png",
       "layers": [
         {
-          "name": "emissive"
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/soulstones/epochturtwig/turtwig_epoch_emissive.png",
+          "emissive": true
         },
         {
           "name": "transparentEmissive"
@@ -33,6 +35,33 @@
         },
         {
           "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "epoch"
+      ],
+      "texture": "cobblemon:textures/pokemon/soulstones/epochturtwig/turtwig_epoch_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/soulstones/epochturtwig/turtwig_epoch_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "epoch"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/soulstones/epochturtwig/turtwig_epoch_alpha.png",
+          "emissive": true
         }
       ]
     }
