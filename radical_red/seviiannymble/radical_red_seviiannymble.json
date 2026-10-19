@@ -22,11 +22,11 @@
         "float"
       ],
       "quirks": [
-        "q.bedrock_quirk('nymble', 'blink')"
+        "q.bedrock_quirk('radical_red_seviiannymble', 'blink')"
       ],
       "animations": [
         "q.look('head_ai')",
-        "q.bedrock('nymble', 'ground_idle')"
+        "q.bedrock('radical_red_seviiannymble', 'ground_idle')"
       ]
     },
     "walking": {
@@ -35,7 +35,7 @@
       ],
       "animations": [
         "q.look('head_ai')",
-        "q.bedrock('nymble', 'ground_idle')",
+        "q.bedrock('radical_red_seviiannymble', 'ground_idle')",
         "q.biped_walk(0.88, 0.3, 'legs_front', 'legs_back')"
       ]
     }
