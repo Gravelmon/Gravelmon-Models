@@ -1,17 +1,19 @@
 {
   "species": "cobblemon:nymble",
-  "order": 95,
+  "order": 86,
   "variations": [
     {
       "aspects": [
         "seviian"
       ],
-      "model": "cobblemon:cutout_gravelmon_64_by_64.geo",
-      "poser": "cobblemon:cutout_gravelmon_64_by_64",
-      "texture": "cobblemon:textures/pokemon/radical_red/seviiannymble.png",
+      "poser": "cobblemon:radical_red_seviiannymble",
+      "model": "cobblemon:radical_red_seviiannymble.geo",
+      "texture": "cobblemon:textures/pokemon/radical_red/seviiannymble/seviiannymble.png",
       "layers": [
         {
-          "name": "emissive"
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/radical_red/seviiannymble/seviiannymble_emissive.png",
+          "emissive": true
         },
         {
           "name": "transparentEmissive"
@@ -35,6 +37,27 @@
           "texture": "cobblemon:textures/empty_texture.png"
         }
       ]
+    },
+    {
+      "aspects": [
+        "seviian",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/radical_red/seviiannymble/seviiannymble_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/radical_red/seviiannymble/seviiannymble_shiny_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "seviian",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/pokemon/radical_red/seviiannymble/seviiannymble_alpha.png"
     }
   ]
 }

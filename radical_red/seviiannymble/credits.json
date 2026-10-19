@@ -1,0 +1,37 @@
+{
+  "game": "pokemon",
+  "pokemon": "nymble",
+  "entries": [
+    {
+      "formAspects": [
+        "seviian"
+      ],
+      "inheritsFrom": {
+        "pokemon": "nymble",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "elpgeon"
+      },
+      "contributors": [
+        {
+          "login": "elpgeon"
+        }
+      ],
+      "submittedAt": "2026-10-16T13:55:02.010Z",
+      "models": [
+        "radical_red/seviiannymble/seviiannymble.geo.json"
+      ],
+      "animations": [],
+      "textures": [
+        "radical_red/seviiannymble/texture__seviiannymble.png",
+        "radical_red/seviiannymble/seviiannymble_alpha.png",
+        "radical_red/seviiannymble/seviiannymble_emissive.png",
+        "radical_red/seviiannymble/seviiannymble_shiny.png",
+        "radical_red/seviiannymble/seviiannymble_shiny_emissive.png",
+        "radical_red/seviiannymble/seviiannymble.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
