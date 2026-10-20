@@ -1,0 +1,38 @@
+{
+  "game": "pokemon",
+  "pokemon": "turtwig",
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "turtwig",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-10-19T23:32:02.335Z",
+      "models": [
+        "soulstones/epochturtwig/soulstones_epochturtwig.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochturtwig/soulstones_epochturtwig.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochturtwig/turtwig_epoch.png",
+        "soulstones/epochturtwig/turtwig_epoch_alpha.png",
+        "soulstones/epochturtwig/turtwig_epoch_emissive.png",
+        "soulstones/epochturtwig/turtwig_epoch_shiny.png",
+        "soulstones/epochturtwig/epochturtwig.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

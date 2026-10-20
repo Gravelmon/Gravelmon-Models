@@ -1,6 +1,13 @@
 {
   "files": {
     "164_turtwig_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_turtwig_epoch.json",
-    "epochturtwig.png": "assets/cobblemon/textures/pokemon/soulstones/epochturtwig.png"
+    "epochturtwig.png": "assets/cobblemon/textures/pokemon/soulstones/epochturtwig.png",
+    "soulstones_epochturtwig.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochturtwig.animation.json",
+    "soulstones_epochturtwig.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochturtwig.geo.json",
+    "soulstones_epochturtwig.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochturtwig.json",
+    "turtwig_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochturtwig/turtwig_epoch.png",
+    "turtwig_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochturtwig/turtwig_epoch_alpha.png",
+    "turtwig_epoch_emissive.png": "assets/cobblemon/textures/pokemon/soulstones/epochturtwig/turtwig_epoch_emissive.png",
+    "turtwig_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochturtwig/turtwig_epoch_shiny.png"
   }
 }
