@@ -4,8 +4,7 @@
   "variations": [
     {
       "aspects": [],
-      "poser": "cobblemon:palmia_glidird",
-      "model": "cobblemon:palmia_glidird.geo",
+      "model": "cobblemon:glidird.geo",
       "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird.png",
       "layers": [
         {

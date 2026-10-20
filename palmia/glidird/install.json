@@ -1,6 +1,7 @@
 {
   "files": {
     "0_glidird_base.json": "assets/cobblemon/bedrock/species/palmia/0_glidird_base.json",
+    "glidird.geo.json": "assets/cobblemon/bedrock/pokemon/models/glidird.geo.json",
     "glidird.png": "assets/cobblemon/textures/pokemon/palmia/glidird.png",
     "glidird_alpha.png": "assets/cobblemon/textures/pokemon/palmia/glidird/glidird_alpha.png",
     "glidird_blood.png": "assets/cobblemon/textures/pokemon/palmia/glidird/glidird_blood.png",

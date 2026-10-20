@@ -15,6 +15,23 @@
       "models": [
         "palmia/glidird/palmia_glidird.geo.json"
       ],
+      "animations": [],
+      "textures": [],
+      "sounds": []
+    },
+    {
+      "contributor": {
+        "login": "Ammonite616"
+      },
+      "contributors": [
+        {
+          "login": "Ammonite616"
+        }
+      ],
+      "submittedAt": "2026-10-20T00:04:51.748Z",
+      "models": [
+        "palmia/glidird/glidird.geo.json"
+      ],
       "animations": [
         "palmia/glidird/palmia_glidird.animation.json"
       ],

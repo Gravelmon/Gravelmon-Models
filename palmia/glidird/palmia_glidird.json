@@ -1,14 +1,14 @@
 {
-  "portraitScale": 2.59,
+  "portraitScale": 1,
   "portraitTranslation": [
-    0.04,
-    -1.29,
+    0,
+    0,
     0
   ],
   "profileScale": 1,
   "profileTranslation": [
-    0.08,
-    0.41,
+    0.16,
+    0.39,
     0
   ],
   "rootBone": "glidird",
@@ -25,7 +25,6 @@
         "q.bedrock_quirk('palmia_glidird', 'blink')"
       ],
       "animations": [
-        "q.look('head')",
         "q.bedrock('palmia_glidird', 'ground_idle')"
       ]
     },
@@ -38,7 +37,6 @@
         "q.bedrock_quirk('palmia_glidird', 'blink')"
       ],
       "animations": [
-        "q.look('head')",
         "q.bedrock('palmia_glidird', 'air_fly')"
       ]
     },
@@ -51,7 +49,6 @@
         "q.bedrock_quirk('palmia_glidird', 'blink')"
       ],
       "animations": [
-        "q.look('head')",
         "q.bedrock('palmia_glidird', 'air_idle')"
       ]
     },

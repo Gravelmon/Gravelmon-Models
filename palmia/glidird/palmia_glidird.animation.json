@@ -2,6 +2,7 @@
   "format_version": "1.8.0",
   "animations": {
     "animation.palmia_glidird.faint": {
+      "override_previous_animation": true,
       "loop": "hold_on_last_frame",
       "animation_length": 3,
       "bones": {
@@ -490,6 +491,7 @@
     "animation.palmia_glidird.ground_idle": {
       "loop": true,
       "override_previous_animation": true,
+      "animation_length": 10,
       "bones": {
         "body": {
           "rotation": {
@@ -1027,6 +1029,7 @@
     "animation.palmia_glidird.air_idle": {
       "loop": true,
       "override_previous_animation": true,
+      "animation_length": 10,
       "bones": {
         "body": {
           "rotation": {
@@ -1156,6 +1159,7 @@
     "animation.palmia_glidird.air_fly": {
       "loop": true,
       "override_previous_animation": true,
+      "animation_length": 10,
       "bones": {
         "body": {
           "rotation": {
