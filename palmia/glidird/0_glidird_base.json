@@ -132,6 +132,19 @@
     },
     {
       "aspects": [
+        "dragon"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_dragon.png"
+    },
+    {
+      "aspects": [
+        "dragon",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_dragon.png"
+    },
+    {
+      "aspects": [
         "eldritch"
       ],
       "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_eldritch.png"
@@ -229,8 +242,8 @@
     },
     {
       "aspects": [
-        "shiny",
-        "ground"
+        "ground",
+        "shiny"
       ],
       "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_ground.png"
     },
@@ -242,8 +255,8 @@
     },
     {
       "aspects": [
-        "shiny",
-        "ice"
+        "ice",
+        "shiny"
       ],
       "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_ice.png"
     },
@@ -255,8 +268,8 @@
     },
     {
       "aspects": [
-        "shiny",
-        "light"
+        "light",
+        "shiny"
       ],
       "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_light.png"
     },
@@ -268,8 +281,8 @@
     },
     {
       "aspects": [
-        "nuclear",
-        "shiny"
+        "shiny",
+        "nuclear"
       ],
       "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_nuclear.png"
     },
@@ -333,8 +346,8 @@
     },
     {
       "aspects": [
-        "shiny",
-        "rock"
+        "rock",
+        "shiny"
       ],
       "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_rock.png"
     },
@@ -359,8 +372,8 @@
     },
     {
       "aspects": [
-        "shiny",
-        "slime"
+        "slime",
+        "shiny"
       ],
       "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_slime.png"
     },
@@ -372,8 +385,8 @@
     },
     {
       "aspects": [
-        "shiny",
-        "sound"
+        "sound",
+        "shiny"
       ],
       "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_sound.png"
     },
@@ -385,8 +398,8 @@
     },
     {
       "aspects": [
-        "shiny",
-        "steel"
+        "steel",
+        "shiny"
       ],
       "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_steel.png"
     },
@@ -415,19 +428,6 @@
         "shiny"
       ],
       "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_wind.png"
-    },
-    {
-      "aspects": [
-        "dragon"
-      ],
-      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_dragon.png"
-    },
-    {
-      "aspects": [
-        "shiny",
-        "dragon"
-      ],
-      "texture": "cobblemon:textures/pokemon/palmia/glidird/glidird_shiny_dragon.png"
     }
   ]
 }

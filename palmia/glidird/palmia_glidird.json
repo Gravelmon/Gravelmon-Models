@@ -1,14 +1,14 @@
 {
-  "portraitScale": 2.59,
+  "portraitScale": 1.59,
   "portraitTranslation": [
     0.04,
-    -1.29,
+    -0.41,
     0
   ],
-  "profileScale": 1,
+  "profileScale": 1.04,
   "profileTranslation": [
-    0.08,
-    0.41,
+    0.03,
+    0.45,
     0
   ],
   "rootBone": "glidird",
@@ -25,9 +25,10 @@
         "q.bedrock_quirk('palmia_glidird', 'blink')"
       ],
       "animations": [
-        "q.look('head')",
         "q.bedrock('palmia_glidird', 'ground_idle')"
-      ]
+      ],
+      "transformTicks": 1,
+      "transformToTicks": 0.5
     },
     "fly": {
       "poseTypes": [
@@ -38,22 +39,25 @@
         "q.bedrock_quirk('palmia_glidird', 'blink')"
       ],
       "animations": [
-        "q.look('head')",
         "q.bedrock('palmia_glidird', 'air_fly')"
-      ]
+      ],
+      "transformTicks": 1,
+      "transformToTicks": 0.5
     },
     "hover": {
       "poseTypes": [
         "float",
-        "hover"
+        "hover",
+        "glide"
       ],
       "quirks": [
         "q.bedrock_quirk('palmia_glidird', 'blink')"
       ],
       "animations": [
-        "q.look('head')",
         "q.bedrock('palmia_glidird', 'air_idle')"
-      ]
+      ],
+      "transformTicks": 1,
+      "transformToTicks": 0.5
     },
     "sleep": {
       "poseTypes": [
@@ -61,7 +65,9 @@
       ],
       "animations": [
         "q.bedrock('palmia_glidird', 'sleep')"
-      ]
+      ],
+      "transformTicks": 1,
+      "transformToTicks": 1
     }
   },
   "animations": {
