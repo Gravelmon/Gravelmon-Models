@@ -1,6 +1,12 @@
 {
   "files": {
     "0_felinshii_base.json": "assets/cobblemon/bedrock/species/kuria/0_felinshii_base.json",
-    "felinshii.png": "assets/cobblemon/textures/pokemon/kuria/felinshii.png"
+    "felinshii.png": "assets/cobblemon/textures/pokemon/kuria/felinshii.png",
+    "felinshii_alpha.png": "assets/cobblemon/textures/pokemon/kuria/felinshii/felinshii_alpha.png",
+    "felinshii_shiny.png": "assets/cobblemon/textures/pokemon/kuria/felinshii/felinshii_shiny.png",
+    "kuria_felinshii.animation.json": "assets/cobblemon/bedrock/pokemon/animations/kuria_felinshii.animation.json",
+    "kuria_felinshii.geo.json": "assets/cobblemon/bedrock/pokemon/models/kuria_felinshii.geo.json",
+    "kuria_felinshii.json": "assets/cobblemon/bedrock/pokemon/posers/kuria_felinshii.json",
+    "texture__felinshii.png": "assets/cobblemon/textures/pokemon/kuria/felinshii/felinshii.png"
   }
 }
