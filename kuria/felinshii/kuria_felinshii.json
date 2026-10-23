@@ -1,0 +1,47 @@
+{
+  "portraitScale": 1.5,
+  "portraitTranslation": [
+    -0.1,
+    1.4,
+    0
+  ],
+  "profileScale": 0.6,
+  "profileTranslation": [
+    0,
+    0.9,
+    0
+  ],
+  "rootBone": "felinshii",
+  "poses": {
+    "standing": {
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('kuria_felinshii', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('kuria_felinshii', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "walk",
+        "swim"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('kuria_felinshii', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('kuria_felinshii', 'ground_idle')",
+        "q.biped_walk(0.6, 0.5, 'leg_left', 'leg_right')"
+      ]
+    }
+  }
+}

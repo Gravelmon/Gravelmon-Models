@@ -1,0 +1,30 @@
+{
+  "game": "kuria",
+  "pokemon": "felinshii",
+  "entries": [
+    {
+      "contributor": {
+        "login": "mitchooart"
+      },
+      "contributors": [
+        {
+          "login": "mitchooart"
+        }
+      ],
+      "submittedAt": "2026-10-23T08:03:42.406Z",
+      "models": [
+        "kuria/felinshii/kuria_felinshii.geo.json"
+      ],
+      "animations": [
+        "kuria/felinshii/kuria_felinshii.animation.json"
+      ],
+      "textures": [
+        "kuria/felinshii/texture__felinshii.png",
+        "kuria/felinshii/felinshii_alpha.png",
+        "kuria/felinshii/felinshii_shiny.png",
+        "kuria/felinshii/felinshii.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

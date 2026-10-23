@@ -1,0 +1,503 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.kuria_felinshii.ground_idle": {
+      "loop": true,
+      "bones": {
+        "body": {
+          "position": [
+            0,
+            -0.2,
+            0
+          ]
+        },
+        "leg_left": {
+          "rotation": [
+            -2.3911,
+            2.6043,
+            -5.1089
+          ]
+        },
+        "leg_left2": {
+          "rotation": [
+            7.5,
+            0,
+            0
+          ]
+        },
+        "leg_right": {
+          "rotation": [
+            -2.3911,
+            -2.6043,
+            5.1089
+          ]
+        },
+        "leg_right2": {
+          "rotation": [
+            7.5,
+            0,
+            0
+          ]
+        },
+        "arm_left": {
+          "rotation": [
+            7.5,
+            15,
+            42.5
+          ]
+        },
+        "arm_left2": {
+          "rotation": [
+            10,
+            10,
+            -17.5
+          ]
+        },
+        "arm_left3": {
+          "rotation": [
+            0,
+            0,
+            -10
+          ]
+        },
+        "arm_right": {
+          "rotation": [
+            7.5,
+            -15,
+            -42.5
+          ]
+        },
+        "arm_right2": {
+          "rotation": [
+            10,
+            -10,
+            17.5
+          ]
+        },
+        "arm_right3": {
+          "rotation": [
+            0,
+            0,
+            10
+          ]
+        },
+        "paper": {
+          "rotation": [
+            -10,
+            0,
+            0
+          ]
+        },
+        "paper2": {
+          "rotation": [
+            -10,
+            0,
+            0
+          ]
+        },
+        "ponytail": {
+          "rotation": [
+            -45,
+            0,
+            0
+          ]
+        },
+        "ponytail2": {
+          "rotation": [
+            15.5041,
+            14.4776,
+            3.9671
+          ]
+        },
+        "ponytail3": {
+          "rotation": [
+            18.5484,
+            -19.0376,
+            -6.246
+          ]
+        },
+        "ponytail4": {
+          "rotation": [
+            15.5041,
+            14.4776,
+            3.9671
+          ]
+        },
+        "ponytail5": {
+          "rotation": [
+            22.5,
+            0,
+            0
+          ]
+        },
+        "ponytail6": {
+          "rotation": [
+            12.5,
+            0,
+            0
+          ]
+        },
+        "ponytail7": {
+          "rotation": [
+            25,
+            0,
+            0
+          ]
+        },
+        "ponytail8": {
+          "rotation": [
+            0,
+            -5,
+            0
+          ]
+        },
+        "ponytail9": {
+          "rotation": [
+            0,
+            10,
+            0
+          ]
+        },
+        "ponytail_top": {
+          "rotation": [
+            -10,
+            0,
+            0
+          ]
+        }
+      }
+    },
+    "animation.kuria_felinshii.blink": {
+      "animation_length": 0.1667,
+      "bones": {
+        "eyelid_left": {
+          "position": {
+            "0.0": [
+              0,
+              0,
+              -0.1
+            ],
+            "0.1667": {
+              "pre": [
+                0,
+                0,
+                -0.1
+              ],
+              "post": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        "eyelid_right": {
+          "position": {
+            "0.0": [
+              0,
+              0,
+              -0.1
+            ],
+            "0.1667": {
+              "pre": [
+                0,
+                0,
+                -0.1
+              ],
+              "post": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        }
+      }
+    },
+    "animation.kuria_felinshii.render": {
+      "loop": true,
+      "bones": {
+        "body": {
+          "rotation": [
+            0,
+            30,
+            0
+          ]
+        },
+        "head": {
+          "rotation": [
+            2.5,
+            -12.5,
+            0
+          ]
+        },
+        "leg_left": {
+          "rotation": [
+            -9.9929,
+            0.3262,
+            2.4786
+          ]
+        },
+        "leg_left2": {
+          "rotation": [
+            7.5,
+            0,
+            0
+          ]
+        },
+        "leg_right": {
+          "rotation": [
+            4.9907,
+            0.434,
+            -2.4621
+          ]
+        },
+        "leg_right2": {
+          "rotation": [
+            22.5,
+            0,
+            0
+          ]
+        },
+        "arm_left": {
+          "rotation": [
+            0,
+            0,
+            42.5
+          ]
+        },
+        "arm_left2": {
+          "rotation": [
+            0,
+            0,
+            -22.5
+          ]
+        },
+        "arm_left3": {
+          "rotation": [
+            -180,
+            0,
+            -30
+          ]
+        },
+        "arm_right": {
+          "rotation": [
+            0,
+            0,
+            -45
+          ]
+        },
+        "arm_right2": {
+          "rotation": [
+            0,
+            0,
+            12.5
+          ]
+        },
+        "arm_right3": {
+          "rotation": [
+            -180,
+            0,
+            30
+          ]
+        },
+        "paper": {
+          "rotation": [
+            -7.5,
+            0,
+            0
+          ]
+        },
+        "paper2": {
+          "rotation": [
+            -10,
+            0,
+            0
+          ]
+        },
+        "pupil_left": {
+          "position": [
+            0.3,
+            0,
+            0
+          ]
+        },
+        "mouth_closed": {
+          "position": [
+            0,
+            0,
+            0.1
+          ]
+        },
+        "ear_left": {
+          "rotation": [
+            0,
+            0,
+            5
+          ]
+        },
+        "ear_left2": {
+          "rotation": [
+            7.5,
+            0,
+            0
+          ]
+        },
+        "ear_right": {
+          "rotation": [
+            0,
+            0,
+            -5
+          ]
+        },
+        "ear_right2": {
+          "rotation": [
+            7.5,
+            0,
+            0
+          ]
+        },
+        "hair1_left": {
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "hair2_left": {
+          "rotation": [
+            0,
+            0,
+            5
+          ]
+        },
+        "hair2_right": {
+          "rotation": [
+            0,
+            0,
+            -5
+          ]
+        },
+        "bang_left": {
+          "rotation": [
+            -5,
+            0,
+            0
+          ]
+        },
+        "bang_left2": {
+          "rotation": [
+            -10,
+            0,
+            0
+          ]
+        },
+        "bang_right": {
+          "rotation": [
+            -5,
+            0,
+            0
+          ]
+        },
+        "bang_right2": {
+          "rotation": [
+            -10,
+            0,
+            0
+          ]
+        },
+        "hair1_left2": {
+          "rotation": [
+            5,
+            0,
+            0
+          ]
+        },
+        "hair1_right": {
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "hair1_right2": {
+          "rotation": [
+            5,
+            0,
+            0
+          ]
+        },
+        "pupil_right": {
+          "position": [
+            0.2,
+            0,
+            0
+          ]
+        },
+        "ponytail": {
+          "rotation": [
+            -43.4907,
+            11.0006,
+            -10.2608
+          ]
+        },
+        "ponytail2": {
+          "rotation": [
+            16.8086,
+            26.4885,
+            7.6734
+          ]
+        },
+        "ponytail3": {
+          "rotation": [
+            20.4458,
+            11.7351,
+            4.336
+          ]
+        },
+        "ponytail4": {
+          "rotation": [
+            22.5,
+            0,
+            0
+          ]
+        },
+        "ponytail5": {
+          "rotation": [
+            20.1587,
+            7.0453,
+            2.5781
+          ]
+        },
+        "ponytail6": {
+          "rotation": [
+            -23.3427,
+            30.3244,
+            -12.292
+          ]
+        },
+        "ponytail7": {
+          "rotation": [
+            -12.6044,
+            7.3212,
+            -1.6322
+          ]
+        },
+        "ponytail9": {
+          "rotation": [
+            0,
+            17.5,
+            0
+          ]
+        },
+        "mouth_open": {
+          "position": [
+            0,
+            0,
+            -0.1
+          ]
+        }
+      }
+    }
+  }
+}
