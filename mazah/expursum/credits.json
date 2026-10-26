@@ -1,0 +1,28 @@
+{
+  "game": "mazah",
+  "pokemon": "expursum",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Glaceon"
+      },
+      "contributors": [
+        {
+          "login": "Glaceon"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:08:46.000Z",
+      "models": [
+        "mazah/expursum/mazah_expursum.geo.json"
+      ],
+      "animations": [
+        "mazah/expursum/mazah_expursum.animation.json"
+      ],
+      "textures": [
+        "mazah/expursum/expursum.png",
+        "mazah/expursum/expursum_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

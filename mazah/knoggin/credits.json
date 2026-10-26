@@ -1,0 +1,28 @@
+{
+  "game": "mazah",
+  "pokemon": "knoggin",
+  "entries": [
+    {
+      "contributor": {
+        "login": "WITCHDAGGER"
+      },
+      "contributors": [
+        {
+          "login": "WITCHDAGGER"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:08:46.000Z",
+      "models": [
+        "mazah/knoggin/mazah_knoggin.geo.json"
+      ],
+      "animations": [
+        "mazah/knoggin/mazah_knoggin.animation.json"
+      ],
+      "textures": [
+        "mazah/knoggin/knoggin.png",
+        "mazah/knoggin/knoggin_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

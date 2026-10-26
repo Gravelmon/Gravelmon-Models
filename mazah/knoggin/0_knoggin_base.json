@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:knoggin",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mazah_knoggin",
+      "model": "cobblemon:mazah_knoggin.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/knoggin/knoggin.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/knoggin/knoggin_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:quetzalil",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mazah_quetzalil",
+      "model": "cobblemon:mazah_quetzalil.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/quetzalil/quetzalil.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/quetzalil/quetzalil_shiny.png"
+    }
+  ]
+}

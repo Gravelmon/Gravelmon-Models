@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_tickiln_base.json": "assets/cobblemon/bedrock/species/amber/0_tickiln_base.json",
+    "amber_tickiln.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_tickiln.animation.json",
+    "amber_tickiln.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_tickiln.geo.json",
+    "amber_tickiln.json": "assets/cobblemon/bedrock/pokemon/posers/amber_tickiln.json",
+    "tickiln.png": "assets/cobblemon/textures/pokemon/amber/tickiln/tickiln.png",
+    "tickiln_emissive.png": "assets/cobblemon/textures/pokemon/amber/tickiln/tickiln_emissive.png",
+    "tickiln_shiny.png": "assets/cobblemon/textures/pokemon/amber/tickiln/tickiln_shiny.png",
+    "tickiln_shiny_emissive.png": "assets/cobblemon/textures/pokemon/amber/tickiln/tickiln_shiny_emissive.png"
+  }
+}

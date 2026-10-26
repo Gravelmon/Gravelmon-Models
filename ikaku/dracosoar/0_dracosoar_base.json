@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:dracosoar",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:ikaku_dracosoar",
+      "model": "cobblemon:ikaku_dracosoar.geo",
+      "texture": "cobblemon:textures/pokemon/ikaku/dracosoar/dracosoar.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/ikaku/dracosoar/dracosoar_emmisive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/ikaku/dracosoar/dracosoar_shiny.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/ikaku/dracosoar/dracosoar_shiny_emmisive.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

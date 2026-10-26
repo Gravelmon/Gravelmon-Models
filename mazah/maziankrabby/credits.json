@@ -1,0 +1,38 @@
+{
+  "game": "mazah",
+  "pokemon": "krabby",
+  "formAspects": [
+    "mazian"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "mazian"
+      ],
+      "inheritsFrom": {
+        "pokemon": "krabby",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "WITCHDAGGER"
+      },
+      "contributors": [
+        {
+          "login": "WITCHDAGGER"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:42:12.000Z",
+      "models": [
+        "mazah/maziankrabby/mazah_maziankrabby.geo.json"
+      ],
+      "animations": [
+        "mazah/maziankrabby/mazah_maziankrabby.animation.json"
+      ],
+      "textures": [
+        "mazah/maziankrabby/krabby_mazian.png",
+        "mazah/maziankrabby/krabby_mazian_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

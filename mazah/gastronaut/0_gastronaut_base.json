@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:gastronaut",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mazah_gastronaut",
+      "model": "cobblemon:mazah_gastronaut.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/gastronaut/gastronaut.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/gastronaut/gastronaut_shiny.png"
+    }
+  ]
+}

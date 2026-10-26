@@ -1,0 +1,28 @@
+{
+  "game": "mazah",
+  "pokemon": "elegoop",
+  "entries": [
+    {
+      "contributor": {
+        "login": "kale"
+      },
+      "contributors": [
+        {
+          "login": "kale"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:08:46.000Z",
+      "models": [
+        "mazah/elegoop/mazah_elegoop.geo.json"
+      ],
+      "animations": [
+        "mazah/elegoop/mazah_elegoop.animation.json"
+      ],
+      "textures": [
+        "mazah/elegoop/elegoop.png",
+        "mazah/elegoop/elegoop_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

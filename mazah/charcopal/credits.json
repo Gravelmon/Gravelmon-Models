@@ -1,0 +1,30 @@
+{
+  "game": "mazah",
+  "pokemon": "charcopal",
+  "entries": [
+    {
+      "contributor": {
+        "login": "WITCHDAGGER"
+      },
+      "contributors": [
+        {
+          "login": "WITCHDAGGER"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:08:46.000Z",
+      "models": [
+        "mazah/charcopal/mazah_charcopal.geo.json"
+      ],
+      "animations": [
+        "mazah/charcopal/mazah_charcopal.animation.json"
+      ],
+      "textures": [
+        "mazah/charcopal/charcopal.png",
+        "mazah/charcopal/charcopal_shiny.png"
+      ],
+      "sounds": [
+        "mazah/charcopal/charcopal_cry.ogg"
+      ]
+    }
+  ]
+}

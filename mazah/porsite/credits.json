@@ -1,0 +1,30 @@
+{
+  "game": "mazah",
+  "pokemon": "porsite",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Glaceon"
+      },
+      "contributors": [
+        {
+          "login": "Glaceon"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:08:46.000Z",
+      "models": [
+        "mazah/porsite/mazah_porsite.geo.json"
+      ],
+      "animations": [
+        "mazah/porsite/mazah_porsite.animation.json"
+      ],
+      "textures": [
+        "mazah/porsite/porsite.png",
+        "mazah/porsite/porsite_shiny.png"
+      ],
+      "sounds": [
+        "mazah/porsite/porsite_cry.ogg"
+      ]
+    }
+  ]
+}

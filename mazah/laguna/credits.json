@@ -1,0 +1,28 @@
+{
+  "game": "mazah",
+  "pokemon": "laguna",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Glaceon"
+      },
+      "contributors": [
+        {
+          "login": "Glaceon"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:08:46.000Z",
+      "models": [
+        "mazah/laguna/mazah_laguna.geo.json"
+      ],
+      "animations": [
+        "mazah/laguna/mazah_laguna.animation.json"
+      ],
+      "textures": [
+        "mazah/laguna/laguna.png",
+        "mazah/laguna/laguna_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

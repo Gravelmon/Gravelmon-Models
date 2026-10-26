@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:calybrea",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:amber_calybrea",
+      "model": "cobblemon:amber_calybrea.geo",
+      "texture": "cobblemon:textures/pokemon/amber/calybrea/calybrea.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/amber/calybrea/calybrea_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "game": "amber",
+  "pokemon": "chiteon",
+  "entries": [
+    {
+      "contributor": {
+        "login": "fire_jaguar"
+      },
+      "contributors": [
+        {
+          "login": "fire_jaguar"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:08:46.000Z",
+      "models": [
+        "amber/chiteon/amber_chiteon.geo.json"
+      ],
+      "animations": [
+        "amber/chiteon/amber_chiteon.animation.json"
+      ],
+      "textures": [
+        "amber/chiteon/chiteon.png",
+        "amber/chiteon/chiteon_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

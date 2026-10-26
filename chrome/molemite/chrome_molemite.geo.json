@@ -1,0 +1,133 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.molemite",
+				"texture_width": 64,
+				"texture_height": 32,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "molemite",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "body",
+					"parent": "molemite",
+					"pivot": [0, 4.5, 0],
+					"cubes": [
+						{"origin": [-4, 1, -4], "size": [8, 8, 8], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "eye",
+					"parent": "body",
+					"pivot": [0, 5, -4.01],
+					"cubes": [
+						{"origin": [-2, 3, -4.01], "size": [4, 4, 0], "uv": [32, 8]}
+					]
+				},
+				{
+					"name": "pupil",
+					"parent": "eye",
+					"pivot": [0, 5, -3],
+					"cubes": [
+						{"origin": [-0.5, 4.5, -4.02], "size": [1, 1, 0], "uv": [40, 8]}
+					]
+				},
+				{
+					"name": "pupil_closed",
+					"parent": "eye",
+					"pivot": [0, 5, -4.01],
+					"cubes": [
+						{"origin": [-1.5, 4.5, -3.92], "size": [3, 1, 0], "uv": [32, 15]}
+					]
+				},
+				{
+					"name": "nail_head",
+					"parent": "body",
+					"pivot": [0, 9, 0],
+					"cubes": [
+						{"origin": [-1.25, 8.5, -1.25], "size": [2.5, 3, 2.5], "uv": [24, 3]}
+					]
+				},
+				{
+					"name": "orbit",
+					"parent": "nail_head",
+					"pivot": [0, 9, 0],
+					"cubes": [
+						{"origin": [-3, 12, -3], "size": [6, 0, 6], "uv": [42, 22]}
+					]
+				},
+				{
+					"name": "orbit_electron",
+					"parent": "orbit",
+					"pivot": [0, 9, 0],
+					"cubes": [
+						{"origin": [-3, 11.5, -0.5], "size": [1, 1, 1], "uv": [52, 20]}
+					]
+				},
+				{
+					"name": "nail_left",
+					"parent": "body",
+					"pivot": [2.75, 2, -4],
+					"rotation": [0, -25, 0]
+				},
+				{
+					"name": "nail_left_rotation",
+					"parent": "nail_left",
+					"pivot": [2.75, 2, -4],
+					"cubes": [
+						{"origin": [2, 1.25, -5.5], "size": [1.5, 1.5, 2], "uv": [30, 2]}
+					]
+				},
+				{
+					"name": "nail_right",
+					"parent": "body",
+					"pivot": [-2.75, 2, -4],
+					"rotation": [0, 25, 0]
+				},
+				{
+					"name": "nail_right_rotation",
+					"parent": "nail_right",
+					"pivot": [-2.75, 2, -4],
+					"cubes": [
+						{"origin": [-3.5, 1.25, -5.5], "size": [1.5, 1.5, 2], "uv": [36, 2], "mirror": true}
+					]
+				},
+				{
+					"name": "electrons",
+					"parent": "body",
+					"pivot": [0.5, 0.5, 0]
+				},
+				{
+					"name": "electron_left",
+					"parent": "electrons",
+					"pivot": [4, 5, 0],
+					"cubes": [
+						{"origin": [4, 4.5, -3], "size": [6, 6, 6], "uv": [24, 16]},
+						{"origin": [6, 5.5, -3.01], "size": [2, 4, 0], "uv": [4, 2]}
+					]
+				},
+				{
+					"name": "electron_right",
+					"parent": "electrons",
+					"pivot": [-4, 7, 0],
+					"cubes": [
+						{"origin": [-9.82569, 4.50761, -3], "size": [6, 6, 6], "uv": [0, 16]},
+						{"origin": [-7.82569, 5.50761, -3.01], "size": [2, 4, 0], "uv": [0, 2]}
+					]
+				},
+				{
+					"name": "nails",
+					"parent": "body",
+					"pivot": [0, 4.5, 0]
+				}
+			]
+		}
+	]
+}

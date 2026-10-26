@@ -1,0 +1,227 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.molezone",
+				"texture_width": 143,
+				"texture_height": 110,
+				"visible_bounds_width": 4,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "molezone",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "body",
+					"parent": "molezone",
+					"pivot": [0, -3, 0],
+					"cubes": [
+						{"origin": [-10.5, 4.5, -11.5], "size": [21, 11, 23], "uv": [0, 0]},
+						{"origin": [-8, 2, -8], "size": [16, 3, 16], "uv": [14, 53]},
+						{"origin": [-8, 15, -8], "size": [16, 3, 16], "uv": [14, 34]}
+					]
+				},
+				{
+					"name": "electrons_body",
+					"parent": "body",
+					"pivot": [0, -3, 0]
+				},
+				{
+					"name": "electrons_upper",
+					"parent": "electrons_body",
+					"pivot": [0, -3, 0]
+				},
+				{
+					"name": "electrons_upper_right",
+					"parent": "electrons_upper",
+					"pivot": [0, -3, 0],
+					"cubes": [
+						{"origin": [-17, 11.5, -4], "size": [8, 8, 8], "uv": [111, 1]},
+						{"origin": [-14.5, 12.25, -4.02], "size": [3, 6, 0], "uv": [104, 10]},
+						{"origin": [-14.5, 12.25, -4.01], "size": [3, 6, 0], "pivot": [-13, 15.25, -4.01], "rotation": [0, 0, -90], "uv": [98, 10]}
+					]
+				},
+				{
+					"name": "electrons_upper_left",
+					"parent": "electrons_upper",
+					"pivot": [0, -3, 0],
+					"cubes": [
+						{"origin": [9, 11.5, -4], "size": [8, 8, 8], "uv": [111, 17]},
+						{"origin": [-14.5, -13.75, -4.01], "size": [3, 6, 0], "pivot": [-13, 15.25, -4.01], "rotation": [0, 0, -90], "uv": [98, 26]},
+						{"origin": [11.5, 12.25, -4.02], "size": [3, 6, 0], "uv": [104, 26]}
+					]
+				},
+				{
+					"name": "electrons_lower",
+					"parent": "electrons_body",
+					"pivot": [0, -3, 0],
+					"cubes": [
+						{"origin": [-10, 4, -14], "size": [4, 4, 4], "uv": [110, 34]},
+						{"origin": [6, 4, -14], "size": [4, 4, 4], "uv": [110, 42]},
+						{"origin": [6.5, 5.5, -14.01], "size": [3, 1, 0], "uv": [105, 44]},
+						{"origin": [-9.5, 5.5, -14.01], "size": [3, 1, 0], "uv": [106, 35]}
+					]
+				},
+				{
+					"name": "electron_lower_main",
+					"parent": "electrons_lower",
+					"pivot": [0, -3, 0],
+					"cubes": [
+						{"origin": [-3, 1, -15], "size": [6, 6, 6], "uv": [106, 51]},
+						{"origin": [-2, 3, -15.01], "size": [4, 2, 0], "uv": [103, 54]}
+					]
+				},
+				{
+					"name": "electron_eyebrows",
+					"parent": "body",
+					"pivot": [0, -3, 0],
+					"cubes": [
+						{"origin": [-7, 15, -13], "size": [3, 3, 3], "uv": [131, 34]},
+						{"origin": [3.75, 15, -13], "size": [3, 3, 3], "uv": [131, 40]}
+					]
+				},
+				{
+					"name": "antenna",
+					"parent": "body",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-1.95638, 18.00095, -2], "size": [4, 5, 4], "uv": [70, 0]}
+					]
+				},
+				{
+					"name": "antenna_orbit",
+					"parent": "antenna",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-5, 27, -5], "size": [10, 0, 10], "uv": [-9, 0]}
+					]
+				},
+				{
+					"name": "orbit_electron",
+					"parent": "antenna_orbit",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-2, 25, -2], "size": [4, 4, 4], "uv": [3, 11]},
+						{"origin": [-0.5, 25.75, -2.02], "size": [1, 2.5, 0], "uv": [18, 12]},
+						{"origin": [-0.5, 25.75, -2.01], "size": [1, 2.5, 0], "pivot": [0, 27, -3], "rotation": [0, 0, -90], "uv": [16, 12]}
+					]
+				},
+				{
+					"name": "eye_pupil",
+					"parent": "body",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-1, 9, -11.52], "size": [2, 5, 0], "uv": [72, 16]},
+						{"origin": [-1, 9, -11.51], "size": [2, 5, 0], "pivot": [0, 11.5, -11.51], "rotation": [0, 0, 90], "uv": [76, 16]}
+					]
+				},
+				{
+					"name": "eyelid",
+					"parent": "eye_pupil",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-6, 11, -11.53], "size": [12, 5, 0], "uv": [70, 10]}
+					]
+				},
+				{
+					"name": "body_left",
+					"parent": "body",
+					"pivot": [11, 7.5, -6],
+					"rotation": [0, 0, 90],
+					"cubes": [
+						{"origin": [7, 7, -10], "size": [8, 8, 8], "uv": [0, 76]}
+					]
+				},
+				{
+					"name": "eye4",
+					"parent": "body_left",
+					"pivot": [11, 11, -10.01],
+					"cubes": [
+						{"origin": [9, 9, -10.01], "size": [4, 4, 0], "uv": [59, 81]}
+					]
+				},
+				{
+					"name": "pupil2",
+					"parent": "eye4",
+					"pivot": [11, 11, -10.135],
+					"cubes": [
+						{"origin": [9.5, 10.5, -10.02], "size": [3, 1, 0], "uv": [68, 83]}
+					]
+				},
+				{
+					"name": "nail_head4",
+					"parent": "body_left",
+					"pivot": [11, 15, -6],
+					"cubes": [
+						{"origin": [9.75, 14.5, -7.25], "size": [2.5, 3, 2.5], "uv": [59, 87]}
+					]
+				},
+				{
+					"name": "electrons",
+					"parent": "body_left",
+					"pivot": [11.5, 6.5, -6]
+				},
+				{
+					"name": "electron_left",
+					"parent": "electrons",
+					"pivot": [15, 11, -6],
+					"cubes": [
+						{"origin": [15, 10.5, -9], "size": [6, 6, 6], "uv": [34, 80]},
+						{"origin": [17, 11.5, -9.01], "size": [2, 4, 0], "pivot": [18, 13.5, -9.01], "rotation": [0, 0, -90], "uv": [53, 81]}
+					]
+				},
+				{
+					"name": "body_right",
+					"parent": "body",
+					"pivot": [-11, 7.5, -6],
+					"rotation": [0, 0, -90],
+					"cubes": [
+						{"origin": [-15, 7, -10], "size": [8, 8, 8], "uv": [0, 94]}
+					]
+				},
+				{
+					"name": "eye2",
+					"parent": "body_right",
+					"pivot": [-11, 11, -10.01],
+					"cubes": [
+						{"origin": [-13, 9, -10.01], "size": [4, 4, 0], "uv": [59, 99]}
+					]
+				},
+				{
+					"name": "pupil3",
+					"parent": "eye2",
+					"pivot": [-11, 11, -10.135],
+					"cubes": [
+						{"origin": [-12.5, 10.5, -10.02], "size": [3, 1, 0], "uv": [68, 101]}
+					]
+				},
+				{
+					"name": "nail_head2",
+					"parent": "body_right",
+					"pivot": [-11, 15, -6],
+					"cubes": [
+						{"origin": [-12.25, 14.5, -7.25], "size": [2.5, 3, 2.5], "uv": [59, 105]}
+					]
+				},
+				{
+					"name": "electrons2",
+					"parent": "body_right",
+					"pivot": [-10.5, 6.5, -6]
+				},
+				{
+					"name": "electron_right2",
+					"parent": "electrons2",
+					"pivot": [-15, 13, -6],
+					"cubes": [
+						{"origin": [-20.82569, 10.50761, -9], "size": [6, 6, 6], "uv": [34, 98]},
+						{"origin": [-18.82569, 11.50761, -9.01], "size": [2, 4, 0], "pivot": [-17.82569, 13.50761, -9.01], "rotation": [0, 0, 90], "uv": [53, 99]}
+					]
+				}
+			]
+		}
+	]
+}

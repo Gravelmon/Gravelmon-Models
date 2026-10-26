@@ -1,0 +1,38 @@
+{
+  "species": "cobblemon:laguna",
+  "order": 1010,
+  "variations": [
+    {
+      "aspects": [
+        "mega_form"
+      ],
+      "poser": "cobblemon:mazah_laguna_mega",
+      "model": "cobblemon:mazah_laguna_mega.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/laguna_mega/laguna_mega.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny",
+        "mega_form"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/laguna_mega/laguna_mega_shiny.png"
+    },
+    {
+      "aspects": [
+        "mega"
+      ],
+      "poser": "cobblemon:mazah_laguna_mega",
+      "model": "cobblemon:mazah_laguna_mega.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/laguna_mega/laguna_mega.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny",
+        "mega"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/laguna_mega/laguna_mega_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "game": "mazah",
+  "pokemon": "roadraptor",
+  "formAspects": [
+    "mega"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "mega"
+      ],
+      "contributor": {
+        "login": "fire_jaguar"
+      },
+      "contributors": [
+        {
+          "login": "fire_jaguar"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:08:46.000Z",
+      "models": [
+        "mazah/roadraptor_mega/mazah_roadraptor_mega.geo.json"
+      ],
+      "animations": [
+        "mazah/roadraptor_mega/mazah_roadraptor_mega.animation.json"
+      ],
+      "textures": [
+        "mazah/roadraptor_mega/roadraptor_mega.png",
+        "mazah/roadraptor_mega/roadraptor_mega_emissive.png",
+        "mazah/roadraptor_mega/roadraptor_mega_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

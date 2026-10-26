@@ -1,0 +1,30 @@
+{
+  "game": "mazah",
+  "pokemon": "gastronaut",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Glaceon"
+      },
+      "contributors": [
+        {
+          "login": "Glaceon"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:08:46.000Z",
+      "models": [
+        "mazah/gastronaut/mazah_gastronaut.geo.json"
+      ],
+      "animations": [
+        "mazah/gastronaut/mazah_gastronaut.animation.json"
+      ],
+      "textures": [
+        "mazah/gastronaut/gastronaut.png",
+        "mazah/gastronaut/gastronaut_shiny.png"
+      ],
+      "sounds": [
+        "mazah/gastronaut/gastronaut_cry.ogg"
+      ]
+    }
+  ]
+}

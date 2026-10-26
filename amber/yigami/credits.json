@@ -1,0 +1,28 @@
+{
+  "game": "amber",
+  "pokemon": "yigami",
+  "entries": [
+    {
+      "contributor": {
+        "login": "BifeSalgado"
+      },
+      "contributors": [
+        {
+          "login": "BifeSalgado"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:08:46.000Z",
+      "models": [
+        "amber/yigami/amber_yigami.geo.json"
+      ],
+      "animations": [
+        "amber/yigami/amber_yigami.animation.json"
+      ],
+      "textures": [
+        "amber/yigami/yi_gami.png",
+        "amber/yigami/yi_gami_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

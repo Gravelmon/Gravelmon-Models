@@ -1,0 +1,11 @@
+{
+  "files": {
+    "0_siberupt_base.json": "assets/cobblemon/bedrock/species/amber/0_siberupt_base.json",
+    "amber_siberupt.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_siberupt.animation.json",
+    "amber_siberupt.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_siberupt.geo.json",
+    "amber_siberupt.json": "assets/cobblemon/bedrock/pokemon/posers/amber_siberupt.json",
+    "siberupt.png": "assets/cobblemon/textures/pokemon/amber/siberupt/siberupt.png",
+    "siberupt_cry.ogg": "assets/gravelmon/sounds/pokemon/amber/siberupt_cry.ogg",
+    "siberupt_shiny.png": "assets/cobblemon/textures/pokemon/amber/siberupt/siberupt_shiny.png"
+  }
+}

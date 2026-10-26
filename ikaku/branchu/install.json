@@ -1,0 +1,16 @@
+{
+  "files": {
+    "0_branchu_base.json": "assets/cobblemon/bedrock/species/ikaku/0_branchu_base.json",
+    "branchu_angry.png": "assets/cobblemon/textures/pokemon/ikaku/branchu/branchu_angry.png",
+    "branchu_angry_shiny.png": "assets/cobblemon/textures/pokemon/ikaku/branchu/branchu_angry_shiny.png",
+    "branchu_cheeky.png": "assets/cobblemon/textures/pokemon/ikaku/branchu/branchu_cheeky.png",
+    "branchu_cheeky_shiny.png": "assets/cobblemon/textures/pokemon/ikaku/branchu/branchu_cheeky_shiny.png",
+    "branchu_goofy.png": "assets/cobblemon/textures/pokemon/ikaku/branchu/branchu_goofy.png",
+    "branchu_goofy_shiny.png": "assets/cobblemon/textures/pokemon/ikaku/branchu/branchu_goofy_shiny.png",
+    "branchu_jolly.png": "assets/cobblemon/textures/pokemon/ikaku/branchu/branchu_jolly.png",
+    "branchu_jolly_shiny.png": "assets/cobblemon/textures/pokemon/ikaku/branchu/branchu_jolly_shiny.png",
+    "ikaku_branchu.animation.json": "assets/cobblemon/bedrock/pokemon/animations/ikaku_branchu.animation.json",
+    "ikaku_branchu.geo.json": "assets/cobblemon/bedrock/pokemon/models/ikaku_branchu.geo.json",
+    "ikaku_branchu.json": "assets/cobblemon/bedrock/pokemon/posers/ikaku_branchu.json"
+  }
+}

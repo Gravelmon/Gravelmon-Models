@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:gorgoop",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:amber_gorgoop",
+      "model": "cobblemon:amber_gorgoop.geo",
+      "texture": "cobblemon:textures/pokemon/amber/gorgoop/gorgoop.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/amber/gorgoop/gorgoop_shiny.png"
+    }
+  ]
+}

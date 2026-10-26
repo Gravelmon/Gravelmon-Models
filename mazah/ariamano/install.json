@@ -1,0 +1,10 @@
+{
+  "files": {
+    "0_ariamano_base.json": "assets/cobblemon/bedrock/species/mazah/0_ariamano_base.json",
+    "ariamano.png": "assets/cobblemon/textures/pokemon/mazah/ariamano/ariamano.png",
+    "ariamano_shiny.png": "assets/cobblemon/textures/pokemon/mazah/ariamano/ariamano_shiny.png",
+    "mazah_ariamano.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_ariamano.animation.json",
+    "mazah_ariamano.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_ariamano.geo.json",
+    "mazah_ariamano.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_ariamano.json"
+  }
+}

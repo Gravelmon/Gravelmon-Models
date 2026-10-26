@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:mooral",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:amber_mooral",
+      "model": "cobblemon:amber_mooral.geo",
+      "texture": "cobblemon:textures/pokemon/amber/mooral/mooral.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/amber/mooral/mooral_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "game": "amber",
+  "pokemon": "gusgull",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Sl0py"
+      },
+      "contributors": [
+        {
+          "login": "Sl0py"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:08:46.000Z",
+      "models": [
+        "amber/gusgull/amber_gusgull.geo.json"
+      ],
+      "animations": [
+        "amber/gusgull/amber_gusgull.animation.json"
+      ],
+      "textures": [
+        "amber/gusgull/gusgull.png",
+        "amber/gusgull/gusgull_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

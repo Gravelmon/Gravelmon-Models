@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:quexcell",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mazah_quexcell",
+      "model": "cobblemon:mazah_quexcell.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/quexcell/quexcell.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/quexcell/quexcell_shiny.png"
+    }
+  ]
+}

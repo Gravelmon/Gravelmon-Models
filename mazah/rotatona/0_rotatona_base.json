@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:rotatona",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mazah_rotatona",
+      "model": "cobblemon:mazah_rotatona.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/rotatona/rotatona.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/rotatona/rotatona_shiny.png"
+    }
+  ]
+}

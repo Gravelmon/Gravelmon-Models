@@ -1,0 +1,10 @@
+{
+  "files": {
+    "0_carnarmor_base.json": "assets/cobblemon/bedrock/species/amber/0_carnarmor_base.json",
+    "amber_carnarmor.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_carnarmor.animation.json",
+    "amber_carnarmor.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_carnarmor.geo.json",
+    "amber_carnarmor.json": "assets/cobblemon/bedrock/pokemon/posers/amber_carnarmor.json",
+    "carnarmor.png": "assets/cobblemon/textures/pokemon/amber/carnarmor/carnarmor.png",
+    "carnarmor_shiny.png": "assets/cobblemon/textures/pokemon/amber/carnarmor/carnarmor_shiny.png"
+  }
+}

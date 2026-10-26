@@ -1,0 +1,28 @@
+{
+  "game": "mazah",
+  "pokemon": "vladikrab",
+  "entries": [
+    {
+      "contributor": {
+        "login": "WITCHDAGGER"
+      },
+      "contributors": [
+        {
+          "login": "WITCHDAGGER"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:08:46.000Z",
+      "models": [
+        "mazah/vladikrab/mazah_vladikrab.geo.json"
+      ],
+      "animations": [
+        "mazah/vladikrab/mazah_vladikrab.animation.json"
+      ],
+      "textures": [
+        "mazah/vladikrab/vladikrab.png",
+        "mazah/vladikrab/vladikrab_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

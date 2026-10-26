@@ -1,0 +1,10 @@
+{
+  "files": {
+    "0_flitjitter_base.json": "assets/cobblemon/bedrock/species/mazah/0_flitjitter_base.json",
+    "flitjitter.png": "assets/cobblemon/textures/pokemon/mazah/flitjitter/flitjitter.png",
+    "flitjitter_shiny.png": "assets/cobblemon/textures/pokemon/mazah/flitjitter/flitjitter_shiny.png",
+    "mazah_flitjitter.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_flitjitter.animation.json",
+    "mazah_flitjitter.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_flitjitter.geo.json",
+    "mazah_flitjitter.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_flitjitter.json"
+  }
+}

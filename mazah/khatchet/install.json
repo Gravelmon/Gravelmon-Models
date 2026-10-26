@@ -1,0 +1,10 @@
+{
+  "files": {
+    "0_khatchet_base.json": "assets/cobblemon/bedrock/species/mazah/0_khatchet_base.json",
+    "khatchet.png": "assets/cobblemon/textures/pokemon/mazah/khatchet/khatchet.png",
+    "khatchet_shiny.png": "assets/cobblemon/textures/pokemon/mazah/khatchet/khatchet_shiny.png",
+    "mazah_khatchet.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_khatchet.animation.json",
+    "mazah_khatchet.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_khatchet.geo.json",
+    "mazah_khatchet.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_khatchet.json"
+  }
+}

@@ -1,0 +1,44 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.amber_hatchick.render": {
+			"loop": true,
+			"bones": {
+				"body": {
+					"rotation": [0, -162.5, 0]
+				},
+				"torso": {
+					"rotation": [-7.5, 0, 0]
+				},
+				"left_foot": {
+					"rotation": [0, -22.5, 0]
+				},
+				"right_foot": {
+					"rotation": [0, 22.5, 0]
+				},
+				"axe": {
+					"rotation": [-7.5, 0, 0]
+				},
+				"head_feather": {
+					"rotation": [-25, 0, 0],
+					"position": [0, -0.5, 0]
+				}
+			}
+		},
+		"animation.amber_hatchick.ground_idle": {
+			"loop": true,
+			"animation_length": 2,
+			"bones": {
+				"head_feather": {
+					"rotation": [-15, 0, 0]
+				},
+				"left_foot": {
+					"rotation": [0, -22.5, 0]
+				},
+				"right_foot": {
+					"rotation": [0, 22.5, 0]
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,30 @@
+{
+  "game": "amber",
+  "pokemon": "gooajah",
+  "entries": [
+    {
+      "contributor": {
+        "login": "fire_jaguar"
+      },
+      "contributors": [
+        {
+          "login": "fire_jaguar"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:08:46.000Z",
+      "models": [
+        "amber/gooajah/amber_gooajah.geo.json"
+      ],
+      "animations": [
+        "amber/gooajah/amber_gooajah.animation.json"
+      ],
+      "textures": [
+        "amber/gooajah/gooajah.png",
+        "amber/gooajah/gooajah_shiny.png"
+      ],
+      "sounds": [
+        "amber/gooajah/gooajah_cry.ogg"
+      ]
+    }
+  ]
+}

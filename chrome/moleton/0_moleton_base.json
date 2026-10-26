@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:moleton",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:chrome_moleton",
+      "model": "cobblemon:chrome_moleton.geo",
+      "texture": "cobblemon:textures/pokemon/chrome/moleton/moleton.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/chrome/moleton/moleton_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:porsite",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mazah_porsite",
+      "model": "cobblemon:mazah_porsite.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/porsite/porsite.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/porsite/porsite_shiny.png"
+    }
+  ]
+}

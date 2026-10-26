@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:molemite",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:chrome_molemite",
+      "model": "cobblemon:chrome_molemite.geo",
+      "texture": "cobblemon:textures/pokemon/chrome/molemite/molemite.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/chrome/molemite/molemite_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "game": "amber",
+  "pokemon": "pelacanne",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Sl0py"
+      },
+      "contributors": [
+        {
+          "login": "Sl0py"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:08:46.000Z",
+      "models": [
+        "amber/pelacanne/amber_pelacanne.geo.json"
+      ],
+      "animations": [
+        "amber/pelacanne/amber_pelacanne.animation.json"
+      ],
+      "textures": [
+        "amber/pelacanne/pelacanne.png",
+        "amber/pelacanne/pelacanne_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:foliqi",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:amber_foliqi",
+      "model": "cobblemon:amber_foliqi.geo",
+      "texture": "cobblemon:textures/pokemon/amber/foliqi/foli-qi.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/amber/foliqi/foli-qi_shiny.png"
+    }
+  ]
+}

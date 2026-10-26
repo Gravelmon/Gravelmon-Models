@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:probog",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:amber_probog",
+      "model": "cobblemon:amber_probog.geo",
+      "texture": "cobblemon:textures/pokemon/amber/probog/probog.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/amber/probog/probog_shiny.png"
+    }
+  ]
+}

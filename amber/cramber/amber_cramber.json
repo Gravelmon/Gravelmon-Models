@@ -1,0 +1,74 @@
+{
+  "head": "body",
+  "portraitScale": 2,
+  "portraitTranslation": [0, 0, 0],
+  "profileScale": 0.8,
+  "profileTranslation": [0, 0.4, 0],
+  "faint": "bedrock(amber_cramber, faint)",
+  "poses": {
+    "standing": {
+      "poseName": "standing",
+      "transformTicks": 10,
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "animations": ["look", "bedrock(amber_cramber, ground_idle)"],
+    "quirks": [
+      {
+        "name": "blink",
+        "animations": ["bedrock(amber_cramber, blink)"]
+      }
+    ]
+  },
+    "walking": {
+      "poseName": "walking",
+      "transformTicks": 10,
+      "poseTypes": ["WALK"],
+      "animations": ["bedrock(amber_cramber, ground_walk)"],
+    "quirks": [
+      {
+        "name": "blink",
+        "animations": ["bedrock(amber_cramber, blink)"]
+      }
+    ]
+    },
+    "floating": {
+      "poseName": "floating",
+      "transformTicks": 10,
+      "poseTypes": ["FLOAT"],
+      "animations": ["bedrock(amber_cramber, water_idle)"],
+      "quirks": [
+        {
+          "name": "blink",
+          "animations": ["bedrock(amber_cramber, blink)"]
+        }
+      ]
+    },
+    "swimming": {
+      "poseName": "swimming",
+      "transformTicks": 10,
+      "poseTypes": ["SWIM"],
+      "animations": ["bedrock(amber_cramber, water_swim)"],
+      "quirks": [
+        {
+          "name": "blink",
+          "animations": ["bedrock(amber_cramber, blink)"]
+        }
+      ]
+    },
+        "battle-idle": {
+          "poseName": "battle-idle",
+          "transformTicks": 10,
+          "poseTypes": ["STAND"],
+          "isBattle": true,
+          "animations": [
+            "look",
+            "bedrock(amber_cramber, battle_idle)"
+          ],
+        "quirks": [
+          {
+            "name": "blink",
+            "animations": ["bedrock(amber_cramber, blink)"]
+          }
+        ]
+      }
+    }
+  }

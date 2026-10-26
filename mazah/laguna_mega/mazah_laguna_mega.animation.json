@@ -1,0 +1,121 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.mazah_laguna_mega.ground_idle": {
+			"loop": true,
+			"bones": {
+				"snout": {
+					"rotation": [2.5, 0, 0]
+				},
+				"ear_left": {
+					"rotation": [0, 20, 32.5]
+				},
+				"ear_left_segmant_1": {
+					"rotation": [0, -12.5, 12.5]
+				},
+				"ear_left_segmant_2": {
+					"rotation": [0, -10, 25]
+				},
+				"ear_left_segmant_3": {
+					"rotation": [0, -12.5, -15]
+				},
+				"ear_left_segmant_4": {
+					"rotation": [0, -15, -20]
+				},
+				"ear_right": {
+					"rotation": [0, -20, -32.5]
+				},
+				"ear_right_segmant_1": {
+					"rotation": [0, 12.5, -12.5]
+				},
+				"ear_right_segmant_2": {
+					"rotation": [0, 10, -25]
+				},
+				"ear_right_segmant_3": {
+					"rotation": [0, 12.5, 15]
+				},
+				"ear_right_segmant_4": {
+					"rotation": [0, 15, 20]
+				},
+				"fluff_ball": {
+					"rotation": [12.5, 0, 0],
+					"position": [0, 0, 1]
+				},
+				"arm_right": {
+					"rotation": [-30, 0, 7.5]
+				},
+				"arm_right_hand": {
+					"rotation": [35, 0, -27.5]
+				},
+				"arm_left": {
+					"rotation": [-30, 0, -7.5]
+				},
+				"arm_left_hand": {
+					"rotation": [35, 0, 27.5]
+				},
+				"tail": {
+					"rotation": [-3, 0, 0]
+				}
+			}
+		},
+		"animation.mazah_laguna_mega.ground_idle2": {
+			"loop": true,
+			"bones": {
+				"snout": {
+					"rotation": [2.5, 0, 0]
+				},
+				"ear_left": {
+					"rotation": [0, 20, -15]
+				},
+				"ear_left_segmant_1": {
+					"rotation": [0, -12.5, -37.5]
+				},
+				"ear_left_segmant_2": {
+					"rotation": [0, 7.5, -27.5],
+					"position": [-0.5, 0, 0]
+				},
+				"ear_left_segmant_3": {
+					"rotation": [0, 17.5, -20]
+				},
+				"ear_left_segmant_4": {
+					"rotation": [0, 22.5, -20]
+				},
+				"ear_right": {
+					"rotation": [0, -20, 15]
+				},
+				"ear_right_segmant_1": {
+					"rotation": [0, 12.5, 37.5]
+				},
+				"ear_right_segmant_2": {
+					"rotation": [0, -7.5, 27.5],
+					"position": [0.5, 0, 0]
+				},
+				"ear_right_segmant_3": {
+					"rotation": [0, -17.5, 20]
+				},
+				"ear_right_segmant_4": {
+					"rotation": [0, -22.5, 20]
+				},
+				"fluff_ball": {
+					"rotation": [12.5, 0, 0],
+					"position": [0, 0, 1]
+				},
+				"arm_right": {
+					"rotation": [-30, 0, 7.5]
+				},
+				"arm_right_hand": {
+					"rotation": [35, 0, -27.5]
+				},
+				"arm_left": {
+					"rotation": [-30, 0, -7.5]
+				},
+				"arm_left_hand": {
+					"rotation": [35, 0, 27.5]
+				},
+				"tail": {
+					"rotation": [-10, 0, 0]
+				}
+			}
+		}
+	}
+}

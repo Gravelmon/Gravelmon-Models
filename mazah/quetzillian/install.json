@@ -1,0 +1,11 @@
+{
+  "files": {
+    "0_quetzillian_base.json": "assets/cobblemon/bedrock/species/mazah/0_quetzillian_base.json",
+    "mazah_quetzillian.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_quetzillian.animation.json",
+    "mazah_quetzillian.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_quetzillian.geo.json",
+    "mazah_quetzillian.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_quetzillian.json",
+    "quetzillian.png": "assets/cobblemon/textures/pokemon/mazah/quetzillian/quetzillian.png",
+    "quetzillian_cry.ogg": "assets/gravelmon/sounds/pokemon/mazah/quetzillian_cry.ogg",
+    "quetzillian_shiny.png": "assets/cobblemon/textures/pokemon/mazah/quetzillian/quetzillian_shiny.png"
+  }
+}

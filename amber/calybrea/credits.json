@@ -1,0 +1,28 @@
+{
+  "game": "amber",
+  "pokemon": "calybrea",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Foxic"
+      },
+      "contributors": [
+        {
+          "login": "Foxic"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:08:46.000Z",
+      "models": [
+        "amber/calybrea/amber_calybrea.geo.json"
+      ],
+      "animations": [
+        "amber/calybrea/amber_calybrea.animation.json"
+      ],
+      "textures": [
+        "amber/calybrea/calybrea.png",
+        "amber/calybrea/calybrea_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

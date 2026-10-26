@@ -1,0 +1,10 @@
+{
+  "files": {
+    "0_pelacanne_base.json": "assets/cobblemon/bedrock/species/amber/0_pelacanne_base.json",
+    "amber_pelacanne.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_pelacanne.animation.json",
+    "amber_pelacanne.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_pelacanne.geo.json",
+    "amber_pelacanne.json": "assets/cobblemon/bedrock/pokemon/posers/amber_pelacanne.json",
+    "pelacanne.png": "assets/cobblemon/textures/pokemon/amber/pelacanne/pelacanne.png",
+    "pelacanne_shiny.png": "assets/cobblemon/textures/pokemon/amber/pelacanne/pelacanne_shiny.png"
+  }
+}

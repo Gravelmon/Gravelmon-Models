@@ -1,0 +1,11 @@
+{
+  "files": {
+    "0_charcopal_base.json": "assets/cobblemon/bedrock/species/mazah/0_charcopal_base.json",
+    "charcopal.png": "assets/cobblemon/textures/pokemon/mazah/charcopal/charcopal.png",
+    "charcopal_cry.ogg": "assets/gravelmon/sounds/pokemon/mazah/charcopal_cry.ogg",
+    "charcopal_shiny.png": "assets/cobblemon/textures/pokemon/mazah/charcopal/charcopal_shiny.png",
+    "mazah_charcopal.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_charcopal.animation.json",
+    "mazah_charcopal.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_charcopal.geo.json",
+    "mazah_charcopal.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_charcopal.json"
+  }
+}

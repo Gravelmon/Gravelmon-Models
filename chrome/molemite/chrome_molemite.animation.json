@@ -1,0 +1,76 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.chrome_molemite.air_idle": {
+			"loop": true,
+			"bones": {
+				"body": {
+					"rotation": [0, "0 - Math.cos(((q.anim_time + 0.1) * 180 * 0.5) * 1) * 5", "Math.cos(((q.anim_time + 0.4) * 180 * 0.5) * 1) * 5"],
+					"position": ["Math.cos((q.anim_time * 90 * 0.5) * 1) * 1.5", "1+Math.cos((q.anim_time * 180 * 0.5) * 1) * 1", 0]
+				},
+				"orbit": {
+					"rotation": [0, "(query.anim_time)*45", 0]
+				},
+				"orbit_electron": {
+					"rotation": [0, "(query.anim_time)*55", 0]
+				},
+				"nail_left_rotation": {
+					"rotation": ["2+15*math.cos(query.anim_time*90*1)", 0, 0]
+				},
+				"nail_right_rotation": {
+					"rotation": ["2+15*math.cos(query.anim_time*90*1)", 0, 0]
+				},
+				"electron_left": {
+					"rotation": [0, 0, "5*math.cos(query.anim_time*90*1)"]
+				},
+				"electron_right": {
+					"rotation": [0, 0, "5*math.cos(query.anim_time*90*1)"]
+				}
+			}
+		},
+		"animation.chrome_molemite.air_fly": {
+			"loop": true,
+			"bones": {
+				"body": {
+					"rotation": [15, "0 - Math.cos(((q.anim_time + 0.1) * 180 * 0.5) * 1) * 5", "Math.cos(((q.anim_time + 0.4) * 180 * 0.5) * 1) * 5"],
+					"position": ["Math.cos((q.anim_time * 90 * 0.5) * 1) * 1.5", "1+Math.cos((q.anim_time * 180 * 0.5) * 1) * 1", 0]
+				},
+				"orbit": {
+					"rotation": [0, "(query.anim_time)*90", 0]
+				},
+				"orbit_electron": {
+					"rotation": [0, "(query.anim_time)*110", 0]
+				},
+				"nail_left_rotation": {
+					"rotation": ["2+15*math.cos(query.anim_time*90*1)", 0, 0]
+				},
+				"nail_right_rotation": {
+					"rotation": ["2+15*math.cos(query.anim_time*90*1)", 0, 0]
+				},
+				"electron_left": {
+					"rotation": [0, 0, "5*math.cos(query.anim_time*90*1)"]
+				},
+				"electron_right": {
+					"rotation": [0, 0, "5*math.cos(query.anim_time*90*1)"]
+				}
+			}
+		},
+		"animation.chrome_molemite.sleep": {
+			"loop": true,
+			"bones": {
+				"body": {
+					"rotation": ["5*math.cos((query.anim_time - 0.2) * 90)", 0, 0]
+				},
+				"pupil": {
+					"position": [0, 0, 1]
+				},
+				"pupil_closed": {
+					"position": [0, 0, -0.1]
+				},
+				"orbit": {
+					"rotation": [0, "(query.anim_time)*90", 0]
+				}
+			}
+		}
+	}
+}

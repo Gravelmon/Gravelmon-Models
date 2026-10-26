@@ -1,0 +1,30 @@
+{
+  "game": "mazah",
+  "pokemon": "rotatona",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Uncle Berry"
+      },
+      "contributors": [
+        {
+          "login": "Uncle Berry"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:08:46.000Z",
+      "models": [
+        "mazah/rotatona/mazah_rotatona.geo.json"
+      ],
+      "animations": [
+        "mazah/rotatona/mazah_rotatona.animation.json"
+      ],
+      "textures": [
+        "mazah/rotatona/rotatona.png",
+        "mazah/rotatona/rotatona_shiny.png"
+      ],
+      "sounds": [
+        "mazah/rotatona/rotatona_cry.ogg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.chrome_moleton.air_idle": {
+			"loop": true,
+			"bones": {
+				"body3": {
+					"rotation": [-5, 0, -135],
+					"position": [4, 6, 0.5]
+				},
+				"body2": {
+					"rotation": [-5, 0, 135],
+					"position": [-4, 5, 0.5]
+				},
+				"allbodies": {
+					"rotation": [0, "0 - Math.cos(((q.anim_time + 0.1) * 180 * 0.5) * 1) * 5", "Math.cos(((q.anim_time + 0.4) * 180 * 0.5) * 1) * 5"],
+					"position": ["Math.Sin((q.anim_time * 180 * 0.5) * 1) * 1.5", "1+Math.Sin((q.anim_time * 90 * 0.5) * 1) * 1.5", 0]
+				},
+				"orbit": {
+					"rotation": [0, "(query.anim_time)*90", 0]
+				},
+				"orbit_electron": {
+					"rotation": [0, "(query.anim_time)*90", 0]
+				},
+				"nail_left_rotation3": {
+					"rotation": ["2+5*math.cos(query.anim_time*90*1)", 0, 0]
+				},
+				"nail_right_rotation2": {
+					"rotation": ["2+5*math.cos(query.anim_time*90*1)", 0, 0]
+				},
+				"electrons": {
+					"rotation": [0, 0, "5*math.cos(query.anim_time*90*1)"]
+				},
+				"orbit2": {
+					"rotation": [0, "(query.anim_time)*90", 0]
+				},
+				"orbit_electron2": {
+					"rotation": [0, "(query.anim_time)*90", 0]
+				},
+				"electrons2": {
+					"rotation": [0, 0, "2*math.cos(query.anim_time*90*1)"]
+				},
+				"orbit3": {
+					"rotation": [0, "(query.anim_time)*-90", 0]
+				},
+				"orbit_electron3": {
+					"rotation": [0, "(query.anim_time)*-90", 0]
+				},
+				"electrons3": {
+					"rotation": [0, 0, "5*math.sin(query.anim_time*90*1)"]
+				}
+			}
+		},
+		"animation.chrome_moleton.air_fly": {
+			"loop": true,
+			"bones": {
+				"body3": {
+					"rotation": [-5, 0, -135],
+					"position": [4, 6, 0.5]
+				},
+				"body2": {
+					"rotation": [-5, 0, 135],
+					"position": [-4, 5, 0.5]
+				},
+				"allbodies": {
+					"rotation": [15, "0 - Math.cos(((q.anim_time + 0.1) * 180 * 0.5) * 1) * 5", "Math.cos(((q.anim_time + 0.4) * 180 * 0.5) * 1) * 5"],
+					"position": ["Math.Sin((q.anim_time * 180 * 0.5) * 1) * 1.5", "1+Math.Sin((q.anim_time * 90 * 0.5) * 1) * 1.5", 0]
+				},
+				"orbit": {
+					"rotation": [0, "(query.anim_time)*120", 0]
+				},
+				"orbit_electron": {
+					"rotation": [0, "(query.anim_time)*120", 0]
+				},
+				"nail_left_rotation3": {
+					"rotation": ["2+5*math.cos(query.anim_time*90*1)", 0, 0]
+				},
+				"nail_right_rotation2": {
+					"rotation": ["2+5*math.cos(query.anim_time*90*1)", 0, 0]
+				},
+				"electrons": {
+					"rotation": [0, 0, "5*math.cos(query.anim_time*90*1)"]
+				},
+				"orbit2": {
+					"rotation": [0, "(query.anim_time)*120", 0]
+				},
+				"orbit_electron2": {
+					"rotation": [0, "(query.anim_time)*120", 0]
+				},
+				"electrons2": {
+					"rotation": [0, 0, "2*math.cos(query.anim_time*90*1)"]
+				},
+				"orbit3": {
+					"rotation": [0, "(query.anim_time)*-120", 0]
+				},
+				"orbit_electron3": {
+					"rotation": [0, "(query.anim_time)*-120", 0]
+				},
+				"electrons3": {
+					"rotation": [0, 0, "5*math.sin(query.anim_time*90*1)"]
+				}
+			}
+		}
+	}
+}

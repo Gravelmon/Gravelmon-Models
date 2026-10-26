@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:mollucotta",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mazah_mollucotta",
+      "model": "cobblemon:mazah_mollucotta.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/mollucotta/mollucotta.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/mollucotta/mollucotta_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.amber_flufling.ground_idle": {
+			"loop": true,
+			"bones": {
+				"left_leg": {
+					"rotation": [0, -22.5, 0]
+				},
+				"left_arm": {
+					"rotation": [-15.36129, 28.42735, 50.38273]
+				},
+				"tail_3": {
+					"rotation": [10, 0, 0]
+				},
+				"tail_4": {
+					"rotation": [15, 0, 0]
+				},
+				"tail_5": {
+					"rotation": [20, 0, 0]
+				},
+				"tail_6": {
+					"rotation": [25, 0, 0]
+				},
+				"tail_7": {
+					"rotation": [20, 0, 0]
+				},
+				"tail_8": {
+					"rotation": [22.5, 0, 0]
+				},
+				"right_arm": {
+					"rotation": [-15.36129, -28.42735, -50.38273]
+				},
+				"right_leg": {
+					"rotation": [0, 22.5, 0]
+				}
+			}
+		}
+	}
+}

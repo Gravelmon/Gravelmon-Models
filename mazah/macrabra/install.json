@@ -1,0 +1,10 @@
+{
+  "files": {
+    "0_macrabra_base.json": "assets/cobblemon/bedrock/species/mazah/0_macrabra_base.json",
+    "macrabra.png": "assets/cobblemon/textures/pokemon/mazah/macrabra/macrabra.png",
+    "macrabra_shiny.png": "assets/cobblemon/textures/pokemon/mazah/macrabra/macrabra_shiny.png",
+    "mazah_macrabra.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_macrabra.animation.json",
+    "mazah_macrabra.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_macrabra.geo.json",
+    "mazah_macrabra.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_macrabra.json"
+  }
+}

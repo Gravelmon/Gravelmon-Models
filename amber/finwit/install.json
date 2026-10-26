@@ -1,0 +1,11 @@
+{
+  "files": {
+    "0_finwit_base.json": "assets/cobblemon/bedrock/species/amber/0_finwit_base.json",
+    "amber_finwit.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_finwit.animation.json",
+    "amber_finwit.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_finwit.geo.json",
+    "amber_finwit.json": "assets/cobblemon/bedrock/pokemon/posers/amber_finwit.json",
+    "finwit.png": "assets/cobblemon/textures/pokemon/amber/finwit/finwit.png",
+    "finwit_cry.ogg": "assets/gravelmon/sounds/pokemon/amber/finwit_cry.ogg",
+    "finwit_shiny.png": "assets/cobblemon/textures/pokemon/amber/finwit/finwit_shiny.png"
+  }
+}

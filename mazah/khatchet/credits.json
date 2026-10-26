@@ -1,0 +1,31 @@
+{
+  "game": "mazah",
+  "pokemon": "khatchet",
+  "entries": [
+    {
+      "contributor": {
+        "login": "WITCHDAGGER"
+      },
+      "contributors": [
+        {
+          "login": "WITCHDAGGER"
+        },
+        {
+          "login": "BifeSalgado"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:08:46.000Z",
+      "models": [
+        "mazah/khatchet/mazah_khatchet.geo.json"
+      ],
+      "animations": [
+        "mazah/khatchet/mazah_khatchet.animation.json"
+      ],
+      "textures": [
+        "mazah/khatchet/khatchet.png",
+        "mazah/khatchet/khatchet_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

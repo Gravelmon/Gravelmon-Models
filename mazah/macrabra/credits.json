@@ -1,0 +1,28 @@
+{
+  "game": "mazah",
+  "pokemon": "macrabra",
+  "entries": [
+    {
+      "contributor": {
+        "login": "kale"
+      },
+      "contributors": [
+        {
+          "login": "kale"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:08:46.000Z",
+      "models": [
+        "mazah/macrabra/mazah_macrabra.geo.json"
+      ],
+      "animations": [
+        "mazah/macrabra/mazah_macrabra.animation.json"
+      ],
+      "textures": [
+        "mazah/macrabra/macrabra.png",
+        "mazah/macrabra/macrabra_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

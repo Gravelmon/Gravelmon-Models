@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:makwahurt",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mazah_makwahurt",
+      "model": "cobblemon:mazah_makwahurt.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/makwahurt/makwahurt.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/makwahurt/makwahurt_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "game": "amber",
+  "pokemon": "siberupt",
+  "entries": [
+    {
+      "contributor": {
+        "login": "bob"
+      },
+      "contributors": [
+        {
+          "login": "bob"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:08:46.000Z",
+      "models": [
+        "amber/siberupt/amber_siberupt.geo.json"
+      ],
+      "animations": [
+        "amber/siberupt/amber_siberupt.animation.json"
+      ],
+      "textures": [
+        "amber/siberupt/siberupt.png",
+        "amber/siberupt/siberupt_shiny.png"
+      ],
+      "sounds": [
+        "amber/siberupt/siberupt_cry.ogg"
+      ]
+    }
+  ]
+}

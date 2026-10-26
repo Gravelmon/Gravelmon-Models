@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:macrabra",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mazah_macrabra",
+      "model": "cobblemon:mazah_macrabra.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/macrabra/macrabra.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/macrabra/macrabra_shiny.png"
+    }
+  ]
+}

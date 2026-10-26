@@ -1,0 +1,34 @@
+{
+  "game": "amber",
+  "pokemon": "shagcoon",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Sl0py"
+      },
+      "contributors": [
+        {
+          "login": "Sl0py"
+        },
+        {
+          "login": "fire_jaguar"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:08:46.000Z",
+      "models": [
+        "amber/shagcoon/amber_shagcoon.geo.json"
+      ],
+      "animations": [
+        "amber/shagcoon/amber_shagcoon.animation.json"
+      ],
+      "textures": [
+        "amber/shagcoon/shagcoon.png",
+        "amber/shagcoon/shagcoon_emissive.png",
+        "amber/shagcoon/shagcoon_shiny.png"
+      ],
+      "sounds": [
+        "amber/shagcoon/shagcoon_cry.ogg"
+      ]
+    }
+  ]
+}

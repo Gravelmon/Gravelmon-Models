@@ -1,0 +1,32 @@
+{
+  "game": "mazah",
+  "pokemon": "geocoprion",
+  "entries": [
+    {
+      "contributor": {
+        "login": "WITCHDAGGER"
+      },
+      "contributors": [
+        {
+          "login": "WITCHDAGGER"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:08:46.000Z",
+      "models": [
+        "mazah/geocoprion/mazah_geocoprion.geo.json"
+      ],
+      "animations": [
+        "mazah/geocoprion/mazah_geocoprion.animation.json"
+      ],
+      "textures": [
+        "mazah/geocoprion/geocoprion.png",
+        "mazah/geocoprion/geocoprion_emissive.png",
+        "mazah/geocoprion/geocoprion_shiny.png",
+        "mazah/geocoprion/geocoprion_shiny_emissive.png"
+      ],
+      "sounds": [
+        "mazah/geocoprion/geocoprion_cry.ogg"
+      ]
+    }
+  ]
+}

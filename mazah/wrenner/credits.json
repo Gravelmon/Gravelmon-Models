@@ -1,0 +1,30 @@
+{
+  "game": "mazah",
+  "pokemon": "wrenner",
+  "entries": [
+    {
+      "contributor": {
+        "login": "fire_jaguar"
+      },
+      "contributors": [
+        {
+          "login": "fire_jaguar"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:08:46.000Z",
+      "models": [
+        "mazah/wrenner/mazah_wrenner.geo.json"
+      ],
+      "animations": [
+        "mazah/wrenner/mazah_wrenner.animation.json"
+      ],
+      "textures": [
+        "mazah/wrenner/wrenner.png",
+        "mazah/wrenner/wrenner_shiny.png"
+      ],
+      "sounds": [
+        "mazah/wrenner/wrenner_cry.ogg"
+      ]
+    }
+  ]
+}

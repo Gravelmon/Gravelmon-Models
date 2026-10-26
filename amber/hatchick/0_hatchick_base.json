@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:hatchick",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:amber_hatchick",
+      "model": "cobblemon:amber_hatchick.geo",
+      "texture": "cobblemon:textures/pokemon/amber/hatchick/hatchick.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/amber/hatchick/hatchick_shiny.png"
+    }
+  ]
+}

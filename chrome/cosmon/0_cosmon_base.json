@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:cosmon",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:chrome_cosmon",
+      "model": "cobblemon:chrome_cosmon.geo",
+      "texture": "cobblemon:textures/pokemon/chrome/cosmon/cosmon.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/chrome/cosmon/cosmon.png"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "game": "amber",
+  "pokemon": "rachops",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Blizt"
+      },
+      "contributors": [
+        {
+          "login": "Blizt"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:08:46.000Z",
+      "models": [
+        "amber/rachops/amber_rachops.geo.json"
+      ],
+      "animations": [
+        "amber/rachops/amber_rachops.animation.json"
+      ],
+      "textures": [
+        "amber/rachops/rachops.png",
+        "amber/rachops/rachops_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

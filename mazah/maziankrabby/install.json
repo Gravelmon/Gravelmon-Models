@@ -1,0 +1,10 @@
+{
+  "files": {
+    "3000_krabby_mazian.json": "assets/cobblemon/bedrock/species/additional_forms/3000_krabby_mazian.json",
+    "krabby_mazian.png": "assets/cobblemon/textures/pokemon/mazah/maziankrabby/krabby_mazian.png",
+    "krabby_mazian_shiny.png": "assets/cobblemon/textures/pokemon/mazah/maziankrabby/krabby_mazian_shiny.png",
+    "mazah_maziankrabby.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_maziankrabby.animation.json",
+    "mazah_maziankrabby.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_maziankrabby.geo.json",
+    "mazah_maziankrabby.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_maziankrabby.json"
+  }
+}

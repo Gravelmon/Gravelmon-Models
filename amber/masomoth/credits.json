@@ -1,0 +1,34 @@
+{
+  "game": "amber",
+  "pokemon": "masomoth",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Sl0py"
+      },
+      "contributors": [
+        {
+          "login": "Sl0py"
+        },
+        {
+          "login": "fire_jaguar"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:08:46.000Z",
+      "models": [
+        "amber/masomoth/amber_masomoth.geo.json"
+      ],
+      "animations": [
+        "amber/masomoth/amber_masomoth.animation.json"
+      ],
+      "textures": [
+        "amber/masomoth/masomoth.png",
+        "amber/masomoth/masomoth_shiny.png",
+        "amber/masomoth/masomoth_shiny_emissive.png"
+      ],
+      "sounds": [
+        "amber/masomoth/masomoth_cry.ogg"
+      ]
+    }
+  ]
+}

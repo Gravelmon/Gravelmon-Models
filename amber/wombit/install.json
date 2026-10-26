@@ -1,0 +1,11 @@
+{
+  "files": {
+    "0_wombit_base.json": "assets/cobblemon/bedrock/species/amber/0_wombit_base.json",
+    "amber_wombit.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_wombit.animation.json",
+    "amber_wombit.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_wombit.geo.json",
+    "amber_wombit.json": "assets/cobblemon/bedrock/pokemon/posers/amber_wombit.json",
+    "wombit.png": "assets/cobblemon/textures/pokemon/amber/wombit/wombit.png",
+    "wombit_cry.ogg": "assets/gravelmon/sounds/pokemon/amber/wombit_cry.ogg",
+    "wombit_shiny.png": "assets/cobblemon/textures/pokemon/amber/wombit/wombit_shiny.png"
+  }
+}

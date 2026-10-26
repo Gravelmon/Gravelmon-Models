@@ -1,0 +1,30 @@
+{
+  "game": "amber",
+  "pokemon": "dunklex",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Glaceon"
+      },
+      "contributors": [
+        {
+          "login": "Glaceon"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:08:46.000Z",
+      "models": [
+        "amber/dunklex/amber_dunklex.geo.json"
+      ],
+      "animations": [
+        "amber/dunklex/amber_dunklex.animation.json"
+      ],
+      "textures": [
+        "amber/dunklex/dunklex.png",
+        "amber/dunklex/dunklex_shiny.png"
+      ],
+      "sounds": [
+        "amber/dunklex/dunklex_cry.ogg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "game": "ikaku",
+  "pokemon": "shockitez",
+  "entries": [
+    {
+      "contributor": {
+        "login": "fire_jaguar"
+      },
+      "contributors": [
+        {
+          "login": "fire_jaguar"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:08:46.000Z",
+      "models": [
+        "ikaku/shockitez/ikaku_shockitez.geo.json"
+      ],
+      "animations": [
+        "ikaku/shockitez/ikaku_shockitez.animation.json"
+      ],
+      "textures": [
+        "ikaku/shockitez/shockitez.png",
+        "ikaku/shockitez/shockitez_emmisive.png",
+        "ikaku/shockitez/shockitez_shiny.png",
+        "ikaku/shockitez/shockitez_shiny_emmisive.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "game": "amber",
+  "pokemon": "pannomammo",
+  "entries": [
+    {
+      "contributor": {
+        "login": "MuchTooManyOCs"
+      },
+      "contributors": [
+        {
+          "login": "MuchTooManyOCs"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:08:46.000Z",
+      "models": [
+        "amber/pannomammo/amber_pannomammo.geo.json"
+      ],
+      "animations": [
+        "amber/pannomammo/amber_pannomammo.animation.json"
+      ],
+      "textures": [
+        "amber/pannomammo/pannomammo.png",
+        "amber/pannomammo/pannomammo_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

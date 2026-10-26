@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:dunklex",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:amber_dunklex",
+      "model": "cobblemon:amber_dunklex.geo",
+      "texture": "cobblemon:textures/pokemon/amber/dunklex/dunklex.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/amber/dunklex/dunklex_shiny.png"
+    }
+  ]
+}

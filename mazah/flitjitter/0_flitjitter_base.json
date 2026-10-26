@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:flitjitter",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mazah_flitjitter",
+      "model": "cobblemon:mazah_flitjitter.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/flitjitter/flitjitter.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/flitjitter/flitjitter_shiny.png"
+    }
+  ]
+}

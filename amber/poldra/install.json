@@ -1,0 +1,10 @@
+{
+  "files": {
+    "0_poldra_base.json": "assets/cobblemon/bedrock/species/amber/0_poldra_base.json",
+    "amber_poldra.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_poldra.animation.json",
+    "amber_poldra.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_poldra.geo.json",
+    "amber_poldra.json": "assets/cobblemon/bedrock/pokemon/posers/amber_poldra.json",
+    "poldra.png": "assets/cobblemon/textures/pokemon/amber/poldra/poldra.png",
+    "poldra_shiny.png": "assets/cobblemon/textures/pokemon/amber/poldra/poldra_shiny.png"
+  }
+}

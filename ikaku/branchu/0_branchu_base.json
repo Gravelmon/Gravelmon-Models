@@ -1,0 +1,58 @@
+{
+  "species": "cobblemon:branchu",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:ikaku_branchu",
+      "model": "cobblemon:ikaku_branchu.geo",
+      "texture": "cobblemon:textures/pokemon/ikaku/branchu/branchu_cheeky.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/ikaku/branchu/branchu_cheeky_shiny.png"
+    },
+    {
+      "aspects": [
+        "style-goofy"
+      ],
+      "texture": "cobblemon:textures/pokemon/ikaku/branchu/branchu_goofy.png"
+    },
+    {
+      "aspects": [
+        "style-goofy",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/ikaku/branchu/branchu_goofy_shiny.png"
+    },
+    {
+      "aspects": [
+        "style-jolly"
+      ],
+      "texture": "cobblemon:textures/pokemon/ikaku/branchu/branchu_jolly.png"
+    },
+    {
+      "aspects": [
+        "style-jolly",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/ikaku/branchu/branchu_jolly_shiny.png"
+    },
+    {
+      "aspects": [
+        "style-angry"
+      ],
+      "texture": "cobblemon:textures/pokemon/ikaku/branchu/branchu_angry.png"
+    },
+    {
+      "aspects": [
+        "style-angry",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/ikaku/branchu/branchu_angry_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "game": "amber",
+  "pokemon": "wombit",
+  "entries": [
+    {
+      "contributor": {
+        "login": "BifeSalgado"
+      },
+      "contributors": [
+        {
+          "login": "BifeSalgado"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:08:46.000Z",
+      "models": [
+        "amber/wombit/amber_wombit.geo.json"
+      ],
+      "animations": [
+        "amber/wombit/amber_wombit.animation.json"
+      ],
+      "textures": [
+        "amber/wombit/wombit.png",
+        "amber/wombit/wombit_shiny.png"
+      ],
+      "sounds": [
+        "amber/wombit/wombit_cry.ogg"
+      ]
+    }
+  ]
+}

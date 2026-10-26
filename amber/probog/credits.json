@@ -1,0 +1,30 @@
+{
+  "game": "amber",
+  "pokemon": "probog",
+  "entries": [
+    {
+      "contributor": {
+        "login": "fire_jaguar"
+      },
+      "contributors": [
+        {
+          "login": "fire_jaguar"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:08:46.000Z",
+      "models": [
+        "amber/probog/amber_probog.geo.json"
+      ],
+      "animations": [
+        "amber/probog/amber_probog.animation.json"
+      ],
+      "textures": [
+        "amber/probog/probog.png",
+        "amber/probog/probog_shiny.png"
+      ],
+      "sounds": [
+        "amber/probog/probog_cry.ogg"
+      ]
+    }
+  ]
+}

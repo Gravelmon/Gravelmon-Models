@@ -1,0 +1,19 @@
+{
+  "portraitScale": 0.59,
+  "portraitTranslation": [-0.86, 2.0, 5.0],
+  "profileScale": 0.29,
+  "profileTranslation": [0.02, 1.28, -10.0],
+  "rootBone": "carnarmor",
+  "poses": {
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "animations": ["q.look('head')", "q.bedrock('amber_carnarmor', 'ground_idle')"],
+      "quirks": ["q.bedrock_quirk('amber_carnarmor', 'blink')"]
+    },
+    "walking": {
+      "poseTypes": ["WALK", "SWIM"],
+      "animations": ["q.look('head')", "q.bedrock('amber_carnarmor', 'ground_idle')"],
+      "quirks": ["q.bedrock_quirk('amber_carnarmor', 'blink')"]
+    }
+  }
+}

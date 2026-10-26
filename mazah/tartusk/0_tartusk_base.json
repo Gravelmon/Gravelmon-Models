@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:tartusk",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mazah_tartusk",
+      "model": "cobblemon:mazah_tartusk.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/tartusk/tartusk.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/tartusk/tartusk_shiny.png"
+    }
+  ]
+}
