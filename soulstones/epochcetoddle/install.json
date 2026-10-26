@@ -1,6 +1,12 @@
 {
   "files": {
     "164_cetoddle_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_cetoddle_epoch.json",
-    "epochcetoddle.png": "assets/cobblemon/textures/pokemon/soulstones/epochcetoddle.png"
+    "cetoddle_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochcetoddle/cetoddle_epoch.png",
+    "cetoddle_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochcetoddle/cetoddle_epoch_alpha.png",
+    "cetoddle_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochcetoddle/cetoddle_epoch_shiny.png",
+    "epochcetoddle.png": "assets/cobblemon/textures/pokemon/soulstones/epochcetoddle.png",
+    "soulstones_epochcetoddle.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochcetoddle.animation.json",
+    "soulstones_epochcetoddle.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochcetoddle.geo.json",
+    "soulstones_epochcetoddle.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochcetoddle.json"
   }
 }

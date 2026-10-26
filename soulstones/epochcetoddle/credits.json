@@ -1,0 +1,37 @@
+{
+  "game": "pokemon",
+  "pokemon": "cetoddle",
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "cetoddle",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-10-26T16:04:36.465Z",
+      "models": [
+        "soulstones/epochcetoddle/soulstones_epochcetoddle.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochcetoddle/soulstones_epochcetoddle.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochcetoddle/cetoddle_epoch.png",
+        "soulstones/epochcetoddle/cetoddle_epoch_alpha.png",
+        "soulstones/epochcetoddle/cetoddle_epoch_shiny.png",
+        "soulstones/epochcetoddle/epochcetoddle.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
