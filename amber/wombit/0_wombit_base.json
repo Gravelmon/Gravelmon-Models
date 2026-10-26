@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:wombit",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:amber_wombit",
+      "model": "cobblemon:amber_wombit.geo",
+      "texture": "cobblemon:textures/pokemon/amber/wombit/wombit.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/amber/wombit/wombit_shiny.png"
+    }
+  ]
+}

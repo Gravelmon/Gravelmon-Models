@@ -1,0 +1,193 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.ikaku_dracosoar.ground_idle": {
+			"loop": true,
+			"bones": {
+				"left_leg": {
+					"rotation": [25.74546, 0.3244, -21.36332],
+					"position": [-3, -1.4, 4]
+				},
+				"left_knee": {
+					"rotation": [-23.74521, -12.24053, 29.90275],
+					"position": [0.5, 0, -0.5]
+				},
+				"torso": {
+					"rotation": [-22.5, 0, 0],
+					"position": [0, -1, 0]
+				},
+				"tail": {
+					"rotation": [45, 0, 0],
+					"position": [0, 0.2, -2.3]
+				},
+				"tail_2": {
+					"rotation": [22.5, 0, 0],
+					"position": [0, 0.5, -0.7]
+				},
+				"tail_3": {
+					"rotation": [22.5, 0, 0],
+					"position": [0, 1, 0]
+				},
+				"tail_4": {
+					"rotation": [0, 0, 0]
+				},
+				"tail_5": {
+					"rotation": [0, 0, 0]
+				},
+				"tail_6": {
+					"rotation": [-45, 0, 0],
+					"position": [0, -1.5, 0]
+				},
+				"tail_lightning": {
+					"rotation": [-22.5, 0, 0]
+				},
+				"torso_2": {
+					"rotation": [-45, 0, 0],
+					"position": [0, 1.5, 2]
+				},
+				"left_arm": {
+					"rotation": [56.46074, -48.35367, 18.26575],
+					"position": [0, -1, 6.4]
+				},
+				"left_elbow": {
+					"rotation": [0, 0, 40],
+					"position": [-1, 1, 0]
+				},
+				"left_hand_foot_fin": {
+					"rotation": [0, 0, -12.5]
+				},
+				"torso_3": {
+					"rotation": [-22.5, 0, 0],
+					"position": [0, 1, 2]
+				},
+				"torso_4": {
+					"rotation": [45, 0, 0],
+					"position": [0, -1.9, 1.5]
+				},
+				"torso_4_fin": {
+					"rotation": [22.5, 0, 0]
+				},
+				"torso_5": {
+					"rotation": [45, 0, 0],
+					"position": [0, 1.3, 1]
+				},
+				"head": {
+					"rotation": [45, 0, 0],
+					"position": [0, 0.4, 0]
+				},
+				"tail_6_right_flap": {
+					"rotation": [0, 0, 22.5]
+				},
+				"tail_6_left_flap": {
+					"rotation": [0, 0, -22.5]
+				},
+				"right_arm": {
+					"rotation": [56.46074, 48.3537, -18.2657],
+					"position": [0, -1, 6.4]
+				},
+				"right_elbow": {
+					"rotation": [0, 0, -40],
+					"position": [1, 1, 0]
+				},
+				"right_hand_foot_fin": {
+					"rotation": [0, 0, 12.5]
+				},
+				"right_leg": {
+					"rotation": [25.74546, -0.3244, 21.3633],
+					"position": [3, -1.4, 4]
+				},
+				"right_knee": {
+					"rotation": [-23.74521, 12.2405, -29.9027],
+					"position": [-0.5, 0, -0.5]
+				}
+			}
+		},
+		"animation.ikaku_dracosoar.blank": {
+			"loop": true,
+			"bones": {
+				"left_leg": {
+					"rotation": [25.74546, 0.3244, -21.36332],
+					"position": [-3, -1.4, 4]
+				},
+				"left_knee": {
+					"rotation": [-23.74521, -12.24053, 29.90275],
+					"position": [0.5, 0, -0.5]
+				},
+				"torso": {
+					"rotation": [-22.5, 0, 0],
+					"position": [0, -1, 0]
+				},
+				"tail": {
+					"rotation": [22.5, 0, 0],
+					"position": [0, 0.1, -1]
+				},
+				"tail_2": {
+					"rotation": [22.5, 0, 0]
+				},
+				"tail_6": {
+					"rotation": [-22.5, 0, 0],
+					"position": [0, -1, 0]
+				},
+				"torso_2": {
+					"rotation": [-45, 0, 0],
+					"position": [0, 1.5, 2]
+				},
+				"left_arm": {
+					"rotation": [56.46074, -48.35367, 18.26575],
+					"position": [0, -1, 6.4]
+				},
+				"left_elbow": {
+					"rotation": [0, 0, 40],
+					"position": [-1, 1, 0]
+				},
+				"left_hand_foot_fin": {
+					"rotation": [0, 0, -12.5]
+				},
+				"torso_3": {
+					"rotation": [-22.5, 0, 0],
+					"position": [0, 1, 2]
+				},
+				"torso_4": {
+					"rotation": [45, 0, 0],
+					"position": [0, -1.9, 1.5]
+				},
+				"torso_4_fin": {
+					"rotation": [22.5, 0, 0]
+				},
+				"torso_5": {
+					"rotation": [45, 0, 0],
+					"position": [0, 1.3, 1]
+				},
+				"head": {
+					"rotation": [45, 0, 0],
+					"position": [0, 0.5, -0.1]
+				},
+				"tail_6_right_flap": {
+					"rotation": [0, 0, 22.5]
+				},
+				"tail_6_left_flap": {
+					"rotation": [0, 0, -22.5]
+				},
+				"right_arm": {
+					"rotation": [56.46074, 48.3537, -18.2657],
+					"position": [0, -1, 6.4]
+				},
+				"right_elbow": {
+					"rotation": [0, 0, -40],
+					"position": [1, 1, 0]
+				},
+				"right_hand_foot_fin": {
+					"rotation": [0, 0, 12.5]
+				},
+				"right_leg": {
+					"rotation": [25.74546, -0.3244, 21.3633],
+					"position": [3, -1.4, 4]
+				},
+				"right_knee": {
+					"rotation": [-23.74521, 12.2405, -29.9027],
+					"position": [-0.5, 0, -0.5]
+				}
+			}
+		}
+	}
+}

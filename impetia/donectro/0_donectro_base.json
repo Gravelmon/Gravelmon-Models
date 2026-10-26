@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:donectro",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:impetia_donectro",
+      "model": "cobblemon:impetia_donectro.geo",
+      "texture": "cobblemon:textures/pokemon/impetia/donectro/donectro.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/impetia/donectro/donectro_shiny.png"
+    }
+  ]
+}

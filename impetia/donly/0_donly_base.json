@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:donly",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:impetia_donly",
+      "model": "cobblemon:impetia_donly.geo",
+      "texture": "cobblemon:textures/pokemon/impetia/donly/donly.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/impetia/donly/donly_shiny.png"
+    }
+  ]
+}

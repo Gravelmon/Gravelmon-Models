@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_shagcoon_base.json": "assets/cobblemon/bedrock/species/amber/0_shagcoon_base.json",
+    "amber_shagcoon.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_shagcoon.animation.json",
+    "amber_shagcoon.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_shagcoon.geo.json",
+    "amber_shagcoon.json": "assets/cobblemon/bedrock/pokemon/posers/amber_shagcoon.json",
+    "shagcoon.png": "assets/cobblemon/textures/pokemon/amber/shagcoon/shagcoon.png",
+    "shagcoon_cry.ogg": "assets/gravelmon/sounds/pokemon/amber/shagcoon_cry.ogg",
+    "shagcoon_emissive.png": "assets/cobblemon/textures/pokemon/amber/shagcoon/shagcoon_emissive.png",
+    "shagcoon_shiny.png": "assets/cobblemon/textures/pokemon/amber/shagcoon/shagcoon_shiny.png"
+  }
+}

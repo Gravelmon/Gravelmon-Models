@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:bowllo",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mazah_bowllo",
+      "model": "cobblemon:mazah_bowllo.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/bowllo/bowllo.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/bowllo/bowllo_shiny.png"
+    }
+  ]
+}

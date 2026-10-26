@@ -1,0 +1,78 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.mazah_vladikrab.ground_idle": {
+			"loop": true,
+			"bones": {
+				"body": {
+					"rotation": [-22.89807, 0, 0],
+					"position": [0, 0, 3]
+				},
+				"left_claw": {
+					"rotation": [-31.5667, -17.2294, 10.3141]
+				},
+				"left_claw2": {
+					"rotation": [-257.13024, -17.77177, -383.84878]
+				},
+				"leftpincer": {
+					"rotation": [-41.57337, 19.05681, 20.20848]
+				},
+				"leftpincerbottom": {
+					"rotation": [45, 0, 0]
+				},
+				"frontleg_left": {
+					"rotation": [-15, 7.5, -15]
+				},
+				"frontleg_left2": {
+					"rotation": [0, 10, 85]
+				},
+				"fronttoe_left": {
+					"rotation": [0, -22.5, 17.5]
+				},
+				"backleg_left": {
+					"rotation": [16.62484, -22.22485, -38.28761]
+				},
+				"backleg_left2": {
+					"rotation": [0, 0, 65]
+				},
+				"backtoe_left": {
+					"rotation": [0, 0, 47.5]
+				},
+				"frontleg_right": {
+					"rotation": [0, -35, 27.5]
+				},
+				"frontleg_right2": {
+					"rotation": [0, -20, -82.5]
+				},
+				"fronttoe_right": {
+					"rotation": [0, 0, -32.5]
+				},
+				"backleg_right": {
+					"rotation": [10.3141, 17.2294, 39.0667]
+				},
+				"backleg_right2": {
+					"rotation": [0, 0, -52.5]
+				},
+				"backtoe_right": {
+					"rotation": [0, 0, -72.5]
+				},
+				"right_claw": {
+					"rotation": [-16.41102, 31.96625, 24.85969]
+				},
+				"right_claw2": {
+					"rotation": [97.38443, 0.75155, -17.48436]
+				},
+				"teeth": {
+					"rotation": [7.5, 0, 0],
+					"position": [0, 0, 0]
+				},
+				"upperteeth": {
+					"position": [0, 0.5, 0]
+				},
+				"rightpincerbottom": {
+					"rotation": [20, 0, 0]
+				}
+			}
+		}
+	}
+}

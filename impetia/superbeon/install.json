@@ -1,0 +1,10 @@
+{
+  "files": {
+    "0_superbeon_base.json": "assets/cobblemon/bedrock/species/impetia/0_superbeon_base.json",
+    "impetia_superbeon.animation.json": "assets/cobblemon/bedrock/pokemon/animations/impetia_superbeon.animation.json",
+    "impetia_superbeon.geo.json": "assets/cobblemon/bedrock/pokemon/models/impetia_superbeon.geo.json",
+    "impetia_superbeon.json": "assets/cobblemon/bedrock/pokemon/posers/impetia_superbeon.json",
+    "superbeon.png": "assets/cobblemon/textures/pokemon/impetia/superbeon/superbeon.png",
+    "superbeon_shiny.png": "assets/cobblemon/textures/pokemon/impetia/superbeon/superbeon_shiny.png"
+  }
+}

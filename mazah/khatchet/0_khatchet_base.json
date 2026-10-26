@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:khatchet",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mazah_khatchet",
+      "model": "cobblemon:mazah_khatchet.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/khatchet/khatchet.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/khatchet/khatchet_shiny.png"
+    }
+  ]
+}

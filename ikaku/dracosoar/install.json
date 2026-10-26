@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_dracosoar_base.json": "assets/cobblemon/bedrock/species/ikaku/0_dracosoar_base.json",
+    "dracosoar.png": "assets/cobblemon/textures/pokemon/ikaku/dracosoar/dracosoar.png",
+    "dracosoar_emmisive.png": "assets/cobblemon/textures/pokemon/ikaku/dracosoar/dracosoar_emmisive.png",
+    "dracosoar_shiny.png": "assets/cobblemon/textures/pokemon/ikaku/dracosoar/dracosoar_shiny.png",
+    "dracosoar_shiny_emmisive.png": "assets/cobblemon/textures/pokemon/ikaku/dracosoar/dracosoar_shiny_emmisive.png",
+    "ikaku_dracosoar.animation.json": "assets/cobblemon/bedrock/pokemon/animations/ikaku_dracosoar.animation.json",
+    "ikaku_dracosoar.geo.json": "assets/cobblemon/bedrock/pokemon/models/ikaku_dracosoar.geo.json",
+    "ikaku_dracosoar.json": "assets/cobblemon/bedrock/pokemon/posers/ikaku_dracosoar.json"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:dupedillo",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mazah_dupedillo",
+      "model": "cobblemon:mazah_dupedillo.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/dupedillo/dupedillo.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/dupedillo/dupedillo_shiny.png"
+    }
+  ]
+}

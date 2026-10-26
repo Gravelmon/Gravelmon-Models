@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:fonkub",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:impetia_fonkub",
+      "model": "cobblemon:impetia_fonkub.geo",
+      "texture": "cobblemon:textures/pokemon/impetia/fonkub/fonkub.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/impetia/fonkub/fonkub_shiny.png"
+    }
+  ]
+}

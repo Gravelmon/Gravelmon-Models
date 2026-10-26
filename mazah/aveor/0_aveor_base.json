@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:aveor",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mazah_aveor",
+      "model": "cobblemon:mazah_aveor.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/aveor/aveor.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/aveor/aveor_shiny.png"
+    }
+  ]
+}

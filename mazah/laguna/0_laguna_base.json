@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:laguna",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mazah_laguna",
+      "model": "cobblemon:mazah_laguna.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/laguna/laguna.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/laguna/laguna_shiny.png"
+    }
+  ]
+}

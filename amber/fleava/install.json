@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_fleava_base.json": "assets/cobblemon/bedrock/species/amber/0_fleava_base.json",
+    "amber_fleava.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_fleava.animation.json",
+    "amber_fleava.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_fleava.geo.json",
+    "amber_fleava.json": "assets/cobblemon/bedrock/pokemon/posers/amber_fleava.json",
+    "fleava.png": "assets/cobblemon/textures/pokemon/amber/fleava/fleava.png",
+    "fleava_emissive.png": "assets/cobblemon/textures/pokemon/amber/fleava/fleava_emissive.png",
+    "fleava_shiny.png": "assets/cobblemon/textures/pokemon/amber/fleava/fleava_shiny.png",
+    "fleava_shiny_emissive.png": "assets/cobblemon/textures/pokemon/amber/fleava/fleava_shiny_emissive.png"
+  }
+}

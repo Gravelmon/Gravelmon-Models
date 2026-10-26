@@ -1,0 +1,11 @@
+{
+  "files": {
+    "0_gastronaut_base.json": "assets/cobblemon/bedrock/species/mazah/0_gastronaut_base.json",
+    "gastronaut.png": "assets/cobblemon/textures/pokemon/mazah/gastronaut/gastronaut.png",
+    "gastronaut_cry.ogg": "assets/gravelmon/sounds/pokemon/mazah/gastronaut_cry.ogg",
+    "gastronaut_shiny.png": "assets/cobblemon/textures/pokemon/mazah/gastronaut/gastronaut_shiny.png",
+    "mazah_gastronaut.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_gastronaut.animation.json",
+    "mazah_gastronaut.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_gastronaut.geo.json",
+    "mazah_gastronaut.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_gastronaut.json"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "files": {
+    "0_vescrawl_base.json": "assets/cobblemon/bedrock/species/amber/0_vescrawl_base.json",
+    "amber_vescrawl.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_vescrawl.animation.json",
+    "amber_vescrawl.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_vescrawl.geo.json",
+    "amber_vescrawl.json": "assets/cobblemon/bedrock/pokemon/posers/amber_vescrawl.json",
+    "vescrawl.png": "assets/cobblemon/textures/pokemon/amber/vescrawl/vescrawl.png",
+    "vescrawl_shiny.png": "assets/cobblemon/textures/pokemon/amber/vescrawl/vescrawl_shiny.png"
+  }
+}

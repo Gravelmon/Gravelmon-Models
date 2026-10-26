@@ -1,0 +1,10 @@
+{
+  "files": {
+    "0_bowllo_base.json": "assets/cobblemon/bedrock/species/mazah/0_bowllo_base.json",
+    "bowllo.png": "assets/cobblemon/textures/pokemon/mazah/bowllo/bowllo.png",
+    "bowllo_shiny.png": "assets/cobblemon/textures/pokemon/mazah/bowllo/bowllo_shiny.png",
+    "mazah_bowllo.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_bowllo.animation.json",
+    "mazah_bowllo.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_bowllo.geo.json",
+    "mazah_bowllo.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_bowllo.json"
+  }
+}

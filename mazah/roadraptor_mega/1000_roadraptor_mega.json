@@ -1,0 +1,50 @@
+{
+  "species": "cobblemon:roadraptor",
+  "order": 1010,
+  "variations": [
+    {
+      "aspects": [
+        "mega_form"
+      ],
+      "poser": "cobblemon:mazah_roadraptor_mega",
+      "model": "cobblemon:mazah_roadraptor_mega.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/roadraptor_mega/roadraptor_mega.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/mazah/roadraptor_mega/roadraptor_mega_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "mega_form"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/roadraptor_mega/roadraptor_mega_shiny.png"
+    },
+    {
+      "aspects": [
+        "mega"
+      ],
+      "poser": "cobblemon:mazah_roadraptor_mega",
+      "model": "cobblemon:mazah_roadraptor_mega.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/roadraptor_mega/roadraptor_mega.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/mazah/roadraptor_mega/roadraptor_mega_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "mega"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/roadraptor_mega/roadraptor_mega_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "files": {
+    "0_haiproto_base.json": "assets/cobblemon/bedrock/species/amber/0_haiproto_base.json",
+    "amber_haiproto.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_haiproto.animation.json",
+    "amber_haiproto.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_haiproto.geo.json",
+    "amber_haiproto.json": "assets/cobblemon/bedrock/pokemon/posers/amber_haiproto.json",
+    "haiproto.png": "assets/cobblemon/textures/pokemon/amber/haiproto/haiproto.png",
+    "haiproto_cry.ogg": "assets/gravelmon/sounds/pokemon/amber/haiproto_cry.ogg",
+    "haiproto_shiny.png": "assets/cobblemon/textures/pokemon/amber/haiproto/haiproto_shiny.png"
+  }
+}

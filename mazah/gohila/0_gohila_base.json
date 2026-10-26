@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:gohila",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mazah_gohila",
+      "model": "cobblemon:mazah_gohila.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/gohila/gohila.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/gohila/gohila_shiny.png"
+    }
+  ]
+}

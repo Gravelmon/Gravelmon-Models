@@ -1,0 +1,11 @@
+{
+  "files": {
+    "0_pacuna_base.json": "assets/cobblemon/bedrock/species/mazah/0_pacuna_base.json",
+    "mazah_pacuna.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_pacuna.animation.json",
+    "mazah_pacuna.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_pacuna.geo.json",
+    "mazah_pacuna.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_pacuna.json",
+    "pacuna.png": "assets/cobblemon/textures/pokemon/mazah/pacuna/pacuna.png",
+    "pacuna_cry.ogg": "assets/gravelmon/sounds/pokemon/mazah/pacuna_cry.ogg",
+    "pacuna_shiny.png": "assets/cobblemon/textures/pokemon/mazah/pacuna/pacuna_shiny.png"
+  }
+}

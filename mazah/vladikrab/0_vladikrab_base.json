@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:vladikrab",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mazah_vladikrab",
+      "model": "cobblemon:mazah_vladikrab.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/vladikrab/vladikrab.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/vladikrab/vladikrab_shiny.png"
+    }
+  ]
+}

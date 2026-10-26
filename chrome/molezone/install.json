@@ -1,0 +1,10 @@
+{
+  "files": {
+    "0_molezone_base.json": "assets/cobblemon/bedrock/species/chrome/0_molezone_base.json",
+    "chrome_molezone.animation.json": "assets/cobblemon/bedrock/pokemon/animations/chrome_molezone.animation.json",
+    "chrome_molezone.geo.json": "assets/cobblemon/bedrock/pokemon/models/chrome_molezone.geo.json",
+    "chrome_molezone.json": "assets/cobblemon/bedrock/pokemon/posers/chrome_molezone.json",
+    "molezone.png": "assets/cobblemon/textures/pokemon/chrome/molezone/molezone.png",
+    "molezone_shiny.png": "assets/cobblemon/textures/pokemon/chrome/molezone/molezone_shiny.png"
+  }
+}

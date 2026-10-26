@@ -1,0 +1,10 @@
+{
+  "files": {
+    "1000_laguna_mega.json": "assets/cobblemon/bedrock/species/additional_forms/1000_laguna_mega.json",
+    "laguna_mega.png": "assets/cobblemon/textures/pokemon/mazah/laguna_mega/laguna_mega.png",
+    "laguna_mega_shiny.png": "assets/cobblemon/textures/pokemon/mazah/laguna_mega/laguna_mega_shiny.png",
+    "mazah_laguna_mega.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_laguna_mega.animation.json",
+    "mazah_laguna_mega.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_laguna_mega.geo.json",
+    "mazah_laguna_mega.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_laguna_mega.json"
+  }
+}

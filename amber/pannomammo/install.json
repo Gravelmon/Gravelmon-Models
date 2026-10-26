@@ -1,0 +1,10 @@
+{
+  "files": {
+    "0_pannomammo_base.json": "assets/cobblemon/bedrock/species/amber/0_pannomammo_base.json",
+    "amber_pannomammo.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_pannomammo.animation.json",
+    "amber_pannomammo.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_pannomammo.geo.json",
+    "amber_pannomammo.json": "assets/cobblemon/bedrock/pokemon/posers/amber_pannomammo.json",
+    "pannomammo.png": "assets/cobblemon/textures/pokemon/amber/pannomammo/pannomammo.png",
+    "pannomammo_shiny.png": "assets/cobblemon/textures/pokemon/amber/pannomammo/pannomammo_shiny.png"
+  }
+}

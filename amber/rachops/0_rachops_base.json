@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:rachops",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:amber_rachops",
+      "model": "cobblemon:amber_rachops.geo",
+      "texture": "cobblemon:textures/pokemon/amber/rachops/rachops.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/amber/rachops/rachops_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "files": {
+    "0_bosage_base.json": "assets/cobblemon/bedrock/species/impetia/0_bosage_base.json",
+    "bosage.png": "assets/cobblemon/textures/pokemon/impetia/bosage/bosage.png",
+    "bosage_shiny.png": "assets/cobblemon/textures/pokemon/impetia/bosage/bosage_shiny.png",
+    "impetia_bosage.animation.json": "assets/cobblemon/bedrock/pokemon/animations/impetia_bosage.animation.json",
+    "impetia_bosage.geo.json": "assets/cobblemon/bedrock/pokemon/models/impetia_bosage.geo.json",
+    "impetia_bosage.json": "assets/cobblemon/bedrock/pokemon/posers/impetia_bosage.json"
+  }
+}

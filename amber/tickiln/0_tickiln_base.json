@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:tickiln",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:amber_tickiln",
+      "model": "cobblemon:amber_tickiln.geo",
+      "texture": "cobblemon:textures/pokemon/amber/tickiln/tickiln.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/amber/tickiln/tickiln_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/amber/tickiln/tickiln_shiny.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/amber/tickiln/tickiln_shiny_emissive.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

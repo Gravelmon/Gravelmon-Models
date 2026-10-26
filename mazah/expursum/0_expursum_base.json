@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:expursum",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mazah_expursum",
+      "model": "cobblemon:mazah_expursum.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/expursum/expursum.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/expursum/expursum_shiny.png"
+    }
+  ]
+}

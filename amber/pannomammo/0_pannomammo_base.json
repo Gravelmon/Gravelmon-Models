@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:pannomammo",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:amber_pannomammo",
+      "model": "cobblemon:amber_pannomammo.geo",
+      "texture": "cobblemon:textures/pokemon/amber/pannomammo/pannomammo.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/amber/pannomammo/pannomammo_shiny.png"
+    }
+  ]
+}

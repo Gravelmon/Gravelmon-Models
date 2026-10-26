@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:goobula",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:chrome_goobula",
+      "model": "cobblemon:chrome_goobula.geo",
+      "texture": "cobblemon:textures/pokemon/chrome/goobula/goobula.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/chrome/goobula/goobula.png"
+    }
+  ]
+}

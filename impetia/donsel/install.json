@@ -1,0 +1,10 @@
+{
+  "files": {
+    "0_donsel_base.json": "assets/cobblemon/bedrock/species/impetia/0_donsel_base.json",
+    "donsel.png": "assets/cobblemon/textures/pokemon/impetia/donsel/donsel.png",
+    "donsel_shiny.png": "assets/cobblemon/textures/pokemon/impetia/donsel/donsel_shiny.png",
+    "impetia_donsel.animation.json": "assets/cobblemon/bedrock/pokemon/animations/impetia_donsel.animation.json",
+    "impetia_donsel.geo.json": "assets/cobblemon/bedrock/pokemon/models/impetia_donsel.geo.json",
+    "impetia_donsel.json": "assets/cobblemon/bedrock/pokemon/posers/impetia_donsel.json"
+  }
+}

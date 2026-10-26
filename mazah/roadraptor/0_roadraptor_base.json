@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:roadraptor",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mazah_roadraptor",
+      "model": "cobblemon:mazah_roadraptor.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/roadraptor/roadraptor.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/roadraptor/roadraptor_shiny.png"
+    }
+  ]
+}

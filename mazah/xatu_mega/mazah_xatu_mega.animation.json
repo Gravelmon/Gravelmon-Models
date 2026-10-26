@@ -1,0 +1,88 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.mazah_xatu_mega.ground_idle": {
+			"loop": true,
+			"bones": {
+				"left_wing": {
+					"rotation": [0, 0, 15],
+					"position": [0, 1, 0]
+				},
+				"left_Wing_joint": {
+					"rotation": [0, 0, -52.5],
+					"position": [-0.5, -3, 0]
+				},
+				"left_wing_bottom_finger": {
+					"rotation": [0, 0, -12.5],
+					"position": [-0.3, 0, 0]
+				},
+				"left_wing_middle_finger": {
+					"rotation": [0, 0, -12.5],
+					"position": [-0.5, 0, 0]
+				},
+				"left_wing_upper_finger": {
+					"rotation": [0, 0, -12.5],
+					"position": [-0.3, 0, 0]
+				},
+				"head": {
+					"rotation": [0, 67.5, 0]
+				},
+				"left_hair_band": {
+					"rotation": [-23.35097, -50.89555, -20.70985],
+					"position": [0, -1, -3]
+				},
+				"left_hair_band_segment2": {
+					"rotation": [-22.5, 45, 0],
+					"position": [0, -0.1, 0]
+				},
+				"left_hair_band_eye": {
+					"rotation": [-70.3009, 5.06947, -3.32044],
+					"position": [0, 0.8, 0.1]
+				},
+				"right_wing": {
+					"rotation": [0, 0, -15],
+					"position": [0, 1, 0]
+				},
+				"right_Wing_joint": {
+					"rotation": [0, 0, 52.5],
+					"position": [0.5, -3, 0]
+				},
+				"right_wing_bottom_finger": {
+					"rotation": [0, 0, 12.5],
+					"position": [0.3, 0, 0]
+				},
+				"right_wing_middle_finger": {
+					"rotation": [0, 0, 12.5],
+					"position": [0.5, 0, 0]
+				},
+				"right_wing_upper_finger": {
+					"rotation": [0, 0, 12.5],
+					"position": [0.3, 0, 0]
+				},
+				"left_hair_band_segment3": {
+					"rotation": [-31.46646, 4.19914, -1.18344]
+				},
+				"left_hair_band_segment4": {
+					"rotation": [-67.5, 45, 0]
+				},
+				"right_hair_band": {
+					"rotation": [-77.34475, -53.11862, 14.46689],
+					"position": [0, -1, 0]
+				},
+				"right_hair_band_segment2": {
+					"rotation": [-22.5, -45, 0]
+				},
+				"right_hair_band_segment3": {
+					"rotation": [-31.46646, -4.1991, 1.1834]
+				},
+				"right_hair_band_segment4": {
+					"rotation": [-54.22634, -36.37085, -20.18357]
+				},
+				"right_hair_band_eye": {
+					"rotation": [-85.3009, -5.0695, 3.3204],
+					"position": [0, 0.8, 0.1]
+				}
+			}
+		}
+	}
+}

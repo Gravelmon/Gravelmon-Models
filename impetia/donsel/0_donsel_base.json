@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:donsel",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:impetia_donsel",
+      "model": "cobblemon:impetia_donsel.geo",
+      "texture": "cobblemon:textures/pokemon/impetia/donsel/donsel.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/impetia/donsel/donsel_shiny.png"
+    }
+  ]
+}

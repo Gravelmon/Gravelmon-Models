@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:lizap",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:ikaku_lizap",
+      "model": "cobblemon:ikaku_lizap.geo",
+      "texture": "cobblemon:textures/pokemon/ikaku/lizap/lizap.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/ikaku/lizap/lizap_emmisive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/ikaku/lizap/lizap_shiny.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/ikaku/lizap/lizap_shiny_emmisive.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

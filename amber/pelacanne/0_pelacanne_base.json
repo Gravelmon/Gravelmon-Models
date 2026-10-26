@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:pelacanne",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:amber_pelacanne",
+      "model": "cobblemon:amber_pelacanne.geo",
+      "texture": "cobblemon:textures/pokemon/amber/pelacanne/pelacanne.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/amber/pelacanne/pelacanne_shiny.png"
+    }
+  ]
+}

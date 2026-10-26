@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:charcopal",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mazah_charcopal",
+      "model": "cobblemon:mazah_charcopal.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/charcopal/charcopal.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/charcopal/charcopal_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "files": {
+    "0_liliph_base.json": "assets/cobblemon/bedrock/species/impetia/0_liliph_base.json",
+    "impetia_liliph.animation.json": "assets/cobblemon/bedrock/pokemon/animations/impetia_liliph.animation.json",
+    "impetia_liliph.geo.json": "assets/cobblemon/bedrock/pokemon/models/impetia_liliph.geo.json",
+    "impetia_liliph.json": "assets/cobblemon/bedrock/pokemon/posers/impetia_liliph.json",
+    "liliph.png": "assets/cobblemon/textures/pokemon/impetia/liliph/liliph.png"
+  }
+}

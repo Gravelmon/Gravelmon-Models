@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:gusgull",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:amber_gusgull",
+      "model": "cobblemon:amber_gusgull.geo",
+      "texture": "cobblemon:textures/pokemon/amber/gusgull/gusgull.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/amber/gusgull/gusgull_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "files": {
+    "1000_xatu_mega.json": "assets/cobblemon/bedrock/species/additional_forms/1000_xatu_mega.json",
+    "mazah_xatu_mega.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_xatu_mega.animation.json",
+    "mazah_xatu_mega.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_xatu_mega.geo.json",
+    "mazah_xatu_mega.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_xatu_mega.json",
+    "xatu_mega.png": "assets/cobblemon/textures/pokemon/mazah/xatu_mega/xatu_mega.png",
+    "xatu_mega_shiny.png": "assets/cobblemon/textures/pokemon/mazah/xatu_mega/xatu_mega_shiny.png"
+  }
+}

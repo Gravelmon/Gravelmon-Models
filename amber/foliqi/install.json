@@ -1,0 +1,10 @@
+{
+  "files": {
+    "0_foliqi_base.json": "assets/cobblemon/bedrock/species/amber/0_foliqi_base.json",
+    "amber_foliqi.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_foliqi.animation.json",
+    "amber_foliqi.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_foliqi.geo.json",
+    "amber_foliqi.json": "assets/cobblemon/bedrock/pokemon/posers/amber_foliqi.json",
+    "foli-qi.png": "assets/cobblemon/textures/pokemon/amber/foliqi/foli-qi.png",
+    "foli-qi_shiny.png": "assets/cobblemon/textures/pokemon/amber/foliqi/foli-qi_shiny.png"
+  }
+}

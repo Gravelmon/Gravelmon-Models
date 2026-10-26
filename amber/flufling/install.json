@@ -1,0 +1,11 @@
+{
+  "files": {
+    "0_flufling_base.json": "assets/cobblemon/bedrock/species/amber/0_flufling_base.json",
+    "amber_flufling.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_flufling.animation.json",
+    "amber_flufling.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_flufling.geo.json",
+    "amber_flufling.json": "assets/cobblemon/bedrock/pokemon/posers/amber_flufling.json",
+    "flufling.png": "assets/cobblemon/textures/pokemon/amber/flufling/flufling.png",
+    "flufling_cry.ogg": "assets/gravelmon/sounds/pokemon/amber/flufling_cry.ogg",
+    "flufling_shiny.png": "assets/cobblemon/textures/pokemon/amber/flufling/flufling_shiny.png"
+  }
+}

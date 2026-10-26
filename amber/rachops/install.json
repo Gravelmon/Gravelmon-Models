@@ -1,0 +1,10 @@
+{
+  "files": {
+    "0_rachops_base.json": "assets/cobblemon/bedrock/species/amber/0_rachops_base.json",
+    "amber_rachops.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_rachops.animation.json",
+    "amber_rachops.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_rachops.geo.json",
+    "amber_rachops.json": "assets/cobblemon/bedrock/pokemon/posers/amber_rachops.json",
+    "rachops.png": "assets/cobblemon/textures/pokemon/amber/rachops/rachops.png",
+    "rachops_shiny.png": "assets/cobblemon/textures/pokemon/amber/rachops/rachops_shiny.png"
+  }
+}

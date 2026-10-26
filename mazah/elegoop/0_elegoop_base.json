@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:elegoop",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mazah_elegoop",
+      "model": "cobblemon:mazah_elegoop.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/elegoop/elegoop.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/elegoop/elegoop_shiny.png"
+    }
+  ]
+}

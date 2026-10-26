@@ -1,0 +1,340 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.moleton",
+				"texture_width": 64,
+				"texture_height": 84,
+				"visible_bounds_width": 4,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "moleton",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "allbodies",
+					"parent": "moleton",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "body",
+					"parent": "allbodies",
+					"pivot": [0, 16.5, 0],
+					"cubes": [
+						{"origin": [-4, 13, -4], "size": [8, 8, 8], "uv": [0, 28]}
+					],
+					"locators": {
+						"lowerleft": [3, 13, 0],
+						"lowerright": [-3, 13, 0]
+					}
+				},
+				{
+					"name": "eye4",
+					"parent": "body",
+					"pivot": [0, 17, -4.01],
+					"cubes": [
+						{"origin": [-2, 15, -4.01], "size": [4, 4, 0], "uv": [32, 36]}
+					]
+				},
+				{
+					"name": "pupil2",
+					"parent": "eye4",
+					"pivot": [0, 17, -4.135],
+					"cubes": [
+						{"origin": [-1.5, 16.5, -4.02], "size": [3, 1, 0], "uv": [32, 43]}
+					]
+				},
+				{
+					"name": "nail_head4",
+					"parent": "body",
+					"pivot": [0, 21, 0],
+					"cubes": [
+						{"origin": [-1.25, 20.5, -1.25], "size": [2.5, 3, 2.5], "uv": [24, 31]}
+					]
+				},
+				{
+					"name": "orbit",
+					"parent": "nail_head4",
+					"pivot": [0, 21, 0],
+					"cubes": [
+						{"origin": [-3, 24, -3], "size": [6, 0, 6], "uv": [42, 50]}
+					]
+				},
+				{
+					"name": "orbit_electron",
+					"parent": "orbit",
+					"pivot": [0, 21, 0],
+					"cubes": [
+						{"origin": [-3, 23.5, -0.5], "size": [1, 1, 1], "uv": [52, 48]}
+					]
+				},
+				{
+					"name": "nail_left3",
+					"parent": "body",
+					"pivot": [2.75, 14, -4],
+					"rotation": [0, -25, 0]
+				},
+				{
+					"name": "nail_left_rotation3",
+					"parent": "nail_left3",
+					"pivot": [2.75, 14, -4],
+					"cubes": [
+						{"origin": [2, 13.25, -5.5], "size": [1.5, 1.5, 2], "uv": [30, 30]}
+					]
+				},
+				{
+					"name": "nail_right2",
+					"parent": "body",
+					"pivot": [-2.75, 14, -4],
+					"rotation": [0, 25, 0]
+				},
+				{
+					"name": "nail_right_rotation2",
+					"parent": "nail_right2",
+					"pivot": [-2.75, 14, -4],
+					"cubes": [
+						{"origin": [-3.5, 13.25, -5.5], "size": [1.5, 1.5, 2], "uv": [36, 30], "mirror": true}
+					]
+				},
+				{
+					"name": "electrons",
+					"parent": "body",
+					"pivot": [0.5, 12.5, 0]
+				},
+				{
+					"name": "electron_left",
+					"parent": "electrons",
+					"pivot": [4, 17, 0],
+					"cubes": [
+						{"origin": [4, 16.5, -3], "size": [6, 6, 6], "uv": [24, 44]},
+						{"origin": [6, 17.5, -3.01], "size": [2, 4, 0], "uv": [4, 30]}
+					]
+				},
+				{
+					"name": "electron_right",
+					"parent": "electrons",
+					"pivot": [-4, 19, 0],
+					"cubes": [
+						{"origin": [-9.82569, 16.50761, -3], "size": [6, 6, 6], "uv": [0, 44]},
+						{"origin": [-7.82569, 17.50761, -3.01], "size": [2, 4, 0], "uv": [0, 30]}
+					]
+				},
+				{
+					"name": "nails",
+					"parent": "body",
+					"pivot": [0, 16.5, 0]
+				},
+				{
+					"name": "body2",
+					"parent": "body",
+					"pivot": [10, 5, 0],
+					"cubes": [
+						{"origin": [6, 1, -4], "size": [8, 8, 8], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "eye3",
+					"parent": "body2",
+					"pivot": [0, 5, -4.01],
+					"cubes": [
+						{"origin": [8, 3, -4.01], "size": [4, 4, 0], "uv": [32, 8]}
+					]
+				},
+				{
+					"name": "pupil3",
+					"parent": "eye3",
+					"pivot": [0, 5, -4.01],
+					"cubes": [
+						{"origin": [8.5, 4.5, -4.02], "size": [3, 1, 0], "uv": [32, 15]},
+						{"origin": [8.5, 4.5, -4.02], "size": [3, 1, 0], "pivot": [10, 5, -4.02], "rotation": [0, 0, 90], "uv": [32, 15]}
+					]
+				},
+				{
+					"name": "nail_head3",
+					"parent": "body2",
+					"pivot": [0, 9, 0],
+					"cubes": [
+						{"origin": [8.75, 8.5, -1.25], "size": [2.5, 3, 2.5], "uv": [24, 3]}
+					]
+				},
+				{
+					"name": "orbit3",
+					"parent": "nail_head3",
+					"pivot": [10, 12, 0],
+					"cubes": [
+						{"origin": [7, 12, -3], "size": [6, 0, 6], "uv": [42, 22]}
+					]
+				},
+				{
+					"name": "orbit_electron3",
+					"parent": "orbit3",
+					"pivot": [10.25, 9.5, 0],
+					"cubes": [
+						{"origin": [7, 11.5, -0.5], "size": [1, 1, 1], "uv": [52, 20]}
+					]
+				},
+				{
+					"name": "nail_left4",
+					"parent": "body2",
+					"pivot": [2.75, 2, -4],
+					"rotation": [0, -25, 0]
+				},
+				{
+					"name": "nail_left_rotation4",
+					"parent": "nail_left4",
+					"pivot": [2.75, 2, -4]
+				},
+				{
+					"name": "nail_right3",
+					"parent": "body2",
+					"pivot": [-2.75, 2, -4],
+					"rotation": [0, 25, 0]
+				},
+				{
+					"name": "nail_right_rotation3",
+					"parent": "nail_right3",
+					"pivot": [-2.75, 2, -4]
+				},
+				{
+					"name": "electrons3",
+					"parent": "body2",
+					"pivot": [10, 1, 0]
+				},
+				{
+					"name": "electron_left3",
+					"parent": "electrons3",
+					"pivot": [14.23115, 5.85794, -2.01],
+					"rotation": [0, 0, -15],
+					"cubes": [
+						{"origin": [14.23115, 2.85794, -3], "size": [6, 6, 6], "uv": [24, 16]},
+						{"origin": [16.23115, 3.85794, -3.02], "size": [2, 4, 0], "uv": [4, 2]},
+						{"origin": [16.23115, 3.85794, -3.01], "size": [2, 4, 0], "pivot": [17.23115, 5.85794, -3.01], "rotation": [0, 0, 90], "uv": [4, 2]}
+					]
+				},
+				{
+					"name": "electron_right3",
+					"parent": "electrons3",
+					"pivot": [6.40546, 5.86555, -2.01],
+					"rotation": [0, 0, 15],
+					"cubes": [
+						{"origin": [0.40546, 2.86555, -3], "size": [6, 6, 6], "uv": [0, 16]},
+						{"origin": [2.40546, 3.86555, -3.02], "size": [2, 4, 0], "uv": [0, 2]},
+						{"origin": [2.40546, 3.86555, -3.01], "size": [2, 4, 0], "pivot": [3.40546, 5.86555, -3.01], "rotation": [0, 0, 90], "uv": [0, 2]}
+					]
+				},
+				{
+					"name": "nails3",
+					"parent": "body2",
+					"pivot": [0, 4.5, 0]
+				},
+				{
+					"name": "body3",
+					"parent": "body",
+					"pivot": [-10, 4.5, 0],
+					"cubes": [
+						{"origin": [-14, 1, -4], "size": [8, 8, 8], "uv": [0, 56]}
+					]
+				},
+				{
+					"name": "eye",
+					"parent": "body3",
+					"pivot": [-10, 5, -4.01],
+					"cubes": [
+						{"origin": [-12, 3, -4.01], "size": [4, 4, 0], "uv": [32, 64]}
+					]
+				},
+				{
+					"name": "pupil",
+					"parent": "eye",
+					"pivot": [-10, 5, -4.01],
+					"cubes": [
+						{"origin": [-11.5, 4.5, -4.02], "size": [3, 1, 0], "uv": [32, 71]},
+						{"origin": [-11.5, 4.5, -4.02], "size": [3, 1, 0], "pivot": [-10, 5, -4.02], "rotation": [0, 0, 90], "uv": [32, 71]}
+					]
+				},
+				{
+					"name": "nail_head",
+					"parent": "body3",
+					"pivot": [-10, 9, 0],
+					"cubes": [
+						{"origin": [-11.25, 8.5, -1.25], "size": [2.5, 3, 2.5], "uv": [24, 59]}
+					]
+				},
+				{
+					"name": "orbit2",
+					"parent": "nail_head",
+					"pivot": [-10, 9, 0],
+					"cubes": [
+						{"origin": [-13, 12, -3], "size": [6, 0, 6], "uv": [42, 78]}
+					]
+				},
+				{
+					"name": "orbit_electron2",
+					"parent": "orbit2",
+					"pivot": [-10, 9, 0],
+					"cubes": [
+						{"origin": [-13, 11.5, -0.5], "size": [1, 1, 1], "uv": [52, 76]}
+					]
+				},
+				{
+					"name": "nail_left",
+					"parent": "body3",
+					"pivot": [-7.25, 2, -4],
+					"rotation": [0, -25, 0]
+				},
+				{
+					"name": "nail_left_rotation",
+					"parent": "nail_left",
+					"pivot": [-7.25, 2, -4]
+				},
+				{
+					"name": "nail_right",
+					"parent": "body3",
+					"pivot": [-12.75, 2, -4],
+					"rotation": [0, 25, 0]
+				},
+				{
+					"name": "nail_right_rotation",
+					"parent": "nail_right",
+					"pivot": [-12.75, 2, -4]
+				},
+				{
+					"name": "electrons2",
+					"parent": "body3",
+					"pivot": [-9.5, 0.5, 0]
+				},
+				{
+					"name": "electron_left2",
+					"parent": "electrons2",
+					"pivot": [-6, 5, 0],
+					"rotation": [0, 0, -15],
+					"cubes": [
+						{"origin": [-6, 4.5, -3], "size": [6, 6, 6], "uv": [24, 72]},
+						{"origin": [-4, 5.5, -3.02], "size": [2, 4, 0], "uv": [4, 58]},
+						{"origin": [-4, 5.5, -3.01], "size": [2, 4, 0], "pivot": [-3, 7.5, -3.01], "rotation": [0, 0, 90], "uv": [4, 58]}
+					]
+				},
+				{
+					"name": "electron_right2",
+					"parent": "electrons2",
+					"pivot": [-14, 7, 0],
+					"rotation": [0, 0, 15],
+					"cubes": [
+						{"origin": [-19.82569, 4.50761, -3], "size": [6, 6, 6], "uv": [0, 72]},
+						{"origin": [-17.82569, 5.50761, -3.02], "size": [2, 4, 0], "uv": [0, 58]},
+						{"origin": [-17.82569, 5.50761, -3.01], "size": [2, 4, 0], "pivot": [-16.82569, 7.50761, -3.01], "rotation": [0, 0, 90], "uv": [0, 58]}
+					]
+				},
+				{
+					"name": "nails2",
+					"parent": "body3",
+					"pivot": [-10, 4.5, 0]
+				}
+			]
+		}
+	]
+}

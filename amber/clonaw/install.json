@@ -1,0 +1,10 @@
+{
+  "files": {
+    "0_clonaw_base.json": "assets/cobblemon/bedrock/species/amber/0_clonaw_base.json",
+    "amber_clonaw.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_clonaw.animation.json",
+    "amber_clonaw.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_clonaw.geo.json",
+    "amber_clonaw.json": "assets/cobblemon/bedrock/pokemon/posers/amber_clonaw.json",
+    "clonaw.png": "assets/cobblemon/textures/pokemon/amber/clonaw/clonaw.png",
+    "clonaw_shiny.png": "assets/cobblemon/textures/pokemon/amber/clonaw/clonaw_shiny.png"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:vescrawl",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:amber_vescrawl",
+      "model": "cobblemon:amber_vescrawl.geo",
+      "texture": "cobblemon:textures/pokemon/amber/vescrawl/vescrawl.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/amber/vescrawl/vescrawl_shiny.png"
+    }
+  ]
+}

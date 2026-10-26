@@ -1,0 +1,11 @@
+{
+  "files": {
+    "0_bathygigas_base.json": "assets/cobblemon/bedrock/species/mazah/0_bathygigas_base.json",
+    "bathygigas.png": "assets/cobblemon/textures/pokemon/mazah/bathygigas/bathygigas.png",
+    "bathygigas_cry.ogg": "assets/gravelmon/sounds/pokemon/mazah/bathygigas_cry.ogg",
+    "bathygigas_shiny.png": "assets/cobblemon/textures/pokemon/mazah/bathygigas/bathygigas_shiny.png",
+    "mazah_bathygigas.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_bathygigas.animation.json",
+    "mazah_bathygigas.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_bathygigas.geo.json",
+    "mazah_bathygigas.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_bathygigas.json"
+  }
+}

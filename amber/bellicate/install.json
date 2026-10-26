@@ -1,0 +1,10 @@
+{
+  "files": {
+    "0_bellicate_base.json": "assets/cobblemon/bedrock/species/amber/0_bellicate_base.json",
+    "amber_bellicate.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_bellicate.animation.json",
+    "amber_bellicate.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_bellicate.geo.json",
+    "amber_bellicate.json": "assets/cobblemon/bedrock/pokemon/posers/amber_bellicate.json",
+    "bellicate.png": "assets/cobblemon/textures/pokemon/amber/bellicate/bellicate.png",
+    "bellicate_shiny.png": "assets/cobblemon/textures/pokemon/amber/bellicate/bellicate_shiny.png"
+  }
+}

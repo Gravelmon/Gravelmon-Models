@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:geocoprion",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mazah_geocoprion",
+      "model": "cobblemon:mazah_geocoprion.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/geocoprion/geocoprion.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/mazah/geocoprion/geocoprion_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/geocoprion/geocoprion_shiny.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/mazah/geocoprion/geocoprion_shiny_emissive.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

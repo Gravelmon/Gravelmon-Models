@@ -1,0 +1,61 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.amber_rachops.ground_idle": {
+			"loop": true,
+			"bones": {
+				"torso": {
+					"rotation": [10, 0, 0]
+				},
+				"neck": {
+					"rotation": [15, 0, 0]
+				},
+				"neck2": {
+					"rotation": [-10, 0, 0]
+				},
+				"neck3": {
+					"rotation": [-10, 0, 0]
+				},
+				"wing_right": {
+					"rotation": [19.06706, 60.30398, -52.31129]
+				},
+				"wing_left": {
+					"rotation": [19.06706, -60.30398, 52.31129]
+				},
+				"tail1": {
+					"rotation": [40, 0, 0]
+				},
+				"tail2": {
+					"rotation": [-13.08619, 17.07228, -3.90399]
+				},
+				"tail3": {
+					"rotation": [2.58807, -14.98539, -0.66963]
+				},
+				"leg_right": {
+					"rotation": [0, 0, 0]
+				},
+				"leg_left": {
+					"rotation": [-5, 0, 0]
+				},
+				"leg_left2": {
+					"rotation": [7.5, 0, 0]
+				},
+				"claw_front_left2": {
+					"rotation": [0, 0, 12.5]
+				},
+				"claw_front_right2": {
+					"rotation": [0, 0, -7.5]
+				},
+				"body": {
+					"position": [0, 0.2, -2.1]
+				},
+				"leg_right2": {
+					"rotation": [0, 0, 0]
+				},
+				"foot_left": {
+					"rotation": [-3, 0, 0]
+				}
+			}
+		}
+	}
+}

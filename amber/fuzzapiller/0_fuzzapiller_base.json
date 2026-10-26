@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:fuzzapiller",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:amber_fuzzapiller",
+      "model": "cobblemon:amber_fuzzapiller.geo",
+      "texture": "cobblemon:textures/pokemon/amber/fuzzapiller/fuzzapiller.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/amber/fuzzapiller/fuzzapiller_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/amber/fuzzapiller/fuzzapiller_shiny.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/amber/fuzzapiller/fuzzapiller_emissive.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

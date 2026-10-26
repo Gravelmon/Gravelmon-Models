@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:cafecaracha",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mazah_cafecaracha",
+      "model": "cobblemon:mazah_cafecaracha.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/cafecaracha/cafecaracha.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/mazah/cafecaracha/cafecaracha_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/cafecaracha/cafecaracha_shiny.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/mazah/cafecaracha/cafecaracha_shiny_emissive.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

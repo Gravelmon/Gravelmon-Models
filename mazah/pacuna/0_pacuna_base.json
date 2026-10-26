@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:pacuna",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mazah_pacuna",
+      "model": "cobblemon:mazah_pacuna.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/pacuna/pacuna.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/pacuna/pacuna_shiny.png"
+    }
+  ]
+}

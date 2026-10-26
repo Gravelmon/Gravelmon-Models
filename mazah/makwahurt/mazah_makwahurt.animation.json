@@ -1,0 +1,37 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.mazah_makwahurt.ground_idle": {
+			"loop": true,
+			"bones": {
+				"leftleg": {
+					"rotation": [0, -20, 0]
+				},
+				"rightleg": {
+					"rotation": [0, 20, 0]
+				},
+				"torso": {
+					"rotation": [-2.5, 0, 0]
+				},
+				"armleft2": {
+					"rotation": [22.19157, -3.81024, 9.25249]
+				},
+				"handleft": {
+					"rotation": [0, 2.5, 0]
+				},
+				"armright2": {
+					"rotation": [22.19157, 3.81024, -9.25249]
+				},
+				"handright": {
+					"rotation": [0, -2.5, 0]
+				},
+				"neck": {
+					"rotation": [7.5, 0, 0]
+				},
+				"head": {
+					"rotation": [2.5, 0, 0]
+				}
+			}
+		}
+	}
+}

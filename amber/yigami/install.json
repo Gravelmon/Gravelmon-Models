@@ -1,0 +1,10 @@
+{
+  "files": {
+    "0_yigami_base.json": "assets/cobblemon/bedrock/species/amber/0_yigami_base.json",
+    "amber_yigami.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_yigami.animation.json",
+    "amber_yigami.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_yigami.geo.json",
+    "amber_yigami.json": "assets/cobblemon/bedrock/pokemon/posers/amber_yigami.json",
+    "yi_gami.png": "assets/cobblemon/textures/pokemon/amber/yigami/yi_gami.png",
+    "yi_gami_shiny.png": "assets/cobblemon/textures/pokemon/amber/yigami/yi_gami_shiny.png"
+  }
+}

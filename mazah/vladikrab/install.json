@@ -1,0 +1,10 @@
+{
+  "files": {
+    "0_vladikrab_base.json": "assets/cobblemon/bedrock/species/mazah/0_vladikrab_base.json",
+    "mazah_vladikrab.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_vladikrab.animation.json",
+    "mazah_vladikrab.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_vladikrab.geo.json",
+    "mazah_vladikrab.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_vladikrab.json",
+    "vladikrab.png": "assets/cobblemon/textures/pokemon/mazah/vladikrab/vladikrab.png",
+    "vladikrab_shiny.png": "assets/cobblemon/textures/pokemon/mazah/vladikrab/vladikrab_shiny.png"
+  }
+}

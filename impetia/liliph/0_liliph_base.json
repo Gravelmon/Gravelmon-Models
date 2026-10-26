@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:liliph",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:impetia_liliph",
+      "model": "cobblemon:impetia_liliph.geo",
+      "texture": "cobblemon:textures/pokemon/impetia/liliph/liliph.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/impetia/liliph/liliph.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.amber_pannomammo.ground_idle": {
+			"loop": true,
+			"bones": {
+				"torso": {
+					"rotation": ["0+math.sin(q.anim_time*180-90)*1", 0, 0],
+					"position": [0, "-0.15+math.sin(q.anim_time*180)*0.1", 0]
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+  "files": {
+    "0_quexcell_base.json": "assets/cobblemon/bedrock/species/mazah/0_quexcell_base.json",
+    "mazah_quexcell.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_quexcell.animation.json",
+    "mazah_quexcell.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_quexcell.geo.json",
+    "mazah_quexcell.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_quexcell.json",
+    "quexcell.png": "assets/cobblemon/textures/pokemon/mazah/quexcell/quexcell.png",
+    "quexcell_cry.ogg": "assets/gravelmon/sounds/pokemon/mazah/quexcell_cry.ogg",
+    "quexcell_shiny.png": "assets/cobblemon/textures/pokemon/mazah/quexcell/quexcell_shiny.png"
+  }
+}

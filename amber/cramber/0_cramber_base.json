@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:cramber",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:amber_cramber",
+      "model": "cobblemon:amber_cramber.geo",
+      "texture": "cobblemon:textures/pokemon/amber/cramber/cramber.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/amber/cramber/cramber_shiny.png"
+    }
+  ]
+}

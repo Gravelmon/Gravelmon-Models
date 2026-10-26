@@ -1,0 +1,10 @@
+{
+  "files": {
+    "0_gohila_base.json": "assets/cobblemon/bedrock/species/mazah/0_gohila_base.json",
+    "gohila.png": "assets/cobblemon/textures/pokemon/mazah/gohila/gohila.png",
+    "gohila_shiny.png": "assets/cobblemon/textures/pokemon/mazah/gohila/gohila_shiny.png",
+    "mazah_gohila.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_gohila.animation.json",
+    "mazah_gohila.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_gohila.geo.json",
+    "mazah_gohila.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_gohila.json"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_fuzzapiller_base.json": "assets/cobblemon/bedrock/species/amber/0_fuzzapiller_base.json",
+    "amber_fuzzapiller.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_fuzzapiller.animation.json",
+    "amber_fuzzapiller.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_fuzzapiller.geo.json",
+    "amber_fuzzapiller.json": "assets/cobblemon/bedrock/pokemon/posers/amber_fuzzapiller.json",
+    "fuzzapiller.png": "assets/cobblemon/textures/pokemon/amber/fuzzapiller/fuzzapiller.png",
+    "fuzzapiller_cry.ogg": "assets/gravelmon/sounds/pokemon/amber/fuzzapiller_cry.ogg",
+    "fuzzapiller_emissive.png": "assets/cobblemon/textures/pokemon/amber/fuzzapiller/fuzzapiller_emissive.png",
+    "fuzzapiller_shiny.png": "assets/cobblemon/textures/pokemon/amber/fuzzapiller/fuzzapiller_shiny.png"
+  }
+}

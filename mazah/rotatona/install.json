@@ -1,0 +1,11 @@
+{
+  "files": {
+    "0_rotatona_base.json": "assets/cobblemon/bedrock/species/mazah/0_rotatona_base.json",
+    "mazah_rotatona.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_rotatona.animation.json",
+    "mazah_rotatona.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_rotatona.geo.json",
+    "mazah_rotatona.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_rotatona.json",
+    "rotatona.png": "assets/cobblemon/textures/pokemon/mazah/rotatona/rotatona.png",
+    "rotatona_cry.ogg": "assets/gravelmon/sounds/pokemon/mazah/rotatona_cry.ogg",
+    "rotatona_shiny.png": "assets/cobblemon/textures/pokemon/mazah/rotatona/rotatona_shiny.png"
+  }
+}

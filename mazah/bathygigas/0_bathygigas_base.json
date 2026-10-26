@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:bathygigas",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mazah_bathygigas",
+      "model": "cobblemon:mazah_bathygigas.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/bathygigas/bathygigas.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/bathygigas/bathygigas_shiny.png"
+    }
+  ]
+}

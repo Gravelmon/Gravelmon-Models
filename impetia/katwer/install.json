@@ -1,0 +1,12 @@
+{
+  "files": {
+    "0_katwer_base.json": "assets/cobblemon/bedrock/species/impetia/0_katwer_base.json",
+    "impetia_katwer.animation.json": "assets/cobblemon/bedrock/pokemon/animations/impetia_katwer.animation.json",
+    "impetia_katwer.geo.json": "assets/cobblemon/bedrock/pokemon/models/impetia_katwer.geo.json",
+    "impetia_katwer.json": "assets/cobblemon/bedrock/pokemon/posers/impetia_katwer.json",
+    "katwer.png": "assets/cobblemon/textures/pokemon/impetia/katwer/katwer.png",
+    "katwer_emissive.png": "assets/cobblemon/textures/pokemon/impetia/katwer/katwer_emissive.png",
+    "katwer_emissive_shiny.png": "assets/cobblemon/textures/pokemon/impetia/katwer/katwer_emissive_shiny.png",
+    "katwer_shiny.png": "assets/cobblemon/textures/pokemon/impetia/katwer/katwer_shiny.png"
+  }
+}

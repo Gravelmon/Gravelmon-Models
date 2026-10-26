@@ -1,0 +1,10 @@
+{
+  "files": {
+    "0_donly_base.json": "assets/cobblemon/bedrock/species/impetia/0_donly_base.json",
+    "donly.png": "assets/cobblemon/textures/pokemon/impetia/donly/donly.png",
+    "donly_shiny.png": "assets/cobblemon/textures/pokemon/impetia/donly/donly_shiny.png",
+    "impetia_donly.animation.json": "assets/cobblemon/bedrock/pokemon/animations/impetia_donly.animation.json",
+    "impetia_donly.geo.json": "assets/cobblemon/bedrock/pokemon/models/impetia_donly.geo.json",
+    "impetia_donly.json": "assets/cobblemon/bedrock/pokemon/posers/impetia_donly.json"
+  }
+}

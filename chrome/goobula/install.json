@@ -1,0 +1,9 @@
+{
+  "files": {
+    "0_goobula_base.json": "assets/cobblemon/bedrock/species/chrome/0_goobula_base.json",
+    "chrome_goobula.animation.json": "assets/cobblemon/bedrock/pokemon/animations/chrome_goobula.animation.json",
+    "chrome_goobula.geo.json": "assets/cobblemon/bedrock/pokemon/models/chrome_goobula.geo.json",
+    "chrome_goobula.json": "assets/cobblemon/bedrock/pokemon/posers/chrome_goobula.json",
+    "goobula.png": "assets/cobblemon/textures/pokemon/chrome/goobula/goobula.png"
+  }
+}

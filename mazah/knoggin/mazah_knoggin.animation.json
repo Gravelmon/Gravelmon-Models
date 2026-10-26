@@ -1,0 +1,37 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.mazah_knoggin.ground_idle": {
+			"loop": true,
+			"bones": {
+				"leg_right": {
+					"rotation": [37.5, 0, 0]
+				},
+				"leg_left": {
+					"rotation": [-45, 0, 0]
+				},
+				"tail2": {
+					"rotation": [12.5, 0, 0]
+				},
+				"tail1": {
+					"rotation": [25, 0, 0]
+				},
+				"tail3": {
+					"rotation": [22.5, 0, 0]
+				},
+				"pupil": {
+					"position": [0, 0, -0.3]
+				},
+				"lowerjaw": {
+					"rotation": [20, 0, 0]
+				},
+				"upperjaw": {
+					"rotation": [10, 0, 0]
+				},
+				"body": {
+					"position": [0, -1, 0]
+				}
+			}
+		}
+	}
+}
