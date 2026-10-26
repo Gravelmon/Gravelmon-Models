@@ -1,0 +1,37 @@
+{
+  "game": "pokemon",
+  "pokemon": "gloom",
+  "entries": [
+    {
+      "formAspects": [
+        "egho"
+      ],
+      "inheritsFrom": {
+        "pokemon": "gloom",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "Neoxaivus"
+      },
+      "contributors": [
+        {
+          "login": "Neoxaivus"
+        }
+      ],
+      "submittedAt": "2026-10-26T16:33:26.409Z",
+      "models": [
+        "infinity/eghogloom/infinity_eghogloom.geo.json"
+      ],
+      "animations": [
+        "infinity/eghogloom/infinity_eghogloom.animation.json"
+      ],
+      "textures": [
+        "infinity/eghogloom/gloom_egho.png",
+        "infinity/eghogloom/gloom_egho_alpha.png",
+        "infinity/eghogloom/gloom_egho_shiny.png",
+        "infinity/eghogloom/eghogloom.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
