@@ -1,14 +1,14 @@
 {
   "species": "cobblemon:cetoddle",
-  "order": 173,
+  "order": 164,
   "variations": [
     {
       "aspects": [
         "epoch"
       ],
-      "model": "cobblemon:cutout_gravelmon_61_by_41.geo",
-      "poser": "cobblemon:cutout_gravelmon_61_by_41",
-      "texture": "cobblemon:textures/pokemon/soulstones/epochcetoddle.png",
+      "poser": "cobblemon:soulstones_epochcetoddle",
+      "model": "cobblemon:soulstones_epochcetoddle.geo",
+      "texture": "cobblemon:textures/pokemon/soulstones/epochcetoddle/cetoddle_epoch.png",
       "layers": [
         {
           "name": "emissive"
@@ -33,6 +33,26 @@
         },
         {
           "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "epoch"
+      ],
+      "texture": "cobblemon:textures/pokemon/soulstones/epochcetoddle/cetoddle_epoch_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "epoch"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/soulstones/epochcetoddle/cetoddle_epoch_alpha.png",
+          "emissive": true
         }
       ]
     }
