@@ -16,21 +16,12 @@
 			},
 			"bones": [
 				{
-					"name": "root",
+					"name": "magmite",
 					"pivot": [
 						0,
 						0,
 						0
 					]
-				},
-				{
-					"name": "magmite",
-					"pivot": [
-						0,
-						0,
-						1
-					],
-					"parent": "root"
 				},
 				{
 					"name": "leg",

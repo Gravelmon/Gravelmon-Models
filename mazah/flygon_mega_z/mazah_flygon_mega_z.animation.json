@@ -1,7 +1,7 @@
 {
   "format_version": "1.8.0",
   "animations": {
-    "animation.mazah_flygon_mega_m.ground_idle": {
+    "animation.mazah_flygon_mega_z.ground_idle": {
       "loop": true,
       "bones": {
         "torso": {
@@ -336,7 +336,7 @@
         }
       }
     },
-    "animation.mazah_flygon_mega_m.air_idle": {
+    "animation.mazah_flygon_mega_z.air_idle": {
       "loop": true,
       "bones": {
         "torso": {
@@ -671,10 +671,10 @@
         }
       }
     },
-    "animation.mazah_flygon_mega_m.blink": {
+    "animation.mazah_flygon_mega_z.blink": {
       "animation_length": 0.1667
     },
-    "animation.mazah_flygon_mega_m.pose": {
+    "animation.mazah_flygon_mega_z.pose": {
       "loop": true,
       "bones": {
         "torso": {

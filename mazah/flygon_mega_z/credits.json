@@ -2,12 +2,12 @@
   "game": "mazah",
   "pokemon": "flygon",
   "formAspects": [
-    "mega_m"
+    "mega_z"
   ],
   "entries": [
     {
       "formAspects": [
-        "mega_m"
+        "mega_z"
       ],
       "inheritsFrom": {
         "pokemon": "flygon",
@@ -24,18 +24,18 @@
           "login": "Bowtie"
         }
       ],
-      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "submittedAt": "2026-10-26T19:08:46.000Z",
       "models": [
-        "mazah/flygon_mega_m/mazah_flygon_mega_m.geo.json"
+        "mazah/flygon_mega_z/mazah_flygon_mega_z.geo.json"
       ],
       "animations": [
-        "mazah/flygon_mega_m/mazah_flygon_mega_m.animation.json"
+        "mazah/flygon_mega_z/mazah_flygon_mega_z.animation.json"
       ],
       "textures": [
-        "mazah/flygon_mega_m/flygon_mega.png",
-        "mazah/flygon_mega_m/flygon_mega_shiny.png",
-        "mazah/flygon_mega_m/flygon_mega_shiny_transparent.png",
-        "mazah/flygon_mega_m/flygon_mega_transparent.png"
+        "mazah/flygon_mega_z/flygon_mega_z.png",
+        "mazah/flygon_mega_z/flygon_mega_z_shiny.png",
+        "mazah/flygon_mega_z/flygon_mega_z_shiny_transparent.png",
+        "mazah/flygon_mega_z/flygon_mega_z_transparent.png"
       ],
       "sounds": []
     }

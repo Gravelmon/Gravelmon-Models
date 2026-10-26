@@ -16,21 +16,12 @@
 			},
 			"bones": [
 				{
-					"name": "root",
+					"name": "siburupt",
 					"pivot": [
 						0,
 						0,
 						0
 					]
-				},
-				{
-					"name": "siburupt",
-					"pivot": [
-						0,
-						2,
-						0
-					],
-					"parent": "root"
 				},
 				{
 					"name": "body",

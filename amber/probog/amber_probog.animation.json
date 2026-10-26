@@ -5,25 +5,61 @@
 			"loop": true,
 			"bones": {
 				"head": {
-					"rotation": [5, 0, 0]
+					"rotation": [
+						5,
+						0,
+						0
+					]
 				},
 				"trunk_sgment_2": {
-					"rotation": [-22.5, 0, 0],
-					"position": [0, 0, 0.5]
+					"rotation": [
+						-22.5,
+						0,
+						0
+					],
+					"position": [
+						0,
+						0,
+						0.5
+					]
 				},
 				"left_front_leg": {
-					"rotation": [0, -22.5, 0]
+					"rotation": [
+						0,
+						-22.5,
+						0
+					]
 				},
 				"tail": {
-					"rotation": [11.57518, -4.75113, 22.01816],
-					"position": [0, -1, -1]
+					"rotation": [
+						11.57518,
+						-4.75113,
+						22.01816
+					],
+					"position": [
+						0,
+						-1,
+						-1
+					]
 				},
 				"tail_segment_1": {
-					"rotation": [45, 0, 0],
-					"position": [0, -1, -0.5]
+					"rotation": [
+						45,
+						0,
+						0
+					],
+					"position": [
+						0,
+						-1,
+						-0.5
+					]
 				},
 				"right_front_leg": {
-					"rotation": [0, 22.5, 0]
+					"rotation": [
+						0,
+						22.5,
+						0
+					]
 				}
 			}
 		},
@@ -32,8 +68,16 @@
 			"animation_length": 2,
 			"bones": {
 				"trunk_sgment_2": {
-					"rotation": [-22.5, 0, 0],
-					"position": [0, 0, 0.5]
+					"rotation": [
+						-22.5,
+						0,
+						0
+					],
+					"position": [
+						0,
+						0,
+						0.5
+					]
 				}
 			}
 		}

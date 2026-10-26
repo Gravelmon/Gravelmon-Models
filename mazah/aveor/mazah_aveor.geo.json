@@ -16,21 +16,12 @@
 			},
 			"bones": [
 				{
-					"name": "root",
+					"name": "aveor",
 					"pivot": [
 						0,
 						0,
 						0
 					]
-				},
-				{
-					"name": "aveor",
-					"pivot": [
-						0,
-						0,
-						-2.5
-					],
-					"parent": "root"
 				},
 				{
 					"name": "torso",

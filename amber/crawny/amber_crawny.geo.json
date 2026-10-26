@@ -16,21 +16,12 @@
 			},
 			"bones": [
 				{
-					"name": "root",
+					"name": "crawny",
 					"pivot": [
 						0,
 						0,
 						0
 					]
-				},
-				{
-					"name": "crawny",
-					"pivot": [
-						0,
-						0.3,
-						0
-					],
-					"parent": "root"
 				},
 				{
 					"name": "rightleg",

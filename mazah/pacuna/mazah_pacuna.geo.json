@@ -16,21 +16,12 @@
 			},
 			"bones": [
 				{
-					"name": "root",
+					"name": "pacuna",
 					"pivot": [
 						0,
 						0,
 						0
 					]
-				},
-				{
-					"name": "pacuna",
-					"pivot": [
-						0,
-						0,
-						1.52442
-					],
-					"parent": "root"
 				},
 				{
 					"name": "body",

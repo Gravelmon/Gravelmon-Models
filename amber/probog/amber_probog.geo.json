@@ -16,21 +16,12 @@
 			},
 			"bones": [
 				{
-					"name": "root",
+					"name": "probog",
 					"pivot": [
 						0,
 						0,
 						0
 					]
-				},
-				{
-					"name": "probog",
-					"pivot": [
-						2,
-						0,
-						-9
-					],
-					"parent": "root"
 				},
 				{
 					"name": "body",

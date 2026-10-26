@@ -16,21 +16,12 @@
 			},
 			"bones": [
 				{
-					"name": "root",
+					"name": "Shagcoon",
 					"pivot": [
 						0,
 						0,
 						0
 					]
-				},
-				{
-					"name": "Shagcoon",
-					"pivot": [
-						0,
-						-1,
-						0
-					],
-					"parent": "root"
 				},
 				{
 					"name": "Body",

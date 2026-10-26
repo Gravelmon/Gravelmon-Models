@@ -16,21 +16,12 @@
 			},
 			"bones": [
 				{
-					"name": "root",
+					"name": "Fuzzapiller",
 					"pivot": [
 						0,
 						0,
 						0
 					]
-				},
-				{
-					"name": "Fuzzapiller",
-					"pivot": [
-						0,
-						0,
-						3
-					],
-					"parent": "root"
 				},
 				{
 					"name": "Body",
