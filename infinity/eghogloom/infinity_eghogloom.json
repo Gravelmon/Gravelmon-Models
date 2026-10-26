@@ -1,68 +1,101 @@
 {
-  "portraitScale": 1.7000000476837158,
+  "portraitScale": 1.69,
   "portraitTranslation": [
-    -0.1,
-    0.0,
-    0.0
+    -0.04,
+    -0.37,
+    0
   ],
-  "profileScale": 1.0,
+  "profileScale": 0.83,
   "profileTranslation": [
-    0.0,
-    0.6,
-    -20.0
+    0,
+    0.59,
+    0
   ],
-  "animations": {
-    "faint": "bedrock(eghogloom, faint)"
-  },
+  "rootBone": "gloom",
   "poses": {
-    "standing": {
-      "poseName": "standing",
-      "animations": [
-        "q.bedrock('infinity_eghogloom', q.look('head_ai'))",
-        "q.bedrock('infinity_eghogloom', 'ground_idle')"
-      ],
+    "battle-standing": {
+      "isBattle": true,
       "poseTypes": [
-        "STAND",
-        "HOVER",
-        "FLY",
-        "FLOAT",
-        "SWIM",
-        "GLIDE",
-        "SHOULDER_LEFT",
-        "SHOULDER_RIGHT",
-        "PROFILE",
-        "PORTRAIT",
-        "OPEN",
-        "NONE"
+        "stand",
+        "float"
       ],
-
-      "namedAnimations": {},
-      "transformedParts": []
+      "quirks": [
+        "q.bedrock_quirk('infinity_eghogloom', 'blink')"
+      ],
+      "animations": [
+        "q.look('head_ai', 1, 1, 6, -18, 10, -10)",
+        "q.bedrock('infinity_eghogloom', 'battle_idle')"
+      ]
+    },
+    "standing": {
+      "isBattle": false,
+      "poseTypes": [
+        "stand",
+        "none",
+        "float",
+        "portrait",
+        "profile"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('infinity_eghogloom', 'blink')"
+      ],
+      "animations": [
+        "q.look('head_ai', 1, 1, 6, -18, 10, -10)",
+        "q.bedrock('infinity_eghogloom', 'ground_idle')"
+      ]
     },
     "walking": {
-      "poseName": "walking",
-      "animations": [
-        "q.bedrock('infinity_eghogloom', q.look('head_ai'))",
-        "q.bedrock('infinity_eghogloom', 'ground_walk')"
-      ],
       "poseTypes": [
-        "WALK"
+        "walk",
+        "swim"
       ],
-
-      "namedAnimations": {},
-      "transformedParts": []
+      "quirks": [
+        "q.bedrock_quirk('infinity_eghogloom', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('infinity_eghogloom', 'ground_walk')"
+      ]
     },
-    "sleeping": {
-      "poseName": "sleeping",
+    "sleep": {
+      "condition": "!q.is_standing_on_blocks(1, 'minecraft:dirt', 'minecraft:grass_block', 'minecraft:mycelium', 'minecraft:coarse_dirt', 'minecraft:podzol', 'minecraft:dirt_path', 'minecraft:farmland', 'minecraft:rooted_dirt')",
+      "poseTypes": [
+        "sleep"
+      ],
+      "namedAnimations": {
+        "cry": "q.bedrock_stateful('infinity_eghogloom', 'cry')"
+      },
       "animations": [
         "q.bedrock('infinity_eghogloom', 'sleep')"
-      ],
+      ]
+    },
+    "battle-sleep": {
+      "isBattle": true,
       "poseTypes": [
-        "SLEEP"
+        "sleep"
       ],
-
-      "namedAnimations": {},
-      "transformedParts": []
+      "namedAnimations": {
+        "cry": "q.bedrock_stateful('infinity_eghogloom', 'cry')"
+      },
+      "animations": [
+        "q.bedrock('infinity_eghogloom', 'sleep')"
+      ]
+    },
+    "wild_sleep": {
+      "isBattle": false,
+      "condition": "q.is_standing_on_blocks(1, 'minecraft:dirt', 'minecraft:grass_block', 'minecraft:mycelium', 'minecraft:coarse_dirt', 'minecraft:podzol', 'minecraft:dirt_path', 'minecraft:farmland', 'minecraft:rooted_dirt')",
+      "poseTypes": [
+        "sleep"
+      ],
+      "namedAnimations": {
+        "cry": "q.bedrock_stateful('infinity_eghogloom', 'cry')"
+      },
+      "animations": [
+        "q.bedrock('infinity_eghogloom', 'wild_sleep')"
+      ]
     }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('infinity_eghogloom', 'cry')",
+    "recoil": "q.bedrock_stateful('infinity_eghogloom', 'recoil')"
   }
 }
