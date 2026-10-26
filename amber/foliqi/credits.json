@@ -1,0 +1,28 @@
+{
+  "game": "amber",
+  "pokemon": "foliqi",
+  "entries": [
+    {
+      "contributor": {
+        "login": "BifeSalgado"
+      },
+      "contributors": [
+        {
+          "login": "BifeSalgado"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "amber/foliqi/amber_foliqi.geo.json"
+      ],
+      "animations": [
+        "amber/foliqi/amber_foliqi.animation.json"
+      ],
+      "textures": [
+        "amber/foliqi/foli-qi.png",
+        "amber/foliqi/foli-qi_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

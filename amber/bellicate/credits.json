@@ -1,0 +1,28 @@
+{
+  "game": "amber",
+  "pokemon": "bellicate",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Sl0py"
+      },
+      "contributors": [
+        {
+          "login": "Sl0py"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "amber/bellicate/amber_bellicate.geo.json"
+      ],
+      "animations": [
+        "amber/bellicate/amber_bellicate.animation.json"
+      ],
+      "textures": [
+        "amber/bellicate/bellicate.png",
+        "amber/bellicate/bellicate_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

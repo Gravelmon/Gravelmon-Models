@@ -1,0 +1,28 @@
+{
+  "game": "amber",
+  "pokemon": "clonaw",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Sl0py"
+      },
+      "contributors": [
+        {
+          "login": "Sl0py"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "amber/clonaw/amber_clonaw.geo.json"
+      ],
+      "animations": [
+        "amber/clonaw/amber_clonaw.animation.json"
+      ],
+      "textures": [
+        "amber/clonaw/clonaw.png",
+        "amber/clonaw/clonaw_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

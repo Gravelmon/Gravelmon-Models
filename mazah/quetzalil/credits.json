@@ -1,0 +1,30 @@
+{
+  "game": "mazah",
+  "pokemon": "quetzalil",
+  "entries": [
+    {
+      "contributor": {
+        "login": "fire_jaguar"
+      },
+      "contributors": [
+        {
+          "login": "fire_jaguar"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "mazah/quetzalil/mazah_quetzalil.geo.json"
+      ],
+      "animations": [
+        "mazah/quetzalil/mazah_quetzalil.animation.json"
+      ],
+      "textures": [
+        "mazah/quetzalil/quetzalil.png",
+        "mazah/quetzalil/quetzalil_shiny.png"
+      ],
+      "sounds": [
+        "mazah/quetzalil/quetzalil_cry.ogg"
+      ]
+    }
+  ]
+}

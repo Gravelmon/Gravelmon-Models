@@ -1,0 +1,43 @@
+{
+  "game": "mazah",
+  "pokemon": "flygon",
+  "formAspects": [
+    "mega_m"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "mega_m"
+      ],
+      "inheritsFrom": {
+        "pokemon": "flygon",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "Gesteeyy"
+      },
+      "contributors": [
+        {
+          "login": "Gesteeyy"
+        },
+        {
+          "login": "Bowtie"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "mazah/flygon_mega_m/mazah_flygon_mega_m.geo.json"
+      ],
+      "animations": [
+        "mazah/flygon_mega_m/mazah_flygon_mega_m.animation.json"
+      ],
+      "textures": [
+        "mazah/flygon_mega_m/flygon_mega.png",
+        "mazah/flygon_mega_m/flygon_mega_shiny.png",
+        "mazah/flygon_mega_m/flygon_mega_shiny_transparent.png",
+        "mazah/flygon_mega_m/flygon_mega_transparent.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

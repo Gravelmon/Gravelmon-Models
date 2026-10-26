@@ -1,0 +1,30 @@
+{
+  "game": "amber",
+  "pokemon": "brachatoa",
+  "entries": [
+    {
+      "contributor": {
+        "login": "fire_jaguar"
+      },
+      "contributors": [
+        {
+          "login": "fire_jaguar"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "amber/brachatoa/amber_brachatoa.geo.json"
+      ],
+      "animations": [
+        "amber/brachatoa/amber_brachatoa.animation.json"
+      ],
+      "textures": [
+        "amber/brachatoa/brachatoa.png",
+        "amber/brachatoa/brachatoa_shiny.png"
+      ],
+      "sounds": [
+        "amber/brachatoa/brachatoa_cry.ogg"
+      ]
+    }
+  ]
+}

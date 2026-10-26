@@ -1,0 +1,30 @@
+{
+  "game": "amber",
+  "pokemon": "haiproto",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Glaceon"
+      },
+      "contributors": [
+        {
+          "login": "Glaceon"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "amber/haiproto/amber_haiproto.geo.json"
+      ],
+      "animations": [
+        "amber/haiproto/amber_haiproto.animation.json"
+      ],
+      "textures": [
+        "amber/haiproto/haiproto.png",
+        "amber/haiproto/haiproto_shiny.png"
+      ],
+      "sounds": [
+        "amber/haiproto/haiproto_cry.ogg"
+      ]
+    }
+  ]
+}

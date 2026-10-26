@@ -1,0 +1,34 @@
+{
+  "game": "amber",
+  "pokemon": "fuzzapiller",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Sl0py"
+      },
+      "contributors": [
+        {
+          "login": "Sl0py"
+        },
+        {
+          "login": "fire_jaguar"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "amber/fuzzapiller/amber_fuzzapiller.geo.json"
+      ],
+      "animations": [
+        "amber/fuzzapiller/amber_fuzzapiller.animation.json"
+      ],
+      "textures": [
+        "amber/fuzzapiller/fuzzapiller.png",
+        "amber/fuzzapiller/fuzzapiller_emissive.png",
+        "amber/fuzzapiller/fuzzapiller_shiny.png"
+      ],
+      "sounds": [
+        "amber/fuzzapiller/fuzzapiller_cry.ogg"
+      ]
+    }
+  ]
+}

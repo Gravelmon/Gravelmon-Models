@@ -1,0 +1,28 @@
+{
+  "game": "mazah",
+  "pokemon": "gohila",
+  "entries": [
+    {
+      "contributor": {
+        "login": "kale"
+      },
+      "contributors": [
+        {
+          "login": "kale"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "mazah/gohila/mazah_gohila.geo.json"
+      ],
+      "animations": [
+        "mazah/gohila/mazah_gohila.animation.json"
+      ],
+      "textures": [
+        "mazah/gohila/gohila.png",
+        "mazah/gohila/gohila_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

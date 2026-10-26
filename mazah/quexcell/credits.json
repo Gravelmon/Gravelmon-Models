@@ -1,0 +1,30 @@
+{
+  "game": "mazah",
+  "pokemon": "quexcell",
+  "entries": [
+    {
+      "contributor": {
+        "login": "fire_jaguar"
+      },
+      "contributors": [
+        {
+          "login": "fire_jaguar"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "mazah/quexcell/mazah_quexcell.geo.json"
+      ],
+      "animations": [
+        "mazah/quexcell/mazah_quexcell.animation.json"
+      ],
+      "textures": [
+        "mazah/quexcell/quexcell.png",
+        "mazah/quexcell/quexcell_shiny.png"
+      ],
+      "sounds": [
+        "mazah/quexcell/quexcell_cry.ogg"
+      ]
+    }
+  ]
+}

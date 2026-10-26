@@ -1,0 +1,28 @@
+{
+  "game": "amber",
+  "pokemon": "gorgoop",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Foxic"
+      },
+      "contributors": [
+        {
+          "login": "Foxic"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "amber/gorgoop/amber_gorgoop.geo.json"
+      ],
+      "animations": [
+        "amber/gorgoop/amber_gorgoop.animation.json"
+      ],
+      "textures": [
+        "amber/gorgoop/gorgoop.png",
+        "amber/gorgoop/gorgoop_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

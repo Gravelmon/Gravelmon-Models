@@ -1,0 +1,28 @@
+{
+  "game": "mazah",
+  "pokemon": "dupedillo",
+  "entries": [
+    {
+      "contributor": {
+        "login": "fire_jaguar"
+      },
+      "contributors": [
+        {
+          "login": "fire_jaguar"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "mazah/dupedillo/mazah_dupedillo.geo.json"
+      ],
+      "animations": [
+        "mazah/dupedillo/mazah_dupedillo.animation.json"
+      ],
+      "textures": [
+        "mazah/dupedillo/dupedillo.png",
+        "mazah/dupedillo/dupedillo_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

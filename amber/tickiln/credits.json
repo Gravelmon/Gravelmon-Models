@@ -1,0 +1,30 @@
+{
+  "game": "amber",
+  "pokemon": "tickiln",
+  "entries": [
+    {
+      "contributor": {
+        "login": "BifeSalgado"
+      },
+      "contributors": [
+        {
+          "login": "BifeSalgado"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "amber/tickiln/amber_tickiln.geo.json"
+      ],
+      "animations": [
+        "amber/tickiln/amber_tickiln.animation.json"
+      ],
+      "textures": [
+        "amber/tickiln/tickiln.png",
+        "amber/tickiln/tickiln_emissive.png",
+        "amber/tickiln/tickiln_shiny.png",
+        "amber/tickiln/tickiln_shiny_emissive.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "game": "amber",
+  "pokemon": "drakeon",
+  "entries": [
+    {
+      "contributor": {
+        "login": "fire_jaguar"
+      },
+      "contributors": [
+        {
+          "login": "fire_jaguar"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "amber/drakeon/amber_drakeon.geo.json"
+      ],
+      "animations": [
+        "amber/drakeon/amber_drakeon.animation.json"
+      ],
+      "textures": [
+        "amber/drakeon/drakeon.png",
+        "amber/drakeon/drakeon_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

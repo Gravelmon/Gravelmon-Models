@@ -1,0 +1,30 @@
+{
+  "game": "amber",
+  "pokemon": "diplit",
+  "entries": [
+    {
+      "contributor": {
+        "login": "fire_jaguar"
+      },
+      "contributors": [
+        {
+          "login": "fire_jaguar"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "amber/diplit/amber_diplit.geo.json"
+      ],
+      "animations": [
+        "amber/diplit/amber_diplit.animation.json"
+      ],
+      "textures": [
+        "amber/diplit/diplit.png",
+        "amber/diplit/diplit_shiny.png"
+      ],
+      "sounds": [
+        "amber/diplit/diplit_cry.ogg"
+      ]
+    }
+  ]
+}

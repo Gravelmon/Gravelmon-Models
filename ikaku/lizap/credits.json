@@ -1,0 +1,30 @@
+{
+  "game": "ikaku",
+  "pokemon": "lizap",
+  "entries": [
+    {
+      "contributor": {
+        "login": "fire_jaguar"
+      },
+      "contributors": [
+        {
+          "login": "fire_jaguar"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "ikaku/lizap/ikaku_lizap.geo.json"
+      ],
+      "animations": [
+        "ikaku/lizap/ikaku_lizap.animation.json"
+      ],
+      "textures": [
+        "ikaku/lizap/lizap.png",
+        "ikaku/lizap/lizap_emmisive.png",
+        "ikaku/lizap/lizap_shiny.png",
+        "ikaku/lizap/lizap_shiny_emmisive.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

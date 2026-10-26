@@ -1,0 +1,28 @@
+{
+  "game": "amber",
+  "pokemon": "copint",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Sl0py"
+      },
+      "contributors": [
+        {
+          "login": "Sl0py"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "amber/copint/amber_copint.geo.json"
+      ],
+      "animations": [
+        "amber/copint/amber_copint.animation.json"
+      ],
+      "textures": [
+        "amber/copint/copint.png",
+        "amber/copint/copint_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

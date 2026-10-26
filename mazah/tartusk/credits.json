@@ -1,0 +1,28 @@
+{
+  "game": "mazah",
+  "pokemon": "tartusk",
+  "entries": [
+    {
+      "contributor": {
+        "login": "kale"
+      },
+      "contributors": [
+        {
+          "login": "kale"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "mazah/tartusk/mazah_tartusk.geo.json"
+      ],
+      "animations": [
+        "mazah/tartusk/mazah_tartusk.animation.json"
+      ],
+      "textures": [
+        "mazah/tartusk/tartusk.png",
+        "mazah/tartusk/tartusk_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

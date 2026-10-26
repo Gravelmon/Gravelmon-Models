@@ -1,0 +1,28 @@
+{
+  "game": "mazah",
+  "pokemon": "ariamano",
+  "entries": [
+    {
+      "contributor": {
+        "login": "fire_jaguar"
+      },
+      "contributors": [
+        {
+          "login": "fire_jaguar"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "mazah/ariamano/mazah_ariamano.geo.json"
+      ],
+      "animations": [
+        "mazah/ariamano/mazah_ariamano.animation.json"
+      ],
+      "textures": [
+        "mazah/ariamano/ariamano.png",
+        "mazah/ariamano/ariamano_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

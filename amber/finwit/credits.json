@@ -1,0 +1,30 @@
+{
+  "game": "amber",
+  "pokemon": "finwit",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Glaceon"
+      },
+      "contributors": [
+        {
+          "login": "Glaceon"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "amber/finwit/amber_finwit.geo.json"
+      ],
+      "animations": [
+        "amber/finwit/amber_finwit.animation.json"
+      ],
+      "textures": [
+        "amber/finwit/finwit.png",
+        "amber/finwit/finwit_shiny.png"
+      ],
+      "sounds": [
+        "amber/finwit/finwit_cry.ogg"
+      ]
+    }
+  ]
+}

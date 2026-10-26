@@ -1,0 +1,34 @@
+{
+  "game": "ikaku",
+  "pokemon": "branchu",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Uncle Berry"
+      },
+      "contributors": [
+        {
+          "login": "Uncle Berry"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "ikaku/branchu/ikaku_branchu.geo.json"
+      ],
+      "animations": [
+        "ikaku/branchu/ikaku_branchu.animation.json"
+      ],
+      "textures": [
+        "ikaku/branchu/branchu_angry.png",
+        "ikaku/branchu/branchu_angry_shiny.png",
+        "ikaku/branchu/branchu_cheeky.png",
+        "ikaku/branchu/branchu_cheeky_shiny.png",
+        "ikaku/branchu/branchu_goofy.png",
+        "ikaku/branchu/branchu_goofy_shiny.png",
+        "ikaku/branchu/branchu_jolly.png",
+        "ikaku/branchu/branchu_jolly_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

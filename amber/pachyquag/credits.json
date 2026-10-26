@@ -1,0 +1,30 @@
+{
+  "game": "amber",
+  "pokemon": "pachyquag",
+  "entries": [
+    {
+      "contributor": {
+        "login": "fire_jaguar"
+      },
+      "contributors": [
+        {
+          "login": "fire_jaguar"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "amber/pachyquag/amber_pachyquag.geo.json"
+      ],
+      "animations": [
+        "amber/pachyquag/amber_pachyquag.animation.json"
+      ],
+      "textures": [
+        "amber/pachyquag/pachyquag.png",
+        "amber/pachyquag/pachyquag_shiny.png"
+      ],
+      "sounds": [
+        "amber/pachyquag/pachyquag_cry.ogg"
+      ]
+    }
+  ]
+}

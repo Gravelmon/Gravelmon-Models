@@ -1,0 +1,28 @@
+{
+  "game": "mazah",
+  "pokemon": "makwahurt",
+  "entries": [
+    {
+      "contributor": {
+        "login": "WITCHDAGGER"
+      },
+      "contributors": [
+        {
+          "login": "WITCHDAGGER"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "mazah/makwahurt/mazah_makwahurt.geo.json"
+      ],
+      "animations": [
+        "mazah/makwahurt/mazah_makwahurt.animation.json"
+      ],
+      "textures": [
+        "mazah/makwahurt/makwahurt.png",
+        "mazah/makwahurt/makwahurt_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

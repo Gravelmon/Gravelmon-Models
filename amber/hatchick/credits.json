@@ -1,0 +1,28 @@
+{
+  "game": "amber",
+  "pokemon": "hatchick",
+  "entries": [
+    {
+      "contributor": {
+        "login": "fire_jaguar"
+      },
+      "contributors": [
+        {
+          "login": "fire_jaguar"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "amber/hatchick/amber_hatchick.geo.json"
+      ],
+      "animations": [
+        "amber/hatchick/amber_hatchick.animation.json"
+      ],
+      "textures": [
+        "amber/hatchick/hatchick.png",
+        "amber/hatchick/hatchick_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

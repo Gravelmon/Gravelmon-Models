@@ -1,0 +1,33 @@
+{
+  "game": "mazah",
+  "pokemon": "quetzillian",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Gesteeyy"
+      },
+      "contributors": [
+        {
+          "login": "Gesteeyy"
+        },
+        {
+          "login": "Uncle Berry"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "mazah/quetzillian/mazah_quetzillian.geo.json"
+      ],
+      "animations": [
+        "mazah/quetzillian/mazah_quetzillian.animation.json"
+      ],
+      "textures": [
+        "mazah/quetzillian/quetzillian.png",
+        "mazah/quetzillian/quetzillian_shiny.png"
+      ],
+      "sounds": [
+        "mazah/quetzillian/quetzillian_cry.ogg"
+      ]
+    }
+  ]
+}

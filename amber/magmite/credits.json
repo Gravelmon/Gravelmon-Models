@@ -1,0 +1,30 @@
+{
+  "game": "amber",
+  "pokemon": "magmite",
+  "entries": [
+    {
+      "contributor": {
+        "login": "BifeSalgado"
+      },
+      "contributors": [
+        {
+          "login": "BifeSalgado"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "amber/magmite/amber_magmite.geo.json"
+      ],
+      "animations": [
+        "amber/magmite/amber_magmite.animation.json"
+      ],
+      "textures": [
+        "amber/magmite/magmite.png",
+        "amber/magmite/magmite_emissive.png",
+        "amber/magmite/magmite_shiny.png",
+        "amber/magmite/magmite_shiny_emissive.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

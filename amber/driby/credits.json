@@ -1,0 +1,28 @@
+{
+  "game": "amber",
+  "pokemon": "driby",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Foxic"
+      },
+      "contributors": [
+        {
+          "login": "Foxic"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "amber/driby/amber_driby.geo.json"
+      ],
+      "animations": [
+        "amber/driby/amber_driby.animation.json"
+      ],
+      "textures": [
+        "amber/driby/driby.png",
+        "amber/driby/driby_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "game": "ikaku",
+  "pokemon": "dracosoar",
+  "entries": [
+    {
+      "contributor": {
+        "login": "fire_jaguar"
+      },
+      "contributors": [
+        {
+          "login": "fire_jaguar"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "ikaku/dracosoar/ikaku_dracosoar.geo.json"
+      ],
+      "animations": [
+        "ikaku/dracosoar/ikaku_dracosoar.animation.json"
+      ],
+      "textures": [
+        "ikaku/dracosoar/dracosoar.png",
+        "ikaku/dracosoar/dracosoar_emmisive.png",
+        "ikaku/dracosoar/dracosoar_shiny.png",
+        "ikaku/dracosoar/dracosoar_shiny_emmisive.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

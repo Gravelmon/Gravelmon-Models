@@ -1,0 +1,28 @@
+{
+  "game": "amber",
+  "pokemon": "mooral",
+  "entries": [
+    {
+      "contributor": {
+        "login": "MuchTooManyOCs"
+      },
+      "contributors": [
+        {
+          "login": "MuchTooManyOCs"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "amber/mooral/amber_mooral.geo.json"
+      ],
+      "animations": [
+        "amber/mooral/amber_mooral.animation.json"
+      ],
+      "textures": [
+        "amber/mooral/mooral.png",
+        "amber/mooral/mooral_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

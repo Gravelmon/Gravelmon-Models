@@ -1,0 +1,28 @@
+{
+  "game": "mazah",
+  "pokemon": "bowllo",
+  "entries": [
+    {
+      "contributor": {
+        "login": "fire_jaguar"
+      },
+      "contributors": [
+        {
+          "login": "fire_jaguar"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "mazah/bowllo/mazah_bowllo.geo.json"
+      ],
+      "animations": [
+        "mazah/bowllo/mazah_bowllo.animation.json"
+      ],
+      "textures": [
+        "mazah/bowllo/bowllo.png",
+        "mazah/bowllo/bowllo_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

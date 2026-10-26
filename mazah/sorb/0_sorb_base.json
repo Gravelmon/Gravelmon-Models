@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:sorb",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mazah_sorb",
+      "model": "cobblemon:mazah_sorb.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/sorb/sorb.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/sorb/sorb_shiny.png"
+    }
+  ]
+}

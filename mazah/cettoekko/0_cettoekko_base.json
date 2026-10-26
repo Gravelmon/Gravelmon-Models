@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:cettoekko",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mazah_cettoekko",
+      "model": "cobblemon:mazah_cettoekko.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/cettoekko/cettoekko.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/cettoekko/cettoekko_shiny.png"
+    }
+  ]
+}

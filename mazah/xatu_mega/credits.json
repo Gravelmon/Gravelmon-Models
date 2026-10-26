@@ -1,0 +1,38 @@
+{
+  "game": "mazah",
+  "pokemon": "xatu",
+  "formAspects": [
+    "mega"
+  ],
+  "entries": [
+    {
+      "formAspects": [
+        "mega"
+      ],
+      "inheritsFrom": {
+        "pokemon": "xatu",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "fire_jaguar"
+      },
+      "contributors": [
+        {
+          "login": "fire_jaguar"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "mazah/xatu_mega/mazah_xatu_mega.geo.json"
+      ],
+      "animations": [
+        "mazah/xatu_mega/mazah_xatu_mega.animation.json"
+      ],
+      "textures": [
+        "mazah/xatu_mega/xatu_mega.png",
+        "mazah/xatu_mega/xatu_mega_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

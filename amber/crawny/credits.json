@@ -1,0 +1,28 @@
+{
+  "game": "amber",
+  "pokemon": "crawny",
+  "entries": [
+    {
+      "contributor": {
+        "login": "BifeSalgado"
+      },
+      "contributors": [
+        {
+          "login": "BifeSalgado"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "amber/crawny/amber_crawny.geo.json"
+      ],
+      "animations": [
+        "amber/crawny/amber_crawny.animation.json"
+      ],
+      "textures": [
+        "amber/crawny/crawny.png",
+        "amber/crawny/crawny_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

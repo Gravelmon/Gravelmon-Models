@@ -1,0 +1,33 @@
+{
+  "game": "amber",
+  "pokemon": "woollea",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Iván Gracía"
+      },
+      "contributors": [
+        {
+          "login": "Iván Gracía"
+        },
+        {
+          "login": "fire_jaguar"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "amber/woollea/amber_woollea.geo.json"
+      ],
+      "animations": [
+        "amber/woollea/amber_woollea.animation.json"
+      ],
+      "textures": [
+        "amber/woollea/woollea.png",
+        "amber/woollea/woollea_shiny.png"
+      ],
+      "sounds": [
+        "amber/woollea/woollea_cry.ogg"
+      ]
+    }
+  ]
+}

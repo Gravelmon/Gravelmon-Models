@@ -1,0 +1,30 @@
+{
+  "game": "amber",
+  "pokemon": "flufling",
+  "entries": [
+    {
+      "contributor": {
+        "login": "fire_jaguar"
+      },
+      "contributors": [
+        {
+          "login": "fire_jaguar"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "amber/flufling/amber_flufling.geo.json"
+      ],
+      "animations": [
+        "amber/flufling/amber_flufling.animation.json"
+      ],
+      "textures": [
+        "amber/flufling/flufling.png",
+        "amber/flufling/flufling_shiny.png"
+      ],
+      "sounds": [
+        "amber/flufling/flufling_cry.ogg"
+      ]
+    }
+  ]
+}

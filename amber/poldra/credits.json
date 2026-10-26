@@ -1,0 +1,28 @@
+{
+  "game": "amber",
+  "pokemon": "poldra",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Foxic"
+      },
+      "contributors": [
+        {
+          "login": "Foxic"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "amber/poldra/amber_poldra.geo.json"
+      ],
+      "animations": [
+        "amber/poldra/amber_poldra.animation.json"
+      ],
+      "textures": [
+        "amber/poldra/poldra.png",
+        "amber/poldra/poldra_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

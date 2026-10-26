@@ -1,0 +1,28 @@
+{
+  "game": "amber",
+  "pokemon": "cramber",
+  "entries": [
+    {
+      "contributor": {
+        "login": "BifeSalgado"
+      },
+      "contributors": [
+        {
+          "login": "BifeSalgado"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "amber/cramber/amber_cramber.geo.json"
+      ],
+      "animations": [
+        "amber/cramber/amber_cramber.animation.json"
+      ],
+      "textures": [
+        "amber/cramber/cramber.png",
+        "amber/cramber/cramber_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

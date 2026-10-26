@@ -1,0 +1,30 @@
+{
+  "game": "mazah",
+  "pokemon": "mollucotta",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Glaceon"
+      },
+      "contributors": [
+        {
+          "login": "Glaceon"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "mazah/mollucotta/mazah_mollucotta.geo.json"
+      ],
+      "animations": [
+        "mazah/mollucotta/mazah_mollucotta.animation.json"
+      ],
+      "textures": [
+        "mazah/mollucotta/mollucotta.png",
+        "mazah/mollucotta/mollucotta_shiny.png"
+      ],
+      "sounds": [
+        "mazah/mollucotta/mollucotta_cry.ogg"
+      ]
+    }
+  ]
+}

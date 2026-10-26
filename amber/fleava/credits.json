@@ -1,0 +1,30 @@
+{
+  "game": "amber",
+  "pokemon": "fleava",
+  "entries": [
+    {
+      "contributor": {
+        "login": "BifeSalgado"
+      },
+      "contributors": [
+        {
+          "login": "BifeSalgado"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "amber/fleava/amber_fleava.geo.json"
+      ],
+      "animations": [
+        "amber/fleava/amber_fleava.animation.json"
+      ],
+      "textures": [
+        "amber/fleava/fleava.png",
+        "amber/fleava/fleava_emissive.png",
+        "amber/fleava/fleava_shiny.png",
+        "amber/fleava/fleava_shiny_emissive.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

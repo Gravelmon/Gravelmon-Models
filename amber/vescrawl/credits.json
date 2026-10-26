@@ -1,0 +1,28 @@
+{
+  "game": "amber",
+  "pokemon": "vescrawl",
+  "entries": [
+    {
+      "contributor": {
+        "login": "MuchTooManyOCs"
+      },
+      "contributors": [
+        {
+          "login": "MuchTooManyOCs"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "amber/vescrawl/amber_vescrawl.geo.json"
+      ],
+      "animations": [
+        "amber/vescrawl/amber_vescrawl.animation.json"
+      ],
+      "textures": [
+        "amber/vescrawl/vescrawl.png",
+        "amber/vescrawl/vescrawl_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

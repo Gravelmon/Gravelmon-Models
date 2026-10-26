@@ -1,0 +1,33 @@
+{
+  "game": "amber",
+  "pokemon": "camagma",
+  "entries": [
+    {
+      "contributor": {
+        "login": "fire_jaguar"
+      },
+      "contributors": [
+        {
+          "login": "fire_jaguar"
+        },
+        {
+          "login": "morty"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "amber/camagma/amber_camagma.geo.json"
+      ],
+      "animations": [
+        "amber/camagma/amber_camagma.animation.json"
+      ],
+      "textures": [
+        "amber/camagma/camagma.png",
+        "amber/camagma/camagma_shiny.png"
+      ],
+      "sounds": [
+        "amber/camagma/camagma_cry.ogg"
+      ]
+    }
+  ]
+}

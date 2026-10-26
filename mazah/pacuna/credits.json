@@ -1,0 +1,30 @@
+{
+  "game": "mazah",
+  "pokemon": "pacuna",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Glaceon"
+      },
+      "contributors": [
+        {
+          "login": "Glaceon"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "mazah/pacuna/mazah_pacuna.geo.json"
+      ],
+      "animations": [
+        "mazah/pacuna/mazah_pacuna.animation.json"
+      ],
+      "textures": [
+        "mazah/pacuna/pacuna.png",
+        "mazah/pacuna/pacuna_shiny.png"
+      ],
+      "sounds": [
+        "mazah/pacuna/pacuna_cry.ogg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "game": "mazah",
+  "pokemon": "aveor",
+  "entries": [
+    {
+      "contributor": {
+        "login": "fire_jaguar"
+      },
+      "contributors": [
+        {
+          "login": "fire_jaguar"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "mazah/aveor/mazah_aveor.geo.json"
+      ],
+      "animations": [
+        "mazah/aveor/mazah_aveor.animation.json"
+      ],
+      "textures": [
+        "mazah/aveor/aveor.png",
+        "mazah/aveor/aveor_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "game": "amber",
+  "pokemon": "carnarmor",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Darzoth"
+      },
+      "contributors": [
+        {
+          "login": "Darzoth"
+        }
+      ],
+      "submittedAt": "2026-10-26T19:00:55.000Z",
+      "models": [
+        "amber/carnarmor/amber_carnarmor.geo.json"
+      ],
+      "animations": [
+        "amber/carnarmor/amber_carnarmor.animation.json"
+      ],
+      "textures": [
+        "amber/carnarmor/carnarmor.png",
+        "amber/carnarmor/carnarmor_shiny.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

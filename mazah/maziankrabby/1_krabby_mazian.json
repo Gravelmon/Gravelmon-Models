@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:krabby",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "mazian"
+      ],
+      "poser": "cobblemon:mazah_maziankrabby",
+      "model": "cobblemon:mazah_maziankrabby.geo",
+      "texture": "cobblemon:textures/pokemon/mazah/maziankrabby/krabby_mazian.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "mazian",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/mazah/maziankrabby/krabby_mazian_shiny.png"
+    }
+  ]
+}
