@@ -1,0 +1,37 @@
+{
+  "game": "pokemon",
+  "pokemon": "oddish",
+  "entries": [
+    {
+      "formAspects": [
+        "egho"
+      ],
+      "inheritsFrom": {
+        "pokemon": "oddish",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "Neoxaivus"
+      },
+      "contributors": [
+        {
+          "login": "Neoxaivus"
+        }
+      ],
+      "submittedAt": "2026-10-26T00:20:29.710Z",
+      "models": [
+        "infinity/eghooddish/infinity_eghooddish.geo.json"
+      ],
+      "animations": [
+        "infinity/eghooddish/infinity_eghooddish.animation.json"
+      ],
+      "textures": [
+        "infinity/eghooddish/oddish_egho.png",
+        "infinity/eghooddish/oddish_egho_alpha.png",
+        "infinity/eghooddish/oddish_egho_shiny.png",
+        "infinity/eghooddish/eghooddish.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

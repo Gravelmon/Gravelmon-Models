@@ -6,7 +6,10 @@
     "infinity_eghooddish.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_eghooddish.animation.json",
     "infinity_eghooddish.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_eghooddish.geo.json",
     "infinity_eghooddish.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_eghooddish.json",
+    "oddish_egho.png": "assets/cobblemon/textures/pokemon/infinity/eghooddish/oddish_egho.png",
+    "oddish_egho_alpha.png": "assets/cobblemon/textures/pokemon/infinity/eghooddish/oddish_egho_alpha.png",
     "oddish_egho_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/oddish_egho_cry.ogg",
+    "oddish_egho_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghooddish/oddish_egho_shiny.png",
     "texture__eghooddish.png": "assets/cobblemon/textures/pokemon/infinity/eghooddish/eghooddish.png"
   }
 }
