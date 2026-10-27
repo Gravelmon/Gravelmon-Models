@@ -4,8 +4,8 @@
     "amber_gnawdon.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_gnawdon.animation.json",
     "amber_gnawdon.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_gnawdon.geo.json",
     "amber_gnawdon.json": "assets/cobblemon/bedrock/pokemon/posers/amber_gnawdon.json",
-    "gnawdon.png": "assets/cobblemon/textures/pokemon/amber/gnawdon/gnawdon.png",
     "gnawdon_cry.ogg": "assets/gravelmon/sounds/pokemon/amber/gnawdon_cry.ogg",
-    "gnawdon_shiny.png": "assets/cobblemon/textures/pokemon/amber/gnawdon/gnawdon_shiny.png"
+    "gnawdon_shiny.png": "assets/cobblemon/textures/pokemon/amber/gnawdon/gnawdon_shiny.png",
+    "texture__gnawdon.png": "assets/cobblemon/textures/pokemon/amber/gnawdon/gnawdon.png"
   }
 }

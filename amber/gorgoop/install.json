@@ -4,7 +4,7 @@
     "amber_gorgoop.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_gorgoop.animation.json",
     "amber_gorgoop.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_gorgoop.geo.json",
     "amber_gorgoop.json": "assets/cobblemon/bedrock/pokemon/posers/amber_gorgoop.json",
-    "gorgoop.png": "assets/cobblemon/textures/pokemon/amber/gorgoop/gorgoop.png",
-    "gorgoop_shiny.png": "assets/cobblemon/textures/pokemon/amber/gorgoop/gorgoop_shiny.png"
+    "gorgoop_shiny.png": "assets/cobblemon/textures/pokemon/amber/gorgoop/gorgoop_shiny.png",
+    "texture__gorgoop.png": "assets/cobblemon/textures/pokemon/amber/gorgoop/gorgoop.png"
   }
 }

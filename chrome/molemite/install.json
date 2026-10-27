@@ -4,7 +4,7 @@
     "chrome_molemite.animation.json": "assets/cobblemon/bedrock/pokemon/animations/chrome_molemite.animation.json",
     "chrome_molemite.geo.json": "assets/cobblemon/bedrock/pokemon/models/chrome_molemite.geo.json",
     "chrome_molemite.json": "assets/cobblemon/bedrock/pokemon/posers/chrome_molemite.json",
-    "molemite.png": "assets/cobblemon/textures/pokemon/chrome/molemite/molemite.png",
-    "molemite_shiny.png": "assets/cobblemon/textures/pokemon/chrome/molemite/molemite_shiny.png"
+    "molemite_shiny.png": "assets/cobblemon/textures/pokemon/chrome/molemite/molemite_shiny.png",
+    "texture__molemite.png": "assets/cobblemon/textures/pokemon/chrome/molemite/molemite.png"
   }
 }

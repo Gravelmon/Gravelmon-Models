@@ -4,8 +4,9 @@
     "mazah_sorb.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_sorb.animation.json",
     "mazah_sorb.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_sorb.geo.json",
     "mazah_sorb.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_sorb.json",
-    "sorb.png": "assets/cobblemon/textures/pokemon/mazah/sorb/sorb.png",
+    "sorb.png": "assets/cobblemon/textures/pokemon/mazah/sorb.png",
     "sorb_cry.ogg": "assets/gravelmon/sounds/pokemon/mazah/sorb_cry.ogg",
-    "sorb_shiny.png": "assets/cobblemon/textures/pokemon/mazah/sorb/sorb_shiny.png"
+    "sorb_shiny.png": "assets/cobblemon/textures/pokemon/mazah/sorb/sorb_shiny.png",
+    "texture__sorb.png": "assets/cobblemon/textures/pokemon/mazah/sorb/sorb.png"
   }
 }

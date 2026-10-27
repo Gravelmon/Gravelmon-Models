@@ -4,9 +4,9 @@
     "amber_magmite.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_magmite.animation.json",
     "amber_magmite.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_magmite.geo.json",
     "amber_magmite.json": "assets/cobblemon/bedrock/pokemon/posers/amber_magmite.json",
-    "magmite.png": "assets/cobblemon/textures/pokemon/amber/magmite/magmite.png",
     "magmite_emissive.png": "assets/cobblemon/textures/pokemon/amber/magmite/magmite_emissive.png",
     "magmite_shiny.png": "assets/cobblemon/textures/pokemon/amber/magmite/magmite_shiny.png",
-    "magmite_shiny_emissive.png": "assets/cobblemon/textures/pokemon/amber/magmite/magmite_shiny_emissive.png"
+    "magmite_shiny_emissive.png": "assets/cobblemon/textures/pokemon/amber/magmite/magmite_shiny_emissive.png",
+    "texture__magmite.png": "assets/cobblemon/textures/pokemon/amber/magmite/magmite.png"
   }
 }

@@ -1,10 +1,11 @@
 {
   "files": {
     "0_elegoop_base.json": "assets/cobblemon/bedrock/species/mazah/0_elegoop_base.json",
-    "elegoop.png": "assets/cobblemon/textures/pokemon/mazah/elegoop/elegoop.png",
+    "elegoop.png": "assets/cobblemon/textures/pokemon/mazah/elegoop.png",
     "elegoop_shiny.png": "assets/cobblemon/textures/pokemon/mazah/elegoop/elegoop_shiny.png",
     "mazah_elegoop.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_elegoop.animation.json",
     "mazah_elegoop.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_elegoop.geo.json",
-    "mazah_elegoop.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_elegoop.json"
+    "mazah_elegoop.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_elegoop.json",
+    "texture__elegoop.png": "assets/cobblemon/textures/pokemon/mazah/elegoop/elegoop.png"
   }
 }

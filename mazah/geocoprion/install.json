@@ -1,13 +1,14 @@
 {
   "files": {
     "0_geocoprion_base.json": "assets/cobblemon/bedrock/species/mazah/0_geocoprion_base.json",
-    "geocoprion.png": "assets/cobblemon/textures/pokemon/mazah/geocoprion/geocoprion.png",
+    "geocoprion.png": "assets/cobblemon/textures/pokemon/mazah/geocoprion.png",
     "geocoprion_cry.ogg": "assets/gravelmon/sounds/pokemon/mazah/geocoprion_cry.ogg",
     "geocoprion_emissive.png": "assets/cobblemon/textures/pokemon/mazah/geocoprion/geocoprion_emissive.png",
     "geocoprion_shiny.png": "assets/cobblemon/textures/pokemon/mazah/geocoprion/geocoprion_shiny.png",
     "geocoprion_shiny_emissive.png": "assets/cobblemon/textures/pokemon/mazah/geocoprion/geocoprion_shiny_emissive.png",
     "mazah_geocoprion.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_geocoprion.animation.json",
     "mazah_geocoprion.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_geocoprion.geo.json",
-    "mazah_geocoprion.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_geocoprion.json"
+    "mazah_geocoprion.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_geocoprion.json",
+    "texture__geocoprion.png": "assets/cobblemon/textures/pokemon/mazah/geocoprion/geocoprion.png"
   }
 }

@@ -1,10 +1,11 @@
 {
   "files": {
     "0_knoggin_base.json": "assets/cobblemon/bedrock/species/mazah/0_knoggin_base.json",
-    "knoggin.png": "assets/cobblemon/textures/pokemon/mazah/knoggin/knoggin.png",
+    "knoggin.png": "assets/cobblemon/textures/pokemon/mazah/knoggin.png",
     "knoggin_shiny.png": "assets/cobblemon/textures/pokemon/mazah/knoggin/knoggin_shiny.png",
     "mazah_knoggin.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_knoggin.animation.json",
     "mazah_knoggin.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_knoggin.geo.json",
-    "mazah_knoggin.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_knoggin.json"
+    "mazah_knoggin.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_knoggin.json",
+    "texture__knoggin.png": "assets/cobblemon/textures/pokemon/mazah/knoggin/knoggin.png"
   }
 }

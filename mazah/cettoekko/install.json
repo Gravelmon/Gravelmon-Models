@@ -1,11 +1,12 @@
 {
   "files": {
     "0_cettoekko_base.json": "assets/cobblemon/bedrock/species/mazah/0_cettoekko_base.json",
-    "cettoekko.png": "assets/cobblemon/textures/pokemon/mazah/cettoekko/cettoekko.png",
+    "cettoekko.png": "assets/cobblemon/textures/pokemon/mazah/cettoekko.png",
     "cettoekko_cry.ogg": "assets/gravelmon/sounds/pokemon/mazah/cettoekko_cry.ogg",
     "cettoekko_shiny.png": "assets/cobblemon/textures/pokemon/mazah/cettoekko/cettoekko_shiny.png",
     "mazah_cettoekko.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_cettoekko.animation.json",
     "mazah_cettoekko.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_cettoekko.geo.json",
-    "mazah_cettoekko.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_cettoekko.json"
+    "mazah_cettoekko.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_cettoekko.json",
+    "texture__cettoekko.png": "assets/cobblemon/textures/pokemon/mazah/cettoekko/cettoekko.png"
   }
 }

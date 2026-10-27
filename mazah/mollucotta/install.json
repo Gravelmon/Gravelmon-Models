@@ -4,8 +4,9 @@
     "mazah_mollucotta.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_mollucotta.animation.json",
     "mazah_mollucotta.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_mollucotta.geo.json",
     "mazah_mollucotta.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_mollucotta.json",
-    "mollucotta.png": "assets/cobblemon/textures/pokemon/mazah/mollucotta/mollucotta.png",
+    "mollucotta.png": "assets/cobblemon/textures/pokemon/mazah/mollucotta.png",
     "mollucotta_cry.ogg": "assets/gravelmon/sounds/pokemon/mazah/mollucotta_cry.ogg",
-    "mollucotta_shiny.png": "assets/cobblemon/textures/pokemon/mazah/mollucotta/mollucotta_shiny.png"
+    "mollucotta_shiny.png": "assets/cobblemon/textures/pokemon/mazah/mollucotta/mollucotta_shiny.png",
+    "texture__mollucotta.png": "assets/cobblemon/textures/pokemon/mazah/mollucotta/mollucotta.png"
   }
 }

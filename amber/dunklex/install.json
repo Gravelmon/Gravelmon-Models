@@ -4,8 +4,8 @@
     "amber_dunklex.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_dunklex.animation.json",
     "amber_dunklex.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_dunklex.geo.json",
     "amber_dunklex.json": "assets/cobblemon/bedrock/pokemon/posers/amber_dunklex.json",
-    "dunklex.png": "assets/cobblemon/textures/pokemon/amber/dunklex/dunklex.png",
     "dunklex_cry.ogg": "assets/gravelmon/sounds/pokemon/amber/dunklex_cry.ogg",
-    "dunklex_shiny.png": "assets/cobblemon/textures/pokemon/amber/dunklex/dunklex_shiny.png"
+    "dunklex_shiny.png": "assets/cobblemon/textures/pokemon/amber/dunklex/dunklex_shiny.png",
+    "texture__dunklex.png": "assets/cobblemon/textures/pokemon/amber/dunklex/dunklex.png"
   }
 }

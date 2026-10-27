@@ -4,7 +4,7 @@
     "amber_cramber.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_cramber.animation.json",
     "amber_cramber.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_cramber.geo.json",
     "amber_cramber.json": "assets/cobblemon/bedrock/pokemon/posers/amber_cramber.json",
-    "cramber.png": "assets/cobblemon/textures/pokemon/amber/cramber/cramber.png",
-    "cramber_shiny.png": "assets/cobblemon/textures/pokemon/amber/cramber/cramber_shiny.png"
+    "cramber_shiny.png": "assets/cobblemon/textures/pokemon/amber/cramber/cramber_shiny.png",
+    "texture__cramber.png": "assets/cobblemon/textures/pokemon/amber/cramber/cramber.png"
   }
 }

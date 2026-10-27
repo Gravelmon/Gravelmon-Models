@@ -4,7 +4,7 @@
     "amber_drakeon.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_drakeon.animation.json",
     "amber_drakeon.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_drakeon.geo.json",
     "amber_drakeon.json": "assets/cobblemon/bedrock/pokemon/posers/amber_drakeon.json",
-    "drakeon.png": "assets/cobblemon/textures/pokemon/amber/drakeon/drakeon.png",
-    "drakeon_shiny.png": "assets/cobblemon/textures/pokemon/amber/drakeon/drakeon_shiny.png"
+    "drakeon_shiny.png": "assets/cobblemon/textures/pokemon/amber/drakeon/drakeon_shiny.png",
+    "texture__drakeon.png": "assets/cobblemon/textures/pokemon/amber/drakeon/drakeon.png"
   }
 }

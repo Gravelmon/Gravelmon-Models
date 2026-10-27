@@ -4,7 +4,8 @@
     "mazah_roadraptor.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_roadraptor.animation.json",
     "mazah_roadraptor.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_roadraptor.geo.json",
     "mazah_roadraptor.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_roadraptor.json",
-    "roadraptor.png": "assets/cobblemon/textures/pokemon/mazah/roadraptor/roadraptor.png",
-    "roadraptor_shiny.png": "assets/cobblemon/textures/pokemon/mazah/roadraptor/roadraptor_shiny.png"
+    "roadraptor.png": "assets/cobblemon/textures/pokemon/mazah/roadraptor.png",
+    "roadraptor_shiny.png": "assets/cobblemon/textures/pokemon/mazah/roadraptor/roadraptor_shiny.png",
+    "texture__roadraptor.png": "assets/cobblemon/textures/pokemon/mazah/roadraptor/roadraptor.png"
   }
 }

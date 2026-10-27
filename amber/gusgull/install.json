@@ -4,7 +4,7 @@
     "amber_gusgull.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_gusgull.animation.json",
     "amber_gusgull.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_gusgull.geo.json",
     "amber_gusgull.json": "assets/cobblemon/bedrock/pokemon/posers/amber_gusgull.json",
-    "gusgull.png": "assets/cobblemon/textures/pokemon/amber/gusgull/gusgull.png",
-    "gusgull_shiny.png": "assets/cobblemon/textures/pokemon/amber/gusgull/gusgull_shiny.png"
+    "gusgull_shiny.png": "assets/cobblemon/textures/pokemon/amber/gusgull/gusgull_shiny.png",
+    "texture__gusgull.png": "assets/cobblemon/textures/pokemon/amber/gusgull/gusgull.png"
   }
 }
