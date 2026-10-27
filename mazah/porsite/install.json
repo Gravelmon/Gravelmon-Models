@@ -4,8 +4,9 @@
     "mazah_porsite.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_porsite.animation.json",
     "mazah_porsite.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_porsite.geo.json",
     "mazah_porsite.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_porsite.json",
-    "porsite.png": "assets/cobblemon/textures/pokemon/mazah/porsite/porsite.png",
+    "porsite.png": "assets/cobblemon/textures/pokemon/mazah/porsite.png",
     "porsite_cry.ogg": "assets/gravelmon/sounds/pokemon/mazah/porsite_cry.ogg",
-    "porsite_shiny.png": "assets/cobblemon/textures/pokemon/mazah/porsite/porsite_shiny.png"
+    "porsite_shiny.png": "assets/cobblemon/textures/pokemon/mazah/porsite/porsite_shiny.png",
+    "texture__porsite.png": "assets/cobblemon/textures/pokemon/mazah/porsite/porsite.png"
   }
 }

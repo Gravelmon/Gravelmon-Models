@@ -4,7 +4,7 @@
     "amber_driby.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_driby.animation.json",
     "amber_driby.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_driby.geo.json",
     "amber_driby.json": "assets/cobblemon/bedrock/pokemon/posers/amber_driby.json",
-    "driby.png": "assets/cobblemon/textures/pokemon/amber/driby/driby.png",
-    "driby_shiny.png": "assets/cobblemon/textures/pokemon/amber/driby/driby_shiny.png"
+    "driby_shiny.png": "assets/cobblemon/textures/pokemon/amber/driby/driby_shiny.png",
+    "texture__driby.png": "assets/cobblemon/textures/pokemon/amber/driby/driby.png"
   }
 }

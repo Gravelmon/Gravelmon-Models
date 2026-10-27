@@ -4,7 +4,7 @@
     "amber_hatchick.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_hatchick.animation.json",
     "amber_hatchick.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_hatchick.geo.json",
     "amber_hatchick.json": "assets/cobblemon/bedrock/pokemon/posers/amber_hatchick.json",
-    "hatchick.png": "assets/cobblemon/textures/pokemon/amber/hatchick/hatchick.png",
-    "hatchick_shiny.png": "assets/cobblemon/textures/pokemon/amber/hatchick/hatchick_shiny.png"
+    "hatchick_shiny.png": "assets/cobblemon/textures/pokemon/amber/hatchick/hatchick_shiny.png",
+    "texture__hatchick.png": "assets/cobblemon/textures/pokemon/amber/hatchick/hatchick.png"
   }
 }

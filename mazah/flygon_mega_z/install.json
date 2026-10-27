@@ -1,12 +1,13 @@
 {
   "files": {
     "20_flygon_mega_z.json": "assets/cobblemon/bedrock/species/additional_forms/20_flygon_mega_z.json",
-    "flygon_mega_z.png": "assets/cobblemon/textures/pokemon/mazah/flygon_mega_z/flygon_mega_z.png",
+    "flygon_mega_z.png": "assets/cobblemon/textures/pokemon/mazah/flygon_mega_z.png",
     "flygon_mega_z_shiny.png": "assets/cobblemon/textures/pokemon/mazah/flygon_mega_z/flygon_mega_z_shiny.png",
     "flygon_mega_z_shiny_transparent.png": "assets/cobblemon/textures/pokemon/mazah/flygon_mega_z/flygon_mega_z_shiny_transparent.png",
     "flygon_mega_z_transparent.png": "assets/cobblemon/textures/pokemon/mazah/flygon_mega_z/flygon_mega_z_transparent.png",
     "mazah_flygon_mega_z.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_flygon_mega_z.animation.json",
     "mazah_flygon_mega_z.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_flygon_mega_z.geo.json",
-    "mazah_flygon_mega_z.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_flygon_mega_z.json"
+    "mazah_flygon_mega_z.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_flygon_mega_z.json",
+    "texture__flygon_mega_z.png": "assets/cobblemon/textures/pokemon/mazah/flygon_mega_z/flygon_mega_z.png"
   }
 }

@@ -4,8 +4,8 @@
     "amber_brachatoa.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_brachatoa.animation.json",
     "amber_brachatoa.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_brachatoa.geo.json",
     "amber_brachatoa.json": "assets/cobblemon/bedrock/pokemon/posers/amber_brachatoa.json",
-    "brachatoa.png": "assets/cobblemon/textures/pokemon/amber/brachatoa/brachatoa.png",
     "brachatoa_cry.ogg": "assets/gravelmon/sounds/pokemon/amber/brachatoa_cry.ogg",
-    "brachatoa_shiny.png": "assets/cobblemon/textures/pokemon/amber/brachatoa/brachatoa_shiny.png"
+    "brachatoa_shiny.png": "assets/cobblemon/textures/pokemon/amber/brachatoa/brachatoa_shiny.png",
+    "texture__brachatoa.png": "assets/cobblemon/textures/pokemon/amber/brachatoa/brachatoa.png"
   }
 }

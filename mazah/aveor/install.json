@@ -1,10 +1,11 @@
 {
   "files": {
     "0_aveor_base.json": "assets/cobblemon/bedrock/species/mazah/0_aveor_base.json",
-    "aveor.png": "assets/cobblemon/textures/pokemon/mazah/aveor/aveor.png",
+    "aveor.png": "assets/cobblemon/textures/pokemon/mazah/aveor.png",
     "aveor_shiny.png": "assets/cobblemon/textures/pokemon/mazah/aveor/aveor_shiny.png",
     "mazah_aveor.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_aveor.animation.json",
     "mazah_aveor.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_aveor.geo.json",
-    "mazah_aveor.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_aveor.json"
+    "mazah_aveor.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_aveor.json",
+    "texture__aveor.png": "assets/cobblemon/textures/pokemon/mazah/aveor/aveor.png"
   }
 }

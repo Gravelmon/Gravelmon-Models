@@ -4,7 +4,7 @@
     "amber_pelacanne.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_pelacanne.animation.json",
     "amber_pelacanne.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_pelacanne.geo.json",
     "amber_pelacanne.json": "assets/cobblemon/bedrock/pokemon/posers/amber_pelacanne.json",
-    "pelacanne.png": "assets/cobblemon/textures/pokemon/amber/pelacanne/pelacanne.png",
-    "pelacanne_shiny.png": "assets/cobblemon/textures/pokemon/amber/pelacanne/pelacanne_shiny.png"
+    "pelacanne_shiny.png": "assets/cobblemon/textures/pokemon/amber/pelacanne/pelacanne_shiny.png",
+    "texture__pelacanne.png": "assets/cobblemon/textures/pokemon/amber/pelacanne/pelacanne.png"
   }
 }

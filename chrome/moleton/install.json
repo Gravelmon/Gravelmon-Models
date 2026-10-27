@@ -4,7 +4,7 @@
     "chrome_moleton.animation.json": "assets/cobblemon/bedrock/pokemon/animations/chrome_moleton.animation.json",
     "chrome_moleton.geo.json": "assets/cobblemon/bedrock/pokemon/models/chrome_moleton.geo.json",
     "chrome_moleton.json": "assets/cobblemon/bedrock/pokemon/posers/chrome_moleton.json",
-    "moleton.png": "assets/cobblemon/textures/pokemon/chrome/moleton/moleton.png",
-    "moleton_shiny.png": "assets/cobblemon/textures/pokemon/chrome/moleton/moleton_shiny.png"
+    "moleton_shiny.png": "assets/cobblemon/textures/pokemon/chrome/moleton/moleton_shiny.png",
+    "texture__moleton.png": "assets/cobblemon/textures/pokemon/chrome/moleton/moleton.png"
   }
 }

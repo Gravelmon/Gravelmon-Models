@@ -4,9 +4,9 @@
     "ikaku_shockitez.animation.json": "assets/cobblemon/bedrock/pokemon/animations/ikaku_shockitez.animation.json",
     "ikaku_shockitez.geo.json": "assets/cobblemon/bedrock/pokemon/models/ikaku_shockitez.geo.json",
     "ikaku_shockitez.json": "assets/cobblemon/bedrock/pokemon/posers/ikaku_shockitez.json",
-    "shockitez.png": "assets/cobblemon/textures/pokemon/ikaku/shockitez/shockitez.png",
     "shockitez_emmisive.png": "assets/cobblemon/textures/pokemon/ikaku/shockitez/shockitez_emmisive.png",
     "shockitez_shiny.png": "assets/cobblemon/textures/pokemon/ikaku/shockitez/shockitez_shiny.png",
-    "shockitez_shiny_emmisive.png": "assets/cobblemon/textures/pokemon/ikaku/shockitez/shockitez_shiny_emmisive.png"
+    "shockitez_shiny_emmisive.png": "assets/cobblemon/textures/pokemon/ikaku/shockitez/shockitez_shiny_emmisive.png",
+    "texture__shockitez.png": "assets/cobblemon/textures/pokemon/ikaku/shockitez/shockitez.png"
   }
 }

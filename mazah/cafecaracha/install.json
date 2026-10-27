@@ -1,12 +1,13 @@
 {
   "files": {
     "0_cafecaracha_base.json": "assets/cobblemon/bedrock/species/mazah/0_cafecaracha_base.json",
-    "cafecaracha.png": "assets/cobblemon/textures/pokemon/mazah/cafecaracha/cafecaracha.png",
+    "cafecaracha.png": "assets/cobblemon/textures/pokemon/mazah/cafecaracha.png",
     "cafecaracha_emissive.png": "assets/cobblemon/textures/pokemon/mazah/cafecaracha/cafecaracha_emissive.png",
     "cafecaracha_shiny.png": "assets/cobblemon/textures/pokemon/mazah/cafecaracha/cafecaracha_shiny.png",
     "cafecaracha_shiny_emissive.png": "assets/cobblemon/textures/pokemon/mazah/cafecaracha/cafecaracha_shiny_emissive.png",
     "mazah_cafecaracha.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_cafecaracha.animation.json",
     "mazah_cafecaracha.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_cafecaracha.geo.json",
-    "mazah_cafecaracha.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_cafecaracha.json"
+    "mazah_cafecaracha.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_cafecaracha.json",
+    "texture__cafecaracha.png": "assets/cobblemon/textures/pokemon/mazah/cafecaracha/cafecaracha.png"
   }
 }

@@ -4,7 +4,7 @@
     "amber_copint.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_copint.animation.json",
     "amber_copint.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_copint.geo.json",
     "amber_copint.json": "assets/cobblemon/bedrock/pokemon/posers/amber_copint.json",
-    "copint.png": "assets/cobblemon/textures/pokemon/amber/copint/copint.png",
-    "copint_shiny.png": "assets/cobblemon/textures/pokemon/amber/copint/copint_shiny.png"
+    "copint_shiny.png": "assets/cobblemon/textures/pokemon/amber/copint/copint_shiny.png",
+    "texture__copint.png": "assets/cobblemon/textures/pokemon/amber/copint/copint.png"
   }
 }

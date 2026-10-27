@@ -4,8 +4,8 @@
     "amber_gooajah.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_gooajah.animation.json",
     "amber_gooajah.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_gooajah.geo.json",
     "amber_gooajah.json": "assets/cobblemon/bedrock/pokemon/posers/amber_gooajah.json",
-    "gooajah.png": "assets/cobblemon/textures/pokemon/amber/gooajah/gooajah.png",
     "gooajah_cry.ogg": "assets/gravelmon/sounds/pokemon/amber/gooajah_cry.ogg",
-    "gooajah_shiny.png": "assets/cobblemon/textures/pokemon/amber/gooajah/gooajah_shiny.png"
+    "gooajah_shiny.png": "assets/cobblemon/textures/pokemon/amber/gooajah/gooajah_shiny.png",
+    "texture__gooajah.png": "assets/cobblemon/textures/pokemon/amber/gooajah/gooajah.png"
   }
 }

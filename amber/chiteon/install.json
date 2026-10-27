@@ -4,7 +4,7 @@
     "amber_chiteon.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_chiteon.animation.json",
     "amber_chiteon.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_chiteon.geo.json",
     "amber_chiteon.json": "assets/cobblemon/bedrock/pokemon/posers/amber_chiteon.json",
-    "chiteon.png": "assets/cobblemon/textures/pokemon/amber/chiteon/chiteon.png",
-    "chiteon_shiny.png": "assets/cobblemon/textures/pokemon/amber/chiteon/chiteon_shiny.png"
+    "chiteon_shiny.png": "assets/cobblemon/textures/pokemon/amber/chiteon/chiteon_shiny.png",
+    "texture__chiteon.png": "assets/cobblemon/textures/pokemon/amber/chiteon/chiteon.png"
   }
 }

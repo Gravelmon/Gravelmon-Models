@@ -4,7 +4,8 @@
     "mazah_tartusk.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_tartusk.animation.json",
     "mazah_tartusk.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_tartusk.geo.json",
     "mazah_tartusk.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_tartusk.json",
-    "tartusk.png": "assets/cobblemon/textures/pokemon/mazah/tartusk/tartusk.png",
-    "tartusk_shiny.png": "assets/cobblemon/textures/pokemon/mazah/tartusk/tartusk_shiny.png"
+    "tartusk.png": "assets/cobblemon/textures/pokemon/mazah/tartusk.png",
+    "tartusk_shiny.png": "assets/cobblemon/textures/pokemon/mazah/tartusk/tartusk_shiny.png",
+    "texture__tartusk.png": "assets/cobblemon/textures/pokemon/mazah/tartusk/tartusk.png"
   }
 }

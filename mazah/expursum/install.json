@@ -1,10 +1,11 @@
 {
   "files": {
     "0_expursum_base.json": "assets/cobblemon/bedrock/species/mazah/0_expursum_base.json",
-    "expursum.png": "assets/cobblemon/textures/pokemon/mazah/expursum/expursum.png",
+    "expursum.png": "assets/cobblemon/textures/pokemon/mazah/expursum.png",
     "expursum_shiny.png": "assets/cobblemon/textures/pokemon/mazah/expursum/expursum_shiny.png",
     "mazah_expursum.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_expursum.animation.json",
     "mazah_expursum.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_expursum.geo.json",
-    "mazah_expursum.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_expursum.json"
+    "mazah_expursum.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_expursum.json",
+    "texture__expursum.png": "assets/cobblemon/textures/pokemon/mazah/expursum/expursum.png"
   }
 }

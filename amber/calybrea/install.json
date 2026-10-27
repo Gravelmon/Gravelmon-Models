@@ -4,7 +4,7 @@
     "amber_calybrea.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_calybrea.animation.json",
     "amber_calybrea.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_calybrea.geo.json",
     "amber_calybrea.json": "assets/cobblemon/bedrock/pokemon/posers/amber_calybrea.json",
-    "calybrea.png": "assets/cobblemon/textures/pokemon/amber/calybrea/calybrea.png",
-    "calybrea_shiny.png": "assets/cobblemon/textures/pokemon/amber/calybrea/calybrea_shiny.png"
+    "calybrea_shiny.png": "assets/cobblemon/textures/pokemon/amber/calybrea/calybrea_shiny.png",
+    "texture__calybrea.png": "assets/cobblemon/textures/pokemon/amber/calybrea/calybrea.png"
   }
 }

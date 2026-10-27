@@ -1,10 +1,11 @@
 {
   "files": {
     "0_dupedillo_base.json": "assets/cobblemon/bedrock/species/mazah/0_dupedillo_base.json",
-    "dupedillo.png": "assets/cobblemon/textures/pokemon/mazah/dupedillo/dupedillo.png",
+    "dupedillo.png": "assets/cobblemon/textures/pokemon/mazah/dupedillo.png",
     "dupedillo_shiny.png": "assets/cobblemon/textures/pokemon/mazah/dupedillo/dupedillo_shiny.png",
     "mazah_dupedillo.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_dupedillo.animation.json",
     "mazah_dupedillo.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_dupedillo.geo.json",
-    "mazah_dupedillo.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_dupedillo.json"
+    "mazah_dupedillo.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_dupedillo.json",
+    "texture__dupedillo.png": "assets/cobblemon/textures/pokemon/mazah/dupedillo/dupedillo.png"
   }
 }

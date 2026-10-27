@@ -4,8 +4,8 @@
     "amber_diplit.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_diplit.animation.json",
     "amber_diplit.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_diplit.geo.json",
     "amber_diplit.json": "assets/cobblemon/bedrock/pokemon/posers/amber_diplit.json",
-    "diplit.png": "assets/cobblemon/textures/pokemon/amber/diplit/diplit.png",
     "diplit_cry.ogg": "assets/gravelmon/sounds/pokemon/amber/diplit_cry.ogg",
-    "diplit_shiny.png": "assets/cobblemon/textures/pokemon/amber/diplit/diplit_shiny.png"
+    "diplit_shiny.png": "assets/cobblemon/textures/pokemon/amber/diplit/diplit_shiny.png",
+    "texture__diplit.png": "assets/cobblemon/textures/pokemon/amber/diplit/diplit.png"
   }
 }

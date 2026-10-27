@@ -4,7 +4,7 @@
     "amber_woollea.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_woollea.animation.json",
     "amber_woollea.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_woollea.geo.json",
     "amber_woollea.json": "assets/cobblemon/bedrock/pokemon/posers/amber_woollea.json",
-    "woollea.png": "assets/cobblemon/textures/pokemon/amber/woollea/woollea.png",
+    "texture__woollea.png": "assets/cobblemon/textures/pokemon/amber/woollea/woollea.png",
     "woollea_cry.ogg": "assets/gravelmon/sounds/pokemon/amber/woollea_cry.ogg",
     "woollea_shiny.png": "assets/cobblemon/textures/pokemon/amber/woollea/woollea_shiny.png"
   }

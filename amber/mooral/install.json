@@ -4,7 +4,7 @@
     "amber_mooral.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_mooral.animation.json",
     "amber_mooral.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_mooral.geo.json",
     "amber_mooral.json": "assets/cobblemon/bedrock/pokemon/posers/amber_mooral.json",
-    "mooral.png": "assets/cobblemon/textures/pokemon/amber/mooral/mooral.png",
-    "mooral_shiny.png": "assets/cobblemon/textures/pokemon/amber/mooral/mooral_shiny.png"
+    "mooral_shiny.png": "assets/cobblemon/textures/pokemon/amber/mooral/mooral_shiny.png",
+    "texture__mooral.png": "assets/cobblemon/textures/pokemon/amber/mooral/mooral.png"
   }
 }

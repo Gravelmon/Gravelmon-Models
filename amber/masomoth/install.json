@@ -4,9 +4,9 @@
     "amber_masomoth.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_masomoth.animation.json",
     "amber_masomoth.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_masomoth.geo.json",
     "amber_masomoth.json": "assets/cobblemon/bedrock/pokemon/posers/amber_masomoth.json",
-    "masomoth.png": "assets/cobblemon/textures/pokemon/amber/masomoth/masomoth.png",
     "masomoth_cry.ogg": "assets/gravelmon/sounds/pokemon/amber/masomoth_cry.ogg",
     "masomoth_shiny.png": "assets/cobblemon/textures/pokemon/amber/masomoth/masomoth_shiny.png",
-    "masomoth_shiny_emissive.png": "assets/cobblemon/textures/pokemon/amber/masomoth/masomoth_shiny_emissive.png"
+    "masomoth_shiny_emissive.png": "assets/cobblemon/textures/pokemon/amber/masomoth/masomoth_shiny_emissive.png",
+    "texture__masomoth.png": "assets/cobblemon/textures/pokemon/amber/masomoth/masomoth.png"
   }
 }

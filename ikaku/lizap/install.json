@@ -4,9 +4,9 @@
     "ikaku_lizap.animation.json": "assets/cobblemon/bedrock/pokemon/animations/ikaku_lizap.animation.json",
     "ikaku_lizap.geo.json": "assets/cobblemon/bedrock/pokemon/models/ikaku_lizap.geo.json",
     "ikaku_lizap.json": "assets/cobblemon/bedrock/pokemon/posers/ikaku_lizap.json",
-    "lizap.png": "assets/cobblemon/textures/pokemon/ikaku/lizap/lizap.png",
     "lizap_emmisive.png": "assets/cobblemon/textures/pokemon/ikaku/lizap/lizap_emmisive.png",
     "lizap_shiny.png": "assets/cobblemon/textures/pokemon/ikaku/lizap/lizap_shiny.png",
-    "lizap_shiny_emmisive.png": "assets/cobblemon/textures/pokemon/ikaku/lizap/lizap_shiny_emmisive.png"
+    "lizap_shiny_emmisive.png": "assets/cobblemon/textures/pokemon/ikaku/lizap/lizap_shiny_emmisive.png",
+    "texture__lizap.png": "assets/cobblemon/textures/pokemon/ikaku/lizap/lizap.png"
   }
 }

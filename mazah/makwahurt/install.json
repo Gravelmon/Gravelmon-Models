@@ -1,10 +1,11 @@
 {
   "files": {
     "0_makwahurt_base.json": "assets/cobblemon/bedrock/species/mazah/0_makwahurt_base.json",
-    "makwahurt.png": "assets/cobblemon/textures/pokemon/mazah/makwahurt/makwahurt.png",
+    "makwahurt.png": "assets/cobblemon/textures/pokemon/mazah/makwahurt.png",
     "makwahurt_shiny.png": "assets/cobblemon/textures/pokemon/mazah/makwahurt/makwahurt_shiny.png",
     "mazah_makwahurt.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_makwahurt.animation.json",
     "mazah_makwahurt.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_makwahurt.geo.json",
-    "mazah_makwahurt.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_makwahurt.json"
+    "mazah_makwahurt.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_makwahurt.json",
+    "texture__makwahurt.png": "assets/cobblemon/textures/pokemon/mazah/makwahurt/makwahurt.png"
   }
 }

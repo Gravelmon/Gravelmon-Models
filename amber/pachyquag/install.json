@@ -4,8 +4,8 @@
     "amber_pachyquag.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_pachyquag.animation.json",
     "amber_pachyquag.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_pachyquag.geo.json",
     "amber_pachyquag.json": "assets/cobblemon/bedrock/pokemon/posers/amber_pachyquag.json",
-    "pachyquag.png": "assets/cobblemon/textures/pokemon/amber/pachyquag/pachyquag.png",
     "pachyquag_cry.ogg": "assets/gravelmon/sounds/pokemon/amber/pachyquag_cry.ogg",
-    "pachyquag_shiny.png": "assets/cobblemon/textures/pokemon/amber/pachyquag/pachyquag_shiny.png"
+    "pachyquag_shiny.png": "assets/cobblemon/textures/pokemon/amber/pachyquag/pachyquag_shiny.png",
+    "texture__pachyquag.png": "assets/cobblemon/textures/pokemon/amber/pachyquag/pachyquag.png"
   }
 }

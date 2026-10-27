@@ -4,7 +4,7 @@
     "amber_crawny.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_crawny.animation.json",
     "amber_crawny.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_crawny.geo.json",
     "amber_crawny.json": "assets/cobblemon/bedrock/pokemon/posers/amber_crawny.json",
-    "crawny.png": "assets/cobblemon/textures/pokemon/amber/crawny/crawny.png",
-    "crawny_shiny.png": "assets/cobblemon/textures/pokemon/amber/crawny/crawny_shiny.png"
+    "crawny_shiny.png": "assets/cobblemon/textures/pokemon/amber/crawny/crawny_shiny.png",
+    "texture__crawny.png": "assets/cobblemon/textures/pokemon/amber/crawny/crawny.png"
   }
 }

@@ -4,6 +4,6 @@
     "chrome_cosmon.animation.json": "assets/cobblemon/bedrock/pokemon/animations/chrome_cosmon.animation.json",
     "chrome_cosmon.geo.json": "assets/cobblemon/bedrock/pokemon/models/chrome_cosmon.geo.json",
     "chrome_cosmon.json": "assets/cobblemon/bedrock/pokemon/posers/chrome_cosmon.json",
-    "cosmon.png": "assets/cobblemon/textures/pokemon/chrome/cosmon/cosmon.png"
+    "texture__cosmon.png": "assets/cobblemon/textures/pokemon/chrome/cosmon/cosmon.png"
   }
 }

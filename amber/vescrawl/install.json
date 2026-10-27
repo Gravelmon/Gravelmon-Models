@@ -4,7 +4,7 @@
     "amber_vescrawl.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_vescrawl.animation.json",
     "amber_vescrawl.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_vescrawl.geo.json",
     "amber_vescrawl.json": "assets/cobblemon/bedrock/pokemon/posers/amber_vescrawl.json",
-    "vescrawl.png": "assets/cobblemon/textures/pokemon/amber/vescrawl/vescrawl.png",
+    "texture__vescrawl.png": "assets/cobblemon/textures/pokemon/amber/vescrawl/vescrawl.png",
     "vescrawl_shiny.png": "assets/cobblemon/textures/pokemon/amber/vescrawl/vescrawl_shiny.png"
   }
 }

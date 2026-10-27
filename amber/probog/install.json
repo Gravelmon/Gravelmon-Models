@@ -4,8 +4,8 @@
     "amber_probog.animation.json": "assets/cobblemon/bedrock/pokemon/animations/amber_probog.animation.json",
     "amber_probog.geo.json": "assets/cobblemon/bedrock/pokemon/models/amber_probog.geo.json",
     "amber_probog.json": "assets/cobblemon/bedrock/pokemon/posers/amber_probog.json",
-    "probog.png": "assets/cobblemon/textures/pokemon/amber/probog/probog.png",
     "probog_cry.ogg": "assets/gravelmon/sounds/pokemon/amber/probog_cry.ogg",
-    "probog_shiny.png": "assets/cobblemon/textures/pokemon/amber/probog/probog_shiny.png"
+    "probog_shiny.png": "assets/cobblemon/textures/pokemon/amber/probog/probog_shiny.png",
+    "texture__probog.png": "assets/cobblemon/textures/pokemon/amber/probog/probog.png"
   }
 }

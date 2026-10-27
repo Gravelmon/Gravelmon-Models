@@ -4,7 +4,8 @@
     "mazah_wrenner.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mazah_wrenner.animation.json",
     "mazah_wrenner.geo.json": "assets/cobblemon/bedrock/pokemon/models/mazah_wrenner.geo.json",
     "mazah_wrenner.json": "assets/cobblemon/bedrock/pokemon/posers/mazah_wrenner.json",
-    "wrenner.png": "assets/cobblemon/textures/pokemon/mazah/wrenner/wrenner.png",
+    "texture__wrenner.png": "assets/cobblemon/textures/pokemon/mazah/wrenner/wrenner.png",
+    "wrenner.png": "assets/cobblemon/textures/pokemon/mazah/wrenner.png",
     "wrenner_cry.ogg": "assets/gravelmon/sounds/pokemon/mazah/wrenner_cry.ogg",
     "wrenner_shiny.png": "assets/cobblemon/textures/pokemon/mazah/wrenner/wrenner_shiny.png"
   }
