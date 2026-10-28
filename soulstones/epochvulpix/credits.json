@@ -1,0 +1,37 @@
+{
+  "game": "pokemon",
+  "pokemon": "vulpix",
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "vulpix",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "lilpuppenstein"
+      },
+      "contributors": [
+        {
+          "login": "lilpuppenstein"
+        }
+      ],
+      "submittedAt": "2026-10-28T06:04:12.671Z",
+      "models": [
+        "soulstones/epochvulpix/soulstones_epochvulpix.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochvulpix/soulstones_epochvulpix.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochvulpix/epoch-vulpix.png",
+        "soulstones/epochvulpix/epoch-vulpix_alpha.png",
+        "soulstones/epochvulpix/epoch-vulpix_shiny.png",
+        "soulstones/epochvulpix/epochvulpix.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
