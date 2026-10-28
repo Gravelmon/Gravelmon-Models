@@ -1,0 +1,176 @@
+{
+  "portraitScale": 3.4,
+  "portraitTranslation": [
+    -0.46,
+    -1.21,
+    0
+  ],
+  "profileScale": 0.83,
+  "profileTranslation": [
+    -0.05,
+    0.5,
+    0
+  ],
+  "rootBone": "spearow",
+  "poses": {
+    "standing": {
+      "isBattle": false,
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "walk"
+      ],
+      "transformedParts": [
+        {
+          "part": "wing_open_right",
+          "isVisible": false
+        },
+        {
+          "part": "wing_open_left",
+          "isVisible": false
+        },
+        {
+          "part": "wing_closed_right",
+          "isVisible": true
+        },
+        {
+          "part": "wing_closed_left",
+          "isVisible": true
+        }
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochspearow', 'blink')"
+      ],
+      "animations": [
+        "q.look('head_ai')",
+        "q.bedrock('soulstones_epochspearow', 'ground_idle')"
+      ]
+    },
+    "hover": {
+      "poseTypes": [
+        "hover",
+        "float"
+      ],
+      "transformedParts": [
+        {
+          "part": "wing_open_right",
+          "isVisible": true
+        },
+        {
+          "part": "wing_open_left",
+          "isVisible": true
+        },
+        {
+          "part": "wing_closed_right",
+          "isVisible": false
+        },
+        {
+          "part": "wing_closed_left",
+          "isVisible": false
+        }
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochspearow', 'blink')"
+      ],
+      "animations": [
+        "q.pitch_tilt('body')",
+        "q.look('neck', 1, 1, 70, -10, 20, -20)",
+        "q.look('head_ai')",
+        "q.bedrock('soulstones_epochspearow', 'air_idle')"
+      ]
+    },
+    "fly": {
+      "poseTypes": [
+        "fly",
+        "swim"
+      ],
+      "transformedParts": [
+        {
+          "part": "wing_open_right",
+          "isVisible": true
+        },
+        {
+          "part": "wing_open_left",
+          "isVisible": true
+        },
+        {
+          "part": "wing_closed_right",
+          "isVisible": false
+        },
+        {
+          "part": "wing_closed_left",
+          "isVisible": false
+        }
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochspearow', 'blink')"
+      ],
+      "animations": [
+        "q.pitch_tilt('body')",
+        "q.look('neck', 1, 1, 70, -10, 20, -20)",
+        "q.look('head_ai')",
+        "q.bedrock('soulstones_epochspearow', 'air_fly')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "transformedParts": [
+        {
+          "part": "wing_open_right",
+          "isVisible": "q.is_moving"
+        },
+        {
+          "part": "wing_open_left",
+          "isVisible": false
+        },
+        {
+          "part": "wing_closed_right",
+          "isVisible": true
+        },
+        {
+          "part": "wing_closed_left",
+          "isVisible": true
+        }
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochspearow', 'sleep')"
+      ]
+    },
+    "float": {
+      "poseTypes": [
+        "float"
+      ],
+      "transformedParts": [
+        {
+          "part": "wing_open_right",
+          "isVisible": false
+        },
+        {
+          "part": "wing_open_left",
+          "isVisible": false
+        },
+        {
+          "part": "wing_closed_right",
+          "isVisible": true
+        },
+        {
+          "part": "wing_closed_left",
+          "isVisible": true
+        }
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochspearow', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochspearow', 'surface_idle')"
+      ]
+    }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('soulstones_epochspearow', 'cry')"
+  }
+}
