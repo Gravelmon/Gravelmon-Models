@@ -1,0 +1,85 @@
+{
+  "portraitScale": 1.5,
+  "portraitTranslation": [
+    -1.34,
+    0.96,
+    0
+  ],
+  "profileScale": 0.5,
+  "profileTranslation": [
+    -0.05,
+    1,
+    0
+  ],
+  "rootBone": "fearow",
+  "poses": {
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "namedAnimations": {
+        "cry": "q.bedrock_stateful('soulstones_epochfearow', 'cry')"
+      },
+      "animations": [
+        "q.bedrock('soulstones_epochfearow', 'sleep')"
+      ]
+    },
+    "standing": {
+      "isTouchingWater": false,
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "walk"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochfearow', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('soulstones_epochfearow', 'ground_idle')"
+      ]
+    },
+    "fly": {
+      "poseTypes": [
+        "swim",
+        "fly"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochfearow', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('soulstones_epochfearow', 'air_fly')"
+      ]
+    },
+    "hover": {
+      "poseTypes": [
+        "float",
+        "hover"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochfearow', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('soulstones_epochfearow', 'air_idle')"
+      ]
+    },
+    "float": {
+      "poseTypes": [
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochfearow', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochfearow', 'surface_idle')"
+      ]
+    }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('soulstones_epochfearow', 'cry')"
+  }
+}
