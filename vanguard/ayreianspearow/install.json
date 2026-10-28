@@ -1,6 +1,12 @@
 {
   "files": {
     "88_spearow_ayreian.json": "assets/cobblemon/bedrock/species/additional_forms/88_spearow_ayreian.json",
-    "ayreianspearow.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianspearow.png"
+    "ayreianspearow.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianspearow.png",
+    "spearow_ayreian.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianspearow/spearow_ayreian.png",
+    "spearow_ayreian_alpha.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianspearow/spearow_ayreian_alpha.png",
+    "spearow_ayreian_shiny.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianspearow/spearow_ayreian_shiny.png",
+    "vanguard_ayreianspearow.animation.json": "assets/cobblemon/bedrock/pokemon/animations/vanguard_ayreianspearow.animation.json",
+    "vanguard_ayreianspearow.geo.json": "assets/cobblemon/bedrock/pokemon/models/vanguard_ayreianspearow.geo.json",
+    "vanguard_ayreianspearow.json": "assets/cobblemon/bedrock/pokemon/posers/vanguard_ayreianspearow.json"
   }
 }
