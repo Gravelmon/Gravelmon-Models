@@ -1,0 +1,124 @@
+{
+  "portraitScale": 1.14,
+  "portraitTranslation": [
+    -0.8,
+    0.8,
+    0
+  ],
+  "profileScale": 0.49,
+  "profileTranslation": [
+    -0.1,
+    0.63,
+    0
+  ],
+  "headBone": "head_angle",
+  "rootBone": "milotic",
+  "poses": {
+    "jump": {
+      "isTouchingWater": false,
+      "condition": "q.is_ridden",
+      "poseTypes": [
+        "float",
+        "swim"
+      ],
+      "animations": [
+        "q.bedrock('radical_red_seviianmilotic', 'water_swim')",
+        {
+          "condition": "q.is_ridden",
+          "animation": "q.bedrock('radical_red_seviianmilotic', 'ride_water_swim')"
+        }
+      ],
+      "transformTicks": 3,
+      "transformToTicks": 3
+    },
+    "battle-standing": {
+      "isBattle": true,
+      "isTouchingWater": false,
+      "poseTypes": [
+        "stand"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('radical_red_seviianmilotic', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('radical_red_seviianmilotic', 'battle_idle')"
+      ]
+    },
+    "standing": {
+      "isBattle": false,
+      "isTouchingWater": false,
+      "poseTypes": [
+        "stand",
+        "portrait",
+        "profile",
+        "none"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('radical_red_seviianmilotic', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('radical_red_seviianmilotic', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "isTouchingWater": false,
+      "poseTypes": [
+        "walk"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('radical_red_seviianmilotic', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('radical_red_seviianmilotic', 'ground_walk')"
+      ]
+    },
+    "float": {
+      "isTouchingWater": true,
+      "poseTypes": [
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('radical_red_seviianmilotic', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('radical_red_seviianmilotic', 'water_idle')",
+        {
+          "condition": "q.is_ridden",
+          "animation": "q.bedrock('radical_red_seviianmilotic', 'ride_water_swim')"
+        }
+      ]
+    },
+    "swim": {
+      "isTouchingWater": true,
+      "poseTypes": [
+        "swim"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('radical_red_seviianmilotic', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('radical_red_seviianmilotic', 'water_swim')",
+        {
+          "condition": "q.is_ridden",
+          "animation": "q.bedrock('radical_red_seviianmilotic', 'ride_water_swim')"
+        }
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "animations": [
+        "q.bedrock('radical_red_seviianmilotic', 'sleep')"
+      ]
+    }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('radical_red_seviianmilotic', 'cry')"
+  }
+}
