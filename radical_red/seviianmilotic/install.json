@@ -1,6 +1,13 @@
 {
   "files": {
     "86_milotic_seviian.json": "assets/cobblemon/bedrock/species/additional_forms/86_milotic_seviian.json",
-    "seviianmilotic.png": "assets/cobblemon/textures/pokemon/radical_red/seviianmilotic.png"
+    "radical_red_seviianmilotic.animation.json": "assets/cobblemon/bedrock/pokemon/animations/radical_red_seviianmilotic.animation.json",
+    "radical_red_seviianmilotic.geo.json": "assets/cobblemon/bedrock/pokemon/models/radical_red_seviianmilotic.geo.json",
+    "radical_red_seviianmilotic.json": "assets/cobblemon/bedrock/pokemon/posers/radical_red_seviianmilotic.json",
+    "seviianmilotic.png": "assets/cobblemon/textures/pokemon/radical_red/seviianmilotic.png",
+    "seviianmilotic_alpha.png": "assets/cobblemon/textures/pokemon/radical_red/seviianmilotic/seviianmilotic_alpha.png",
+    "seviianmilotic_mud.png": "assets/cobblemon/textures/pokemon/radical_red/seviianmilotic/seviianmilotic_mud.png",
+    "seviianmilotic_shiny.png": "assets/cobblemon/textures/pokemon/radical_red/seviianmilotic/seviianmilotic_shiny.png",
+    "texture__seviianmilotic.png": "assets/cobblemon/textures/pokemon/radical_red/seviianmilotic/seviianmilotic.png"
   }
 }

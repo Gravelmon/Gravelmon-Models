@@ -1,15 +1,18 @@
 {
   "species": "cobblemon:milotic",
-  "order": 95,
+  "order": 86,
   "variations": [
     {
       "aspects": [
         "seviian"
       ],
-      "model": "cobblemon:cutout_gravelmon_64_by_64.geo",
-      "poser": "cobblemon:cutout_gravelmon_64_by_64",
-      "texture": "cobblemon:textures/pokemon/radical_red/seviianmilotic.png",
+      "poser": "cobblemon:radical_red_seviianmilotic",
+      "model": "cobblemon:radical_red_seviianmilotic.geo",
+      "texture": "cobblemon:textures/pokemon/radical_red/seviianmilotic/seviianmilotic.png",
       "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/radical_red/seviianmilotic/seviianmilotic_mud.png"
+        },
         {
           "name": "emissive"
         },
@@ -33,6 +36,32 @@
         },
         {
           "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "seviian"
+      ],
+      "texture": "cobblemon:textures/pokemon/radical_red/seviianmilotic/seviianmilotic_shiny.png",
+      "layers": [
+        {
+          "name": "mud",
+          "texture": "cobblemon:textures/pokemon/radical_red/seviianmilotic/seviianmilotic_mud.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "seviian"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/radical_red/seviianmilotic/seviianmilotic_alpha.png",
+          "emissive": true
         }
       ]
     }
