@@ -1,6 +1,12 @@
 {
   "files": {
     "88_fearow_ayreian.json": "assets/cobblemon/bedrock/species/additional_forms/88_fearow_ayreian.json",
-    "ayreianfearow.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianfearow.png"
+    "ayreianfearow.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianfearow.png",
+    "fearow_ayreian.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianfearow/fearow_ayreian.png",
+    "fearow_ayreian_alpha.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianfearow/fearow_ayreian_alpha.png",
+    "fearow_ayreian_shiny.png": "assets/cobblemon/textures/pokemon/vanguard/ayreianfearow/fearow_ayreian_shiny.png",
+    "vanguard_ayreianfearow.animation.json": "assets/cobblemon/bedrock/pokemon/animations/vanguard_ayreianfearow.animation.json",
+    "vanguard_ayreianfearow.geo.json": "assets/cobblemon/bedrock/pokemon/models/vanguard_ayreianfearow.geo.json",
+    "vanguard_ayreianfearow.json": "assets/cobblemon/bedrock/pokemon/posers/vanguard_ayreianfearow.json"
   }
 }

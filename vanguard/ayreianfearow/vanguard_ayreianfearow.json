@@ -1,0 +1,73 @@
+{
+  "portraitScale": 1.3,
+  "portraitTranslation": [
+    -1.24,
+    1.06,
+    0
+  ],
+  "profileScale": 0.5,
+  "profileTranslation": [
+    -0.05,
+    1.05,
+    0
+  ],
+  "rootBone": "fearow",
+  "poses": {
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "namedAnimations": {
+        "cry": "q.bedrock_stateful('vanguard_ayreianfearow', 'cry')"
+      },
+      "animations": [
+        "q.bedrock('vanguard_ayreianfearow', 'sleep')"
+      ]
+    },
+    "standing": {
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "walk"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('vanguard_ayreianfearow', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('vanguard_ayreianfearow', 'ground_idle')"
+      ]
+    },
+    "fly": {
+      "poseTypes": [
+        "swim",
+        "fly"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('vanguard_ayreianfearow', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('vanguard_ayreianfearow', 'air_fly')"
+      ]
+    },
+    "hover": {
+      "poseTypes": [
+        "float",
+        "hover"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('vanguard_ayreianfearow', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('vanguard_ayreianfearow', 'air_idle')"
+      ]
+    }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('vanguard_ayreianfearow', 'cry')"
+  }
+}
