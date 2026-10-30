@@ -1,66 +1,69 @@
 {
-  "portraitScale": 1.7000000476837158,
+  "portraitScale": 1.64,
   "portraitTranslation": [
-    -0.2,
-    0.7,
-    0.0
+    -0.18,
+    -0.06,
+    0
   ],
-  "profileScale": 0.699999988079071,
+  "profileScale": 0.6,
   "profileTranslation": [
-    0.0,
-    0.95,
-    -20.0
+    0,
+    0.84,
+    0
   ],
-  "animations": {
-    "faint": "q.bedrock_primary('infinity_viledoom', 'faint')"
-  },
+  "rootBone": "vileplume",
   "poses": {
     "standing": {
-      "poseName": "standing",
+      "isBattle": false,
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('infinity_viledoom', 'blink')"
+      ],
       "animations": [
         "q.bedrock('infinity_viledoom', 'ground_idle')"
-      ],
-      "poseTypes": [
-        "STAND",
-        "PORTRAIT",
-        "PROFILE",
-        "NONE",
-        "FLOAT",
-        "HOVER"
-      ],
-      "quirks": [
-        "q.bedrock_quirk('infinity_viledoom', 'blink')"
-      ],
-      "namedAnimations": {},
-      "transformedParts": []
+      ]
     },
     "walking": {
-      "poseName": "walking",
-      "animations": [
-        "q.bedrock('infinity_viledoom', 'ground_walk')"
-      ],
       "poseTypes": [
-        "WALK",
-        "SWIM",
-        "FLY"
+        "walk",
+        "swim"
       ],
       "quirks": [
         "q.bedrock_quirk('infinity_viledoom', 'blink')"
       ],
-      "namedAnimations": {},
-      "transformedParts": []
+      "animations": [
+        "q.bedrock('infinity_viledoom', 'ground_walk')"
+      ]
     },
-    "sleeping": {
-      "poseName": "sleeping",
+    "battle-standing": {
+      "isBattle": true,
+      "poseTypes": [
+        "stand"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('infinity_viledoom', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('infinity_viledoom', 'battle_idle')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
       "animations": [
         "q.bedrock('infinity_viledoom', 'sleep')"
-      ],
-      "poseTypes": [
-        "SLEEP"
-      ],
-
-      "namedAnimations": {},
-      "transformedParts": []
+      ]
     }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('infinity_viledoom', 'cry')",
+    "recoil": "q.bedrock_stateful('infinity_viledoom', 'recoil')"
   }
 }
