@@ -1,0 +1,32 @@
+{
+  "game": "infinity",
+  "pokemon": "viledoom",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Neoxaivus"
+      },
+      "contributors": [
+        {
+          "login": "Neoxaivus"
+        }
+      ],
+      "submittedAt": "2026-10-30T00:00:07.722Z",
+      "models": [
+        "infinity/viledoom/infinity_viledoom.geo.json"
+      ],
+      "animations": [
+        "infinity/viledoom/infinity_viledoom.animation.json"
+      ],
+      "textures": [
+        "infinity/viledoom/texture__viledoom.png",
+        "infinity/viledoom/viledoom_alpha.png",
+        "infinity/viledoom/viledoom_emissive.png",
+        "infinity/viledoom/viledoom_shiny.png",
+        "infinity/viledoom/viledoom_shiny_emissive.png",
+        "infinity/viledoom/viledoom.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
