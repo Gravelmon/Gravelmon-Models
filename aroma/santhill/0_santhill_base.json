@@ -4,9 +4,9 @@
   "variations": [
     {
       "aspects": [],
-      "model": "cobblemon:cutout_gravelmon_128_by_128.geo",
-      "poser": "cobblemon:cutout_gravelmon_128_by_128",
-      "texture": "cobblemon:textures/pokemon/aroma/santhill.png",
+      "poser": "cobblemon:aroma_santhill",
+      "model": "cobblemon:aroma_santhill.geo",
+      "texture": "cobblemon:textures/pokemon/aroma/santhill/santhill.png",
       "layers": [
         {
           "name": "emissive"
@@ -31,6 +31,24 @@
         },
         {
           "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/aroma/santhill/santhill_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/aroma/santhill/santhill_alpha.png",
+          "emissive": true
         }
       ]
     }

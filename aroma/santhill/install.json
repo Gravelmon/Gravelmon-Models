@@ -1,6 +1,13 @@
 {
   "files": {
     "0_santhill_base.json": "assets/cobblemon/bedrock/species/aroma/0_santhill_base.json",
-    "santhill.png": "assets/cobblemon/textures/pokemon/aroma/santhill.png"
+    "aroma_santhill.animation.json": "assets/cobblemon/bedrock/pokemon/animations/aroma_santhill.animation.json",
+    "aroma_santhill.geo.json": "assets/cobblemon/bedrock/pokemon/models/aroma_santhill.geo.json",
+    "aroma_santhill.json": "assets/cobblemon/bedrock/pokemon/posers/aroma_santhill.json",
+    "cap_santhill.png": "assets/cobblemon/cap_santhill.png",
+    "santhill.png": "assets/cobblemon/textures/pokemon/aroma/santhill.png",
+    "santhill_alpha.png": "assets/cobblemon/textures/pokemon/aroma/santhill/santhill_alpha.png",
+    "santhill_shiny.png": "assets/cobblemon/textures/pokemon/aroma/santhill/santhill_shiny.png",
+    "texture__santhill.png": "assets/cobblemon/textures/pokemon/aroma/santhill/santhill.png"
   }
 }
