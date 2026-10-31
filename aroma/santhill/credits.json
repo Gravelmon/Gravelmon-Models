@@ -1,0 +1,31 @@
+{
+  "game": "aroma",
+  "pokemon": "santhill",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Ivan0519"
+      },
+      "contributors": [
+        {
+          "login": "Ivan0519"
+        }
+      ],
+      "submittedAt": "2026-10-31T15:23:08.795Z",
+      "models": [
+        "aroma/santhill/aroma_santhill.geo.json"
+      ],
+      "animations": [
+        "aroma/santhill/aroma_santhill.animation.json"
+      ],
+      "textures": [
+        "aroma/santhill/cap_santhill.png",
+        "aroma/santhill/texture__santhill.png",
+        "aroma/santhill/santhill_alpha.png",
+        "aroma/santhill/santhill_shiny.png",
+        "aroma/santhill/santhill.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
