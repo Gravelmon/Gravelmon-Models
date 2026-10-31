@@ -6,7 +6,7 @@
       "aspects": [],
       "poser": "cobblemon:aroma_santhill",
       "model": "cobblemon:aroma_santhill.geo",
-      "texture": "cobblemon:textures/pokemon/aroma/santhill/santhill.png",
+      "texture": "cobblemon:textures/pokemon/aroma/santhill/santhill_colony.png",
       "layers": [
         {
           "name": "emissive"
@@ -38,7 +38,7 @@
       "aspects": [
         "shiny"
       ],
-      "texture": "cobblemon:textures/pokemon/aroma/santhill/santhill_shiny.png"
+      "texture": "cobblemon:textures/pokemon/aroma/santhill/santhill_colony_shiny.png"
     },
     {
       "aspects": [
@@ -47,7 +47,7 @@
       "layers": [
         {
           "name": "alpha_eyes",
-          "texture": "cobblemon:textures/pokemon/aroma/santhill/santhill_alpha.png",
+          "texture": "cobblemon:textures/pokemon/aroma/santhill/santhill_colony_alpha.png",
           "emissive": true
         }
       ]

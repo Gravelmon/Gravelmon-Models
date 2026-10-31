@@ -1,16 +1,17 @@
 {
-  "portraitScale": 1.28,
+  "portraitScale": 0.6,
   "portraitTranslation": [
-    -0.2,
-    0.1,
+    0.22,
+    1.64,
     0
   ],
-  "profileScale": 0.8,
+  "profileScale": 0.27,
   "profileTranslation": [
-    -0.07,
-    0.55,
+    0.22,
+    1.39,
     0
   ],
+  "headBone": "head",
   "rootBone": "santhill",
   "poses": {
     "standing": {
@@ -20,9 +21,6 @@
         "portrait",
         "profile",
         "float"
-      ],
-      "quirks": [
-        "q.bedrock_quirk('aroma_santhill', 'blink')"
       ],
       "animations": [
         "q.look('head')",
@@ -34,16 +32,10 @@
         "walk",
         "swim"
       ],
-      "quirks": [
-        "q.bedrock_quirk('aroma_santhill', 'blink')"
-      ],
       "animations": [
         "q.look('head')",
         "q.bedrock('aroma_santhill', 'ground_walk')"
       ]
     }
-  },
-  "animations": {
-    "faint": "q.bedrock_primary('aroma_santhill', 'faint', q.curve('one'))"
   }
 }

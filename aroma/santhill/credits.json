@@ -12,6 +12,26 @@
         }
       ],
       "submittedAt": "2026-10-31T15:23:08.795Z",
+      "models": [],
+      "animations": [],
+      "textures": [
+        "aroma/santhill/cap_santhill.png",
+        "aroma/santhill/texture__santhill.png",
+        "aroma/santhill/santhill_alpha.png",
+        "aroma/santhill/santhill_shiny.png"
+      ],
+      "sounds": []
+    },
+    {
+      "contributor": {
+        "login": "Ivan0519"
+      },
+      "contributors": [
+        {
+          "login": "Ivan0519"
+        }
+      ],
+      "submittedAt": "2026-10-31T15:33:56.010Z",
       "models": [
         "aroma/santhill/aroma_santhill.geo.json"
       ],
@@ -19,10 +39,10 @@
         "aroma/santhill/aroma_santhill.animation.json"
       ],
       "textures": [
-        "aroma/santhill/cap_santhill.png",
-        "aroma/santhill/texture__santhill.png",
-        "aroma/santhill/santhill_alpha.png",
-        "aroma/santhill/santhill_shiny.png",
+        "aroma/santhill/cap_santhill_colony.png",
+        "aroma/santhill/santhill_colony.png",
+        "aroma/santhill/santhill_colony_alpha.png",
+        "aroma/santhill/santhill_colony_shiny.png",
         "aroma/santhill/santhill.png"
       ],
       "sounds": []
