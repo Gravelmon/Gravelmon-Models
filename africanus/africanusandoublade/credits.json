@@ -1,0 +1,40 @@
+{
+  "game": "pokemon",
+  "pokemon": "doublade",
+  "entries": [
+    {
+      "formAspects": [
+        "africanusan"
+      ],
+      "inheritsFrom": {
+        "pokemon": "doublade",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "PiitchyB"
+      },
+      "contributors": [
+        {
+          "login": "PiitchyB"
+        }
+      ],
+      "submittedAt": "2026-11-04T06:11:12.614Z",
+      "models": [
+        "africanus/africanusandoublade/africanus_africanusandoublade.geo.json"
+      ],
+      "animations": [
+        "africanus/africanusandoublade/africanus_africanusandoublade.animation.json"
+      ],
+      "textures": [
+        "africanus/africanusandoublade/doublade_africanusan_preview.png",
+        "africanus/africanusandoublade/doublade_africanusan.png",
+        "africanus/africanusandoublade/doublade_africanusan_alpha.png",
+        "africanus/africanusandoublade/doublade_africanusan_shiny.png",
+        "africanus/africanusandoublade/reference_shiny.png",
+        "africanus/africanusandoublade/reference.png",
+        "africanus/africanusandoublade/africanusandoublade.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
