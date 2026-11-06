@@ -9,9 +9,6 @@
     "africanus_africanusanaegislash.animation.json": "assets/cobblemon/bedrock/pokemon/animations/africanus_africanusanaegislash.animation.json",
     "africanus_africanusanaegislash.geo.json": "assets/cobblemon/bedrock/pokemon/models/africanus_africanusanaegislash.geo.json",
     "africanus_africanusanaegislash.json": "assets/cobblemon/bedrock/pokemon/posers/africanus_africanusanaegislash.json",
-    "africanusanaegislash.png": "assets/cobblemon/textures/pokemon/africanus/africanusanaegislash.png",
-    "reference.png": "assets/cobblemon/reference.png",
-    "reference_back.png": "assets/cobblemon/reference_back.png",
-    "reference_shiny.png": "assets/cobblemon/reference_shiny.png"
+    "africanusanaegislash.png": "assets/cobblemon/textures/pokemon/africanus/africanusanaegislash.png"
   }
 }
