@@ -24,7 +24,6 @@
     },
     "standing": {
       "isBattle": false,
-      "condition": "{ !it.isBattling }",
       "poseTypes": [
         "stand",
         "float",
@@ -53,7 +52,6 @@
     },
     "battle_idle": {
       "isBattle": true,
-      "condition": "{ it.isBattling }",
       "poseTypes": [
         "stand",
         "float",

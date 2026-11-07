@@ -1,14 +1,14 @@
 {
   "species": "cobblemon:vulpix",
-  "order": 173,
+  "order": 164,
   "variations": [
     {
       "aspects": [
         "epoch"
       ],
-      "model": "cobblemon:cutout_gravelmon_52_by_43.geo",
-      "poser": "cobblemon:cutout_gravelmon_52_by_43",
-      "texture": "cobblemon:textures/pokemon/soulstones/epochvulpix.png",
+      "poser": "cobblemon:soulstones_epochvulpix",
+      "model": "cobblemon:soulstones_epochvulpix.geo",
+      "texture": "cobblemon:textures/pokemon/soulstones/epochvulpix/epoch-vulpix.png",
       "layers": [
         {
           "name": "emissive"
@@ -33,6 +33,26 @@
         },
         {
           "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "epoch"
+      ],
+      "texture": "cobblemon:textures/pokemon/soulstones/epochvulpix/epoch-vulpix_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "epoch"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/soulstones/epochvulpix/epoch-vulpix_alpha.png",
+          "emissive": true
         }
       ]
     }

@@ -22,11 +22,35 @@
         }
       ],
       "submittedAt": "2026-09-25T08:14:19.895Z",
+      "models": [],
+      "animations": [
+        "_unreferenced/assets/cobblemon/bedrock/pokemon/animations/magnemite_egho.animation.json"
+      ],
+      "textures": [],
+      "sounds": []
+    },
+    {
+      "formAspects": [
+        "egho"
+      ],
+      "inheritsFrom": {
+        "pokemon": "magnemite",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "@Roy @Lubasa"
+      },
+      "contributors": [
+        {
+          "login": "@Roy @Lubasa"
+        }
+      ],
+      "submittedAt": "2026-11-06T12:53:08.015Z",
       "models": [
         "infinity/eghomagnemite/infinity_eghomagnemite.geo.json"
       ],
       "animations": [
-        "_unreferenced/assets/cobblemon/bedrock/pokemon/animations/magnemite_egho.animation.json"
+        "infinity/eghomagnemite/infinity_eghomagnemite.animation.json"
       ],
       "textures": [
         "infinity/eghomagnemite/egho_magnemite.png",
@@ -34,7 +58,9 @@
         "infinity/eghomagnemite/egho_magnemite_shiny.png",
         "infinity/eghomagnemite/eghomagnemite.png"
       ],
-      "sounds": []
+      "sounds": [
+        "infinity/eghomagnemite/eghomagnemite_cry.ogg"
+      ]
     }
   ]
 }
