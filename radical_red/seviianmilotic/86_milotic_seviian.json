@@ -11,6 +11,7 @@
       "texture": "cobblemon:textures/pokemon/radical_red/seviianmilotic/seviianmilotic.png",
       "layers": [
         {
+          "name": "mud",
           "texture": "cobblemon:textures/pokemon/radical_red/seviianmilotic/seviianmilotic_mud.png"
         },
         {
