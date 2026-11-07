@@ -1,14 +1,14 @@
 {
   "species": "cobblemon:doublade",
-  "order": 171,
+  "order": 162,
   "variations": [
     {
       "aspects": [
         "africanusan"
       ],
-      "model": "cobblemon:cutout_gravelmon_96_by_96.geo",
-      "poser": "cobblemon:cutout_gravelmon_96_by_96",
-      "texture": "cobblemon:textures/pokemon/africanus/africanusandoublade.png",
+      "poser": "cobblemon:africanus_africanusandoublade",
+      "model": "cobblemon:africanus_africanusandoublade.geo",
+      "texture": "cobblemon:textures/pokemon/africanus/africanusandoublade/doublade_africanusan.png",
       "layers": [
         {
           "name": "emissive"
@@ -33,6 +33,26 @@
         },
         {
           "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "africanusan"
+      ],
+      "texture": "cobblemon:textures/pokemon/africanus/africanusandoublade/doublade_africanusan_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "africanusan"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/africanus/africanusandoublade/doublade_africanusan_alpha.png",
+          "emissive": true
         }
       ]
     }
