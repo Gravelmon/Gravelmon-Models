@@ -1,14 +1,14 @@
 {
   "species": "cobblemon:spearow",
-  "order": 173,
+  "order": 164,
   "variations": [
     {
       "aspects": [
         "epoch"
       ],
-      "model": "cobblemon:cutout_gravelmon_32_by_43.geo",
-      "poser": "cobblemon:cutout_gravelmon_32_by_43",
-      "texture": "cobblemon:textures/pokemon/soulstones/epochspearow.png",
+      "poser": "cobblemon:soulstones_epochspearow",
+      "model": "cobblemon:soulstones_epochspearow.geo",
+      "texture": "cobblemon:textures/pokemon/soulstones/epochspearow/spearow_epoch.png",
       "layers": [
         {
           "name": "emissive"
@@ -33,6 +33,26 @@
         },
         {
           "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "epoch"
+      ],
+      "texture": "cobblemon:textures/pokemon/soulstones/epochspearow/spearow_epoch_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "epoch"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/soulstones/epochspearow/spearow_epoch_alpha.png",
+          "emissive": true
         }
       ]
     }

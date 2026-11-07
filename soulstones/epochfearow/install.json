@@ -1,6 +1,12 @@
 {
   "files": {
     "164_fearow_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_fearow_epoch.json",
-    "epochfearow.png": "assets/cobblemon/textures/pokemon/soulstones/epochfearow.png"
+    "epochfearow.png": "assets/cobblemon/textures/pokemon/soulstones/epochfearow.png",
+    "fearow_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochfearow/fearow_epoch.png",
+    "fearow_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochfearow/fearow_epoch_alpha.png",
+    "fearow_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochfearow/fearow_epoch_shiny.png",
+    "soulstones_epochfearow.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochfearow.animation.json",
+    "soulstones_epochfearow.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochfearow.geo.json",
+    "soulstones_epochfearow.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochfearow.json"
   }
 }
