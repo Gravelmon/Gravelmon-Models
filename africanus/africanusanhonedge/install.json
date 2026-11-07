@@ -1,7 +1,13 @@
 {
   "files": {
     "162_honedge_africanusan.json": "assets/cobblemon/bedrock/species/additional_forms/162_honedge_africanusan.json",
+    "africanus_africanusanhonedge.animation.json": "assets/cobblemon/bedrock/pokemon/animations/africanus_africanusanhonedge.animation.json",
+    "africanus_africanusanhonedge.geo.json": "assets/cobblemon/bedrock/pokemon/models/africanus_africanusanhonedge.geo.json",
+    "africanus_africanusanhonedge.json": "assets/cobblemon/bedrock/pokemon/posers/africanus_africanusanhonedge.json",
     "africanusanhonedge.png": "assets/cobblemon/textures/pokemon/africanus/africanusanhonedge.png",
-    "honedge_africanusan_cry.ogg": "assets/gravelmon/sounds/pokemon/africanus/honedge_africanusan_cry.ogg"
+    "honedge_africanusan.png": "assets/cobblemon/textures/pokemon/africanus/africanusanhonedge/honedge_africanusan.png",
+    "honedge_africanusan_alpha.png": "assets/cobblemon/textures/pokemon/africanus/africanusanhonedge/honedge_africanusan_alpha.png",
+    "honedge_africanusan_cry.ogg": "assets/gravelmon/sounds/pokemon/africanus/honedge_africanusan_cry.ogg",
+    "honedge_africanusan_shiny.png": "assets/cobblemon/textures/pokemon/africanus/africanusanhonedge/honedge_africanusan_shiny.png"
   }
 }

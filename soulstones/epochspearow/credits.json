@@ -1,0 +1,37 @@
+{
+  "game": "pokemon",
+  "pokemon": "spearow",
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "spearow",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-10-28T14:52:06.204Z",
+      "models": [
+        "soulstones/epochspearow/soulstones_epochspearow.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochspearow/soulstones_epochspearow.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochspearow/spearow_epoch.png",
+        "soulstones/epochspearow/spearow_epoch_alpha.png",
+        "soulstones/epochspearow/spearow_epoch_shiny.png",
+        "soulstones/epochspearow/epochspearow.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
