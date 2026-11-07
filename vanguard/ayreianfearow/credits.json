@@ -1,0 +1,37 @@
+{
+  "game": "pokemon",
+  "pokemon": "fearow",
+  "entries": [
+    {
+      "formAspects": [
+        "ayreian"
+      ],
+      "inheritsFrom": {
+        "pokemon": "fearow",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-10-28T22:41:03.922Z",
+      "models": [
+        "vanguard/ayreianfearow/vanguard_ayreianfearow.geo.json"
+      ],
+      "animations": [
+        "vanguard/ayreianfearow/vanguard_ayreianfearow.animation.json"
+      ],
+      "textures": [
+        "vanguard/ayreianfearow/fearow_ayreian.png",
+        "vanguard/ayreianfearow/fearow_ayreian_alpha.png",
+        "vanguard/ayreianfearow/fearow_ayreian_shiny.png",
+        "vanguard/ayreianfearow/ayreianfearow.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

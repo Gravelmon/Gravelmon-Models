@@ -1,92 +1,76 @@
 {
-  "portraitScale": 0.699999988079071,
+  "portraitScale": 1.4,
   "portraitTranslation": [
-    0.0,
-    0.4,
-    0.0
+    -0.3,
+    0.2,
+    0
   ],
-  "profileScale": 0.699999988079071,
+  "profileScale": 0.65,
   "profileTranslation": [
-    0.0,
-    0.4,
-    0.0
+    0,
+    0.65,
+    0
   ],
-  "animations": {
-    "cry": "q.bedrock_stateful('infinity_eghototodile', 'cry')",
-    "faint": "bedrock(totodile_egho, faint)"
-  },
   "poses": {
     "standing": {
-      "poseName": "standing",
+      "poseTypes": [
+        "stand",
+        "portrait",
+        "profile",
+        "none"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('infinity_eghototodile', 'blink')"
+      ],
       "animations": [
         "q.bedrock('infinity_eghototodile', q.look('head_ai'))",
         "q.bedrock('infinity_eghototodile', 'ground_idle')"
-      ],
-      "poseTypes": [
-        "STAND",
-        "PORTRAIT",
-        "PROFILE",
-        "NONE"
-      ],
-      "quirks": [
-        "q.bedrock_quirk('infinity_eghototodile', 'blink')"
-      ],
-      "namedAnimations": {},
-      "transformedParts": []
+      ]
     },
     "walking": {
-      "poseName": "walking",
+      "poseTypes": [
+        "walk"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('infinity_eghototodile', 'blink')"
+      ],
       "animations": [
         "q.bedrock('infinity_eghototodile', 'ground_walk')"
-      ],
-      "poseTypes": [
-        "WALK"
-      ],
-      "quirks": [
-        "q.bedrock_quirk('infinity_eghototodile', 'blink')"
-      ],
-      "namedAnimations": {},
-      "transformedParts": []
+      ]
     },
     "floating": {
-      "poseName": "floating",
+      "poseTypes": [
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('infinity_eghototodile', 'blink')"
+      ],
       "animations": [
         "q.bedrock('infinity_eghototodile', 'water_idle')"
-      ],
-      "poseTypes": [
-        "FLOAT"
-      ],
-      "quirks": [
-        "q.bedrock_quirk('infinity_eghototodile', 'blink')"
-      ],
-      "namedAnimations": {},
-      "transformedParts": []
+      ]
     },
     "swimming": {
-      "poseName": "swimming",
-      "animations": [
-        "q.bedrock('infinity_eghototodile', 'water_swim')"
-      ],
       "poseTypes": [
-        "SWIM"
+        "swim"
       ],
       "quirks": [
         "q.bedrock_quirk('infinity_eghototodile', 'blink')"
       ],
-      "namedAnimations": {},
-      "transformedParts": []
+      "animations": [
+        "q.bedrock('infinity_eghototodile', 'water_swim')"
+      ]
     },
     "sleeping": {
-      "poseName": "sleeping",
+      "poseTypes": [
+        "sleep"
+      ],
       "animations": [
         "q.bedrock('infinity_eghototodile', 'sleep')"
-      ],
-      "poseTypes": [
-        "SLEEP"
-      ],
-
-      "namedAnimations": {},
-      "transformedParts": []
+      ]
     }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('infinity_eghototodile', 'cry')",
+    "faint": "bedrock(totodile_egho, faint)"
   }
 }

@@ -1,14 +1,14 @@
 {
   "species": "cobblemon:honedge",
-  "order": 171,
+  "order": 162,
   "variations": [
     {
       "aspects": [
         "africanusan"
       ],
-      "model": "cobblemon:cutout_gravelmon_96_by_96.geo",
-      "poser": "cobblemon:cutout_gravelmon_96_by_96",
-      "texture": "cobblemon:textures/pokemon/africanus/africanusanhonedge.png",
+      "poser": "cobblemon:africanus_africanusanhonedge",
+      "model": "cobblemon:africanus_africanusanhonedge.geo",
+      "texture": "cobblemon:textures/pokemon/africanus/africanusanhonedge/honedge_africanusan.png",
       "layers": [
         {
           "name": "emissive"
@@ -33,6 +33,26 @@
         },
         {
           "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "africanusan",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/africanus/africanusanhonedge/honedge_africanusan_shiny.png"
+    },
+    {
+      "aspects": [
+        "africanusan",
+        "alpha_eyes"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/africanus/africanusanhonedge/honedge_africanusan_alpha.png",
+          "emissive": true
         }
       ]
     }

@@ -1,0 +1,37 @@
+{
+  "game": "pokemon",
+  "pokemon": "spearow",
+  "entries": [
+    {
+      "formAspects": [
+        "ayreian"
+      ],
+      "inheritsFrom": {
+        "pokemon": "spearow",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-10-28T14:40:08.903Z",
+      "models": [
+        "vanguard/ayreianspearow/vanguard_ayreianspearow.geo.json"
+      ],
+      "animations": [
+        "vanguard/ayreianspearow/vanguard_ayreianspearow.animation.json"
+      ],
+      "textures": [
+        "vanguard/ayreianspearow/spearow_ayreian.png",
+        "vanguard/ayreianspearow/spearow_ayreian_alpha.png",
+        "vanguard/ayreianspearow/spearow_ayreian_shiny.png",
+        "vanguard/ayreianspearow/ayreianspearow.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "game": "pokemon",
+  "pokemon": "pyukumuku",
+  "entries": [
+    {
+      "formAspects": [
+        "fabelian"
+      ],
+      "inheritsFrom": {
+        "pokemon": "pyukumuku",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "dim3nsional"
+      },
+      "contributors": [
+        {
+          "login": "dim3nsional"
+        },
+        {
+          "login": "PiitchyB"
+        }
+      ],
+      "submittedAt": "2026-11-03T22:46:20.946Z",
+      "models": [
+        "fabel/fabelianpyukumuku/fabel_fabelianpyukumuku.geo.json"
+      ],
+      "animations": [
+        "fabel/fabelianpyukumuku/fabel_fabelianpyukumuku.animation.json"
+      ],
+      "textures": [
+        "fabel/fabelianpyukumuku/pyukumuku_fabelian.png",
+        "fabel/fabelianpyukumuku/pyukumuku_fabelian_alpha.png",
+        "fabel/fabelianpyukumuku/pyukumuku_fabelian_emissive.png",
+        "fabel/fabelianpyukumuku/pyukumuku_fabelian_shiny.png",
+        "fabel/fabelianpyukumuku/pyukumuku_fabelian_shiny_emissive.png",
+        "fabel/fabelianpyukumuku/fabelianpyukumuku.png"
+      ],
+      "sounds": [
+        "fabel/fabelianpyukumuku/fabelianpyukumuku_cry.ogg"
+      ]
+    }
+  ]
+}
