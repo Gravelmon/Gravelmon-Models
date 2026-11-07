@@ -1,5 +1,13 @@
 {
   "files": {
-    "minyan.png": "assets/cobblemon/textures/pokemon/uranium/minyan.png"
+    "0_minyan_base.json": "assets/cobblemon/bedrock/species/uranium/0_minyan_base.json",
+    "minyan.png": "assets/cobblemon/textures/pokemon/uranium/minyan.png",
+    "minyan_alpha.png": "assets/cobblemon/textures/pokemon/uranium/minyan/minyan_alpha.png",
+    "minyan_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/minyan_cry.ogg",
+    "minyan_shiny.png": "assets/cobblemon/textures/pokemon/uranium/minyan/minyan_shiny.png",
+    "texture__minyan.png": "assets/cobblemon/textures/pokemon/uranium/minyan/minyan.png",
+    "uranium_minyan.animation.json": "assets/cobblemon/bedrock/pokemon/animations/uranium_minyan.animation.json",
+    "uranium_minyan.geo.json": "assets/cobblemon/bedrock/pokemon/models/uranium_minyan.geo.json",
+    "uranium_minyan.json": "assets/cobblemon/bedrock/pokemon/posers/uranium_minyan.json"
   }
 }
