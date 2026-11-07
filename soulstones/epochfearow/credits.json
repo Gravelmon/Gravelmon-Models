@@ -1,0 +1,37 @@
+{
+  "game": "pokemon",
+  "pokemon": "fearow",
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "fearow",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "DreinDriu"
+      },
+      "contributors": [
+        {
+          "login": "DreinDriu"
+        }
+      ],
+      "submittedAt": "2026-10-28T15:19:37.426Z",
+      "models": [
+        "soulstones/epochfearow/soulstones_epochfearow.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochfearow/soulstones_epochfearow.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochfearow/fearow_epoch.png",
+        "soulstones/epochfearow/fearow_epoch_alpha.png",
+        "soulstones/epochfearow/fearow_epoch_shiny.png",
+        "soulstones/epochfearow/epochfearow.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
