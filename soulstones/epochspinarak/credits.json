@@ -1,0 +1,37 @@
+{
+  "game": "pokemon",
+  "pokemon": "spinarak",
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "spinarak",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "lilpuppenstein"
+      },
+      "contributors": [
+        {
+          "login": "lilpuppenstein"
+        }
+      ],
+      "submittedAt": "2026-11-06T00:51:25.353Z",
+      "models": [
+        "soulstones/epochspinarak/soulstones_epochspinarak.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochspinarak/soulstones_epochspinarak.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochspinarak/epoch-spinarak.png",
+        "soulstones/epochspinarak/epoch-spinarak_alpha.png",
+        "soulstones/epochspinarak/epoch-spinarak_shiny.png",
+        "soulstones/epochspinarak/epochspinarak.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

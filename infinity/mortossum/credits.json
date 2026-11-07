@@ -1,0 +1,30 @@
+{
+  "game": "infinity",
+  "pokemon": "mortossum",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Neoxaivus"
+      },
+      "contributors": [
+        {
+          "login": "Neoxaivus"
+        }
+      ],
+      "submittedAt": "2026-10-29T02:59:24.163Z",
+      "models": [
+        "infinity/mortossum/infinity_mortossum.geo.json"
+      ],
+      "animations": [
+        "infinity/mortossum/infinity_mortossum.animation.json"
+      ],
+      "textures": [
+        "infinity/mortossum/texture__mortossum.png",
+        "infinity/mortossum/mortossum_alpha.png",
+        "infinity/mortossum/mortossum_shiny.png",
+        "infinity/mortossum/mortossum.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
