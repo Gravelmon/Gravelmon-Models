@@ -1,18 +1,48 @@
 {
-  "portraitScale": 0.53,
+  "portraitScale": 1,
   "portraitTranslation": [
-    -0.39,
-    1.75,
-    0.6
+    -0.97,
+    2.35,
+    0
   ],
-  "profileScale": 0.24,
+  "profileScale": 0.32,
   "profileTranslation": [
-    0,
-    1.37,
-    -28
+    -0.02,
+    1.18,
+    0
   ],
   "rootBone": "xenoqueen",
   "poses": {
+    "standing": {
+      "isBattle": false,
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('uranium_xenoqueen', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('uranium_xenoqueen', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "walk",
+        "swim"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('uranium_xenoqueen', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('uranium_xenoqueen', 'ground_walk')"
+      ]
+    },
     "battle-standing": {
       "isBattle": true,
       "poseTypes": [
@@ -22,43 +52,20 @@
         "q.bedrock_quirk('uranium_xenoqueen', 'blink')"
       ],
       "animations": [
+        "q.look('head')",
         "q.bedrock('uranium_xenoqueen', 'battle_idle')"
       ]
     },
-    "sleeping": {
+    "sleep": {
       "poseTypes": [
         "sleep"
       ],
       "animations": [
         "q.bedrock('uranium_xenoqueen', 'sleep')"
       ]
-    },
-    "standing": {
-      "isBattle": false,
-      "poseTypes": [
-        "stand",
-        "profile",
-        "portrait",
-        "open",
-        "none"
-      ],
-      "quirks": [
-        "q.bedrock_quirk('uranium_xenoqueen', 'blink')"
-      ],
-      "animations": [
-        "q.bedrock('uranium_xenoqueen', 'ground_idle')"
-      ]
-    },
-    "walking": {
-      "poseTypes": [
-        "walk"
-      ],
-      "quirks": [
-        "q.bedrock_quirk('uranium_xenoqueen', 'blink')"
-      ],
-      "animations": [
-        "q.bedrock('uranium_xenoqueen', 'ground_walk')"
-      ]
     }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('uranium_xenoqueen', 'cry')"
   }
 }
