@@ -6,7 +6,10 @@
     "infinity_eghospearow.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_eghospearow.animation.json",
     "infinity_eghospearow.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_eghospearow.geo.json",
     "infinity_eghospearow.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_eghospearow.json",
+    "spearow_egho.png": "assets/cobblemon/textures/pokemon/infinity/eghospearow/spearow_egho.png",
+    "spearow_egho_alpha.png": "assets/cobblemon/textures/pokemon/infinity/eghospearow/spearow_egho_alpha.png",
     "spearow_egho_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/spearow_egho_cry.ogg",
+    "spearow_egho_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghospearow/spearow_egho_shiny.png",
     "texture__eghospearow.png": "assets/cobblemon/textures/pokemon/infinity/eghospearow/eghospearow.png"
   }
 }

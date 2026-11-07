@@ -1,0 +1,39 @@
+{
+  "game": "pokemon",
+  "pokemon": "magneton",
+  "entries": [
+    {
+      "formAspects": [
+        "egho"
+      ],
+      "inheritsFrom": {
+        "pokemon": "magneton",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "Lubasa"
+      },
+      "contributors": [
+        {
+          "login": "Lubasa"
+        }
+      ],
+      "submittedAt": "2026-11-06T12:56:56.577Z",
+      "models": [
+        "infinity/eghomagneton/infinity_eghomagneton.geo.json"
+      ],
+      "animations": [
+        "infinity/eghomagneton/infinity_eghomagneton.animation.json"
+      ],
+      "textures": [
+        "infinity/eghomagneton/egho_magneton.png",
+        "infinity/eghomagneton/egho_magneton_alpha.png",
+        "infinity/eghomagneton/egho_magneton_shiny.png",
+        "infinity/eghomagneton/eghomagneton.png"
+      ],
+      "sounds": [
+        "infinity/eghomagneton/eghomagneton_cry.ogg"
+      ]
+    }
+  ]
+}

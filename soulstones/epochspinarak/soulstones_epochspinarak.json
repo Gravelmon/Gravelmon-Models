@@ -1,0 +1,135 @@
+{
+  "portraitScale": 2.8,
+  "portraitTranslation": [
+    -0.52,
+    -2.8,
+    0
+  ],
+  "profileScale": 0.76,
+  "profileTranslation": [
+    0,
+    0.48,
+    0
+  ],
+  "rootBone": "spinarak",
+  "poses": {
+    "battle-standing": {
+      "isBattle": true,
+      "poseTypes": [
+        "stand"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochspinarak', 'blink')",
+        "q.bedrock_quirk('soulstones_epochspinarak', 'fang_quirk')"
+      ],
+      "namedAnimations": {
+        "sleep": "q.bedrock_stateful('soulstones_epochspinarak', 'battle_sleep')"
+      },
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('soulstones_epochspinarak', 'battle_idle')"
+      ]
+    },
+    "standing": {
+      "poseTypes": [
+        "stand",
+        "portrait",
+        "profile",
+        "none",
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochspinarak', 'blink')",
+        "q.bedrock_quirk('soulstones_epochspinarak', 'fang_quirk')",
+        "q.bedrock_quirk('soulstones_epochspinarak', 'look_quirk')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('soulstones_epochspinarak', 'ground_idle')"
+      ],
+      "transformTicks": 10
+    },
+    "walk": {
+      "poseTypes": [
+        "walk"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochspinarak', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('soulstones_epochspinarak', 'ground_walk')"
+      ],
+      "transformTicks": 5
+    },
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochspinarak', 'sleep')"
+      ]
+    },
+    "shoulder_left": {
+      "poseTypes": [
+        "shoulder_left"
+      ],
+      "transformedParts": [
+        {
+          "part": "body",
+          "position": [
+            6,
+            0,
+            0
+          ]
+        }
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochspinarak', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('soulstones_epochspinarak', 'shoulder_left')"
+      ]
+    },
+    "shoulder_right": {
+      "poseTypes": [
+        "shoulder_right"
+      ],
+      "transformedParts": [
+        {
+          "part": "body",
+          "position": [
+            -6,
+            0,
+            0
+          ]
+        }
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochspinarak', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('soulstones_epochspinarak', 'shoulder_right')"
+      ]
+    },
+    "walking": {
+      "condition": "!q.is_sprinting",
+      "poseTypes": [
+        "swim"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochspinarak', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('soulstones_epochspinarak', 'ground_walk')"
+      ]
+    }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('soulstones_epochspinarak', 'cry')",
+    "recoil": "q.bedrock_stateful('soulstones_epochspinarak', 'recoil')"
+  }
+}

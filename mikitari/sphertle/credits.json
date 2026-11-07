@@ -1,0 +1,30 @@
+{
+  "game": "mikitari",
+  "pokemon": "sphertle",
+  "entries": [
+    {
+      "contributor": {
+        "login": "lapislizuli"
+      },
+      "contributors": [
+        {
+          "login": "lapislizuli"
+        }
+      ],
+      "submittedAt": "2026-10-31T22:03:45.378Z",
+      "models": [
+        "mikitari/sphertle/mikitari_sphertle.geo.json"
+      ],
+      "animations": [
+        "mikitari/sphertle/mikitari_sphertle.animation.json"
+      ],
+      "textures": [
+        "mikitari/sphertle/texture__sphertle.png",
+        "mikitari/sphertle/sphertle_alpha.png",
+        "mikitari/sphertle/sphertle_shiny.png",
+        "mikitari/sphertle/sphertle.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
