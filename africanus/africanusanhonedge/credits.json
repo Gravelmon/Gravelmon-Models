@@ -1,0 +1,37 @@
+{
+  "game": "pokemon",
+  "pokemon": "honedge",
+  "entries": [
+    {
+      "formAspects": [
+        "africanusan"
+      ],
+      "inheritsFrom": {
+        "pokemon": "honedge",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "PiitchyB"
+      },
+      "contributors": [
+        {
+          "login": "PiitchyB"
+        }
+      ],
+      "submittedAt": "2026-11-03T04:07:07.889Z",
+      "models": [
+        "africanus/africanusanhonedge/africanus_africanusanhonedge.geo.json"
+      ],
+      "animations": [
+        "africanus/africanusanhonedge/africanus_africanusanhonedge.animation.json"
+      ],
+      "textures": [
+        "africanus/africanusanhonedge/honedge_africanusan.png",
+        "africanus/africanusanhonedge/honedge_africanusan_alpha.png",
+        "africanus/africanusanhonedge/honedge_africanusan_shiny.png",
+        "africanus/africanusanhonedge/africanusanhonedge.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

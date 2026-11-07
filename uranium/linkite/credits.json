@@ -1,0 +1,32 @@
+{
+  "game": "uranium",
+  "pokemon": "linkite",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Lubasa"
+      },
+      "contributors": [
+        {
+          "login": "Lubasa"
+        }
+      ],
+      "submittedAt": "2026-11-05T02:06:26.587Z",
+      "models": [
+        "uranium/linkite/uranium_linkite.geo.json"
+      ],
+      "animations": [
+        "uranium/linkite/uranium_linkite.animation.json"
+      ],
+      "textures": [
+        "uranium/linkite/texture__linkite.png",
+        "uranium/linkite/linkite_alpha.png",
+        "uranium/linkite/linkite_shiny.png",
+        "uranium/linkite/linkite.png"
+      ],
+      "sounds": [
+        "uranium/linkite/linkite_cry.ogg"
+      ]
+    }
+  ]
+}

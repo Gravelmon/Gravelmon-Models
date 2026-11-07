@@ -6,7 +6,10 @@
     "infinity_viledoom.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_viledoom.json",
     "texture__viledoom.png": "assets/cobblemon/textures/pokemon/infinity/viledoom/viledoom.png",
     "viledoom.png": "assets/cobblemon/textures/pokemon/infinity/viledoom.png",
+    "viledoom_alpha.png": "assets/cobblemon/textures/pokemon/infinity/viledoom/viledoom_alpha.png",
     "viledoom_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/viledoom_cry.ogg",
-    "viledoom_shiny.png": "assets/cobblemon/textures/pokemon/infinity/viledoom/viledoom_shiny.png"
+    "viledoom_emissive.png": "assets/cobblemon/textures/pokemon/infinity/viledoom/viledoom_emissive.png",
+    "viledoom_shiny.png": "assets/cobblemon/textures/pokemon/infinity/viledoom/viledoom_shiny.png",
+    "viledoom_shiny_emissive.png": "assets/cobblemon/textures/pokemon/infinity/viledoom/viledoom_shiny_emissive.png"
   }
 }

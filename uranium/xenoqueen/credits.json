@@ -1,0 +1,38 @@
+{
+  "game": "uranium",
+  "pokemon": "xenoqueen",
+  "entries": [
+    {
+      "contributor": {
+        "login": "PiitchyB"
+      },
+      "contributors": [
+        {
+          "login": "PiitchyB"
+        },
+        {
+          "login": "N0file"
+        }
+      ],
+      "submittedAt": "2026-11-02T05:36:46.645Z",
+      "models": [
+        "uranium/xenoqueen/uranium_xenoqueen.geo.json"
+      ],
+      "animations": [
+        "uranium/xenoqueen/uranium_xenoqueen.animation.json"
+      ],
+      "textures": [
+        "uranium/xenoqueen/texture__xenoqueen.png",
+        "uranium/xenoqueen/xenoqueen_alpha.png",
+        "uranium/xenoqueen/xenoqueen_alpha_emissive.png",
+        "uranium/xenoqueen/xenoqueen_emissive.png",
+        "uranium/xenoqueen/xenoqueen_shiny.png",
+        "uranium/xenoqueen/xenoqueen_shiny_emissive.png",
+        "uranium/xenoqueen/xenoqueen.png"
+      ],
+      "sounds": [
+        "uranium/xenoqueen/xenoqueen_cry.ogg"
+      ]
+    }
+  ]
+}
