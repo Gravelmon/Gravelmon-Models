@@ -1,0 +1,65 @@
+{
+  "game": "pokemon",
+  "pokemon": "aegislash",
+  "entries": [
+    {
+      "formAspects": [
+        "africanusan"
+      ],
+      "inheritsFrom": {
+        "pokemon": "aegislash",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "PiitchyB"
+      },
+      "contributors": [
+        {
+          "login": "PiitchyB"
+        }
+      ],
+      "pullRequestNumber": 100060,
+      "submittedAt": "2026-11-04T23:11:12.874Z",
+      "models": [],
+      "animations": [],
+      "textures": [
+        "africanus/africanusanaegislash/aegislash_africanusan_preview.png",
+        "africanus/africanusanaegislash/reference_back.png",
+        "africanus/africanusanaegislash/reference_shiny.png",
+        "africanus/africanusanaegislash/reference.png"
+      ],
+      "sounds": []
+    },
+    {
+      "formAspects": [
+        "africanusan"
+      ],
+      "inheritsFrom": {
+        "pokemon": "aegislash",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "PiitchyB"
+      },
+      "contributors": [
+        {
+          "login": "PiitchyB"
+        }
+      ],
+      "submittedAt": "2026-11-06T02:10:22.446Z",
+      "models": [
+        "africanus/africanusanaegislash/africanus_africanusanaegislash.geo.json"
+      ],
+      "animations": [
+        "africanus/africanusanaegislash/africanus_africanusanaegislash.animation.json"
+      ],
+      "textures": [
+        "africanus/africanusanaegislash/aegislash_africanusan.png",
+        "africanus/africanusanaegislash/aegislash_africanusan_alpha.png",
+        "africanus/africanusanaegislash/aegislash_africanusan_shiny.png",
+        "africanus/africanusanaegislash/africanusanaegislash.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
