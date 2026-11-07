@@ -1,6 +1,15 @@
 {
   "files": {
     "187_pyukumuku_fabelian.json": "assets/cobblemon/bedrock/species/additional_forms/187_pyukumuku_fabelian.json",
-    "fabelianpyukumuku.png": "assets/cobblemon/textures/pokemon/fabel/fabelianpyukumuku.png"
+    "fabel_fabelianpyukumuku.animation.json": "assets/cobblemon/bedrock/pokemon/animations/fabel_fabelianpyukumuku.animation.json",
+    "fabel_fabelianpyukumuku.geo.json": "assets/cobblemon/bedrock/pokemon/models/fabel_fabelianpyukumuku.geo.json",
+    "fabel_fabelianpyukumuku.json": "assets/cobblemon/bedrock/pokemon/posers/fabel_fabelianpyukumuku.json",
+    "fabelianpyukumuku.png": "assets/cobblemon/textures/pokemon/fabel/fabelianpyukumuku.png",
+    "fabelianpyukumuku_cry.ogg": "assets/gravelmon/sounds/pokemon/fabel/fabelianpyukumuku_cry.ogg",
+    "pyukumuku_fabelian.png": "assets/cobblemon/textures/pokemon/fabel/fabelianpyukumuku/pyukumuku_fabelian.png",
+    "pyukumuku_fabelian_alpha.png": "assets/cobblemon/textures/pokemon/fabel/fabelianpyukumuku/pyukumuku_fabelian_alpha.png",
+    "pyukumuku_fabelian_emissive.png": "assets/cobblemon/textures/pokemon/fabel/fabelianpyukumuku/pyukumuku_fabelian_emissive.png",
+    "pyukumuku_fabelian_shiny.png": "assets/cobblemon/textures/pokemon/fabel/fabelianpyukumuku/pyukumuku_fabelian_shiny.png",
+    "pyukumuku_fabelian_shiny_emissive.png": "assets/cobblemon/textures/pokemon/fabel/fabelianpyukumuku/pyukumuku_fabelian_shiny_emissive.png"
   }
 }

@@ -1,7 +1,14 @@
 {
   "files": {
     "162_doublade_africanusan.json": "assets/cobblemon/bedrock/species/additional_forms/162_doublade_africanusan.json",
+    "africanus_africanusandoublade.animation.json": "assets/cobblemon/bedrock/pokemon/animations/africanus_africanusandoublade.animation.json",
+    "africanus_africanusandoublade.geo.json": "assets/cobblemon/bedrock/pokemon/models/africanus_africanusandoublade.geo.json",
+    "africanus_africanusandoublade.json": "assets/cobblemon/bedrock/pokemon/posers/africanus_africanusandoublade.json",
     "africanusandoublade.png": "assets/cobblemon/textures/pokemon/africanus/africanusandoublade.png",
-    "doublade_africanusan_cry.ogg": "assets/gravelmon/sounds/pokemon/africanus/doublade_africanusan_cry.ogg"
+    "doublade_africanusan.png": "assets/cobblemon/textures/pokemon/africanus/africanusandoublade/doublade_africanusan.png",
+    "doublade_africanusan_alpha.png": "assets/cobblemon/textures/pokemon/africanus/africanusandoublade/doublade_africanusan_alpha.png",
+    "doublade_africanusan_cry.ogg": "assets/gravelmon/sounds/pokemon/africanus/doublade_africanusan_cry.ogg",
+    "doublade_africanusan_preview.png": "assets/cobblemon/doublade_africanusan_preview.png",
+    "doublade_africanusan_shiny.png": "assets/cobblemon/textures/pokemon/africanus/africanusandoublade/doublade_africanusan_shiny.png"
   }
 }

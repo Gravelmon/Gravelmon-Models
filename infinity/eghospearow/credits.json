@@ -1,0 +1,33 @@
+{
+  "game": "pokemon",
+  "pokemon": "spearow",
+  "entries": [
+    {
+      "formAspects": [
+        "egho"
+      ],
+      "contributor": {
+        "login": "Neoxaivus"
+      },
+      "contributors": [
+        {
+          "login": "Neoxaivus"
+        }
+      ],
+      "submittedAt": "2026-11-06T22:14:04.473Z",
+      "models": [
+        "infinity/eghospearow/infinity_eghospearow.geo.json"
+      ],
+      "animations": [
+        "infinity/eghospearow/infinity_eghospearow.animation.json"
+      ],
+      "textures": [
+        "infinity/eghospearow/spearow_egho.png",
+        "infinity/eghospearow/spearow_egho_alpha.png",
+        "infinity/eghospearow/spearow_egho_shiny.png",
+        "infinity/eghospearow/eghospearow.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

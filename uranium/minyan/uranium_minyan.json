@@ -1,0 +1,68 @@
+{
+  "portraitScale": 1,
+  "portraitTranslation": [
+    0,
+    0,
+    0
+  ],
+  "profileScale": 1,
+  "profileTranslation": [
+    0,
+    0,
+    0
+  ],
+  "rootBone": "minyan",
+  "poses": {
+    "standing": {
+      "isBattle": false,
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "float",
+        "hover"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('uranium_minyan', 'blink')",
+        "q.bedrock_quirk('uranium_minyan', 'idle_quirk')",
+        "q.bedrock_quirk('uranium_minyan', 'idle_quirk2')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('uranium_minyan', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "walk",
+        "swim",
+        "fly"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('uranium_minyan', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('uranium_minyan', 'ground_walk')"
+      ]
+    },
+    "battle-standing": {
+      "isBattle": true,
+      "poseTypes": [
+        "stand"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('uranium_minyan', 'blink')",
+        "q.bedrock_quirk('uranium_minyan', 'battle_quirk')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('uranium_minyan', 'battle_idle')"
+      ]
+    }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('uranium_minyan', 'cry')"
+  }
+}
