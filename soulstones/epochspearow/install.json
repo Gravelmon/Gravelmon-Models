@@ -1,6 +1,12 @@
 {
   "files": {
     "164_spearow_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_spearow_epoch.json",
-    "epochspearow.png": "assets/cobblemon/textures/pokemon/soulstones/epochspearow.png"
+    "epochspearow.png": "assets/cobblemon/textures/pokemon/soulstones/epochspearow.png",
+    "soulstones_epochspearow.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochspearow.animation.json",
+    "soulstones_epochspearow.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochspearow.geo.json",
+    "soulstones_epochspearow.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochspearow.json",
+    "spearow_epoch.png": "assets/cobblemon/textures/pokemon/soulstones/epochspearow/spearow_epoch.png",
+    "spearow_epoch_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochspearow/spearow_epoch_alpha.png",
+    "spearow_epoch_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochspearow/spearow_epoch_shiny.png"
   }
 }

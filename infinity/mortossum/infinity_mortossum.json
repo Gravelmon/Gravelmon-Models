@@ -1,52 +1,86 @@
 {
-  "portraitScale": 1.7999999523162842,
+  "portraitScale": 1.8,
   "portraitTranslation": [
-    -0.0,
-    0.3,
-    0.0
+    0,
+    -0.2,
+    0
   ],
-  "profileScale": 0.800000011920929,
+  "profileScale": 1,
   "profileTranslation": [
-    0.0,
-    0.6,
-    0.0
+    0,
+    0.21,
+    0
   ],
+  "rootBone": "bellossom",
   "poses": {
     "standing": {
-      "poseName": "standing",
-      "animations": [
-        "q.bedrock('infinity_mortossum', 'ground_idle')"
-      ],
+      "isBattle": false,
       "poseTypes": [
-        "STAND",
-        "SLEEP",
-        "HOVER",
-        "FLY",
-        "FLOAT",
-        "SWIM",
-        "GLIDE",
-        "SHOULDER_LEFT",
-        "SHOULDER_RIGHT",
-        "PROFILE",
-        "PORTRAIT",
-        "OPEN",
-        "NONE"
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "float"
       ],
-
-      "namedAnimations": {},
-      "transformedParts": []
+      "quirks": [
+        "q.bedrock_quirk('infinity_mortossum', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('infinity_mortossum', 'ground_idle')"
+      ]
     },
     "walking": {
-      "poseName": "walking",
-      "animations": [
-        "q.bedrock('infinity_mortossum', 'ground_walk')"
-      ],
+      "condition": "!q.is_sprinting",
       "poseTypes": [
-        "WALK"
+        "walk",
+        "swim"
       ],
-
-      "namedAnimations": {},
-      "transformedParts": []
+      "quirks": [
+        "q.bedrock_quirk('infinity_mortossum', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('infinity_mortossum', 'ground_walk')"
+      ]
+    },
+    "battle-standing": {
+      "isBattle": true,
+      "poseTypes": [
+        "stand"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('infinity_mortossum', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('infinity_mortossum', 'battle_idle')"
+      ]
+    },
+    "running": {
+      "condition": "q.is_sprinting",
+      "poseTypes": [
+        "walk"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('infinity_mortossum', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('infinity_mortossum', 'ground_run')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "animations": [
+        "q.bedrock('infinity_mortossum', 'sleep')"
+      ]
     }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('infinity_mortossum', 'cry')",
+    "recoil": "q.bedrock_stateful('infinity_mortossum', 'recoil')"
   }
 }

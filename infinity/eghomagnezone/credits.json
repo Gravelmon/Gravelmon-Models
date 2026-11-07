@@ -1,0 +1,39 @@
+{
+  "game": "pokemon",
+  "pokemon": "magnezone",
+  "entries": [
+    {
+      "formAspects": [
+        "egho"
+      ],
+      "inheritsFrom": {
+        "pokemon": "magnezone",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "Lubasa"
+      },
+      "contributors": [
+        {
+          "login": "Lubasa"
+        }
+      ],
+      "submittedAt": "2026-11-06T13:52:39.385Z",
+      "models": [
+        "infinity/eghomagnezone/infinity_eghomagnezone.geo.json"
+      ],
+      "animations": [
+        "infinity/eghomagnezone/infinity_eghomagnezone.animation.json"
+      ],
+      "textures": [
+        "infinity/eghomagnezone/egho_magnezone.png",
+        "infinity/eghomagnezone/egho_magnezone_alpha.png",
+        "infinity/eghomagnezone/egho_magnezone_shiny.png",
+        "infinity/eghomagnezone/eghomagnezone.png"
+      ],
+      "sounds": [
+        "infinity/eghomagnezone/eghomagnezone_cry.ogg"
+      ]
+    }
+  ]
+}
