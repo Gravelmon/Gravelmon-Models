@@ -2,6 +2,12 @@
   "files": {
     "0_linkite_base.json": "assets/cobblemon/bedrock/species/uranium/0_linkite_base.json",
     "linkite.png": "assets/cobblemon/textures/pokemon/uranium/linkite.png",
-    "linkite_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/linkite_cry.ogg"
+    "linkite_alpha.png": "assets/cobblemon/textures/pokemon/uranium/linkite/linkite_alpha.png",
+    "linkite_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/linkite_cry.ogg",
+    "linkite_shiny.png": "assets/cobblemon/textures/pokemon/uranium/linkite/linkite_shiny.png",
+    "texture__linkite.png": "assets/cobblemon/textures/pokemon/uranium/linkite/linkite.png",
+    "uranium_linkite.animation.json": "assets/cobblemon/bedrock/pokemon/animations/uranium_linkite.animation.json",
+    "uranium_linkite.geo.json": "assets/cobblemon/bedrock/pokemon/models/uranium_linkite.geo.json",
+    "uranium_linkite.json": "assets/cobblemon/bedrock/pokemon/posers/uranium_linkite.json"
   }
 }

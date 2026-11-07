@@ -5,6 +5,8 @@
     "egho_magnemite_alpha.png": "assets/cobblemon/textures/pokemon/infinity/eghomagnemite/egho_magnemite_alpha.png",
     "egho_magnemite_shiny.png": "assets/cobblemon/textures/pokemon/infinity/eghomagnemite/egho_magnemite_shiny.png",
     "eghomagnemite.png": "assets/cobblemon/textures/pokemon/infinity/eghomagnemite.png",
+    "eghomagnemite_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/eghomagnemite_cry.ogg",
+    "infinity_eghomagnemite.animation.json": "assets/cobblemon/bedrock/pokemon/animations/infinity_eghomagnemite.animation.json",
     "infinity_eghomagnemite.geo.json": "assets/cobblemon/bedrock/pokemon/models/infinity_eghomagnemite.geo.json",
     "infinity_eghomagnemite.json": "assets/cobblemon/bedrock/pokemon/posers/infinity_eghomagnemite.json",
     "magnemite_egho_cry.ogg": "assets/gravelmon/sounds/pokemon/infinity/magnemite_egho_cry.ogg"

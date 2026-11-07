@@ -1,0 +1,60 @@
+{
+  "portraitScale": 2.14,
+  "portraitTranslation": [
+    -0.92,
+    1.2,
+    0
+  ],
+  "profileScale": 0.57,
+  "profileTranslation": [
+    0,
+    0.88,
+    0
+  ],
+  "rootBone": "doublade",
+  "poses": {
+    "standing": {
+      "isBattle": false,
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('africanus_africanusandoublade', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('africanus_africanusandoublade', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "walk",
+        "swim"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('africanus_africanusandoublade', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('africanus_africanusandoublade', 'ground_walk')"
+      ]
+    },
+    "battle-standing": {
+      "isBattle": true,
+      "poseTypes": [
+        "stand"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('africanus_africanusandoublade', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('africanus_africanusandoublade', 'battle_idle')"
+      ]
+    }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('africanus_africanusandoublade', 'cry')"
+  }
+}
