@@ -1,0 +1,38 @@
+{
+  "game": "pokemon",
+  "pokemon": "milotic",
+  "entries": [
+    {
+      "formAspects": [
+        "seviian"
+      ],
+      "inheritsFrom": {
+        "pokemon": "milotic",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "elpgeon"
+      },
+      "contributors": [
+        {
+          "login": "elpgeon"
+        }
+      ],
+      "submittedAt": "2026-10-29T01:36:40.497Z",
+      "models": [
+        "radical_red/seviianmilotic/radical_red_seviianmilotic.geo.json"
+      ],
+      "animations": [
+        "radical_red/seviianmilotic/radical_red_seviianmilotic.animation.json"
+      ],
+      "textures": [
+        "radical_red/seviianmilotic/texture__seviianmilotic.png",
+        "radical_red/seviianmilotic/seviianmilotic_alpha.png",
+        "radical_red/seviianmilotic/seviianmilotic_mud.png",
+        "radical_red/seviianmilotic/seviianmilotic_shiny.png",
+        "radical_red/seviianmilotic/seviianmilotic.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "portraitScale": 2.4,
+  "portraitTranslation": [
+    -0.17,
+    0.98,
+    0
+  ],
+  "profileScale": 0.62,
+  "profileTranslation": [
+    0,
+    0.95,
+    0
+  ],
+  "rootBone": "honedge",
+  "poses": {
+    "standing": {
+      "isBattle": false,
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "float",
+        "hover"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('africanus_africanusanhonedge', 'blink')"
+      ],
+      "animations": [
+        "q.look('body')",
+        "q.bedrock('africanus_africanusanhonedge', 'ground_idle')"
+      ]
+    },
+    "battle-standing": {
+      "isBattle": true,
+      "poseTypes": [
+        "stand",
+        "float",
+        "hover"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('africanus_africanusanhonedge', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('africanus_africanusanhonedge', 'battle_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "walk",
+        "swim",
+        "fly"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('africanus_africanusanhonedge', 'blink')"
+      ],
+      "animations": [
+        "q.look('body')",
+        "q.bedrock('africanus_africanusanhonedge', 'ground_walk')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "animations": [
+        "q.bedrock('africanus_africanusanhonedge', 'sleep')"
+      ]
+    }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('africanus_africanusanhonedge', 'cry')"
+  }
+}
