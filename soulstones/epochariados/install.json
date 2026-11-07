@@ -1,6 +1,12 @@
 {
   "files": {
     "164_ariados_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_ariados_epoch.json",
-    "epochariados.png": "assets/cobblemon/textures/pokemon/soulstones/epochariados.png"
+    "epoch-ariados.png": "assets/cobblemon/textures/pokemon/soulstones/epochariados/epoch-ariados.png",
+    "epoch-ariados_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochariados/epoch-ariados_alpha.png",
+    "epoch-ariados_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochariados/epoch-ariados_shiny.png",
+    "epochariados.png": "assets/cobblemon/textures/pokemon/soulstones/epochariados.png",
+    "soulstones_epochariados.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochariados.animation.json",
+    "soulstones_epochariados.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochariados.geo.json",
+    "soulstones_epochariados.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochariados.json"
   }
 }

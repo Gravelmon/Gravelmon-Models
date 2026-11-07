@@ -1,32 +1,67 @@
 {
-  "portraitScale": 3.4000000953674316,
+  "portraitScale": 3.5,
   "portraitTranslation": [
-    -0.1,
-    -2.0,
-    0.0
+    -0.56,
+    -1.61,
+    0
+  ],
+  "profileScale": 0.93,
+  "profileTranslation": [
+    0,
+    0.39,
+    0
   ],
   "rootBone": "spearow",
-  "profileScale": 1.2000000476837158,
-  "profileTranslation": [
-    -0.0,
-    0.0,
-    0.0
-  ],
   "poses": {
     "standing": {
-      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
-      "isBattle": false,
-      "animations": ["q.look('head')", "q.bedrock('infinity_eghospearow', 'ground_idle')"],
-      "quirks": ["q.bedrock_quirk('spearow', 'blink')"]
-    },
-    "walking": {
-      "poseTypes": ["WALK", "SWIM"],
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('infinity_eghospearow', 'blink')"
+      ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('infinity_eghospearow', 'ground_idle')",
-        "q.biped_walk(1, 1, 'leg_left', 'leg_right')"
+        "q.bedrock('infinity_eghospearow', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "walk",
+        "swim"
       ],
-      "quirks": ["q.bedrock_quirk('spearow', 'blink')"]
+      "quirks": [
+        "q.bedrock_quirk('infinity_eghospearow', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('infinity_eghospearow', 'ground_walk')"
+      ]
+    },
+    "hover": {
+      "poseTypes": [],
+      "quirks": [
+        "q.bedrock_quirk('infinity_eghospearow', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('infinity_eghospearow', 'air_idle')"
+      ]
+    },
+    "fly": {
+      "poseTypes": [],
+      "quirks": [
+        "q.bedrock_quirk('infinity_eghospearow', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('infinity_eghospearow', 'air_fly')"
+      ]
     }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('infinity_eghospearow', 'cry')"
   }
 }

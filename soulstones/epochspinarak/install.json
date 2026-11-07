@@ -1,6 +1,12 @@
 {
   "files": {
     "164_spinarak_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_spinarak_epoch.json",
-    "epochspinarak.png": "assets/cobblemon/textures/pokemon/soulstones/epochspinarak.png"
+    "epoch-spinarak.png": "assets/cobblemon/textures/pokemon/soulstones/epochspinarak/epoch-spinarak.png",
+    "epoch-spinarak_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochspinarak/epoch-spinarak_alpha.png",
+    "epoch-spinarak_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochspinarak/epoch-spinarak_shiny.png",
+    "epochspinarak.png": "assets/cobblemon/textures/pokemon/soulstones/epochspinarak.png",
+    "soulstones_epochspinarak.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochspinarak.animation.json",
+    "soulstones_epochspinarak.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochspinarak.geo.json",
+    "soulstones_epochspinarak.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochspinarak.json"
   }
 }

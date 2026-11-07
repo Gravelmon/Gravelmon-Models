@@ -1,0 +1,32 @@
+{
+  "game": "uranium",
+  "pokemon": "minyan",
+  "entries": [
+    {
+      "contributor": {
+        "login": "satanbacons"
+      },
+      "contributors": [
+        {
+          "login": "satanbacons"
+        }
+      ],
+      "submittedAt": "2026-11-06T18:07:46.573Z",
+      "models": [
+        "uranium/minyan/uranium_minyan.geo.json"
+      ],
+      "animations": [
+        "uranium/minyan/uranium_minyan.animation.json"
+      ],
+      "textures": [
+        "uranium/minyan/texture__minyan.png",
+        "uranium/minyan/minyan_alpha.png",
+        "uranium/minyan/minyan_shiny.png",
+        "uranium/minyan/minyan.png"
+      ],
+      "sounds": [
+        "uranium/minyan/minyan_cry.ogg"
+      ]
+    }
+  ]
+}
