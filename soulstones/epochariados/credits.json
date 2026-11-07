@@ -1,0 +1,37 @@
+{
+  "game": "pokemon",
+  "pokemon": "ariados",
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "ariados",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "lilpuppenstein"
+      },
+      "contributors": [
+        {
+          "login": "lilpuppenstein"
+        }
+      ],
+      "submittedAt": "2026-11-06T00:53:18.419Z",
+      "models": [
+        "soulstones/epochariados/soulstones_epochariados.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochariados/soulstones_epochariados.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochariados/epoch-ariados.png",
+        "soulstones/epochariados/epoch-ariados_alpha.png",
+        "soulstones/epochariados/epoch-ariados_shiny.png",
+        "soulstones/epochariados/epochariados.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
