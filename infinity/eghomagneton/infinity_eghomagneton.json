@@ -1,0 +1,59 @@
+{
+  "portraitScale": 1,
+  "portraitTranslation": [
+    0,
+    0.4,
+    0
+  ],
+  "profileScale": 0.84,
+  "profileTranslation": [
+    0,
+    0.6,
+    0
+  ],
+  "rootBone": "magneton",
+  "poses": {
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "animations": [
+        "q.bedrock('infinity_eghomagneton', 'sleep')"
+      ]
+    },
+    "hover": {
+      "poseTypes": [
+        "stand",
+        "float",
+        "hover",
+        "portrait",
+        "profile",
+        "none"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('infinity_eghomagneton', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('infinity_eghomagneton', 'air_idle')"
+      ],
+      "transformTicks": 10
+    },
+    "fly": {
+      "poseTypes": [
+        "fly",
+        "walk",
+        "swim"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('infinity_eghomagneton', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('infinity_eghomagneton', 'air_fly')"
+      ],
+      "transformTicks": 10
+    }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('infinity_eghomagneton', 'cry')"
+  }
+}

@@ -1,92 +1,600 @@
 {
-	"format_version": "1.12.0",
-	"minecraft:geometry": [
-		{
-			"description": {
-				"identifier": "geometry.infinity_eghomagnemite",
-				"texture_width": 64,
-				"texture_height": 32,
-				"visible_bounds_width": 3,
-				"visible_bounds_height": 2.5,
-				"visible_bounds_offset": [0, 0.75, 0]
-			},
-			"bones": [
-				{
-					"name": "magnemite",
-					"pivot": [0, 0, 0]
-				},
-				{
-					"name": "body",
-					"parent": "magnemite",
-					"pivot": [0, 4.5, 0],
-					"cubes": [
-						{"origin": [-4, 1, -4], "size": [8, 8, 8], "uv": [0, 0]},
-						{"origin": [-4.5, 0.5, -4.5], "size": [9, 9, 9], "uv": [28, 14]}
-					]
-				},
-				{
-					"name": "eye",
-					"parent": "body",
-					"pivot": [0, 5, -4.135],
-					"cubes": [
-						{"origin": [-2, 3, -4.135], "size": [4, 4, 0], "uv": [32, 8]}
-					]
-				},
-				{
-					"name": "pupil",
-					"parent": "eye",
-					"pivot": [0, 5, -4.225],
-					"cubes": [
-						{"origin": [-0.5, 4.5, -4.145], "size": [1, 1, 0], "uv": [40, 8]}
-					]
-				},
-				{
-					"name": "pupil_closed",
-					"parent": "eye",
-					"pivot": [0, 5, -4.045],
-					"cubes": [
-						{"origin": [-1.5, 4.5, -4.045], "size": [3, 1, 0], "uv": [58, 15]}
-					]
-				},
-				{
-					"name": "nail_head",
-					"parent": "body",
-					"pivot": [0, 9, 0],
-					"cubes": [
-						{"origin": [-1, 8.5, -1], "size": [2, 4, 2], "uv": [44, 8]},
-						{"origin": [-3, 9.5, 0], "size": [6, 4, 0], "uv": [52, 8]}
-					]
-				},
-				{
-					"name": "magnets",
-					"parent": "body",
-					"pivot": [0.5, 0.5, 0]
-				},
-				{
-					"name": "magnet_left",
-					"parent": "magnets",
-					"pivot": [4, 4.5, 0],
-					"rotation": [0, 0, 20],
-					"cubes": [
-						{"origin": [3.5, 1.5, -1], "size": [2, 6, 2], "inflate": 0.01, "uv": [0, 0]},
-						{"origin": [5, 1.5, -1], "size": [5, 2, 2], "uv": [33, 0]},
-						{"origin": [4.75, 0.5, -2], "size": [1, 8, 6], "inflate": 0.01, "pivot": [5.5, 4.5, 1], "rotation": [0, -5, 0], "uv": [13, 16]},
-						{"origin": [5, 5.5, -1], "size": [5, 2, 2], "uv": [49, 0]}
-					]
-				},
-				{
-					"name": "magnet_right",
-					"parent": "magnets",
-					"pivot": [-4, 4.5, 0],
-					"rotation": [0, 0, -20],
-					"cubes": [
-						{"origin": [-5.5, 1.5, -1], "size": [2, 6, 2], "inflate": 0.01, "uv": [24, 0], "mirror": true},
-						{"origin": [-10, 1.5, -1], "size": [5, 2, 2], "uv": [33, 4], "mirror": true},
-						{"origin": [-5.75, 0.5, -2], "size": [1, 8, 6], "inflate": 0.01, "pivot": [-5.5, 4.5, 1], "rotation": [0, 5, 0], "uv": [13, 16], "mirror": true},
-						{"origin": [-10, 5.5, -1], "size": [5, 2, 2], "uv": [49, 4], "mirror": true}
-					]
-				}
-			]
-		}
-	]
+  "format_version": "1.12.0",
+  "minecraft:geometry": [
+    {
+      "description": {
+        "identifier": "geometry.infinity_eghomagnemite",
+        "texture_width": 64,
+        "texture_height": 64,
+        "visible_bounds_width": 3,
+        "visible_bounds_height": 2.5,
+        "visible_bounds_offset": [
+          0,
+          0.75,
+          0
+        ]
+      },
+      "bones": [
+        {
+          "name": "egho_magnemite",
+          "pivot": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "name": "locator_root",
+          "parent": "egho_magnemite",
+          "pivot": [
+            0,
+            0,
+            0
+          ],
+          "locators": {
+            "root": [
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "name": "locator_middle",
+          "parent": "egho_magnemite",
+          "pivot": [
+            0,
+            12.5,
+            0
+          ],
+          "locators": {
+            "middle": [
+              0,
+              8,
+              0
+            ]
+          }
+        },
+        {
+          "name": "body",
+          "parent": "egho_magnemite",
+          "pivot": [
+            0,
+            5,
+            0
+          ],
+          "cubes": [
+            {
+              "origin": [
+                -4,
+                1.5,
+                -4
+              ],
+              "size": [
+                8,
+                8,
+                8
+              ],
+              "uv": [
+                0,
+                0
+              ]
+            },
+            {
+              "origin": [
+                -4.5,
+                1,
+                -4.5
+              ],
+              "size": [
+                9,
+                9,
+                9
+              ],
+              "uv": [
+                0,
+                16
+              ]
+            }
+          ]
+        },
+        {
+          "name": "locator_top",
+          "parent": "body",
+          "pivot": [
+            0,
+            14,
+            0
+          ],
+          "locators": {
+            "top": [
+              0,
+              14,
+              0
+            ]
+          }
+        },
+        {
+          "name": "locator_item_face",
+          "parent": "body",
+          "pivot": [
+            0,
+            2.75,
+            -4.5
+          ],
+          "locators": {
+            "item_face": [
+              0,
+              2.75,
+              -4.5
+            ]
+          }
+        },
+        {
+          "name": "locator_item_hat",
+          "parent": "body",
+          "pivot": [
+            0,
+            10,
+            -3
+          ],
+          "locators": {
+            "item_hat": [
+              0,
+              10,
+              -3
+            ]
+          }
+        },
+        {
+          "name": "locator_face",
+          "parent": "body",
+          "pivot": [
+            0,
+            5.5,
+            -4
+          ],
+          "locators": {
+            "face": [
+              0,
+              5.5,
+              -4
+            ],
+            "special": [
+              0,
+              5.5,
+              -4
+            ],
+            "physical": [
+              0,
+              5.5,
+              -4
+            ]
+          }
+        },
+        {
+          "name": "locator_target",
+          "parent": "body",
+          "pivot": [
+            0,
+            5.5,
+            -6
+          ],
+          "locators": {
+            "target": [
+              0,
+              5.5,
+              -6
+            ]
+          }
+        },
+        {
+          "name": "locator_head",
+          "parent": "body",
+          "pivot": [
+            0,
+            7.5,
+            -4
+          ],
+          "locators": {
+            "head": [
+              0,
+              7.5,
+              -4
+            ]
+          }
+        },
+        {
+          "name": "locator_mouth",
+          "parent": "body",
+          "pivot": [
+            0,
+            2.9,
+            -4
+          ],
+          "locators": {
+            "mouth": [
+              0,
+              2.9,
+              -4
+            ]
+          }
+        },
+        {
+          "name": "locator_tail",
+          "parent": "body",
+          "pivot": [
+            0,
+            2.5,
+            4.5
+          ],
+          "locators": {
+            "tail": [
+              0,
+              2.5,
+              4.5
+            ]
+          }
+        },
+        {
+          "name": "eye",
+          "parent": "body",
+          "pivot": [
+            0,
+            5.5,
+            -4.01
+          ],
+          "cubes": [
+            {
+              "origin": [
+                -2,
+                3.5,
+                -4.01
+              ],
+              "size": [
+                4,
+                4,
+                0
+              ],
+              "uv": [
+                32,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "name": "locator_eye",
+          "parent": "eye",
+          "pivot": [
+            0,
+            5.5,
+            -4
+          ],
+          "locators": {
+            "eye": [
+              0,
+              5.5,
+              -4
+            ]
+          }
+        },
+        {
+          "name": "pupil",
+          "parent": "eye",
+          "pivot": [
+            0,
+            5.5,
+            -4.1
+          ],
+          "cubes": [
+            {
+              "origin": [
+                -0.5,
+                5,
+                -4.02
+              ],
+              "size": [
+                1,
+                1,
+                0
+              ],
+              "uv": [
+                40,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "name": "pupil_closed",
+          "parent": "eye",
+          "pivot": [
+            0,
+            5.5,
+            -3.92
+          ],
+          "cubes": [
+            {
+              "origin": [
+                -1.5,
+                5,
+                -3.92
+              ],
+              "size": [
+                3,
+                1,
+                0
+              ],
+              "uv": [
+                58,
+                15
+              ]
+            }
+          ]
+        },
+        {
+          "name": "sapling_head",
+          "parent": "body",
+          "pivot": [
+            0,
+            9.5,
+            0
+          ],
+          "cubes": [
+            {
+              "origin": [
+                -1,
+                9,
+                -1
+              ],
+              "size": [
+                2,
+                4,
+                2
+              ],
+              "uv": [
+                44,
+                8
+              ]
+            },
+            {
+              "origin": [
+                -3,
+                10,
+                0
+              ],
+              "size": [
+                6,
+                4,
+                0
+              ],
+              "uv": [
+                52,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "name": "magnets",
+          "parent": "body",
+          "pivot": [
+            0.5,
+            1,
+            0
+          ]
+        },
+        {
+          "name": "magnet_left",
+          "parent": "magnets",
+          "pivot": [
+            4,
+            5,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            20
+          ],
+          "cubes": [
+            {
+              "origin": [
+                3.5,
+                2,
+                -1
+              ],
+              "size": [
+                2,
+                6,
+                2
+              ],
+              "inflate": 0.01,
+              "uv": [
+                0,
+                0
+              ]
+            },
+            {
+              "origin": [
+                5,
+                2,
+                -1
+              ],
+              "size": [
+                5,
+                2,
+                2
+              ],
+              "uv": [
+                33,
+                0
+              ]
+            },
+            {
+              "origin": [
+                5.62156,
+                1,
+                -2.03805
+              ],
+              "size": [
+                1,
+                8,
+                6
+              ],
+              "inflate": 0.01,
+              "pivot": [
+                5.5,
+                5,
+                -9
+              ],
+              "rotation": [
+                0,
+                -5,
+                0
+              ],
+              "uv": [
+                50,
+                13
+              ]
+            },
+            {
+              "origin": [
+                5,
+                6,
+                -1
+              ],
+              "size": [
+                5,
+                2,
+                2
+              ],
+              "uv": [
+                49,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "name": "magnet_right",
+          "parent": "magnets",
+          "pivot": [
+            -4,
+            5,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            -20
+          ],
+          "cubes": [
+            {
+              "origin": [
+                -5.5,
+                2,
+                -1
+              ],
+              "size": [
+                2,
+                6,
+                2
+              ],
+              "inflate": 0.01,
+              "uv": [
+                24,
+                0
+              ],
+              "mirror": true
+            },
+            {
+              "origin": [
+                -10,
+                2,
+                -1
+              ],
+              "size": [
+                5,
+                2,
+                2
+              ],
+              "uv": [
+                33,
+                4
+              ],
+              "mirror": true
+            },
+            {
+              "origin": [
+                -6.62156,
+                1,
+                -2.03805
+              ],
+              "size": [
+                1,
+                8,
+                6
+              ],
+              "inflate": 0.01,
+              "pivot": [
+                -5.5,
+                5,
+                -9
+              ],
+              "rotation": [
+                0,
+                5,
+                0
+              ],
+              "uv": [
+                50,
+                13
+              ],
+              "mirror": true
+            },
+            {
+              "origin": [
+                -10,
+                6,
+                -1
+              ],
+              "size": [
+                5,
+                2,
+                2
+              ],
+              "uv": [
+                49,
+                4
+              ],
+              "mirror": true
+            }
+          ]
+        },
+        {
+          "name": "locator_item",
+          "parent": "magnet_right",
+          "pivot": [
+            -9.3,
+            5,
+            0
+          ],
+          "rotation": [
+            -8.51814,
+            9.18229,
+            -43.18528
+          ],
+          "locators": {
+            "item": [
+              -9.3,
+              5,
+              0
+            ]
+          }
+        }
+      ]
+    }
+  ]
 }
