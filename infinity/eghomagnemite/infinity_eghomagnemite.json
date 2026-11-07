@@ -1,11 +1,11 @@
 {
-  "portraitScale": 2.2,
+  "portraitScale": 1.59,
   "portraitTranslation": [
-    -0.1,
-    -1.5,
+    0,
+    -0.6,
     0
   ],
-  "profileScale": 1,
+  "profileScale": 0.88,
   "profileTranslation": [
     0,
     0.18,
@@ -18,7 +18,7 @@
         "sleep"
       ],
       "animations": [
-        "q.bedrock('magnemite', 'sleep')"
+        "q.bedrock('infinity_eghomagnemite', 'sleep')"
       ]
     },
     "hover": {
@@ -31,10 +31,10 @@
         "none"
       ],
       "quirks": [
-        "q.bedrock_quirk('magnemite', 'blink')"
+        "q.bedrock_quirk('infinity_eghomagnemite', 'blink')"
       ],
       "animations": [
-        "q.bedrock('magnemite', 'air_idle')"
+        "q.bedrock('infinity_eghomagnemite', 'air_idle')"
       ],
       "transformTicks": 10
     },
@@ -45,16 +45,16 @@
         "swim"
       ],
       "quirks": [
-        "q.bedrock_quirk('magnemite', 'blink')"
+        "q.bedrock_quirk('infinity_eghomagnemite', 'blink')"
       ],
       "animations": [
-        "q.bedrock('magnemite', 'air_fly')"
+        "q.bedrock('infinity_eghomagnemite', 'air_fly')"
       ],
       "transformTicks": 10
     }
   },
   "animations": {
-    "faint": "q.bedrock_primary('magnemite', 'faint', q.curve('one'))",
-    "cry": "q.bedrock_stateful('magnemite', 'cry')"
+    "faint": "q.bedrock_primary('infinity_eghomagnemite', 'faint', q.curve('one'))",
+    "cry": "q.bedrock_stateful('infinity_eghomagnemite', 'cry')"
   }
 }

@@ -1,17 +1,19 @@
 {
   "species": "cobblemon:pyukumuku",
-  "order": 196,
+  "order": 187,
   "variations": [
     {
       "aspects": [
         "fabelian"
       ],
-      "model": "cobblemon:cutout_gravelmon_128_by_128.geo",
-      "poser": "cobblemon:cutout_gravelmon_128_by_128",
-      "texture": "cobblemon:textures/pokemon/fabel/fabelianpyukumuku.png",
+      "poser": "cobblemon:fabel_fabelianpyukumuku",
+      "model": "cobblemon:fabel_fabelianpyukumuku.geo",
+      "texture": "cobblemon:textures/pokemon/fabel/fabelianpyukumuku/pyukumuku_fabelian.png",
       "layers": [
         {
-          "name": "emissive"
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/fabel/fabelianpyukumuku/pyukumuku_fabelian_emissive.png",
+          "emissive": true
         },
         {
           "name": "transparentEmissive"
@@ -33,6 +35,33 @@
         },
         {
           "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "fabelian"
+      ],
+      "texture": "cobblemon:textures/pokemon/fabel/fabelianpyukumuku/pyukumuku_fabelian_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/fabel/fabelianpyukumuku/pyukumuku_fabelian_shiny_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "fabelian"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/fabel/fabelianpyukumuku/pyukumuku_fabelian_alpha.png",
+          "emissive": true
         }
       ]
     }

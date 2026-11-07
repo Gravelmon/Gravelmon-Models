@@ -1,6 +1,12 @@
 {
   "files": {
     "0_sphertle_base.json": "assets/cobblemon/bedrock/species/mikitari/0_sphertle_base.json",
-    "sphertle.png": "assets/cobblemon/textures/pokemon/mikitari/sphertle.png"
+    "mikitari_sphertle.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mikitari_sphertle.animation.json",
+    "mikitari_sphertle.geo.json": "assets/cobblemon/bedrock/pokemon/models/mikitari_sphertle.geo.json",
+    "mikitari_sphertle.json": "assets/cobblemon/bedrock/pokemon/posers/mikitari_sphertle.json",
+    "sphertle.png": "assets/cobblemon/textures/pokemon/mikitari/sphertle.png",
+    "sphertle_alpha.png": "assets/cobblemon/textures/pokemon/mikitari/sphertle/sphertle_alpha.png",
+    "sphertle_shiny.png": "assets/cobblemon/textures/pokemon/mikitari/sphertle/sphertle_shiny.png",
+    "texture__sphertle.png": "assets/cobblemon/textures/pokemon/mikitari/sphertle/sphertle.png"
   }
 }
