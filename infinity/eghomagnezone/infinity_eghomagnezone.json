@@ -1,0 +1,99 @@
+{
+  "portraitScale": 0.6,
+  "portraitTranslation": [
+    -0.04,
+    0.95,
+    0
+  ],
+  "profileScale": 0.5,
+  "profileTranslation": [
+    0,
+    1.06,
+    0
+  ],
+  "rootBone": "magnezone",
+  "firstPersonCameraOffset": {
+    "seat_1": [
+      0,
+      0.45,
+      0
+    ]
+  },
+  "thirdPersonCameraOffset": {
+    "seat_1": [
+      0,
+      0.35,
+      0
+    ],
+    "seat_1_reverse": [
+      0,
+      0.35,
+      0
+    ]
+  },
+  "thirdPersonCameraOffsetNoViewBobbing": {
+    "seat_1": [
+      0,
+      0.35,
+      0
+    ],
+    "seat_1_reverse": [
+      0,
+      0.35,
+      0
+    ]
+  },
+  "poses": {
+    "hover": {
+      "poseTypes": [
+        "hover",
+        "stand",
+        "float",
+        "none",
+        "portrait",
+        "profile"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('infinity_eghomagnezone', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('infinity_eghomagnezone', 'air_idle')",
+        {
+          "condition": "q.is_ridden",
+          "animation": "q.bedrock('infinity_eghomagnezone', 'ride_air_fly')"
+        }
+      ],
+      "transformTicks": 10
+    },
+    "fly": {
+      "poseTypes": [
+        "fly",
+        "swim",
+        "walk"
+      ],
+      "animations": [
+        "q.bedrock('infinity_eghomagnezone', 'air_fly')",
+        {
+          "condition": "q.is_ridden",
+          "animation": "q.bedrock('infinity_eghomagnezone', 'ride_air_fly')"
+        }
+      ],
+      "transformTicks": 10
+    },
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "namedAnimations": {
+        "cry": "q.bedrock_stateful('infinity_eghomagnezone', 'cry')"
+      },
+      "animations": [
+        "q.bedrock('infinity_eghomagnezone', 'sleep')"
+      ]
+    }
+  },
+  "animations": {
+    "faint": "q.bedrock_primary('infinity_eghomagnezone', 'faint', q.curve('one'))",
+    "cry": "q.bedrock_stateful('infinity_eghomagnezone', 'cry')"
+  }
+}

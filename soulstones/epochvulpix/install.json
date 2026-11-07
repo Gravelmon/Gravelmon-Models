@@ -1,6 +1,12 @@
 {
   "files": {
     "164_vulpix_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_vulpix_epoch.json",
-    "epochvulpix.png": "assets/cobblemon/textures/pokemon/soulstones/epochvulpix.png"
+    "epoch-vulpix.png": "assets/cobblemon/textures/pokemon/soulstones/epochvulpix/epoch-vulpix.png",
+    "epoch-vulpix_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochvulpix/epoch-vulpix_alpha.png",
+    "epoch-vulpix_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochvulpix/epoch-vulpix_shiny.png",
+    "epochvulpix.png": "assets/cobblemon/textures/pokemon/soulstones/epochvulpix.png",
+    "soulstones_epochvulpix.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochvulpix.animation.json",
+    "soulstones_epochvulpix.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochvulpix.geo.json",
+    "soulstones_epochvulpix.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochvulpix.json"
   }
 }

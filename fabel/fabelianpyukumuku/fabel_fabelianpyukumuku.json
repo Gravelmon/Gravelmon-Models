@@ -1,0 +1,57 @@
+{
+  "portraitScale": 1.65,
+  "portraitTranslation": [
+    -0.1,
+    -0.8,
+    0
+  ],
+  "profileScale": 1,
+  "profileTranslation": [
+    0,
+    0.2,
+    0
+  ],
+  "rootBone": "pyukumuku",
+  "poses": {
+    "standing": {
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('fabel_fabelianpyukumuku', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('fabel_fabelianpyukumuku', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "walk",
+        "swim"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('fabel_fabelianpyukumuku', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('fabel_fabelianpyukumuku', 'ground_walk')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "animations": [
+        "q.bedrock('fabel_fabelianpyukumuku', 'sleep')"
+      ]
+    }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('fabel_fabelianpyukumuku', 'cry')",
+    "recoil": "q.bedrock_stateful('fabel_fabelianpyukumuku', 'recoil')",
+    "faint": "q.bedrock_primary('fabel_fabelianpyukumuku', 'faint', q.curve('one'))"
+  }
+}
