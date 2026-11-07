@@ -11,9 +11,6 @@
       "texture": "cobblemon:textures/pokemon/infinity/eghomagnemite/egho_magnemite.png",
       "layers": [
         {
-          "name": "alpha_eyes"
-        },
-        {
           "name": "emissive"
         },
         {

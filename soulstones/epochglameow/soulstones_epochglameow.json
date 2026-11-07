@@ -11,72 +11,61 @@
     0.74,
     0
   ],
+  "rootBone": "glameow_epoch",
   "poses": {
     "battle-standing": {
-      "poseName": "battle-standing",
+      "isBattle": true,
+      "poseTypes": [
+        "stand"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochglameow', 'blink')"
+      ],
       "animations": [
         "q.bedrock('soulstones_epochglameow', 'battle_idle')"
-      ],
-      "poseTypes": [
-        "STAND"
-      ],
-      "isBattle": true,
-      "quirks": [
-        "q.bedrock_quirk('soulstones_epochglameow', 'blink')"
-      ],
-      "namedAnimations": {},
-      "transformedParts": []
+      ]
     },
     "standing": {
-      "poseName": "standing",
-      "animations": [
-        "q.bedrock('soulstones_epochglameow', 'ground_idle')"
-      ],
-      "poseTypes": [
-        "STAND",
-        "PROFILE",
-        "PORTRAIT",
-        "OPEN",
-        "NONE"
-      ],
       "isBattle": false,
+      "poseTypes": [
+        "stand",
+        "profile",
+        "portrait",
+        "open",
+        "none"
+      ],
       "quirks": [
         "q.bedrock_quirk('soulstones_epochglameow', 'blink')"
       ],
-      "namedAnimations": {},
-      "transformedParts": []
+      "animations": [
+        "q.bedrock('soulstones_epochglameow', 'ground_idle')"
+      ]
     },
     "walking": {
-      "poseName": "walking",
-      "animations": [
-        "q.bedrock('soulstones_epochglameow', 'ground_idle')"
-      ],
       "poseTypes": [
-        "WALK"
+        "walk",
+        "swim"
       ],
       "quirks": [
         "q.bedrock_quirk('soulstones_epochglameow', 'blink')"
       ],
-      "namedAnimations": {},
-      "transformedParts": []
+      "animations": [
+        "q.bedrock('soulstones_epochglameow', 'ground_idle')",
+        "q.quadruped_walk(0.5, 0.84, 'left_upper_front_leg', 'right_upper_front_leg', 'left_upper_back_leg', 'right_upper_back_leg')"
+      ]
     },
     "sleeping": {
-      "poseName": "sleeping",
-      "animations": [
-        "q.bedrock('soulstones_epochglameow', 'sleep')"
-      ],
       "poseTypes": [
-        "SLEEP"
+        "sleep"
       ],
       "quirks": [
         "q.bedrock_quirk('soulstones_epochglameow', 'sleep_quirk')"
       ],
-      "namedAnimations": {},
-      "transformedParts": []
+      "animations": [
+        "q.bedrock('soulstones_epochglameow', 'sleep')"
+      ]
     }
   },
-  "rootBone": "glameow_epoch",
-  "head": "head",
   "animations": {
     "cry": "q.bedrock_stateful('soulstones_epochglameow', 'cry')"
   }
