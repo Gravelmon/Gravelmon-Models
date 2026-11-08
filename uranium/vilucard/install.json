@@ -1,5 +1,13 @@
 {
   "files": {
-    "vilucard.png": "assets/cobblemon/textures/pokemon/uranium/vilucard.png"
+    "0_vilucard_base.json": "assets/cobblemon/bedrock/species/uranium/0_vilucard_base.json",
+    "texture__vilucard.png": "assets/cobblemon/textures/pokemon/uranium/vilucard/vilucard.png",
+    "uranium_vilucard.animation.json": "assets/cobblemon/bedrock/pokemon/animations/uranium_vilucard.animation.json",
+    "uranium_vilucard.geo.json": "assets/cobblemon/bedrock/pokemon/models/uranium_vilucard.geo.json",
+    "uranium_vilucard.json": "assets/cobblemon/bedrock/pokemon/posers/uranium_vilucard.json",
+    "vilucard.png": "assets/cobblemon/textures/pokemon/uranium/vilucard.png",
+    "vilucard_alpha.png": "assets/cobblemon/textures/pokemon/uranium/vilucard/vilucard_alpha.png",
+    "vilucard_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/vilucard_cry.ogg",
+    "vilucard_shiny.png": "assets/cobblemon/textures/pokemon/uranium/vilucard/vilucard_shiny.png"
   }
 }
