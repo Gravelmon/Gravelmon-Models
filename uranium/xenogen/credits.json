@@ -1,0 +1,35 @@
+{
+  "game": "uranium",
+  "pokemon": "xenogen",
+  "entries": [
+    {
+      "contributor": {
+        "login": "N0file"
+      },
+      "contributors": [
+        {
+          "login": "N0file"
+        },
+        {
+          "login": "PiitchyB"
+        }
+      ],
+      "submittedAt": "2026-11-08T21:25:06.764Z",
+      "models": [
+        "uranium/xenogen/uranium_xenogen.geo.json"
+      ],
+      "animations": [
+        "uranium/xenogen/uranium_xenogen.animation.json"
+      ],
+      "textures": [
+        "uranium/xenogen/texture__xenogen.png",
+        "uranium/xenogen/xenogen_alpha.png",
+        "uranium/xenogen/xenogen_emissive.png",
+        "uranium/xenogen/xenogen_shiny.png",
+        "uranium/xenogen/xenogen_shiny_emissive.png",
+        "uranium/xenogen/xenogen.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

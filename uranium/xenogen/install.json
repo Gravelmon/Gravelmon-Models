@@ -6,6 +6,7 @@
     "uranium_xenogen.geo.json": "assets/cobblemon/bedrock/pokemon/models/uranium_xenogen.geo.json",
     "uranium_xenogen.json": "assets/cobblemon/bedrock/pokemon/posers/uranium_xenogen.json",
     "xenogen.png": "assets/cobblemon/textures/pokemon/uranium/xenogen.png",
+    "xenogen_alpha.png": "assets/cobblemon/textures/pokemon/uranium/xenogen/xenogen_alpha.png",
     "xenogen_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/xenogen_cry.ogg",
     "xenogen_emissive.png": "assets/cobblemon/textures/pokemon/uranium/xenogen/xenogen_emissive.png",
     "xenogen_shiny.png": "assets/cobblemon/textures/pokemon/uranium/xenogen/xenogen_shiny.png",
