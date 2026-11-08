@@ -3,22 +3,11 @@
   "order": 0,
   "variations": [
     {
-      "aspects": [
-        "shiny",
-        "alpha_eyes"
-      ],
+      "aspects": [],
       "poser": "cobblemon:aroma_puddacuta",
       "model": "cobblemon:aroma_puddacuta.geo",
       "texture": "cobblemon:textures/pokemon/aroma/puddacuta/puddacuta.png",
       "layers": [
-        {
-          "name": "shiny",
-          "texture": "cobblemon:textures/pokemon/aroma/puddacuta/puddacuta_shiny.png"
-        },
-        {
-          "name": "alpha_eyes",
-          "texture": "cobblemon:textures/pokemon/aroma/puddacuta/puddacuta_alpha.png"
-        },
         {
           "name": "emissive"
         },
@@ -42,6 +31,23 @@
         },
         {
           "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/aroma/puddacuta/puddacuta_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/aroma/puddacuta/puddacuta_alpha.png"
         }
       ]
     }

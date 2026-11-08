@@ -1,14 +1,14 @@
 {
-  "portraitScale": 0.66,
+  "portraitScale": 0.61,
   "portraitTranslation": [
-    -0.1,
-    0.84,
+    -0.23,
+    0.86,
     0
   ],
-  "profileScale": 0.47,
+  "profileScale": 0.41,
   "profileTranslation": [
-    0.07,
-    0.94,
+    -0.04,
+    1.08,
     0
   ],
   "rootBone": "puddacuta",
@@ -19,11 +19,10 @@
     },
     "walking": {
       "poseTypes": [
-        "walk",
-        "swim"
+        "walk"
       ],
       "animations": [
-        "q.bimanual_swing(0.82, 0.12, 'armleft', 'armright')"
+        "q.bimanual_swing(0.3, 0.1, 'armleft', 'armright')"
       ]
     }
   }
