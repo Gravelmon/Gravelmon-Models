@@ -2,6 +2,12 @@
   "files": {
     "118_yanma_delta.json": "assets/cobblemon/bedrock/species/additional_forms/118_yanma_delta.json",
     "deltayanma.png": "assets/cobblemon/textures/pokemon/insurgence/deltayanma.png",
-    "yanma_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/yanma_delta_cry.ogg"
+    "insurgence_deltayanma.animation.json": "assets/cobblemon/bedrock/pokemon/animations/insurgence_deltayanma.animation.json",
+    "insurgence_deltayanma.geo.json": "assets/cobblemon/bedrock/pokemon/models/insurgence_deltayanma.geo.json",
+    "insurgence_deltayanma.json": "assets/cobblemon/bedrock/pokemon/posers/insurgence_deltayanma.json",
+    "yanma_delta.png": "assets/cobblemon/textures/pokemon/insurgence/deltayanma/yanma_delta.png",
+    "yanma_delta_alpha.png": "assets/cobblemon/textures/pokemon/insurgence/deltayanma/yanma_delta_alpha.png",
+    "yanma_delta_cry.ogg": "assets/gravelmon/sounds/pokemon/insurgence/yanma_delta_cry.ogg",
+    "yanma_delta_shiny.png": "assets/cobblemon/textures/pokemon/insurgence/deltayanma/yanma_delta_shiny.png"
   }
 }

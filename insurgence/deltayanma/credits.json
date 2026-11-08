@@ -1,0 +1,37 @@
+{
+  "game": "pokemon",
+  "pokemon": "yanma",
+  "entries": [
+    {
+      "formAspects": [
+        "delta"
+      ],
+      "inheritsFrom": {
+        "pokemon": "yanma",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "PiitchyB"
+      },
+      "contributors": [
+        {
+          "login": "PiitchyB"
+        }
+      ],
+      "submittedAt": "2026-11-08T00:48:08.733Z",
+      "models": [
+        "insurgence/deltayanma/insurgence_deltayanma.geo.json"
+      ],
+      "animations": [
+        "insurgence/deltayanma/insurgence_deltayanma.animation.json"
+      ],
+      "textures": [
+        "insurgence/deltayanma/yanma_delta.png",
+        "insurgence/deltayanma/yanma_delta_alpha.png",
+        "insurgence/deltayanma/yanma_delta_shiny.png",
+        "insurgence/deltayanma/deltayanma.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

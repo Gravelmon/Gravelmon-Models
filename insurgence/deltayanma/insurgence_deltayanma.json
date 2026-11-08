@@ -1,0 +1,52 @@
+{
+  "portraitScale": 2.51,
+  "portraitTranslation": [
+    -0.8,
+    0.9,
+    0
+  ],
+  "profileScale": 0.76,
+  "profileTranslation": [
+    0,
+    0.82,
+    0
+  ],
+  "headBone": "head",
+  "rootBone": "yanma",
+  "poses": {
+    "standing": {
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "float",
+        "hover"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('insurgence_deltayanma', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('insurgence_deltayanma', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "walk",
+        "swim",
+        "fly"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('insurgence_deltayanma', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('insurgence_deltayanma', 'ground_walk')"
+      ]
+    }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('insurgence_deltayanma', 'cry')"
+  }
+}
