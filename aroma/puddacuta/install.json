@@ -1,6 +1,11 @@
 {
   "files": {
     "0_puddacuta_base.json": "assets/cobblemon/bedrock/species/aroma/0_puddacuta_base.json",
-    "puddacuta.png": "assets/cobblemon/textures/pokemon/aroma/puddacuta.png"
+    "aroma_puddacuta.geo.json": "assets/cobblemon/bedrock/pokemon/models/aroma_puddacuta.geo.json",
+    "aroma_puddacuta.json": "assets/cobblemon/bedrock/pokemon/posers/aroma_puddacuta.json",
+    "puddacuta.png": "assets/cobblemon/textures/pokemon/aroma/puddacuta.png",
+    "puddacuta_alpha.png": "assets/cobblemon/textures/pokemon/aroma/puddacuta/puddacuta_alpha.png",
+    "puddacuta_shiny.png": "assets/cobblemon/textures/pokemon/aroma/puddacuta/puddacuta_shiny.png",
+    "texture__puddacuta.png": "assets/cobblemon/textures/pokemon/aroma/puddacuta/puddacuta.png"
   }
 }

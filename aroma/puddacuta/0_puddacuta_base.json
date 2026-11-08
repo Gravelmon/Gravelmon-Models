@@ -3,11 +3,22 @@
   "order": 0,
   "variations": [
     {
-      "aspects": [],
-      "model": "cobblemon:cutout_gravelmon_128_by_128.geo",
-      "poser": "cobblemon:cutout_gravelmon_128_by_128",
-      "texture": "cobblemon:textures/pokemon/aroma/puddacuta.png",
+      "aspects": [
+        "shiny",
+        "alpha_eyes"
+      ],
+      "poser": "cobblemon:aroma_puddacuta",
+      "model": "cobblemon:aroma_puddacuta.geo",
+      "texture": "cobblemon:textures/pokemon/aroma/puddacuta/puddacuta.png",
       "layers": [
+        {
+          "name": "shiny",
+          "texture": "cobblemon:textures/pokemon/aroma/puddacuta/puddacuta_shiny.png"
+        },
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/aroma/puddacuta/puddacuta_alpha.png"
+        },
         {
           "name": "emissive"
         },

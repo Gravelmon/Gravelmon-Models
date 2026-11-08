@@ -1,0 +1,28 @@
+{
+  "game": "aroma",
+  "pokemon": "puddacuta",
+  "entries": [
+    {
+      "contributor": {
+        "login": "krazyclutz"
+      },
+      "contributors": [
+        {
+          "login": "krazyclutz"
+        }
+      ],
+      "submittedAt": "2026-11-08T02:38:13.665Z",
+      "models": [
+        "aroma/puddacuta/aroma_puddacuta.geo.json"
+      ],
+      "animations": [],
+      "textures": [
+        "aroma/puddacuta/texture__puddacuta.png",
+        "aroma/puddacuta/puddacuta_alpha.png",
+        "aroma/puddacuta/puddacuta_shiny.png",
+        "aroma/puddacuta/puddacuta.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
