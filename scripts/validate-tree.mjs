@@ -5,6 +5,93 @@
 import { existsSync, readdirSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 
+// src/content/gameItems.ts
+var ITEMS_FOLDER = "_items";
+
+// src/gravelmon-dynamodb/models/assets/posing/poseTypeDefaults.ts
+var POSE_TYPE_ANIMATION_CANDIDATES = {
+  // The four idle pose types stay on the ground clip whenever there is one, even for swimmers
+  // (59% of aquatic STAND poses) and flyers (80%), because that is the neutral display pose.
+  ["STAND" /* STAND */]: idleCandidates(),
+  ["NONE" /* NONE */]: idleCandidates(),
+  ["PORTRAIT" /* PORTRAIT */]: idleCandidates(),
+  ["PROFILE" /* PROFILE */]: idleCandidates(),
+  ["WALK" /* WALK */]: [
+    { clip: "ground_walk" /* GroundWalk */, requires: "walk" /* Walk */ },
+    { clip: "ground_idle" /* GroundIdle */ }
+  ],
+  ["SWIM" /* SWIM */]: [
+    { clip: "air_fly" /* AirFly */, requires: "fly" /* Fly */ },
+    { clip: "water_swim" /* WaterSwim */, requires: "swim" /* Swim */ },
+    { clip: "surfacewater_swim" /* SurfacewaterSwim */, requires: "walkOnLiquid" /* WalkOnLiquid */ },
+    { clip: "surface_swim" /* SurfaceSwim */, requires: "walkOnLiquid" /* WalkOnLiquid */ },
+    { clip: "ground_walk" /* GroundWalk */, requires: "walk" /* Walk */ },
+    { clip: "ground_idle" /* GroundIdle */ }
+  ],
+  ["FLOAT" /* FLOAT */]: [
+    { clip: "air_idle" /* AirIdle */, requires: "fly" /* Fly */ },
+    { clip: "water_idle" /* WaterIdle */, requires: "swim" /* Swim */ },
+    { clip: "surfacewater_idle" /* SurfacewaterIdle */, requires: "walkOnLiquid" /* WalkOnLiquid */ },
+    { clip: "surface_idle" /* SurfaceIdle */, requires: "walkOnLiquid" /* WalkOnLiquid */ },
+    { clip: "ground_idle" /* GroundIdle */ }
+  ],
+  ["HOVER" /* HOVER */]: [
+    { clip: "air_idle" /* AirIdle */, requires: "fly" /* Fly */ },
+    { clip: "ground_idle" /* GroundIdle */ }
+  ],
+  ["FLY" /* FLY */]: [
+    { clip: "air_fly" /* AirFly */, requires: "fly" /* Fly */ },
+    { clip: "air_idle" /* AirIdle */, requires: "fly" /* Fly */ },
+    { clip: "ground_walk" /* GroundWalk */, requires: "walk" /* Walk */ },
+    { clip: "ground_idle" /* GroundIdle */ }
+  ],
+  ["SLEEP" /* SLEEP */]: [
+    { clip: "sleep" /* Sleep */ },
+    { clip: "resting" /* Resting */ },
+    { clip: "ground_idle" /* GroundIdle */ }
+  ],
+  ["SHOULDER_LEFT" /* SHOULDER_LEFT */]: [
+    { clip: "shoulder_left" /* ShoulderLeft */ },
+    { clip: "ground_idle" /* GroundIdle */ }
+  ],
+  ["SHOULDER_RIGHT" /* SHOULDER_RIGHT */]: [
+    { clip: "shoulder_right" /* ShoulderRight */ },
+    { clip: "ground_idle" /* GroundIdle */ }
+  ]
+};
+function idleCandidates() {
+  return [
+    { clip: "ground_idle" /* GroundIdle */ },
+    { clip: "water_idle" /* WaterIdle */, requires: "swim" /* Swim */ },
+    { clip: "air_idle" /* AirIdle */, requires: "fly" /* Fly */ },
+    { clip: "surfacewater_idle" /* SurfacewaterIdle */, requires: "walkOnLiquid" /* WalkOnLiquid */ },
+    { clip: "surface_idle" /* SurfaceIdle */, requires: "walkOnLiquid" /* WalkOnLiquid */ }
+  ];
+}
+var POSE_TYPE_ORDER = [
+  "STAND" /* STAND */,
+  "NONE" /* NONE */,
+  "PORTRAIT" /* PORTRAIT */,
+  "PROFILE" /* PROFILE */,
+  "WALK" /* WALK */,
+  "SWIM" /* SWIM */,
+  "FLOAT" /* FLOAT */,
+  "HOVER" /* HOVER */,
+  "FLY" /* FLY */
+];
+var POSE_TYPE_CAPABILITY = {
+  ["WALK" /* WALK */]: "walk" /* Walk */,
+  ["SWIM" /* SWIM */]: "enterWater" /* EnterWater */,
+  ["FLOAT" /* FLOAT */]: "enterWater" /* EnterWater */,
+  ["HOVER" /* HOVER */]: "fly" /* Fly */,
+  ["FLY" /* FLY */]: "fly" /* Fly */
+};
+var POSE_MOVE_ANIMATIONS = [
+  "physical" /* Physical */,
+  "special" /* Special */,
+  "status" /* Status */
+];
+
 // src/services/remote/aspectOrder.json
 var aspectOrder_default = {
   alolan: 1,
@@ -203,10 +290,154 @@ var aspectOrder_default = {
   guitarist: 194,
   drummer: 195,
   bassist: 196,
-  nuclear: 197
+  nuclear: 197,
+  "blaze-breed": 198,
+  "aqua-breed": 199,
+  "standard-mode": 200,
+  "zen-mode": 201,
+  primal: 202,
+  enjinnian: 203,
+  havaiian: 204,
+  amazeall: 205,
+  lostislands: 206,
+  "character-!": 207,
+  "character-?": 208,
+  "character-b": 209,
+  "character-c": 210,
+  "character-d": 211,
+  "character-e": 212,
+  "character-f": 213,
+  "character-g": 214,
+  "character-h": 215,
+  "character-i": 216,
+  "character-j": 217,
+  "character-k": 218,
+  "character-l": 219,
+  "character-m": 220,
+  "character-n": 221,
+  "character-o": 222,
+  "character-p": 223,
+  "character-q": 224,
+  "character-r": 225,
+  "character-s": 226,
+  "character-t": 227,
+  "character-u": 228,
+  "character-v": 229,
+  "character-w": 230,
+  "character-x": 231,
+  "character-y": 232,
+  "character-z": 233,
+  "attack-forme": 234,
+  "defense-forme": 235,
+  "speed-forme": 236,
+  "trash-cloak": 237,
+  "sunshine-form": 238,
+  "east-sea": 239,
+  "fan-appliance": 240,
+  "frost-appliance": 241,
+  "heat-appliance": 242,
+  "mow-appliance": 243,
+  "wash-appliance": 244,
+  "origin-forme": 245,
+  "sky-forme": 246,
+  "bug-plate": 247,
+  whitestriped: 248,
+  autumn: 249,
+  winter: 250,
+  "therian-forme": 251,
+  "black-fusion": 252,
+  "white-fusion": 253,
+  "resolute-form": 254,
+  "pirouette-forme": 255,
+  "burn-drive": 256,
+  "chill-drive": 257,
+  "douse-drive": 258,
+  "shock-drive": 259,
+  ash: 260,
+  bond: 261,
+  "vivillon-wings-poke-ball": 262,
+  "flower-blue": 263,
+  "flower-orange": 264,
+  "flower-white": 265,
+  "flower-yellow": 266,
+  "flower-eternal": 267,
+  "cinnamon-trim": 268,
+  "crusader-trim": 269,
+  "dandy-trim": 270,
+  "debutante-trim": 271,
+  "diamond-trim": 272,
+  "heart-trim": 273,
+  "kabuki-trim": 274,
+  "la_reine-trim": 275,
+  "lavender-trim": 276,
+  "matcha-trim": 277,
+  "matron-trim": 278,
+  "mourner-trim": 279,
+  "pharaoh-trim": 280,
+  "star-trim": 281,
+  "blade-forme": 282,
+  "pumpkin-size-large": 283,
+  "pumpkin-size-small": 284,
+  "pumpkin-size-super": 285,
+  "10-percent": 286,
+  "50-percent": 287,
+  "power-construct": 288,
+  "complete-percent": 289,
+  unbound: 290,
+  "pa'u-style": 291,
+  "pom_pom-style": 292,
+  "sensu-style": 293,
+  "dusk-form": 294,
+  "midnight-form": 295,
+  "bug-memory": 296,
+  "meteor-form": 297,
+  "busted-form": 298,
+  "dawn-fusion": 299,
+  "dusk-fusion": 300,
+  "ultra-fusion": 301,
+  "original-color": 302,
+  "gorging-form": 303,
+  "gulping-form": 304,
+  "low_key-form": 305,
+  antique: 306,
+  "cream-caramel_swirl": 307,
+  "cream-lemon": 308,
+  "cream-matcha": 309,
+  "cream-mint": 310,
+  "cream-rainbow_swirl": 311,
+  "cream-ruby": 312,
+  "cream-ruby_swirl": 313,
+  "cream-salted": 314,
+  noice_face: 315,
+  "hangry-mode": 316,
+  crowned: 317,
+  eternamax: 318,
+  "rapid_strike-style": 319,
+  "dada-cape": 320,
+  bloodmoon: 321,
+  "maushold-family-four": 322,
+  "squawkabilly-color-blue": 323,
+  "squawkabilly-color-gray": 324,
+  "squawkabilly-color-yellow": 325,
+  "hero-form": 326,
+  "tatsugiri-texture-droopy": 327,
+  "tatsugiri-texture-stretchy": 328,
+  roaming: 329,
+  artisan: 330,
+  masterpiece: 331,
+  "cornerstone-mask": 332,
+  "embody-aspect": 333,
+  "hearthflame-mask": 334,
+  "wellspring-mask": 335,
+  "stellar-form": 336,
+  "terastal-form": 337,
+  "amped-form": 338,
+  "single_strike-style": 339,
+  "teal-mask": 340
 };
 
 // src/services/remote/gravelmonPaths.ts
+var VANILLA_PREVIEWS_FOLDER = "_previews";
 var ASPECT_ORDER = aspectOrder_default;
 var ASPECT_BY_ORDINAL = new Map(
   Object.entries(ASPECT_ORDER).map(([aspect, order]) => [order, aspect])
@@ -450,6 +681,29 @@ function checkFolderFiles(folder, manifest) {
   return issues;
 }
 
+// src/particles/particleRecord.ts
+var PARTICLE_NAME = /^[a-z0-9_]{1,64}$/;
+var PARTICLES_FOLDER = "_particles";
+function particleFileNames(name) {
+  return { json: `${name}.particle.json`, png: `${name}.png` };
+}
+function particleInstallPaths(name) {
+  return {
+    json: `assets/gravelmon/bedrock/particles/${name}.particle.json`,
+    png: `assets/gravelmon/textures/particle/${name}.png`
+  };
+}
+function particleInstall(name, withPng) {
+  const files = particleFileNames(name);
+  const install = particleInstallPaths(name);
+  return {
+    files: {
+      [files.json]: install.json,
+      ...withPng ? { [files.png]: install.png } : {}
+    }
+  };
+}
+
 // src/gravelmon-species/sha256.ts
 var K = new Uint32Array([
   1116352408,
@@ -521,6 +775,10 @@ var K = new Uint32Array([
 // src/gravelmon-species/speciesKeys.ts
 var CATALOG_INDEX = "gsi-catalog";
 var BULK_INDEX = "gsi-bulk";
+var REFERENCE_PREFIX = "REF#";
+var GAME_ITEM_PARTITION = `${REFERENCE_PREFIX}ITEM`;
+var PARTICLE_PARTITION = `${REFERENCE_PREFIX}PARTICLE`;
+var ASPECT_PARTITION = `${REFERENCE_PREFIX}ASPECT`;
 var CHANGE_REQUEST_INDEX = "gsi-cr";
 var CATALOG_PROJECTED_ATTRIBUTES = [
   "formId",
@@ -531,8 +789,7 @@ var CATALOG_PROJECTED_ATTRIBUTES = [
   "name",
   "primaryType",
   "secondaryType",
-  "preEvolution",
-  "abilities"
+  "preEvolution"
 ];
 var SPECIES_TABLE_SCHEMA = {
   keySchema: [
@@ -617,14 +874,23 @@ function annotate(level, message) {
 }
 
 // src/models-ci/validateTree.ts
-var NON_GAME_ROOTS = [".git", ".github", "scripts", "node_modules", "_unreferenced"];
+var NON_GAME_ROOTS = [
+  ".git",
+  ".github",
+  "scripts",
+  "node_modules",
+  "_unreferenced",
+  VANILLA_PREVIEWS_FOLDER
+];
 var ALLOWED_ROOT_FILES = [
   "VERSION",
   "MIGRATION.md",
   "README.md",
   "LICENSE",
   ".gitattributes",
-  ".gitignore"
+  ".gitignore",
+  // Read by validate-assets.mjs: forms whose known crash safety problems it reports as warnings.
+  "crash-safety-baseline.json"
 ];
 function walk(directory, prefix = "") {
   const files = [];
@@ -658,7 +924,9 @@ function readModelsTree(root) {
         continue;
       }
       if (!entry.isDirectory()) {
-        warnings.push(`${path} is a file directly inside a game folder; form folders are <game>/<name>/.`);
+        warnings.push(
+          `${path} is a file directly inside a game folder; form folders are <game>/<name>/.`
+        );
         continue;
       }
       const directory = join(root, top.name, entry.name);
@@ -666,7 +934,9 @@ function readModelsTree(root) {
       let manifest;
       if (files.includes(FORM_FOLDER_INSTALL_FILE)) {
         try {
-          manifest = JSON.parse(readFileSync(join(directory, FORM_FOLDER_INSTALL_FILE), "utf8"));
+          manifest = JSON.parse(
+            readFileSync(join(directory, FORM_FOLDER_INSTALL_FILE), "utf8")
+          );
         } catch (cause) {
           manifest = null;
           parseIssues.push({
@@ -682,12 +952,51 @@ function readModelsTree(root) {
   folders.sort((a, b) => a.path < b.path ? -1 : 1);
   return { folders, parseIssues, warnings };
 }
+function isItemFolder(path) {
+  return path.startsWith(`${ITEMS_FOLDER}/`);
+}
+function isParticleFolder(path) {
+  return path.startsWith(`${PARTICLES_FOLDER}/`);
+}
+function particleFolderIssues(folder) {
+  const issue = (message) => ({
+    code: "particle_folder",
+    folder: folder.path,
+    message
+  });
+  const name = folder.path.slice(PARTICLES_FOLDER.length + 1);
+  if (!PARTICLE_NAME.test(name)) {
+    return [
+      issue(
+        "A particle folder is _particles/<name>, the name in lowercase letters, digits and _."
+      )
+    ];
+  }
+  const files = particleFileNames(name);
+  const allowed = [files.json, files.png, "install.json", "credits.json"];
+  const issues = folder.files.filter((file) => !allowed.includes(file)).map(
+    (file) => issue(`${file} does not belong here: a particle folder holds ${allowed.join(", ")}.`)
+  );
+  if (!folder.files.includes(files.json)) {
+    issues.push(issue(`${files.json} is missing.`));
+  }
+  const expected = particleInstall(name, folder.files.includes(files.png));
+  if (folder.manifest !== void 0 && JSON.stringify(folder.manifest) !== JSON.stringify(expected)) {
+    issues.push(issue(`install.json must be exactly ${JSON.stringify(expected)}.`));
+  }
+  return issues;
+}
 function validateTreeAt(root, expectedVersion) {
   const { folders, parseIssues, warnings } = readModelsTree(root);
   const unparsable = new Set(parseIssues.map((issue) => issue.folder));
   const issues = [
     ...parseIssues,
-    ...validateModelsTree(folders).filter((issue) => !unparsable.has(issue.folder))
+    ...validateModelsTree(folders).filter(
+      (issue) => !unparsable.has(issue.folder) && // A particle or item folder is not <game>/<form>. A particle folder's own layout rule below replaces
+      // that one; an item folder is held to the install.json rules only.
+      !(issue.code === "bad_folder_path" && (isParticleFolder(issue.folder) || isItemFolder(issue.folder)))
+    ),
+    ...folders.filter((folder) => isParticleFolder(folder.path)).flatMap(particleFolderIssues)
   ];
   if (expectedVersion !== void 0) {
     const versionFile = join(root, "VERSION");
