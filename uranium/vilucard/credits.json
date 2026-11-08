@@ -1,0 +1,32 @@
+{
+  "game": "uranium",
+  "pokemon": "vilucard",
+  "entries": [
+    {
+      "contributor": {
+        "login": "satanbacons"
+      },
+      "contributors": [
+        {
+          "login": "satanbacons"
+        }
+      ],
+      "submittedAt": "2026-11-07T04:19:45.988Z",
+      "models": [
+        "uranium/vilucard/uranium_vilucard.geo.json"
+      ],
+      "animations": [
+        "uranium/vilucard/uranium_vilucard.animation.json"
+      ],
+      "textures": [
+        "uranium/vilucard/texture__vilucard.png",
+        "uranium/vilucard/vilucard_alpha.png",
+        "uranium/vilucard/vilucard_shiny.png",
+        "uranium/vilucard/vilucard.png"
+      ],
+      "sounds": [
+        "uranium/vilucard/vilucard_cry.ogg"
+      ]
+    }
+  ]
+}

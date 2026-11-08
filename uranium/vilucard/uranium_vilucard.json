@@ -1,0 +1,64 @@
+{
+  "portraitScale": 1.25,
+  "portraitTranslation": [
+    -0.15,
+    1.34,
+    0
+  ],
+  "profileScale": 0.6,
+  "profileTranslation": [
+    0,
+    0.95,
+    0
+  ],
+  "rootBone": "vilucard",
+  "poses": {
+    "standing": {
+      "isBattle": false,
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "float",
+        "hover"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('uranium_vilucard', 'blink')",
+        "q.bedrock_quirk('uranium_vilucard', 'quirk')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('uranium_vilucard', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "walk",
+        "swim",
+        "fly"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('uranium_vilucard', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('uranium_vilucard', 'ground_walk')"
+      ]
+    },
+    "battle-standing": {
+      "isBattle": true,
+      "poseTypes": [
+        "stand"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('uranium_vilucard', 'blink')",
+        "q.bedrock_quirk('uranium_vilucard', 'battle_quirk')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('uranium_vilucard', 'battle_idle')"
+      ]
+    }
+  }
+}
