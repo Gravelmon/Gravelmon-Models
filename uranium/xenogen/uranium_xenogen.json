@@ -1,18 +1,49 @@
 {
-  "portraitScale": 1.1,
+  "portraitScale": 1.26,
   "portraitTranslation": [
-    -0.4,
-    1.5,
-    0.2
+    -0.48,
+    1.27,
+    0
   ],
-  "profileScale": 0.45,
+  "profileScale": 0.43,
   "profileTranslation": [
     0,
-    1.1,
-    -18
+    0.93,
+    0
   ],
+  "headBone": "head",
   "rootBone": "xenogen",
   "poses": {
+    "standing": {
+      "isBattle": false,
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('uranium_xenogen', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('uranium_xenogen', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "walk",
+        "swim"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('uranium_xenogen', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('uranium_xenogen', 'ground_walk')"
+      ]
+    },
     "battle-standing": {
       "isBattle": true,
       "poseTypes": [
@@ -22,42 +53,16 @@
         "q.bedrock_quirk('uranium_xenogen', 'blink')"
       ],
       "animations": [
+        "q.look('head')",
         "q.bedrock('uranium_xenogen', 'battle_idle')"
       ]
     },
-    "sleeping": {
+    "sleep": {
       "poseTypes": [
         "sleep"
       ],
       "animations": [
         "q.bedrock('uranium_xenogen', 'sleep')"
-      ]
-    },
-    "standing": {
-      "isBattle": false,
-      "poseTypes": [
-        "stand",
-        "profile",
-        "portrait",
-        "open",
-        "none"
-      ],
-      "quirks": [
-        "q.bedrock_quirk('uranium_xenogen', 'blink')"
-      ],
-      "animations": [
-        "q.bedrock('uranium_xenogen', 'ground_idle')"
-      ]
-    },
-    "walking": {
-      "poseTypes": [
-        "walk"
-      ],
-      "quirks": [
-        "q.bedrock_quirk('uranium_xenogen', 'blink')"
-      ],
-      "animations": [
-        "q.bedrock('uranium_xenogen', 'ground_walk')"
       ]
     }
   }
