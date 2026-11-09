@@ -1,0 +1,30 @@
+{
+  "game": "mythire",
+  "pokemon": "candore",
+  "entries": [
+    {
+      "contributor": {
+        "login": "Neoxaivus"
+      },
+      "contributors": [
+        {
+          "login": "Neoxaivus"
+        }
+      ],
+      "submittedAt": "2026-11-09T17:00:39.491Z",
+      "models": [
+        "mythire/candore/mythire_candore.geo.json"
+      ],
+      "animations": [
+        "mythire/candore/mythire_candore.animation.json"
+      ],
+      "textures": [
+        "mythire/candore/texture__candore.png",
+        "mythire/candore/candore_alpha.png",
+        "mythire/candore/candore_shiny.png",
+        "mythire/candore/candore.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

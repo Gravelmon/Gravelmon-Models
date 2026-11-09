@@ -1,0 +1,68 @@
+{
+  "portraitScale": 1.8,
+  "portraitTranslation": [
+    0,
+    -0.9,
+    0
+  ],
+  "profileScale": 1,
+  "profileTranslation": [
+    0,
+    0.21,
+    0
+  ],
+  "rootBone": "candore",
+  "poses": {
+    "standing": {
+      "isBattle": false,
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('mythire_candore', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('mythire_candore', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "walk",
+        "swim"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('mythire_candore', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('mythire_candore', 'ground_walk')"
+      ]
+    },
+    "battle-standing": {
+      "isBattle": true,
+      "poseTypes": [
+        "stand"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('mythire_candore', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('mythire_candore', 'battle_idle')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "animations": [
+        "q.bedrock('mythire_candore', 'sleep')"
+      ]
+    }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('mythire_candore', 'cry')"
+  }
+}

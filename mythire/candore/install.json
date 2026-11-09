@@ -1,6 +1,12 @@
 {
   "files": {
     "0_candore_base.json": "assets/cobblemon/bedrock/species/mythire/0_candore_base.json",
-    "candore.png": "assets/cobblemon/textures/pokemon/mythire/candore.png"
+    "candore.png": "assets/cobblemon/textures/pokemon/mythire/candore.png",
+    "candore_alpha.png": "assets/cobblemon/textures/pokemon/mythire/candore/candore_alpha.png",
+    "candore_shiny.png": "assets/cobblemon/textures/pokemon/mythire/candore/candore_shiny.png",
+    "mythire_candore.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mythire_candore.animation.json",
+    "mythire_candore.geo.json": "assets/cobblemon/bedrock/pokemon/models/mythire_candore.geo.json",
+    "mythire_candore.json": "assets/cobblemon/bedrock/pokemon/posers/mythire_candore.json",
+    "texture__candore.png": "assets/cobblemon/textures/pokemon/mythire/candore/candore.png"
   }
 }
