@@ -1,0 +1,35 @@
+{
+  "game": "uranium",
+  "pokemon": "xenomite",
+  "entries": [
+    {
+      "contributor": {
+        "login": "N0file"
+      },
+      "contributors": [
+        {
+          "login": "N0file"
+        },
+        {
+          "login": "PiitchyB"
+        }
+      ],
+      "submittedAt": "2026-11-09T03:50:01.564Z",
+      "models": [
+        "uranium/xenomite/uranium_xenomite.geo.json"
+      ],
+      "animations": [
+        "uranium/xenomite/uranium_xenomite.animation.json"
+      ],
+      "textures": [
+        "uranium/xenomite/texture__xenomite.png",
+        "uranium/xenomite/xenomite_alpha.png",
+        "uranium/xenomite/xenomite_emissive.png",
+        "uranium/xenomite/xenomite_shiny.png",
+        "uranium/xenomite/xenomite_shiny_emissive.png",
+        "uranium/xenomite/xenomite.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

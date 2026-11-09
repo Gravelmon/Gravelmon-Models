@@ -1,63 +1,68 @@
 {
-  "portraitScale": 1.4,
+  "portraitScale": 1.62,
   "portraitTranslation": [
-    -0.3,
-    -0.5,
+    -0.31,
+    -0.88,
     0
   ],
-  "profileScale": 0.7,
+  "profileScale": 0.53,
   "profileTranslation": [
-    0,
-    0.7,
-    -8
+    0.06,
+    0.89,
+    0
   ],
+  "headBone": "head",
   "rootBone": "xenomite",
   "poses": {
+    "standing": {
+      "isBattle": false,
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('uranium_xenomite', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('uranium_xenomite', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "walk",
+        "swim"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('uranium_xenomite', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('uranium_xenomite', 'ground_walk')"
+      ]
+    },
     "battle-standing": {
       "isBattle": true,
       "poseTypes": [
         "stand"
       ],
       "quirks": [
-        "q.bedrock_quirk('xenomite', 'blink')"
+        "q.bedrock_quirk('uranium_xenomite', 'blink')"
       ],
       "animations": [
-        "q.bedrock('xenomite', 'battle_idle')"
+        "q.look('head')",
+        "q.bedrock('uranium_xenomite', 'battle_idle')"
       ]
     },
-    "sleeping": {
+    "sleep": {
       "poseTypes": [
         "sleep"
       ],
       "animations": [
-        "q.bedrock('xenomite', 'sleep')"
-      ]
-    },
-    "standing": {
-      "isBattle": false,
-      "poseTypes": [
-        "stand",
-        "profile",
-        "portrait",
-        "open",
-        "none"
-      ],
-      "quirks": [
-        "q.bedrock_quirk('xenomite', 'blink')"
-      ],
-      "animations": [
-        "q.bedrock('xenomite', 'ground_idle')"
-      ]
-    },
-    "walking": {
-      "poseTypes": [
-        "walk"
-      ],
-      "quirks": [
-        "q.bedrock_quirk('xenomite', 'blink')"
-      ],
-      "animations": [
-        "q.bedrock('xenomite', 'ground_walk')"
+        "q.bedrock('uranium_xenomite', 'sleep')"
       ]
     }
   }
