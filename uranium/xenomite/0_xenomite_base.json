@@ -4,12 +4,14 @@
   "variations": [
     {
       "aspects": [],
-      "model": "cobblemon:uranium_xenomite.geo",
       "poser": "cobblemon:uranium_xenomite",
+      "model": "cobblemon:uranium_xenomite.geo",
       "texture": "cobblemon:textures/pokemon/uranium/xenomite/xenomite.png",
       "layers": [
         {
-          "name": "emissive"
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/uranium/xenomite/xenomite_emissive.png",
+          "emissive": true
         },
         {
           "name": "transparentEmissive"
@@ -27,10 +29,7 @@
           "name": "flame"
         },
         {
-          "name": "glow",
-          "emissive": true,
-          "translucent": true,
-          "texture": "cobblemon:textures/pokemon/uranium/xenomite/xenomite_emissive.png"
+          "name": "glow"
         },
         {
           "texture": "cobblemon:textures/empty_texture.png"
@@ -41,36 +40,24 @@
       "aspects": [
         "shiny"
       ],
-      "model": "cobblemon:uranium_xenomite.geo",
-      "poser": "cobblemon:uranium_xenomite",
       "texture": "cobblemon:textures/pokemon/uranium/xenomite/xenomite_shiny.png",
       "layers": [
         {
-          "name": "emissive"
-        },
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/uranium/xenomite/xenomite_shiny_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "layers": [
         {
-          "name": "transparentEmissive"
-        },
-        {
-          "name": "tail"
-        },
-        {
-          "name": "transparent_emissive"
-        },
-        {
-          "name": "emissive2"
-        },
-        {
-          "name": "flame"
-        },
-        {
-          "name": "glow",
-          "emissive": true,
-          "translucent": true,
-          "texture": "cobblemon:textures/pokemon/uranium/xenomite/xenomite_shiny_emissive.png"
-        },
-        {
-          "texture": "cobblemon:textures/empty_texture.png"
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/uranium/xenomite/xenomite_alpha.png",
+          "emissive": true
         }
       ]
     }
