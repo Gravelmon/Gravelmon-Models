@@ -1,0 +1,95 @@
+{
+  "portraitScale": 1,
+  "portraitTranslation": [
+    0,
+    0,
+    0
+  ],
+  "profileScale": 1.05,
+  "profileTranslation": [
+    -0.01,
+    0.18,
+    0
+  ],
+  "rootBone": "plasduck",
+  "poses": {
+    "standing": {
+      "isTouchingWater": false,
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('nosto_plasduck', 'ground_idle')"
+      ]
+    },
+    "swim": {
+      "isTouchingWater": true,
+      "isUnderWater": true,
+      "poseTypes": [
+        "swim"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('nosto_plasduck', 'water_swim')"
+      ]
+    },
+    "float": {
+      "isTouchingWater": true,
+      "isUnderWater": true,
+      "poseTypes": [
+        "float"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('nosto_plasduck', 'water_idle')"
+      ]
+    },
+    "surface-float": {
+      "isTouchingWater": true,
+      "isUnderWater": false,
+      "poseTypes": [
+        "stand",
+        "float"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('nosto_plasduck', 'surface_idle')"
+      ]
+    },
+    "surface-swim": {
+      "isTouchingWater": true,
+      "isUnderWater": false,
+      "poseTypes": [
+        "walk",
+        "swim"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('nosto_plasduck', 'surface_swim')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "animations": [
+        "q.bedrock('nosto_plasduck', 'sleep')"
+      ]
+    },
+    "pose": {
+      "poseTypes": [
+        "walk"
+      ],
+      "namedAnimations": {
+        "": "q.bedrock_stateful('', '')"
+      },
+      "animations": [
+        "q.bedrock('nosto_plasduck', 'ground_walk')"
+      ]
+    }
+  }
+}
