@@ -1,0 +1,32 @@
+{
+  "game": "uranium",
+  "pokemon": "lunapup",
+  "entries": [
+    {
+      "contributor": {
+        "login": "satanbacons"
+      },
+      "contributors": [
+        {
+          "login": "satanbacons"
+        }
+      ],
+      "submittedAt": "2026-11-12T06:23:05.852Z",
+      "models": [
+        "uranium/lunapup/uranium_lunapup.geo.json"
+      ],
+      "animations": [
+        "uranium/lunapup/uranium_lunapup.animation.json"
+      ],
+      "textures": [
+        "uranium/lunapup/texture__lunapup.png",
+        "uranium/lunapup/lunapup_alpha.png",
+        "uranium/lunapup/lunapup_shiny.png",
+        "uranium/lunapup/lunapup.png"
+      ],
+      "sounds": [
+        "uranium/lunapup/lunapup_cry.ogg"
+      ]
+    }
+  ]
+}
