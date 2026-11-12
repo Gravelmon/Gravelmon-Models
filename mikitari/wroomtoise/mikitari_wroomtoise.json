@@ -1,0 +1,40 @@
+{
+  "portraitScale": 1.6,
+  "portraitTranslation": [
+    -0.3,
+    -0.6,
+    0
+  ],
+  "profileScale": 0.85,
+  "profileTranslation": [
+    0,
+    0.4,
+    0
+  ],
+  "rootBone": "wroomtoise",
+  "poses": {
+    "standing": {
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "float"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('mikitari_wroomtoise', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "walk",
+        "swim"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('mikitari_wroomtoise', 'ground_walk')"
+      ]
+    }
+  }
+}
