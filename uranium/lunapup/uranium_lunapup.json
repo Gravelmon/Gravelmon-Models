@@ -1,0 +1,61 @@
+{
+  "portraitScale": 1.33,
+  "portraitTranslation": [
+    -0.2,
+    0.3,
+    0
+  ],
+  "profileScale": 0.82,
+  "profileTranslation": [
+    -0.04,
+    0.48,
+    0
+  ],
+  "rootBone": "lunapup",
+  "poses": {
+    "standing": {
+      "isBattle": false,
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('uranium_lunapup', 'blink')",
+        "q.bedrock_quirk('uranium_lunapup', 'quirk')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('uranium_lunapup', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "walk",
+        "swim"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('uranium_lunapup', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('uranium_lunapup', 'ground_walk')"
+      ]
+    },
+    "battle-standing": {
+      "isBattle": true,
+      "poseTypes": [
+        "stand"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('uranium_lunapup', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('uranium_lunapup', 'battle_idle')"
+      ]
+    }
+  }
+}

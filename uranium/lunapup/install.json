@@ -1,5 +1,13 @@
 {
   "files": {
-    "lunapup.png": "assets/cobblemon/textures/pokemon/uranium/lunapup.png"
+    "0_lunapup_base.json": "assets/cobblemon/bedrock/species/uranium/0_lunapup_base.json",
+    "lunapup.png": "assets/cobblemon/textures/pokemon/uranium/lunapup.png",
+    "lunapup_alpha.png": "assets/cobblemon/textures/pokemon/uranium/lunapup/lunapup_alpha.png",
+    "lunapup_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/lunapup_cry.ogg",
+    "lunapup_shiny.png": "assets/cobblemon/textures/pokemon/uranium/lunapup/lunapup_shiny.png",
+    "texture__lunapup.png": "assets/cobblemon/textures/pokemon/uranium/lunapup/lunapup.png",
+    "uranium_lunapup.animation.json": "assets/cobblemon/bedrock/pokemon/animations/uranium_lunapup.animation.json",
+    "uranium_lunapup.geo.json": "assets/cobblemon/bedrock/pokemon/models/uranium_lunapup.geo.json",
+    "uranium_lunapup.json": "assets/cobblemon/bedrock/pokemon/posers/uranium_lunapup.json"
   }
 }
