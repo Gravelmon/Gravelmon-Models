@@ -1,0 +1,30 @@
+{
+  "game": "mikitari",
+  "pokemon": "wroomtoise",
+  "entries": [
+    {
+      "contributor": {
+        "login": "lapislizuli"
+      },
+      "contributors": [
+        {
+          "login": "lapislizuli"
+        }
+      ],
+      "submittedAt": "2026-11-12T23:53:25.112Z",
+      "models": [
+        "mikitari/wroomtoise/mikitari_wroomtoise.geo.json"
+      ],
+      "animations": [
+        "mikitari/wroomtoise/mikitari_wroomtoise.animation.json"
+      ],
+      "textures": [
+        "mikitari/wroomtoise/texture__wroomtoise.png",
+        "mikitari/wroomtoise/wroomtoise_alpha.png",
+        "mikitari/wroomtoise/wroomtoise_shiny.png",
+        "mikitari/wroomtoise/wroomtoise.png"
+      ],
+      "sounds": []
+    }
+  ]
+}

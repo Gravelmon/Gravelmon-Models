@@ -1,6 +1,12 @@
 {
   "files": {
     "0_wroomtoise_base.json": "assets/cobblemon/bedrock/species/mikitari/0_wroomtoise_base.json",
-    "wroomtoise.png": "assets/cobblemon/textures/pokemon/mikitari/wroomtoise.png"
+    "mikitari_wroomtoise.animation.json": "assets/cobblemon/bedrock/pokemon/animations/mikitari_wroomtoise.animation.json",
+    "mikitari_wroomtoise.geo.json": "assets/cobblemon/bedrock/pokemon/models/mikitari_wroomtoise.geo.json",
+    "mikitari_wroomtoise.json": "assets/cobblemon/bedrock/pokemon/posers/mikitari_wroomtoise.json",
+    "texture__wroomtoise.png": "assets/cobblemon/textures/pokemon/mikitari/wroomtoise/wroomtoise.png",
+    "wroomtoise.png": "assets/cobblemon/textures/pokemon/mikitari/wroomtoise.png",
+    "wroomtoise_alpha.png": "assets/cobblemon/textures/pokemon/mikitari/wroomtoise/wroomtoise_alpha.png",
+    "wroomtoise_shiny.png": "assets/cobblemon/textures/pokemon/mikitari/wroomtoise/wroomtoise_shiny.png"
   }
 }
