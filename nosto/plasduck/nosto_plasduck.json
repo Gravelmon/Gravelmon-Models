@@ -80,7 +80,7 @@
         "q.bedrock('nosto_plasduck', 'sleep')"
       ]
     },
-    "ground-walk": {
+    "Ground Walk": {
       "poseTypes": [
         "walk"
       ],
