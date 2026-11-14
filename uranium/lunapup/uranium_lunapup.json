@@ -1,14 +1,14 @@
 {
-  "portraitScale": 1.33,
+  "portraitScale": 1.28,
   "portraitTranslation": [
-    -0.2,
-    0.3,
+    -0.29,
+    0.25,
     0
   ],
-  "profileScale": 0.82,
+  "profileScale": 0.81,
   "profileTranslation": [
-    -0.04,
-    0.48,
+    -0.06,
+    0.54,
     0
   ],
   "rootBone": "lunapup",
