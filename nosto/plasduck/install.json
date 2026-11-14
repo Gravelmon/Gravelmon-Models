@@ -1,6 +1,12 @@
 {
   "files": {
     "0_plasduck_base.json": "assets/cobblemon/bedrock/species/nosto/0_plasduck_base.json",
-    "plasduck.png": "assets/cobblemon/textures/pokemon/nosto/plasduck.png"
+    "nosto_plasduck.animation.json": "assets/cobblemon/bedrock/pokemon/animations/nosto_plasduck.animation.json",
+    "nosto_plasduck.geo.json": "assets/cobblemon/bedrock/pokemon/models/nosto_plasduck.geo.json",
+    "nosto_plasduck.json": "assets/cobblemon/bedrock/pokemon/posers/nosto_plasduck.json",
+    "plasduck.png": "assets/cobblemon/textures/pokemon/nosto/plasduck.png",
+    "plasduck_alpha.png": "assets/cobblemon/textures/pokemon/nosto/plasduck/plasduck_alpha.png",
+    "plasduck_shiny.png": "assets/cobblemon/textures/pokemon/nosto/plasduck/plasduck_shiny.png",
+    "texture__plasduck.png": "assets/cobblemon/textures/pokemon/nosto/plasduck/plasduck.png"
   }
 }

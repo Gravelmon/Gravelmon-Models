@@ -1,0 +1,31 @@
+{
+  "game": "nosto",
+  "pokemon": "plasduck",
+  "entries": [
+    {
+      "contributor": {
+        "login": "zaiwolfgang"
+      },
+      "contributors": [
+        {
+          "login": "zaiwolfgang"
+        }
+      ],
+      "pullRequestNumber": 100078,
+      "submittedAt": "2026-11-14T13:10:56.065Z",
+      "models": [
+        "nosto/plasduck/nosto_plasduck.geo.json"
+      ],
+      "animations": [
+        "nosto/plasduck/nosto_plasduck.animation.json"
+      ],
+      "textures": [
+        "nosto/plasduck/texture__plasduck.png",
+        "nosto/plasduck/plasduck_alpha.png",
+        "nosto/plasduck/plasduck_shiny.png",
+        "nosto/plasduck/plasduck.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
