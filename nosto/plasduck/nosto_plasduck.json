@@ -5,10 +5,10 @@
     0,
     0
   ],
-  "profileScale": 1.05,
+  "profileScale": 1,
   "profileTranslation": [
-    -0.01,
-    0.18,
+    0,
+    0,
     0
   ],
   "rootBone": "plasduck",
@@ -80,13 +80,10 @@
         "q.bedrock('nosto_plasduck', 'sleep')"
       ]
     },
-    "pose": {
+    "ground-walk": {
       "poseTypes": [
         "walk"
       ],
-      "namedAnimations": {
-        "": "q.bedrock_stateful('', '')"
-      },
       "animations": [
         "q.bedrock('nosto_plasduck', 'ground_walk')"
       ]
