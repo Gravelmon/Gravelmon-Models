@@ -1,0 +1,87 @@
+{
+  "portraitScale": 1.54,
+  "portraitTranslation": [
+    -0.06,
+    -0.43,
+    0
+  ],
+  "profileScale": 1,
+  "profileTranslation": [
+    -0.01,
+    0.25,
+    0
+  ],
+  "rootBone": "owten",
+  "poses": {
+    "standing": {
+      "isBattle": false,
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('uranium_owten', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('uranium_owten', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "walk"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('uranium_owten', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('uranium_owten', 'ground_walk')"
+      ]
+    },
+    "fly": {
+      "poseTypes": [
+        "swim",
+        "fly"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('uranium_owten', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('uranium_owten', 'air_fly')"
+      ]
+    },
+    "hover": {
+      "poseTypes": [
+        "float",
+        "hover"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('uranium_owten', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('uranium_owten', 'air_idle')"
+      ]
+    },
+    "battle-standing": {
+      "isBattle": true,
+      "poseTypes": [
+        "stand"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('uranium_owten', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('uranium_owten', 'battle_idle')"
+      ]
+    }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('uranium_owten', 'cry')"
+  }
+}

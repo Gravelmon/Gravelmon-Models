@@ -2,6 +2,12 @@
   "files": {
     "0_owten_base.json": "assets/cobblemon/bedrock/species/uranium/0_owten_base.json",
     "owten.png": "assets/cobblemon/textures/pokemon/uranium/owten.png",
-    "owten_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/owten_cry.ogg"
+    "owten_alpha.png": "assets/cobblemon/textures/pokemon/uranium/owten/owten_alpha.png",
+    "owten_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/owten_cry.ogg",
+    "owten_shiny.png": "assets/cobblemon/textures/pokemon/uranium/owten/owten_shiny.png",
+    "texture__owten.png": "assets/cobblemon/textures/pokemon/uranium/owten/owten.png",
+    "uranium_owten.animation.json": "assets/cobblemon/bedrock/pokemon/animations/uranium_owten.animation.json",
+    "uranium_owten.geo.json": "assets/cobblemon/bedrock/pokemon/models/uranium_owten.geo.json",
+    "uranium_owten.json": "assets/cobblemon/bedrock/pokemon/posers/uranium_owten.json"
   }
 }
