@@ -1,0 +1,32 @@
+{
+  "game": "uranium",
+  "pokemon": "owten",
+  "entries": [
+    {
+      "contributor": {
+        "login": "satanbacons"
+      },
+      "contributors": [
+        {
+          "login": "satanbacons"
+        }
+      ],
+      "submittedAt": "2026-11-15T09:40:00.813Z",
+      "models": [
+        "uranium/owten/uranium_owten.geo.json"
+      ],
+      "animations": [
+        "uranium/owten/uranium_owten.animation.json"
+      ],
+      "textures": [
+        "uranium/owten/texture__owten.png",
+        "uranium/owten/owten_alpha.png",
+        "uranium/owten/owten_shiny.png",
+        "uranium/owten/owten.png"
+      ],
+      "sounds": [
+        "uranium/owten/owten_cry.ogg"
+      ]
+    }
+  ]
+}
