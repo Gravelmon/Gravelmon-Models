@@ -1,6 +1,14 @@
 {
   "files": {
     "164_hoothoot_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_hoothoot_epoch.json",
-    "epochhoothoot.png": "assets/cobblemon/textures/pokemon/soulstones/epochhoothoot.png"
+    "epochhoothoot.png": "assets/cobblemon/textures/pokemon/soulstones/epochhoothoot.png",
+    "epochhoothoot_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochhoothoot/epochhoothoot_alpha.png",
+    "epochhoothoot_emissive.png": "assets/cobblemon/textures/pokemon/soulstones/epochhoothoot/epochhoothoot_emissive.png",
+    "epochhoothoot_emissive_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochhoothoot/epochhoothoot_emissive_shiny.png",
+    "epochhoothoot_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochhoothoot/epochhoothoot_shiny.png",
+    "soulstones_epochhoothoot.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochhoothoot.animation.json",
+    "soulstones_epochhoothoot.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochhoothoot.geo.json",
+    "soulstones_epochhoothoot.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochhoothoot.json",
+    "texture__epochhoothoot.png": "assets/cobblemon/textures/pokemon/soulstones/epochhoothoot/epochhoothoot.png"
   }
 }

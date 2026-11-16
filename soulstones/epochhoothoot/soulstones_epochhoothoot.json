@@ -1,0 +1,116 @@
+{
+  "portraitScale": 1.7,
+  "portraitTranslation": [
+    -0.15,
+    -0.5,
+    0
+  ],
+  "profileScale": 0.82,
+  "profileTranslation": [
+    0,
+    0.53,
+    0
+  ],
+  "rootBone": "hoothoot",
+  "poses": {
+    "pose": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochhoothoot', 'sleep')"
+      ]
+    },
+    "stand": {
+      "isBattle": false,
+      "condition": "{ !it.isBattling }",
+      "poseTypes": [
+        "profile",
+        "portrait"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochhoothoot', 'blink')",
+        "q.bedrock_quirk('soulstones_epochhoothoot', 'quirk_foot')"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochhoothoot', 'ground_idle')"
+      ],
+      "transformTicks": 10
+    },
+    "hover": {
+      "poseTypes": [],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochhoothoot', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochhoothoot', 'air_idle')"
+      ]
+    },
+    "fly": {
+      "poseTypes": [
+        "swim",
+        "fly"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochhoothoot', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochhoothoot', 'air_fly')"
+      ]
+    },
+    "walk": {
+      "poseTypes": [],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochhoothoot', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochhoothoot', 'ground_walk')"
+      ],
+      "transformTicks": 5
+    },
+    "battle_idle": {
+      "isBattle": true,
+      "condition": "{ it.isBattling }",
+      "poseTypes": [
+        "stand",
+        "float",
+        "hover"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochhoothoot', 'blink')",
+        "q.bedrock_quirk('soulstones_epochhoothoot', 'quirk_foot')"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochhoothoot', 'battle_idle')"
+      ],
+      "transformTicks": 10
+    },
+    "standing": {
+      "isBattle": false,
+      "poseTypes": [
+        "none"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochhoothoot', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochhoothoot', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "condition": "!q.is_sprinting",
+      "poseTypes": [
+        "walk"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('soulstones_epochhoothoot', 'blink')"
+      ],
+      "animations": [
+        "q.bedrock('soulstones_epochhoothoot', 'ground_walk')"
+      ]
+    }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('soulstones_epochhoothoot', 'cry')"
+  }
+}
