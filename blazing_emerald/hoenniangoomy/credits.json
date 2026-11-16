@@ -1,0 +1,37 @@
+{
+  "game": "pokemon",
+  "pokemon": "goomy",
+  "entries": [
+    {
+      "formAspects": [
+        "hoennian"
+      ],
+      "inheritsFrom": {
+        "pokemon": "goomy",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "PiitchyB"
+      },
+      "contributors": [
+        {
+          "login": "PiitchyB"
+        }
+      ],
+      "submittedAt": "2026-11-16T01:24:58.853Z",
+      "models": [
+        "blazing_emerald/hoenniangoomy/blazing_emerald_hoenniangoomy.geo.json"
+      ],
+      "animations": [
+        "blazing_emerald/hoenniangoomy/blazing_emerald_hoenniangoomy.animation.json"
+      ],
+      "textures": [
+        "blazing_emerald/hoenniangoomy/goomy_hoennian.png",
+        "blazing_emerald/hoenniangoomy/goomy_hoennian_alpha.png",
+        "blazing_emerald/hoenniangoomy/goomy_hoennian_shiny.png",
+        "blazing_emerald/hoenniangoomy/hoenniangoomy.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
