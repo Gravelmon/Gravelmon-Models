@@ -1,17 +1,19 @@
 {
   "species": "cobblemon:noctowl",
-  "order": 173,
+  "order": 164,
   "variations": [
     {
       "aspects": [
         "epoch"
       ],
-      "model": "cobblemon:cutout_gravelmon_46_by_70.geo",
-      "poser": "cobblemon:cutout_gravelmon_46_by_70",
-      "texture": "cobblemon:textures/pokemon/soulstones/epochnoctowl.png",
+      "poser": "cobblemon:soulstones_epochnoctowl",
+      "model": "cobblemon:soulstones_epochnoctowl.geo",
+      "texture": "cobblemon:textures/pokemon/soulstones/epochnoctowl/epochnoctowl.png",
       "layers": [
         {
-          "name": "emissive"
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/soulstones/epochnoctowl/epochnoctowl_emissive.png",
+          "emissive": true
         },
         {
           "name": "transparentEmissive"
@@ -33,6 +35,33 @@
         },
         {
           "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "epoch"
+      ],
+      "texture": "cobblemon:textures/pokemon/soulstones/epochnoctowl/epochnoctowl_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/soulstones/epochnoctowl/epochnoctowl_shiny_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "epoch"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/soulstones/epochnoctowl/epochnoctowl_alpha.png",
+          "emissive": true
         }
       ]
     }

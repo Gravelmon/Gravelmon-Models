@@ -1,0 +1,39 @@
+{
+  "game": "pokemon",
+  "pokemon": "noctowl",
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "noctowl",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "lapislizuli"
+      },
+      "contributors": [
+        {
+          "login": "lapislizuli"
+        }
+      ],
+      "submittedAt": "2026-11-16T04:06:53.546Z",
+      "models": [
+        "soulstones/epochnoctowl/soulstones_epochnoctowl.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochnoctowl/soulstones_epochnoctowl.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochnoctowl/texture__epochnoctowl.png",
+        "soulstones/epochnoctowl/epochnoctowl_alpha.png",
+        "soulstones/epochnoctowl/epochnoctowl_emissive.png",
+        "soulstones/epochnoctowl/epochnoctowl_shiny.png",
+        "soulstones/epochnoctowl/epochnoctowl_shiny_emissive.png",
+        "soulstones/epochnoctowl/epochnoctowl.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
