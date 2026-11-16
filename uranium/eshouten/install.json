@@ -2,6 +2,12 @@
   "files": {
     "0_eshouten_base.json": "assets/cobblemon/bedrock/species/uranium/0_eshouten_base.json",
     "eshouten.png": "assets/cobblemon/textures/pokemon/uranium/eshouten.png",
-    "eshouten_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/eshouten_cry.ogg"
+    "eshouten_alpha.png": "assets/cobblemon/textures/pokemon/uranium/eshouten/eshouten_alpha.png",
+    "eshouten_cry.ogg": "assets/gravelmon/sounds/pokemon/uranium/eshouten_cry.ogg",
+    "eshouten_shiny.png": "assets/cobblemon/textures/pokemon/uranium/eshouten/eshouten_shiny.png",
+    "texture__eshouten.png": "assets/cobblemon/textures/pokemon/uranium/eshouten/eshouten.png",
+    "uranium_eshouten.animation.json": "assets/cobblemon/bedrock/pokemon/animations/uranium_eshouten.animation.json",
+    "uranium_eshouten.geo.json": "assets/cobblemon/bedrock/pokemon/models/uranium_eshouten.geo.json",
+    "uranium_eshouten.json": "assets/cobblemon/bedrock/pokemon/posers/uranium_eshouten.json"
   }
 }
