@@ -1,6 +1,14 @@
 {
   "files": {
     "164_noctowl_epoch.json": "assets/cobblemon/bedrock/species/additional_forms/164_noctowl_epoch.json",
-    "epochnoctowl.png": "assets/cobblemon/textures/pokemon/soulstones/epochnoctowl.png"
+    "epochnoctowl.png": "assets/cobblemon/textures/pokemon/soulstones/epochnoctowl.png",
+    "epochnoctowl_alpha.png": "assets/cobblemon/textures/pokemon/soulstones/epochnoctowl/epochnoctowl_alpha.png",
+    "epochnoctowl_emissive.png": "assets/cobblemon/textures/pokemon/soulstones/epochnoctowl/epochnoctowl_emissive.png",
+    "epochnoctowl_shiny.png": "assets/cobblemon/textures/pokemon/soulstones/epochnoctowl/epochnoctowl_shiny.png",
+    "epochnoctowl_shiny_emissive.png": "assets/cobblemon/textures/pokemon/soulstones/epochnoctowl/epochnoctowl_shiny_emissive.png",
+    "soulstones_epochnoctowl.animation.json": "assets/cobblemon/bedrock/pokemon/animations/soulstones_epochnoctowl.animation.json",
+    "soulstones_epochnoctowl.geo.json": "assets/cobblemon/bedrock/pokemon/models/soulstones_epochnoctowl.geo.json",
+    "soulstones_epochnoctowl.json": "assets/cobblemon/bedrock/pokemon/posers/soulstones_epochnoctowl.json",
+    "texture__epochnoctowl.png": "assets/cobblemon/textures/pokemon/soulstones/epochnoctowl/epochnoctowl.png"
   }
 }
