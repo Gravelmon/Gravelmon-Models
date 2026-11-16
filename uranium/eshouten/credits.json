@@ -1,0 +1,32 @@
+{
+  "game": "uranium",
+  "pokemon": "eshouten",
+  "entries": [
+    {
+      "contributor": {
+        "login": "satanbacons"
+      },
+      "contributors": [
+        {
+          "login": "satanbacons"
+        }
+      ],
+      "submittedAt": "2026-11-16T03:50:05.606Z",
+      "models": [
+        "uranium/eshouten/uranium_eshouten.geo.json"
+      ],
+      "animations": [
+        "uranium/eshouten/uranium_eshouten.animation.json"
+      ],
+      "textures": [
+        "uranium/eshouten/texture__eshouten.png",
+        "uranium/eshouten/eshouten_alpha.png",
+        "uranium/eshouten/eshouten_shiny.png",
+        "uranium/eshouten/eshouten.png"
+      ],
+      "sounds": [
+        "uranium/eshouten/eshouten_cry.ogg"
+      ]
+    }
+  ]
+}
