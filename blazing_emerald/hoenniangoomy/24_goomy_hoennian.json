@@ -1,14 +1,14 @@
 {
   "species": "cobblemon:goomy",
-  "order": 33,
+  "order": 24,
   "variations": [
     {
       "aspects": [
         "hoennian"
       ],
-      "model": "cobblemon:cutout_gravelmon_36_by_33.geo",
-      "poser": "cobblemon:cutout_gravelmon_36_by_33",
-      "texture": "cobblemon:textures/pokemon/blazing_emerald/hoenniangoomy.png",
+      "poser": "cobblemon:blazing_emerald_hoenniangoomy",
+      "model": "cobblemon:blazing_emerald_hoenniangoomy.geo",
+      "texture": "cobblemon:textures/pokemon/blazing_emerald/hoenniangoomy/goomy_hoennian.png",
       "layers": [
         {
           "name": "emissive"
@@ -33,6 +33,26 @@
         },
         {
           "texture": "cobblemon:textures/empty_texture.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "hoennian"
+      ],
+      "texture": "cobblemon:textures/pokemon/blazing_emerald/hoenniangoomy/goomy_hoennian_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "hoennian"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/blazing_emerald/hoenniangoomy/goomy_hoennian_alpha.png",
+          "emissive": true
         }
       ]
     }
