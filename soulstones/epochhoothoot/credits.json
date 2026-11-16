@@ -1,0 +1,39 @@
+{
+  "game": "pokemon",
+  "pokemon": "hoothoot",
+  "entries": [
+    {
+      "formAspects": [
+        "epoch"
+      ],
+      "inheritsFrom": {
+        "pokemon": "hoothoot",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "lapislizuli"
+      },
+      "contributors": [
+        {
+          "login": "lapislizuli"
+        }
+      ],
+      "submittedAt": "2026-11-16T04:01:03.325Z",
+      "models": [
+        "soulstones/epochhoothoot/soulstones_epochhoothoot.geo.json"
+      ],
+      "animations": [
+        "soulstones/epochhoothoot/soulstones_epochhoothoot.animation.json"
+      ],
+      "textures": [
+        "soulstones/epochhoothoot/texture__epochhoothoot.png",
+        "soulstones/epochhoothoot/epochhoothoot_alpha.png",
+        "soulstones/epochhoothoot/epochhoothoot_emissive.png",
+        "soulstones/epochhoothoot/epochhoothoot_emissive_shiny.png",
+        "soulstones/epochhoothoot/epochhoothoot_shiny.png",
+        "soulstones/epochhoothoot/epochhoothoot.png"
+      ],
+      "sounds": []
+    }
+  ]
+}
