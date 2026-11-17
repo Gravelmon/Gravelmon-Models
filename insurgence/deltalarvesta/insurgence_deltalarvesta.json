@@ -1,24 +1,65 @@
 {
-  "portraitScale": 1.600000023841858,
+  "portraitScale": 1.4,
   "portraitTranslation": [
-    0.0,
-    0.2,
-    0.0
+    -0.2,
+    -0.4,
+    0
   ],
-  "profileScale": 0.800000011920929,
+  "profileScale": 0.8,
   "profileTranslation": [
-    0.0,
-    0.6,
-    0.0
+    -0.1,
+    0.5,
+    0
   ],
+  "headBone": "neck",
+  "rootBone": "larvesta",
   "poses": {
     "standing": {
-      "poseName": "standing",
-      "animations": [],
-      "allPoseTypes": true,
-
-      "namedAnimations": {},
-      "transformedParts": []
+      "poseTypes": [
+        "stand",
+        "none",
+        "portrait",
+        "profile",
+        "float"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('insurgence_deltalarvesta', 'blink')"
+      ],
+      "namedAnimations": {
+        "physical": "q.bedrock_primary('insurgence_deltalarvesta', 'physical', q.curve('symmetrical_wide'))",
+        "special": "q.bedrock_primary('insurgence_deltalarvesta', 'special', q.curve('symmetrical_wide'))",
+        "status": "q.bedrock_primary('insurgence_deltalarvesta', 'status', q.curve('symmetrical_wide'))"
+      },
+      "animations": [
+        "q.bedrock('insurgence_deltalarvesta', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "condition": "!q.is_sprinting",
+      "poseTypes": [
+        "walk",
+        "swim"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('insurgence_deltalarvesta', 'blink')"
+      ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('insurgence_deltalarvesta', 'ground_walk')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "sleep"
+      ],
+      "animations": [
+        "q.bedrock('insurgence_deltalarvesta', 'sleep')"
+      ]
     }
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('insurgence_deltalarvesta', 'cry')",
+    "recoil": "q.bedrock_stateful('insurgence_deltalarvesta', 'recoil')",
+    "faint": "q.bedrock_primary('insurgence_deltalarvesta', 'faint', q.curve('one'))"
   }
 }
