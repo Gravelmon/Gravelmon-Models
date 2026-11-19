@@ -1,0 +1,39 @@
+{
+  "game": "pokemon",
+  "pokemon": "larvesta",
+  "entries": [
+    {
+      "formAspects": [
+        "delta"
+      ],
+      "inheritsFrom": {
+        "pokemon": "larvesta",
+        "game": "pokemon"
+      },
+      "contributor": {
+        "login": "NightPixL"
+      },
+      "contributors": [
+        {
+          "login": "NightPixL"
+        }
+      ],
+      "submittedAt": "2026-11-17T00:31:23.465Z",
+      "models": [
+        "insurgence/deltalarvesta/insurgence_deltalarvesta.geo.json"
+      ],
+      "animations": [
+        "insurgence/deltalarvesta/insurgence_deltalarvesta.animation.json"
+      ],
+      "textures": [
+        "insurgence/deltalarvesta/texture__deltalarvesta.png",
+        "insurgence/deltalarvesta/deltalarvesta_alpha.png",
+        "insurgence/deltalarvesta/deltalarvesta_shiny.png",
+        "insurgence/deltalarvesta/deltalarvesta.png"
+      ],
+      "sounds": [
+        "insurgence/deltalarvesta/deltalarvesta_cry.ogg"
+      ]
+    }
+  ]
+}
